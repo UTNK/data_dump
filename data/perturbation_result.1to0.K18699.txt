@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18699	K06143	creD; inner membrane protein	0.3725702086280323	0.3349709992739916
+K18699	K06132	clsC; cardiolipin synthase C [EC:2.7.8.-]	0.3725702086280323	0.3359374529701089
+K18699	K07150	K07150; uncharacterized protein	0.3725702086280323	0.3359666092523165
+K18699	K00675	nhoA; N-hydroxyarylamine O-acetyltransferase [EC:2.3.1.118]	0.3725702086280323	0.3367820662488521
+K18699	K02429	fucP; MFS transporter, FHS family, L-fucose permease	0.3725702086280323	0.3402257479265737
+K18699	K19776	dgoR; GntR family transcriptional regulator, galactonate operon transcriptional repressor	0.3725702086280323	0.3414611255802644
+K18699	K03478	chbG; chitin disaccharide deacetylase [EC:3.5.1.105]	0.3725702086280323	0.3463101119738749
+K18699	phyllosphere		0.3725702086280323	0.3467922131886263
+K18699	K11941	mdoC; glucans biosynthesis protein C [EC:2.1.-.-]	0.3725702086280323	0.3469277221061638
+K18699	K02099	araC; AraC family transcriptional regulator, arabinose operon regulatory protein	0.3725702086280323	0.3477248996428929
+K18699	K08225	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter	0.3725702086280323	0.3500033011031984
+K18699	K07224	efeO; iron uptake system component EfeO	0.3725702086280323	0.3505942495170007
+K18699	mobileOG_000365548	mug	0.3725702086280323	0.3523874809980535
+K18699	K01631	dgoA; 2-dehydro-3-deoxyphosphogalactonate aldolase [EC:4.1.2.21]	0.3725702086280323	0.3524872299324577
+K18699	K22041	comR; TetR/AcrR family transcriptional regulator, copper-responsive repressor	0.3725702086280323	0.3527944465552066
+K18699	K07322	ytfE, scdA; regulator of cell morphogenesis and NO signaling	0.3725702086280323	0.3547888107863013
+K18699	K24217		0.3725702086280323	0.3553638942933934
+K18699	K00697	otsA; trehalose 6-phosphate synthase [EC:2.4.1.15 2.4.1.347]	0.3725702086280323	0.3555666953615413
+K18699	K10679	nfnB, nfsB; nitroreductase / dihydropteridine reductase [EC:1.-.-.- 1.5.1.34]	0.3725702086280323	0.3555850893779688
+K18699	mobileOG_000115691	sigH	0.3725702086280323	0.3562677912052531
+K18699	K05601	hcp; hydroxylamine reductase [EC:1.7.99.1]	0.3725702086280323	0.3564677148304356
+K18699	K04656	hypF; hydrogenase maturation protein HypF	0.3725702086280323	0.3565647687042123
+K18699	K04652	hypB; hydrogenase nickel incorporation protein HypB	0.3725702086280323	0.3566767165895146
+K18699	K00883	dgoK; 2-dehydro-3-deoxygalactonokinase [EC:2.7.1.58]	0.3725702086280323	0.3570633590785321
+K18699	K03830	yafP; putative acetyltransferase [EC:2.3.1.-]	0.3725702086280323	0.4129539529285961

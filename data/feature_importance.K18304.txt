@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18304	mobileOG_000000370	0.0087938605623469	dnaE2
+K18304	mobileOG_000034793	0.008389048078482	diaA
+K18304	K02420	0.0083023909806697	fliQ; flagellar biosynthetic protein FliQ
+K18304	K01512	0.0081289659289055	acyP; acylphosphatase [EC:3.6.1.7]
+K18304	K03767	0.008072063401621	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18304	K00865	0.0079053587258722	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18304	K00029	0.0078741390245741	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+K18304	K03412	0.0078139149112986	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K18304	K06975	0.0078064753059793	K06975; uncharacterized protein
+K18304	K14393	0.0078021057491634	actP; cation/acetate symporter
+K18304	K02011	0.0076509373810245	afuB, fbpB; iron(III) transport system permease protein
+K18304	K01480	0.007650674539776	speB; agmatinase [EC:3.5.3.11]
+K18304	K10439	0.0075536277050335	rbsB; ribose transport system substrate-binding protein
+K18304	K02457	0.0075305951163455	gspH; general secretion pathway protein H
+K18304	K00324	0.0075107396801856	pntA; H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1]
+K18304	K02851	0.0074307958180154	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K18304	K01912	0.0074287559902216	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18304	K01975	0.0074108887057626	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K18304	K00652	0.0073788571272268	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18304	activated_sludge	0.0073639593466789	
+K18304	K07010	0.0073447963053548	K07010; putative glutamine amidotransferase
+K18304	K01760	0.0073382924040896	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18304	K06872	0.0072299133290021	K06872; uncharacterized protein
+K18304	mobileOG_000031464	0.0072235839106075	mutT
+K18304	K06996	0.0071342766924243	K06996; uncharacterized protein
+K18304	K16137	0.0070963796506658	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K18304	K03981	0.0070782379398703	dsbC; thiol:disulfide interchange protein DsbC [EC:5.3.4.1]
+K18304	K07160	0.0070734403671897	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18304	mobileOG_000367792	0.0069896433211232	cca
+K18304	K07124	0.0069475854787947	K07124; uncharacterized protein
+K18304	K02494	0.0069370385774119	lolB; outer membrane lipoprotein LolB
+K18304	K03646	0.0069318297445464	tolA; colicin import membrane protein
+K18304	K03773	0.0069049267771567	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K18304	K00375	0.0068995043683759	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18304	mobileOG_000064889	0.0068951040009691	cdiB
+K18304	K07646	0.006884362347697	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18304	K13482	0.006871674990042	xdhB; xanthine dehydrogenase large subunit [EC:1.17.1.4]
+K18304	K18900	0.0068552623704232	bpeT; LysR family transcriptional regulator, regulator for bpeEF and oprC
+K18304	K08305	0.0068276551591387	mltB; membrane-bound lytic murein transglycosylase B [EC:4.2.2.-]
+K18304	K15724	0.0068074928821251	erpA; iron-sulfur cluster insertion protein
+K18304	mobileOG_000189051	0.0068055897171359	recO
+K18304	K16074	0.006795999534399	zntB; zinc transporter
+K18304	K15578	0.0067697799532586	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K18304	K06956	0.0067620071039053	K06956; uncharacterized protein
+K18304	K02415	0.0067483216385266	fliL; flagellar FliL protein
+K18304	K03673	0.006745471544421	dsbA; protein dithiol oxidoreductase (disulfide-forming) [EC:1.8.4.15]
+K18304	K11959	0.0067297653239706	urtA; urea transport system substrate-binding protein
+K18304	K06186	0.0067225445898778	bamE, smpA; outer membrane protein assembly factor BamE
+K18304	K13015	0.0067115870686904	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K18304	K00325	0.0067083725139841	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]

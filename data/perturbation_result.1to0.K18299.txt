@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18299	K06193	phnA; protein PhnA	0.1339135484144593	0.1192098661963386
+K18299	K04065	osmY; hyperosmotically inducible periplasmic protein	0.1339135484144593	0.1216555297769556
+K18299	K07126	K07126; uncharacterized protein	0.1339135484144593	0.1225817620089811
+K18299	K01759	GLO1, gloA; lactoylglutathione lyase [EC:4.4.1.5]	0.1339135484144593	0.1227536285859576
+K18299	K06142	hlpA, ompH; outer membrane protein	0.1339135484144593	0.123701522364738
+K18299	K02412	fliI; flagellum-specific ATP synthase [EC:7.4.2.8]	0.1339135484144593	0.1247718263962747
+K18299	mobileOG_000369761	oppB	0.1339135484144593	0.1265099974520468
+K18299	marine		0.1339135484144593	0.1265821300194074
+K18299	K09800	tamB; translocation and assembly module TamB	0.1339135484144593	0.1273226485383536
+K18299	K00381	cysI; sulfite reductase (NADPH) hemoprotein beta-component [EC:1.8.1.2]	0.1339135484144593	0.1273905101664077
+K18299	K02386	flgA; flagella basal body P-ring formation protein FlgA	0.1339135484144593	0.1277364267473061
+K18299	K02393	flgH; flagellar L-ring protein precursor FlgH	0.1339135484144593	0.1280583773466886
+K18299	K07258	dacC, dacA, dacD; serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4]	0.1339135484144593	0.1281894147466374
+K18299	K10544	xylH; D-xylose transport system permease protein	0.1339135484144593	0.1412071096824931
+K18299	K03783	punA, PNP; purine-nucleoside phosphorylase [EC:2.4.2.1]	0.1339135484144593	0.1412305467308496
+K18299	skin		0.1339135484144593	0.1418543870892837
+K18299	K23508	ytfQ; galactofuranose transport system substrate-binding protein	0.1339135484144593	0.1418756195604054
+K18299	K00116	mqo; malate dehydrogenase (quinone) [EC:1.1.5.4]	0.1339135484144593	0.1420128316226324
+K18299	K18890	mdlB, smdB; ATP-binding cassette, subfamily B, multidrug efflux pump	0.1339135484144593	0.1425458451084688
+K18299	K00041	uxaB; tagaturonate reductase [EC:1.1.1.58]	0.1339135484144593	0.1434034302634311
+K18299	K23242	mntP; manganese efflux pump family protein	0.1339135484144593	0.1438260020969997
+K18299	K03767	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]	0.1339135484144593	0.1440758296647181
+K18299	K09803	K09803; uncharacterized protein	0.1339135484144593	0.1448845794924277
+K18299	K10820	ytfR; galactofuranose transport system ATP-binding protein [EC:7.5.2.9]	0.1339135484144593	0.1523775507155392
+K18299	K07642	baeS, smeS; two-component system, OmpR family, sensor histidine kinase BaeS [EC:2.7.13.3]	0.1339135484144593	0.1578189809326374

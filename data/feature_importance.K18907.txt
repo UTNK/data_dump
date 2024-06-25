@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18907	K00228	0.0081961510946247	CPOX, hemF; coproporphyrinogen III oxidase [EC:1.3.3.3]
+K18907	K02409	0.0080648622579363	fliF; flagellar M-ring protein FliF
+K18907	K00703	0.0080013209388375	glgA; starch synthase [EC:2.4.1.21]
+K18907	K02389	0.0079363468087928	flgD; flagellar basal-body rod modification protein FlgD
+K18907	K02419	0.0078882318586558	fliP; flagellar biosynthetic protein FliP
+K18907	K02417	0.0077579105242814	fliNY, fliN; flagellar motor switch protein FliN/FliY
+K18907	K01610	0.0077077882763226	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K18907	K07054	0.0076780552770564	K07054; uncharacterized protein
+K18907	K02400	0.0076349194037624	flhA; flagellar biosynthesis protein FlhA
+K18907	K06975	0.0075355567251789	K06975; uncharacterized protein
+K18907	K02027	0.0072696501784663	ABC.MS.S; multiple sugar transport system substrate-binding protein
+K18907	K02388	0.0072407911650547	flgC; flagellar basal-body rod protein FlgC
+K18907	K03412	0.0072288838578129	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K18907	K19267	0.0071735519085959	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18907	K01975	0.0071675473115258	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K18907	K00027	0.0071556496625796	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K18907	K00362	0.0070914495017893	nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]
+K18907	K22479	0.0070247121908668	argA; N-acetyltransferase
+K18907	mobileOG_000031464	0.0070189375020286	mutT
+K18907	K03651	0.0069883628783977	cpdA; 3,5-cyclic-AMP phosphodiesterase [EC:3.1.4.53]
+K18907	K02408	0.0069831157696657	fliE; flagellar hook-basal body complex protein FliE
+K18907	K00652	0.0069808802399088	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18907	K07010	0.0069217871341408	K07010; putative glutamine amidotransferase
+K18907	K07124	0.006851108413606	K07124; uncharacterized protein
+K18907	K01912	0.0067713806406262	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18907	K02575	0.0067701165503972	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18907	K11741	0.0066580725867272	sugE; quaternary ammonium compound-resistance protein SugE
+K18907	mobileOG_000777978	0.0066479688493044	korSA
+K18907	K05559	0.0065873407516899	phaA; multicomponent K+:H+ antiporter subunit A
+K18907	K10680	0.0065742835923391	nemA; N-ethylmaleimide reductase [EC:1.-.-.-]
+K18907	K03579	0.0065630306095353	hrpB; ATP-dependent helicase HrpB [EC:3.6.4.13]
+K18907	K24116	0.0064779995977851	scmK; N-acetyl-S-(2-succino)cysteine monooxygenase [EC:1.14.-.-]
+K18907	K20971	0.0064349047128207	ladS; two-component system, sensor histidine kinase LadS
+K18907	mobileOG_000384384	0.0064270547590274	25
+K18907	K00283	0.0064178547471561	gcvPB; glycine dehydrogenase subunit 2 [EC:1.4.4.2]
+K18907	K02081	0.0063960360055935	agaR; DeoR family transcriptional regulator, aga operon transcriptional repressor
+K18907	K05562	0.006375315872115	phaE; multicomponent K+:H+ antiporter subunit E
+K18907	K08973	0.0062926672772377	hemJ; protoporphyrinogen IX oxidase [EC:1.3.99.-]
+K18907	K01006	0.0062497961830082	ppdK; pyruvate, orthophosphate dikinase [EC:2.7.9.1]
+K18907	K07507	0.0062349072209568	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18907	K09667	0.0062333283091686	OGT; protein O-GlcNAc transferase [EC:2.4.1.255]
+K18907	K02011	0.006233107391418	afuB, fbpB; iron(III) transport system permease protein
+K18907	mobileOG_000284240	0.0062219814876727	pif
+K18907	K01495	0.0062217715675124	GCH1, folE; GTP cyclohydrolase IA [EC:3.5.4.16]
+K18907	K00038	0.0062042555607085	E1.1.1.53; 3alpha(or 20beta)-hydroxysteroid dehydrogenase [EC:1.1.1.53]
+K18907	K10118	0.0061937839463563	msmF; raffinose/stachyose/melibiose transport system permease protein
+K18907	mobileOG_000229749	0.0061928154996424	nfo
+K18907	K01451	0.0061910046785575	hipO; hippurate hydrolase [EC:3.5.1.32]
+K18907	mobileOG_000026429	0.0061867598162065	nei
+K18907	K05838	0.0061822214389092	ybbN; putative thioredoxin

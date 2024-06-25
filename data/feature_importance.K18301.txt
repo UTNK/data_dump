@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18301	K00982	0.008158761456486	glnE; [glutamine synthetase] adenylyltransferase / [glutamine synthetase]-adenylyl-L-tyrosine phosphorylase [EC:2.7.7.42 2.7.7.89]
+K18301	K00990	0.0081521904001333	glnD; [protein-PII] uridylyltransferase [EC:2.7.7.59]
+K18301	K06980	0.0078932226903802	ygfZ; tRNA-modifying protein YgfZ
+K18301	K00135	0.0078273778508586	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]
+K18301	K18707	0.0078146635367331	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]
+K18301	K00242	0.0077716951056752	sdhD, frdD; succinate dehydrogenase / fumarate reductase, membrane anchor subunit
+K18301	K01796	0.0076963469540656	E5.1.99.4, AMACR, mcr; alpha-methylacyl-CoA racemase [EC:5.1.99.4]
+K18301	K00108	0.0075070602251452	betA, CHDH; choline dehydrogenase [EC:1.1.99.1]
+K18301	K09471	0.0074275972616647	puuB, ordL; gamma-glutamylputrescine oxidase [EC:1.4.3.-]
+K18301	K07229	0.0074238971191457	yqjH; ferric-chelate reductase (NADPH) [EC:1.16.1.9]
+K18301	K00528	0.0072917152918849	fpr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]
+K18301	K00163	0.0072823864801292	aceE; pyruvate dehydrogenase E1 component [EC:1.2.4.1]
+K18301	K07006	0.0072414075996299	K07006; uncharacterized protein
+K18301	K00336	0.0071786696266432	nuoG; NADH-quinone oxidoreductase subunit G [EC:7.1.1.2]
+K18301	K01681	0.0071581557767539	ACO, acnA; aconitate hydratase [EC:4.2.1.3]
+K18301	K13288	0.0071434544958356	orn, REX2, REXO2; oligoribonuclease [EC:3.1.-.-]
+K18301	K01996	0.0071358355374381	livF; branched-chain amino acid transport system ATP-binding protein
+K18301	K01895	0.0071285445014189	ACSS1_2, acs; acetyl-CoA synthetase [EC:6.2.1.1]
+K18301	K04750	0.0071251773779666	phnB; PhnB protein
+K18301	K05596	0.0071039326033991	iciA; LysR family transcriptional regulator, chromosome initiation inhibitor
+K18301	K14267	0.007101606337733	dapC; N-succinyldiaminopimelate aminotransferase [EC:2.6.1.17]
+K18301	K05524	0.0070993177639425	fdxA; ferredoxin
+K18301	K09456	0.007096573444033	aidB; putative acyl-CoA dehydrogenase
+K18301	K01995	0.0070419218540134	livG; branched-chain amino acid transport system ATP-binding protein
+K18301	K05838	0.0069440587043256	ybbN; putative thioredoxin
+K18301	K07157	0.0069436590593292	K07157; uncharacterized protein
+K18301	K06044	0.0069385573139207	treY, glgY; (1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase [EC:5.4.99.15]
+K18301	K09927	0.0068948221811108	K09927; uncharacterized protein
+K18301	K01439	0.0068764869440535	dapE; succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]
+K18301	K01669	0.0068699830348216	phrB; deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]
+K18301	K18476	0.006868318056545	tetR; TetR/AcrR family transcriptional regulator, tetracycline repressor protein
+K18301	K03799	0.0068365007521569	htpX; heat shock protein HtpX [EC:3.4.24.-]
+K18301	K09858	0.0068195518408652	K09858; SEC-C motif domain protein
+K18301	mobileOG_000098385	0.0068112643062233	35
+K18301	K08744	0.0068050907157493	CRLS; cardiolipin synthase (CMP-forming) [EC:2.7.8.41]
+K18301	K03594	0.0067972441285806	bfr; bacterioferritin [EC:1.16.3.1]
+K18301	K15371	0.0067899424065693	GDH2; glutamate dehydrogenase [EC:1.4.1.2]
+K18301	K00344	0.0067798060441044	qor, CRYZ; NADPH:quinone reductase [EC:1.6.5.5]
+K18301	K08300	0.0067648582845311	rne; ribonuclease E [EC:3.1.26.12]
+K18301	K01626	0.0067553309933983	E2.5.1.54, aroF, aroG, aroH; 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]
+K18301	K09791	0.0067551153587692	K09791; uncharacterized protein
+K18301	K03636	0.0067458144467715	moaD, cysO; sulfur-carrier protein
+K18301	K00362	0.0067300127436992	nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]
+K18301	K00876	0.0067216589045207	udk, UCK; uridine kinase [EC:2.7.1.48]
+K18301	K03637	0.0067175472558552	moaC, CNX3; cyclic pyranopterin monophosphate synthase [EC:4.6.1.17]
+K18301	K07127	0.0067163949818827	uraH, pucM, hiuH; 5-hydroxyisourate hydrolase [EC:3.5.2.17]
+K18301	K22391	0.0067083972696183	E3.5.4.16; GTP cyclohydrolase I [EC:3.5.4.16]
+K18301	K18682	0.0066992629018363	rny; ribonucrease Y [EC:3.1.-.-]
+K18301	K02018	0.0066967700796284	modB; molybdate transport system permease protein
+K18301	K01061	0.0066954765317867	E3.1.1.45; carboxymethylenebutenolidase [EC:3.1.1.45]

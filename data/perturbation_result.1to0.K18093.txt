@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18093	K01682	acnB; aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]	0.5302772155113983	0.4808444054119118
+K18093	activated_sludge		0.5302772155113983	0.4823992183398288
+K18093	K15461	mnmC; tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-]	0.5302772155113983	0.4965890045904073
+K18093	K09862	K09862; uncharacterized protein	0.5302772155113983	0.4967977944851103
+K18093	K03745	slyX; SlyX protein	0.5302772155113983	0.4969669168081096
+K18093	K01058	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]	0.5302772155113983	0.4988477740318703
+K18093	K09861	K09861; uncharacterized protein	0.5302772155113983	0.5008649857019112
+K18093	K05799	pdhR; GntR family transcriptional regulator, transcriptional repressor for pyruvate dehydrogenase complex	0.5302772155113983	0.5009557496606104
+K18093	K03668	hslJ; heat shock protein HslJ	0.5302772155113983	0.5023583959797235
+K18093	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	0.5302772155113983	0.5025190628169126
+K18093	mobileOG_000176095	recR	0.5302772155113983	0.5057534066475321
+K18093	K03566	gcvA; LysR family transcriptional regulator, glycine cleavage system transcriptional activator	0.5302772155113983	0.505998381994612
+K18093	K06518	cidA; holin-like protein	0.5302772155113983	0.5066836179178424
+K18093	K06186	bamE, smpA; outer membrane protein assembly factor BamE	0.5302772155113983	0.507223319704114
+K18093	K03600	sspB; stringent starvation protein B	0.5302772155113983	0.5072651697839929
+K18093	K09801	K09801; uncharacterized protein	0.5302772155113983	0.507999396305647
+K18093	K01070	frmB, ESD, fghA; S-formylglutathione hydrolase [EC:3.1.2.12]	0.5302772155113983	0.509704015445744
+K18093	mobileOG_000340884	comL	0.5302772155113983	0.5097236878723633
+K18093	K09889	yjgA; ribosome-associated protein	0.5302772155113983	0.5100957687890841
+K18093	K03981	dsbC; thiol:disulfide interchange protein DsbC [EC:5.3.4.1]	0.5302772155113983	0.5101013492997669
+K18093	K00956	cysN; sulfate adenylyltransferase subunit 1 [EC:2.7.7.4]	0.5302772155113983	0.510636262772275
+K18093	K05596	iciA; LysR family transcriptional regulator, chromosome initiation inhibitor	0.5302772155113983	0.5122077890182773
+K18093	K15724	erpA; iron-sulfur cluster insertion protein	0.5302772155113983	0.5124393149094155
+K18093	K03783	punA, PNP; purine-nucleoside phosphorylase [EC:2.4.2.1]	0.5302772155113983	0.5515950769838825
+K18093	mobileOG_000085353	cca	0.5302772155113983	0.5522560067814127

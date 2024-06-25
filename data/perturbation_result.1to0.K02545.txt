@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K02545	K01903	sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]	0.0	9.99941916747338e-05
+K02545	K10026	queE; 7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]	0.0	9.999612770818408e-05
+K02545	K03610	minC; septum site-determining protein MinC	0.0	9.999612770818408e-05
+K02545	K08300	rne; ribonuclease E [EC:3.1.26.12]	0.0	9.999806381660472e-05
+K02545	K06940	K06940; uncharacterized protein	0.0	9.999806381660472e-05
+K02545	K03548	perM; putative permease	0.0	0.0001
+K02545	mobileOG_000003198	dinG	0.0	0.0001
+K02545	K00703	glgA; starch synthase [EC:2.4.1.21]	0.0	0.0001
+K02545	K01495	GCH1, folE; GTP cyclohydrolase IA [EC:3.5.4.16]	0.0	0.0001999709640701
+K02545	K00390	cysH; phosphoadenosine phosphosulfate reductase [EC:1.8.4.8 1.8.4.10]	0.0	0.0001999719312156
+K02545	K10439	rbsB; ribose transport system substrate-binding protein	0.0	0.0001999787047563
+K02545	K01657	trpE; anthranilate synthase component I [EC:4.1.3.27]	0.0	0.0001999864473909
+K02545	K01129	dgt; dGTPase [EC:3.1.5.1]	0.0	0.0001999916103134
+K02545	K00928	lysC; aspartate kinase [EC:2.7.2.4]	0.0	0.0001999941915247
+K02545	K05366	mrcA; penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4]	0.0	0.0001999941915247
+K02545	K01497	ribA, RIB1; GTP cyclohydrolase II [EC:3.5.4.25]	0.0	0.000299963218887
+K02545	mobileOG_000261240	groS	0.0	0.0002999840277169
+K02545	K07258	dacC, dacA, dacD; serine-type D-Ala-D-Ala carboxypeptidase (penicillin-binding protein 5/6) [EC:3.4.16.4]	0.0	0.0002999893512068
+K02545	K01809	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]	0.0	0.0002999951595321
+K02545	K00266	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]	0.0	0.0004999158093229
+K02545	K04771	degP, htrA; serine protease Do [EC:3.4.21.107]	0.0	0.000599986447166
+K02545	K00937	ppk; polyphosphate kinase [EC:2.7.4.1]	0.0	0.0006999546660118
+K02545	K07305	msrB; peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	0.0	0.0007999461156666
+K02545	mobileOG_000193279	rarA	0.0	0.0007999570838139
+K02545	K03569	mreB; rod shape-determining protein MreB and related proteins	0.0	0.0010999749913812

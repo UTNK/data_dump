@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K22333	mobileOG_000335965	rph	0.0	0.0004996368721948
+K22333	K08300	rne; ribonuclease E [EC:3.1.26.12]	0.0	0.0004996735650293
+K22333	mobileOG_000166773	topA	0.0	0.0004997192587687
+K22333	K05592	deaD, cshA; ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	0.0	0.0004998550764169
+K22333	K07574	yhbY; RNA-binding protein	0.0	0.0004998782532676
+K22333	K00548	metH, MTR; 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	0.0	0.0004998859879454
+K22333	K11720	lptG; lipopolysaccharide export system permease protein	0.0	0.000599813211161
+K22333	K01886	QARS, glnS; glutaminyl-tRNA synthetase [EC:6.1.1.18]	0.0	0.0005998647082295
+K22333	K03641	tolB; TolB protein	0.0	0.000699702266886
+K22333	K07091	lptF; lipopolysaccharide export system permease protein	0.0	0.000699703422626
+K22333	K03801	lipB; lipoyl(octanoyl) transferase [EC:2.3.1.181]	0.0	0.000799572104182
+K22333	mobileOG_000369761	oppB	0.0	0.0007996776870211
+K22333	K01897	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]	0.0	0.000799796118264
+K22333	K01262	pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]	0.0	0.0007998560312006
+K22333	K00266	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]	0.0	0.0007998569838582
+K22333	K07560	dtd, DTD; D-aminoacyl-tRNA deacylase [EC:3.1.1.96]	0.0	0.0008991601145264
+K22333	K00287	DHFR, folA; dihydrofolate reductase [EC:1.5.1.3]	0.0	0.0009996556747883
+K22333	K09812	ftsE; cell division transport system ATP-binding protein	0.0	0.0010991471172347
+K22333	K00012	UGDH, ugd; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	0.0	0.0010997130216862
+K22333	K01092	E3.1.3.25, IMPA, suhB; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	0.0	0.0011994397151386
+K22333	K01902	sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	0.0	0.0011998589102085
+K22333	K03704	cspA; cold shock protein	0.0	0.001499056484854
+K22333	K02039	phoU; phosphate transport system protein	0.0	0.0020988919109
+K22333	K03183	ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	0.0	0.0022988753359096
+K22333	K06158	ABCF3; ATP-binding cassette, subfamily F, member 3	0.0	0.002998545028174

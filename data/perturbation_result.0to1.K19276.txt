@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19276	mobileOG_000798999	evgS_9	0.0715311678856594	0.0622130410045464
+K19276	K02077	ABC.ZM.S; zinc/manganese transport system substrate-binding protein	0.0715311678856594	0.066168451059506
+K19276	K06954	K06954; uncharacterized protein	0.0715311678856594	0.0671568977903279
+K19276	K15270	sam; S-adenosylmethionine uptake transporter	0.0715311678856594	0.0680310043757982
+K19276	K09967	K09967; uncharacterized protein	0.0715311678856594	0.0682190223228143
+K19276	K10117	msmE; raffinose/stachyose/melibiose transport system substrate-binding protein	0.0715311678856594	0.0683171185590407
+K19276	K16238	eat, eutP; ethanolamine permease	0.0715311678856594	0.0686139883720593
+K19276	K03325	ACR3, arsB; arsenite transporter	0.0715311678856594	0.0688952259112275
+K19276	K03821	phbC, phaC; polyhydroxyalkanoate synthase subunit PhaC [EC:2.3.1.-]	0.0715311678856594	0.0689089573846826
+K19276	K01457	atzF; allophanate hydrolase [EC:3.5.1.54]	0.0715311678856594	0.0690035559018558
+K19276	K00078	DHDH; dihydrodiol dehydrogenase / D-xylose 1-dehydrogenase (NADP) [EC:1.3.1.20 1.1.1.179]	0.0715311678856594	0.0691950380102652
+K19276	K09981	K09981; uncharacterized protein	0.0715311678856594	0.0692066183381695
+K19276	K05571	mnhG, mrpG; multicomponent Na+:H+ antiporter subunit G	0.0715311678856594	0.0692069000425285
+K19276	K10547	ABC.GGU.P, gguB; putative multiple sugar transport system permease protein	0.0715311678856594	0.0692942404854093
+K19276	K10027	crtI; phytoene desaturase [EC:1.3.99.26 1.3.99.28 1.3.99.29 1.3.99.31]	0.0715311678856594	0.0693016757011651
+K19276	K02232	cobQ, cbiP; adenosylcobyric acid synthase [EC:6.3.5.10]	0.0715311678856594	0.0693633799233685
+K19276	K00405	ccoO; cytochrome c oxidase cbb3-type subunit II	0.0715311678856594	0.069491187318371
+K19276	K02404	flhF; flagellar biosynthesis protein FlhF	0.0715311678856594	0.0694924976825444
+K19276	K03893	arsB; arsenical pump membrane protein	0.0715311678856594	0.074071147813389
+K19276	K08167	smvA, qacA, lfrA; MFS transporter, DHA2 family, multidrug resistance protein	0.0715311678856594	0.0742746756194758
+K19276	K00459	ncd2, npd; nitronate monooxygenase [EC:1.13.12.16]	0.0715311678856594	0.0743654706563279
+K19276	K15866	paaG; 2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase [EC:5.3.3.18]	0.0715311678856594	0.0759428009164503
+K19276	K09012	sufR; DeoR family transcriptional regulator, suf operon transcriptional repressor	0.0715311678856594	0.0773259888905465
+K19276	K22522	LOG; cytokinin riboside 5-monophosphate phosphoribohydrolase [EC:3.2.2.-]	0.0715311678856594	0.0798461574498677
+K19276	K18476	tetR; TetR/AcrR family transcriptional regulator, tetracycline repressor protein	0.0715311678856594	0.080702091691275

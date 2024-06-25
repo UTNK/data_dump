@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K21288	K01809	0.0084698188388363	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K21288	K02401	0.0084498854888359	flhB; flagellar biosynthetic protein FlhB
+K21288	K01512	0.008328450366916	acyP; acylphosphatase [EC:3.6.1.7]
+K21288	K03594	0.0082341883843106	bfr; bacterioferritin [EC:1.16.3.1]
+K21288	K01760	0.0081589157634947	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K21288	K11070	0.0080042167973313	potC; spermidine/putrescine transport system permease protein
+K21288	K03767	0.0079596838818003	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K21288	K02421	0.0079390675930152	fliR; flagellar biosynthetic protein FliR
+K21288	K10439	0.0078801306533384	rbsB; ribose transport system substrate-binding protein
+K21288	K00375	0.0078685414244318	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K21288	K07160	0.0076550099082368	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K21288	K06872	0.0075862603994605	K06872; uncharacterized protein
+K21288	K07010	0.0074722540215599	K07010; putative glutamine amidotransferase
+K21288	K02406	0.0074260964869099	fliC; flagellin
+K21288	K06996	0.0073863951764002	K06996; uncharacterized protein
+K21288	mobileOG_000093088	0.0073240940249387	ftsZ
+K21288	K07077	0.0072899503972203	K07077; uncharacterized protein
+K21288	K02011	0.007162661970103	afuB, fbpB; iron(III) transport system permease protein
+K21288	K01480	0.0071307372297372	speB; agmatinase [EC:3.5.3.11]
+K21288	K07507	0.0071102680022209	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K21288	K07646	0.0070734812141259	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K21288	K09765	0.0070661780301	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K21288	K10206	0.0070076033843451	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K21288	mobileOG_000031464	0.006986124200652	mutT
+K21288	mobileOG_000034793	0.0069605492197294	diaA
+K21288	K02575	0.0069415567255235	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K21288	K01821	0.0069206779263593	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K21288	mobileOG_000802159	0.00686456801901	rep
+K21288	K09767	0.0068591472285636	yajQ; cyclic-di-GMP-binding protein
+K21288	K07124	0.0068471976960441	K07124; uncharacterized protein
+K21288	K03600	0.0068390022217533	sspB; stringent starvation protein B
+K21288	K00424	0.0068380714673075	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K21288	K06152	0.0068269868358935	E1.1.99.3G; gluconate 2-dehydrogenase gamma chain [EC:1.1.99.3]
+K21288	K07642	0.0067913803608653	baeS, smeS; two-component system, OmpR family, sensor histidine kinase BaeS [EC:2.7.13.3]
+K21288	K01058	0.0067870519404507	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]
+K21288	K03773	0.0067712091429885	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K21288	K18707	0.0067480722690468	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]
+K21288	K13013	0.0067226405633017	wbqV; O-antigen biosynthesis protein WbqV
+K21288	K01912	0.0067131903464494	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K21288	K15461	0.0067044980435264	mnmC; tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-]
+K21288	K00830	0.0067027211988137	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+K21288	K01545	0.0066899515428093	kdpF; potassium-transporting ATPase KdpF subunit
+K21288	K19267	0.0066806061073703	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K21288	K00266	0.0066649069971354	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K21288	K23264	0.0066599200283689	purS; phosphoribosylformylglycinamidine synthase subunit PurS [EC:6.3.5.3]
+K21288	K03117	0.0066263650941068	tatB; sec-independent protein translocase protein TatB
+K21288	K05601	0.0066224229681027	hcp; hydroxylamine reductase [EC:1.7.99.1]
+K21288	K09791	0.0066204290770164	K09791; uncharacterized protein
+K21288	K19221	0.0066143354809518	cobA, btuR; cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+K21288	mobileOG_000300939	0.006610398602125	uvrA

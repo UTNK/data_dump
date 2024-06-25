@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18301	mobileOG_000384384	25	0.7526758793191071	0.7310721059107571
+K18301	K22391	E3.5.4.16; GTP cyclohydrolase I [EC:3.5.4.16]	0.7526758793191071	0.7388745744104895
+K18301	K18682	rny; ribonucrease Y [EC:3.1.-.-]	0.7526758793191071	0.7449648365793009
+K18301	K18707	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]	0.7526758793191071	0.7457486916938073
+K18301	K18672	dacA; diadenylate cyclase [EC:2.7.7.85]	0.7526758793191071	0.7462606261556203
+K18301	K06973	K06973; uncharacterized protein	0.7526758793191071	0.7469933696068362
+K18301	K09825	perR; Fur family transcriptional regulator, peroxide stress response regulator	0.7526758793191071	0.7475898738840845
+K18301	K15519	dck; deoxyadenosine/deoxycytidine kinase [EC:2.7.1.76 2.7.1.74]	0.7526758793191071	0.7477983544053638
+K18301	K06885	K06885; uncharacterized protein	0.7526758793191071	0.7480030479026872
+K18301	K05712	mhpA; 3-(3-hydroxy-phenyl)propionate hydroxylase [EC:1.14.13.127]	0.7526758793191071	0.7481876519285171
+K18301	mobileOG_000211427	groS	0.7526758793191071	0.7485453858637969
+K18301	K13052	divIC, divA; cell division protein DivIC	0.7526758793191071	0.7487961960322472
+K18301	K16363	lpxC-fabZ; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:3.5.1.108 4.2.1.59]	0.7526758793191071	0.7489077198299968
+K18301	K12267	msrAB; peptide methionine sulfoxide reductase msrA/msrB [EC:1.8.4.11 1.8.4.12]	0.7526758793191071	0.7489415630306828
+K18301	mobileOG_000098385	35	0.7526758793191071	0.7490276661136998
+K18301	K21903	cadC, smtB; ArsR family transcriptional regulator, lead/cadmium/zinc/bismuth-responsive transcriptional repressor	0.7526758793191071	0.7494124020266477
+K18301	K08976	K08976; putative membrane protein	0.7526758793191071	0.7494171553333736
+K18301	K07166	K07166; ACT domain-containing protein	0.7526758793191071	0.7494210581678296
+K18301	K22136	bshC; bacillithiol synthase	0.7526758793191071	0.7494239268872415
+K18301	K14267	dapC; N-succinyldiaminopimelate aminotransferase [EC:2.6.1.17]	0.7526758793191071	0.7495419667197691
+K18301	K03816	xpt; xanthine phosphoribosyltransferase [EC:2.4.2.22]	0.7526758793191071	0.7497519092951241
+K18301	K05832	ABC.X4.P; putative ABC transport system permease protein	0.7526758793191071	0.7498318004012549
+K18301	K19411	mcsA; protein arginine kinase activator	0.7526758793191071	0.7499575004200941
+K18301	K13633	ftrA; AraC family transcriptional regulator, transcriptional activator FtrA	0.7526758793191071	0.7558289967872306
+K18301	K23775	ohrR; MarR family transcriptional regulator, organic hydroperoxide resistance regulator	0.7526758793191071	0.7563808251698068

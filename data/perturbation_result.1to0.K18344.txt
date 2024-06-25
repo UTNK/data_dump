@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18344	K07720	yesN; two-component system, response regulator YesN	0.0026469257362967	0.0007837827478921
+K18344	K09159	cptB; antitoxin CptB	0.0026469257362967	0.0038591847917981
+K18344	K04761	oxyR; LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator	0.0026469257362967	0.0040200524872643
+K18344	K15034	yaeJ; ribosome-associated protein	0.0026469257362967	0.0041719334900421
+K18344	K03117	tatB; sec-independent protein translocase protein TatB	0.0026469257362967	0.0041865628320801
+K18344	K00626	ACAT, atoB; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	0.0026469257362967	0.0042134678550645
+K18344	K03313	nhaA; Na+:H+ antiporter, NhaA family	0.0026469257362967	0.0043008763989426
+K18344	K13821	putA; RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]	0.0026469257362967	0.0046025541404577
+K18344	K11720	lptG; lipopolysaccharide export system permease protein	0.0026469257362967	0.0046088277697835
+K18344	K00674	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]	0.0026469257362967	0.0046355467177889
+K18344	mobileOG_000327567	mutM	0.0026469257362967	0.0046571357688878
+K18344	mobileOG_000330441	polA	0.0026469257362967	0.0046690696906892
+K18344	K03594	bfr; bacterioferritin [EC:1.16.3.1]	0.0026469257362967	0.0047822430079943
+K18344	K07390	grxD, GLRX5; monothiol glutaredoxin	0.0026469257362967	0.00491671043489
+K18344	K00281	GLDC, gcvP; glycine dehydrogenase [EC:1.4.4.2]	0.0026469257362967	0.0049769407447877
+K18344	K00242	sdhD, frdD; succinate dehydrogenase / fumarate reductase, membrane anchor subunit	0.0026469257362967	0.0051025968884355
+K18344	K00324	pntA; H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1]	0.0026469257362967	0.0051115305892875
+K18344	K03684	rnd; ribonuclease D [EC:3.1.13.5]	0.0026469257362967	0.005182853155456
+K18344	K01772	hemH, FECH; protoporphyrin/coproporphyrin ferrochelatase [EC:4.99.1.1 4.99.1.9]	0.0026469257362967	0.0052188821869494
+K18344	K00325	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]	0.0026469257362967	0.0054462738896584
+K18344	K01599	hemE, UROD; uroporphyrinogen decarboxylase [EC:4.1.1.37]	0.0026469257362967	0.0056224075596574
+K18344	K01991	wza, gfcE; polysaccharide biosynthesis/export protein	0.0026469257362967	0.0056927871130579
+K18344	K00228	CPOX, hemF; coproporphyrinogen III oxidase [EC:1.3.3.3]	0.0026469257362967	0.0058802237467871
+K18344	K08296	sixA; phosphohistidine phosphatase [EC:3.1.3.-]	0.0026469257362967	0.0064682218554035
+K18344	K01079	serB, PSPH; phosphoserine phosphatase [EC:3.1.3.3]	0.0026469257362967	0.0081337107226071

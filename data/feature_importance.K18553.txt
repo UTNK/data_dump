@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18553	K08281	0.0076186713712054	pncA; nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-]
+K18553	K02025	0.007585367662846	ABC.MS.P; multiple sugar transport system permease protein
+K18553	K02012	0.0075637534778979	afuA, fbpA; iron(III) transport system substrate-binding protein
+K18553	K19221	0.0074517661037394	cobA, btuR; cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+K18553	K06940	0.0073453673780292	K06940; uncharacterized protein
+K18553	mobileOG_000777978	0.0072441923752232	korSA
+K18553	K01638	0.0072403651111344	aceB, glcB; malate synthase [EC:2.3.3.9]
+K18553	K03408	0.0072107401476632	cheW; purine-binding chemotaxis protein CheW
+K18553	K07027	0.0071773260969113	K07027; glycosyltransferase 2 family protein
+K18553	K09125	0.0071505804291788	yhhQ; queuosine precursor transporter
+K18553	K03310	0.0070376694910165	TC.AGCS; alanine or glycine:cation symporter, AGCS family
+K18553	K21430	0.0070336187868559	yliI; aldose sugar dehydrogenase [EC:1.1.5.-]
+K18553	K03782	0.0069219008533845	katG; catalase-peroxidase [EC:1.11.1.21]
+K18553	K00652	0.0068233957835383	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18553	K02274	0.006792503144219	coxA, ctaD; cytochrome c oxidase subunit I [EC:7.1.1.9]
+K18553	K09768	0.0067889863022676	K09768; uncharacterized protein
+K18553	K03578	0.0067801713815116	hrpA; ATP-dependent helicase HrpA [EC:3.6.4.13]
+K18553	K01267	0.0067562656374473	DNPEP; aspartyl aminopeptidase [EC:3.4.11.21]
+K18553	K00448	0.0067560461859044	pcaG; protocatechuate 3,4-dioxygenase, alpha subunit [EC:1.13.11.3]
+K18553	K05349	0.0067404188017733	bglX; beta-glucosidase [EC:3.2.1.21]
+K18553	K00027	0.0066783099640121	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K18553	K02011	0.0066447902287919	afuB, fbpB; iron(III) transport system permease protein
+K18553	K01534	0.006625206559589	zntA; Zn2+/Cd2+-exporting ATPase [EC:7.2.2.12 7.2.2.21]
+K18553	K07112	0.006617735631223	K07112; uncharacterized protein
+K18553	K22934	0.0065903729359072	E3.2.1.28; alpha,alpha-trehalase [EC:3.2.1.28]
+K18553	K07079	0.0065779843038358	K07079; uncharacterized protein
+K18553	K02083	0.0065632326104932	allC; allantoate deiminase [EC:3.5.3.9]
+K18553	K01624	0.0065599204259935	FBA, fbaA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]
+K18553	K05520	0.0065515754016489	pfpI; protease I [EC:3.5.1.124]
+K18553	K07646	0.0065499291431128	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18553	K14274	0.006546924379605	xylC; xylono-1,5-lactonase [EC:3.1.1.110]
+K18553	K19267	0.0065245707625696	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18553	K01658	0.0064870372261544	trpG; anthranilate synthase component II [EC:4.1.3.27]
+K18553	K08369	0.0064723709835531	ydjE; MFS transporter, putative metabolite:H+ symporter
+K18553	K06024	0.0064688615072466	scpB; segregation and condensation protein B
+K18553	mobileOG_000024458	0.0064470257341969	dnaE
+K18553	K01561	0.0063817168364377	dehH; haloacetate dehalogenase [EC:3.8.1.3]
+K18553	K18456	0.0063699696925634	E3.5.4.32; 8-oxoguanine deaminase [EC:3.5.4.32]
+K18553	K05559	0.0063589499337957	phaA; multicomponent K+:H+ antiporter subunit A
+K18553	K01302	0.0063575314527315	CPQ; carboxypeptidase Q [EC:3.4.17.-]
+K18553	K03449	0.0063568977627809	MFS.CP; MFS transporter, CP family, cyanate transporter
+K18553	K01057	0.0063380035624773	PGLS, pgl, devB; 6-phosphogluconolactonase [EC:3.1.1.31]
+K18553	K07399	0.0063376780312435	resB, ccs1; cytochrome c biogenesis protein
+K18553	K01524	0.0063208945692276	ppx-gppA; exopolyphosphatase / guanosine-5-triphosphate,3-diphosphate pyrophosphatase [EC:3.6.1.11 3.6.1.40]
+K18553	K02015	0.0062993079316189	ABC.FEV.P; iron complex transport system permease protein
+K18553	K02484	0.0062863667670386	K02484; two-component system, OmpR family, sensor kinase [EC:2.7.13.3]
+K18553	K16137	0.0062840542713178	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K18553	K05563	0.0062802891526319	phaF; multicomponent K+:H+ antiporter subunit F
+K18553	K15772	0.0062726468261297	ganQ; arabinogalactan oligomer / maltooligosaccharide transport system permease protein
+K18553	K14267	0.0062706693694628	dapC; N-succinyldiaminopimelate aminotransferase [EC:2.6.1.17]

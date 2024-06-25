@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18909	K02406	0.0079309399028731	fliC; flagellin
+K18909	K09125	0.0078245978806008	yhhQ; queuosine precursor transporter
+K18909	K02291	0.007822578621392	crtB; 15-cis-phytoene synthase [EC:2.5.1.32]
+K18909	K07010	0.0076344863302932	K07010; putative glutamine amidotransferase
+K18909	K02401	0.0075519754391538	flhB; flagellar biosynthetic protein FlhB
+K18909	K07646	0.0075410452860537	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18909	K07126	0.0075271270883445	K07126; uncharacterized protein
+K18909	K07054	0.0075199524052144	K07054; uncharacterized protein
+K18909	K04758	0.0073910223985019	feoA; ferrous iron transport protein A
+K18909	K06976	0.0073906595352197	K06976; uncharacterized protein
+K18909	K10680	0.0073407127438381	nemA; N-ethylmaleimide reductase [EC:1.-.-.-]
+K18909	K00027	0.0072958987378293	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K18909	K07112	0.0072930925137756	K07112; uncharacterized protein
+K18909	K00375	0.0072434900437163	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18909	K06346	0.0072377722932057	jag; spoIIIJ-associated protein
+K18909	K00163	0.0071772643853567	aceE; pyruvate dehydrogenase E1 component [EC:1.2.4.1]
+K18909	K02421	0.0071510180248858	fliR; flagellar biosynthetic protein FliR
+K18909	K03651	0.0071243129267337	cpdA; 3,5-cyclic-AMP phosphodiesterase [EC:3.1.4.53]
+K18909	K06975	0.0071075738713123	K06975; uncharacterized protein
+K18909	K15772	0.0070860616187498	ganQ; arabinogalactan oligomer / maltooligosaccharide transport system permease protein
+K18909	K06872	0.0070407951581965	K06872; uncharacterized protein
+K18909	K00666	0.0069890162518631	K00666; fatty-acyl-CoA synthase [EC:6.2.1.-]
+K18909	K02071	0.006974180124235	metN; D-methionine transport system ATP-binding protein
+K18909	K02523	0.006963866954339	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K18909	K01512	0.0069593165299579	acyP; acylphosphatase [EC:3.6.1.7]
+K18909	K07149	0.0069230374426491	K07149; uncharacterized protein
+K18909	K05563	0.006908449870625	phaF; multicomponent K+:H+ antiporter subunit F
+K18909	K00363	0.0068822656442978	nirD; nitrite reductase (NADH) small subunit [EC:1.7.1.15]
+K18909	K19222	0.0068791340519989	menI, DHNAT; 1,4-dihydroxy-2-naphthoyl-CoA hydrolase [EC:3.1.2.28]
+K18909	K00228	0.0068658168954887	CPOX, hemF; coproporphyrinogen III oxidase [EC:1.3.3.3]
+K18909	K03770	0.0068647746963631	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K18909	K00097	0.0068411656710655	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase [EC:1.1.1.262]
+K18909	K03474	0.006836563308826	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]
+K18909	K02012	0.0068342902078517	afuA, fbpA; iron(III) transport system substrate-binding protein
+K18909	K11897	0.0068192841444447	impF; type VI secretion system protein ImpF
+K18909	K07177	0.0067705489543973	K07177; Lon-like protease
+K18909	K03771	0.0067616159516243	surA; peptidyl-prolyl cis-trans isomerase SurA [EC:5.2.1.8]
+K18909	K02194	0.0067515361493836	ccmB; heme exporter protein B
+K18909	K11741	0.0067383591371873	sugE; quaternary ammonium compound-resistance protein SugE
+K18909	mobileOG_000362884	0.0067349406497588	helD
+K18909	K22479	0.0067255242536985	argA; N-acetyltransferase
+K18909	K00138	0.0067236670304102	aldB; aldehyde dehydrogenase [EC:1.2.1.-]
+K18909	K08973	0.0067087714599257	hemJ; protoporphyrinogen IX oxidase [EC:1.3.99.-]
+K18909	K05564	0.0067085269950966	phaG; multicomponent K+:H+ antiporter subunit G
+K18909	K02566	0.0066903685090766	nagD; NagD protein
+K18909	K01991	0.0066870579329706	wza, gfcE; polysaccharide biosynthesis/export protein
+K18909	K09684	0.0066747624227688	pucR; PucR family transcriptional regulator, purine catabolism regulatory protein
+K18909	K05275	0.0066655637984409	E1.1.1.65; pyridoxine 4-dehydrogenase [EC:1.1.1.65]
+K18909	K01421	0.006652646690217	yhgE; putative membrane protein
+K18909	mobileOG_000031464	0.0066375514608354	mutT

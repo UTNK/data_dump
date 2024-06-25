@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18347	K03426	0.00879478485278	E3.6.1.22, NUDT12, nudC; NAD+ diphosphatase [EC:3.6.1.22]
+K18347	K01760	0.0079345715792185	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18347	K00027	0.0078032429712951	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K18347	K03594	0.0077547570358821	bfr; bacterioferritin [EC:1.16.3.1]
+K18347	K14393	0.0077386230425254	actP; cation/acetate symporter
+K18347	K13628	0.0076110115840821	iscA; iron-sulfur cluster assembly protein
+K18347	K07124	0.0075996468963804	K07124; uncharacterized protein
+K18347	K02026	0.0075914331866308	ABC.MS.P1; multiple sugar transport system permease protein
+K18347	K08997	0.0074935693623019	SELENOO, selO; serine/tyrosine/threonine adenylyltransferase [EC:2.7.7.-]
+K18347	K02421	0.0073774951981988	fliR; flagellar biosynthetic protein FliR
+K18347	K06980	0.0073688581946799	ygfZ; tRNA-modifying protein YgfZ
+K18347	K01512	0.0072163545243184	acyP; acylphosphatase [EC:3.6.1.7]
+K18347	K07010	0.0071452001183205	K07010; putative glutamine amidotransferase
+K18347	K01480	0.0071322801123149	speB; agmatinase [EC:3.5.3.11]
+K18347	K00424	0.007131971878511	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K18347	K00847	0.007130781569001	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K18347	K07507	0.0070691360171154	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18347	K19267	0.0069570847807401	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18347	K02011	0.0069065671161111	afuB, fbpB; iron(III) transport system permease protein
+K18347	K01483	0.0069046189416314	allA; ureidoglycolate lyase [EC:4.3.2.3]
+K18347	K01991	0.0067676779897004	wza, gfcE; polysaccharide biosynthesis/export protein
+K18347	K07799	0.0067641930666586	mdtA; membrane fusion protein, multidrug efflux system
+K18347	K13626	0.0067563424292257	fliW; flagellar assembly factor FliW
+K18347	K03640	0.0067517802695238	pal; peptidoglycan-associated lipoprotein
+K18347	K03474	0.0067176352795569	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]
+K18347	K10126	0.0067066164246955	dctD; two-component system, NtrC family, C4-dicarboxylate transport response regulator DctD
+K18347	K09915	0.0066652586575175	K09915; uncharacterized protein
+K18347	K13640	0.0066614888521974	hspR; MerR family transcriptional regulator, heat shock protein HspR
+K18347	K04072	0.0066413174605487	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]
+K18347	K03269	0.0066342970511366	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]
+K18347	K21064	0.0066300307287386	ycsE, yitU, ywtE; 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+K18347	K09118	0.0066267308488362	K09118; uncharacterized protein
+K18347	K03749	0.0066147807802747	dedD; DedD protein
+K18347	K13653	0.0066062192525808	K13653; AraC family transcriptional regulator
+K18347	mobileOG_000232929	0.0065859023286061	llaDCHIBM
+K18347	K00748	0.006571870468343	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]
+K18347	K00677	0.0065473253651711	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]
+K18347	K00351	0.00653759705778	nqrF; Na+-transporting NADH:ubiquinone oxidoreductase subunit F [EC:7.2.1.1]
+K18347	K00154	0.0065287992023955	E1.2.1.68; coniferyl-aldehyde dehydrogenase [EC:1.2.1.68]
+K18347	K06949	0.0065220290656071	rsgA, engC; ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100]
+K18347	K11902	0.0065202420841714	impA; type VI secretion system protein ImpA
+K18347	K06996	0.0065173601142077	K06996; uncharacterized protein
+K18347	mobileOG_000037882	0.006491144863276	nusG
+K18347	K07177	0.0064747861114019	K07177; Lon-like protease
+K18347	K01682	0.0064633594690073	acnB; aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]
+K18347	K01809	0.0064630458135084	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18347	K18346	0.0064595782886522	vanW; vancomycin resistance protein VanW
+K18347	biofilm	0.0064583564665567	
+K18347	K00872	0.0064472663837791	thrB; homoserine kinase [EC:2.7.1.39]
+K18347	K23535	0.0064347735140399	nupB; general nucleoside transport system permease protein

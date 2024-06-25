@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18553	K01681	ACO, acnA; aconitate hydratase [EC:4.2.1.3]	0.0545466803879331	0.0498041095378031
+K18553	K06901	pbuG; putative MFS transporter, AGZA family, xanthine/uracil permease	0.0545466803879331	0.0505776374521664
+K18553	K01011	TST, MPST, sseA; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	0.0545466803879331	0.0505777921936536
+K18553	K00651	metA; homoserine O-succinyltransferase/O-acetyltransferase [EC:2.3.1.46 2.3.1.31]	0.0545466803879331	0.0580761308839379
+K18553	mobileOG_000799952	mutS	0.0545466803879331	0.0581069828422798
+K18553	K03150	thiH; 2-iminoacetate synthase [EC:4.1.99.19]	0.0545466803879331	0.0582436358115174
+K18553	K04759	feoB; ferrous iron transport protein B	0.0545466803879331	0.0583980181204896
+K18553	K04568	epmA, poxA; elongation factor P--(R)-beta-lysine ligase [EC:6.3.1.-]	0.0545466803879331	0.0587536527521714
+K18553	K00876	udk, UCK; uridine kinase [EC:2.7.1.48]	0.0545466803879331	0.0589609807052946
+K18553	mobileOG_000367431	pilT	0.0545466803879331	0.0589683469016376
+K18553	K04758	feoA; ferrous iron transport protein A	0.0545466803879331	0.0590590972375923
+K18553	K12524	thrA; bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3]	0.0545466803879331	0.0591089238949903
+K18553	K03803	rseC; sigma-E factor negative regulatory protein RseC	0.0545466803879331	0.0591254330533264
+K18553	K03612	rnfG; Na+-translocating ferredoxin:NAD+ oxidoreductase subunit G	0.0545466803879331	0.0597358675004001
+K18553	K13288	orn, REX2, REXO2; oligoribonuclease [EC:3.1.-.-]	0.0545466803879331	0.0598709760419788
+K18553	K03578	hrpA; ATP-dependent helicase HrpA [EC:3.6.4.13]	0.0545466803879331	0.0599701078917233
+K18553	K03613	rnfE; Na+-translocating ferredoxin:NAD+ oxidoreductase subunit E	0.0545466803879331	0.0602022088157992
+K18553	mobileOG_000326436	recN	0.0545466803879331	0.0605843268272794
+K18553	K00860	cysC; adenylylsulfate kinase [EC:2.7.1.25]	0.0545466803879331	0.0606973780987466
+K18553	K01089	hisB; imidazoleglycerol-phosphate dehydratase / histidinol-phosphatase [EC:4.2.1.19 3.1.3.15]	0.0545466803879331	0.060762865476222
+K18553	K03614	rnfD; Na+-translocating ferredoxin:NAD+ oxidoreductase subunit D [EC:7.2.1.2]	0.0545466803879331	0.0608553227825041
+K18553	K03617	rnfA; Na+-translocating ferredoxin:NAD+ oxidoreductase subunit A	0.0545466803879331	0.0609773854609597
+K18553	K15460	yfiC, trmX; tRNA1Val (adenine37-N6)-methyltransferase [EC:2.1.1.223]	0.0545466803879331	0.0612015782051229
+K18553	K11755	hisIE; phosphoribosyl-AMP cyclohydrolase / phosphoribosyl-ATP pyrophosphohydrolase [EC:3.5.4.19 3.6.1.31]	0.0545466803879331	0.0630214019433526
+K18553	K01893	NARS, asnS; asparaginyl-tRNA synthetase [EC:6.1.1.22]	0.0545466803879331	0.0691844139416572

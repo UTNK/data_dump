@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18899	K03594	0.0085898353614886	bfr; bacterioferritin [EC:1.16.3.1]
+K18899	K02401	0.0082222523167402	flhB; flagellar biosynthetic protein FlhB
+K18899	K07010	0.0078643425100115	K07010; putative glutamine amidotransferase
+K18899	K02406	0.0077289171777358	fliC; flagellin
+K18899	K01809	0.0077289171777358	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18899	K01912	0.0076612045115979	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18899	mobileOG_000031464	0.0076031650834798	mutT
+K18899	K01512	0.0075741453694206	acyP; acylphosphatase [EC:3.6.1.7]
+K18899	K06872	0.0075257791793221	K06872; uncharacterized protein
+K18899	K02421	0.0075161059413024	fliR; flagellar biosynthetic protein FliR
+K18899	K11070	0.0074870862272434	potC; spermidine/putrescine transport system permease protein
+K18899	K07160	0.0074580665131843	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18899	K01480	0.0074387200371449	speB; agmatinase [EC:3.5.3.11]
+K18899	K19267	0.0072936214668495	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18899	K02011	0.0072936214668495	afuB, fbpB; iron(III) transport system permease protein
+K18899	K03767	0.0072646017527904	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18899	K10439	0.0072549285147707	rbsB; ribose transport system substrate-binding protein
+K18899	K07124	0.0071678693725935	K07124; uncharacterized protein
+K18899	K01760	0.0071678693725935	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18899	K11073	0.0071195031824949	potF; putrescine transport system substrate-binding protein
+K18899	K02575	0.0070421172783374	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18899	K07646	0.0069937510882389	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18899	K00375	0.0069453848981405	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18899	K13282	0.0069357116601208	cphB; cyanophycinase [EC:3.4.15.6]
+K18899	K07507	0.0068776722320026	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18899	K01821	0.0068486525179436	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18899	K03300	0.0068196328038845	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family
+K18899	K16167	0.0068002863278451	bpsA, srsA, pks11, pks10; alkylresorcinol/alkylpyrone synthase
+K18899	K07642	0.0068002863278451	baeS, smeS; two-component system, OmpR family, sensor histidine kinase BaeS [EC:2.7.13.3]
+K18899	K06996	0.0067422468997269	K06996; uncharacterized protein
+K18899	K08682	0.0067422468997269	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K18899	K11074	0.0067325736617072	potI; putrescine transport system permease protein
+K18899	K08191	0.0067325736617072	exuT; MFS transporter, ACS family, hexuronate transporter
+K18899	K15975	0.0067325736617072	K15975; glyoxalase family protein
+K18899	K13015	0.0067035539476482	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K18899	K10227	0.0066842074716088	smoE, mtlE; sorbitol/mannitol transport system substrate-binding protein
+K18899	K01545	0.0066745342335891	kdpF; potassium-transporting ATPase KdpF subunit
+K18899	K04072	0.0066648609955693	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]
+K18899	K07224	0.0066455145195299	efeO; iron uptake system component EfeO
+K18899	K00015	0.0066358412815102	gyaR, GOR1; glyoxylate reductase [EC:1.1.1.26]
+K18899	K00830	0.0066261680434905	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+K18899	K16165	0.0066164948054708	nagK; fumarylpyruvate hydrolase [EC:3.7.1.20]
+K18899	K10228	0.0066164948054708	smoF, mtlF; sorbitol/mannitol transport system permease protein
+K18899	K03269	0.0066068215674511	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]
+K18899	K23265	0.0066068215674511	purQ; phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase [EC:6.3.5.3 3.5.1.2]
+K18899	K02523	0.0065681286153724	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K18899	K15736	0.0065584553773527	lhgO; (S)-2-hydroxyglutarate dehydrogenase [EC:1.1.5.13]
+K18899	K08225	0.006548782139333	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter
+K18899	K19776	0.006548782139333	dgoR; GntR family transcriptional regulator, galactonate operon transcriptional repressor
+K18899	K00759	0.0065391089013133	APRT, apt; adenine phosphoribosyltransferase [EC:2.4.2.7]

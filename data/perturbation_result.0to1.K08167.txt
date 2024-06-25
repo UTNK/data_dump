@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K08167	K12267	msrAB; peptide methionine sulfoxide reductase msrA/msrB [EC:1.8.4.11 1.8.4.12]	0.5923274895535462	0.5863345124290731
+K08167	K22405	fprA1_2; NADH oxidase (H2O-forming) [EC:1.6.3.4]	0.5923274895535462	0.5867114162493486
+K08167	K00350	nqrE; Na+-transporting NADH:ubiquinone oxidoreductase subunit E [EC:7.2.1.1]	0.5923274895535462	0.5881056824366273
+K08167	K00346	nqrA; Na+-transporting NADH:ubiquinone oxidoreductase subunit A [EC:7.2.1.1]	0.5923274895535462	0.5886155464867381
+K08167	K18122	cat2, abfT; 4-hydroxybutyrate CoA-transferase [EC:2.8.3.-]	0.5923274895535462	0.5889664913791516
+K08167	K02611	paaC; ring-1,2-phenylacetyl-CoA epoxidase subunit PaaC [EC:1.14.13.149]	0.5923274895535462	0.5896394963025399
+K08167	K07270	K07270; glycosyl transferase, family 25	0.5923274895535462	0.5900162649240908
+K08167	K15921	xynD; arabinoxylan arabinofuranohydrolase [EC:3.2.1.55]	0.5923274895535462	0.5903856587850234
+K08167	K02612	paaD; ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD	0.5923274895535462	0.5904742343730575
+K08167	K03153	thiO; glycine oxidase [EC:1.4.3.19]	0.5923274895535462	0.5940481017847568
+K08167	K13985	NAPEPLD; N-acyl-phosphatidylethanolamine-hydrolysing phospholipase D [EC:3.1.4.54]	0.5923274895535462	0.5940645420529771
+K08167	K05565	mnhA, mrpA; multicomponent Na+:H+ antiporter subunit A	0.5923274895535462	0.5941396799207035
+K08167	K00355	NQO1; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	0.5923274895535462	0.5943930629321139
+K08167	K13893	yejA; microcin C transport system substrate-binding protein	0.5923274895535462	0.594556096611673
+K08167	K20074	prpC, phpP; PPM family protein phosphatase [EC:3.1.3.16]	0.5923274895535462	0.5945975050719544
+K08167	K13481	xdhA; xanthine dehydrogenase small subunit [EC:1.17.1.4]	0.5923274895535462	0.595316446195791
+K08167	K02053	ABC.SP.P; putative spermidine/putrescine transport system permease protein	0.5923274895535462	0.5953597806509734
+K08167	K00433	cpo; non-heme chloroperoxidase [EC:1.11.1.10]	0.5923274895535462	0.5956304346375733
+K08167	K01273	DPEP; membrane dipeptidase [EC:3.4.13.19]	0.5923274895535462	0.5957545177866646
+K08167	K13482	xdhB; xanthine dehydrogenase large subunit [EC:1.17.1.4]	0.5923274895535462	0.596129692557944
+K08167	K16842	hpxB; allantoinase [EC:3.5.2.5]	0.5923274895535462	0.5964711774581418
+K08167	K01055	pcaD; 3-oxoadipate enol-lactonase [EC:3.1.1.24]	0.5923274895535462	0.5984198841877777
+K08167	K23775	ohrR; MarR family transcriptional regulator, organic hydroperoxide resistance regulator	0.5923274895535462	0.5991415901054039
+K08167	K18893	vcaM; ATP-binding cassette, subfamily B, multidrug efflux pump	0.5923274895535462	0.6007022244176029
+K08167	K00140	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	0.5923274895535462	0.6138320122407713

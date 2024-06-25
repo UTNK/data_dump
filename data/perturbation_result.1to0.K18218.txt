@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18218	K03310	TC.AGCS; alanine or glycine:cation symporter, AGCS family	0.5727653134161705	0.5425402319345876
+K18218	K03307	TC.SSS; solute:Na+ symporter, SSS family	0.5727653134161705	0.5453986958734155
+K18218	K11928	putP; sodium/proline symporter	0.5727653134161705	0.5455521351622972
+K18218	K00262	E1.4.1.4, gdhA; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]	0.5727653134161705	0.547848081628209
+K18218	K00865	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]	0.5727653134161705	0.5594845975889042
+K18218	K03299	TC.GNTP; gluconate:H+ symporter, GntP family	0.5727653134161705	0.5599120449921248
+K18218	K06131	clsA_B; cardiolipin synthase A/B [EC:2.7.8.-]	0.5727653134161705	0.561959562645598
+K18218	K14445	SLC13A2_3_5; solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2/3/5	0.5727653134161705	0.5621506090342897
+K18218	K10829	fhuC; ferric hydroxamate transport system ATP-binding protein [EC:7.2.2.16]	0.5727653134161705	0.56236330608903
+K18218	K06949	rsgA, engC; ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100]	0.5727653134161705	0.5630599656585621
+K18218	K03498	trkH, trkG, ktrB; trk system potassium uptake protein	0.5727653134161705	0.5635122414886257
+K18218	K14393	actP; cation/acetate symporter	0.5727653134161705	0.5648639284846987
+K18218	K02001	proW; glycine betaine/proline transport system permease protein	0.5727653134161705	0.5662709025358936
+K18218	mobileOG_000000370	dnaE2	0.5727653134161705	0.5673528956838777
+K18218	K00563	rlmA1; 23S rRNA (guanine745-N1)-methyltransferase [EC:2.1.1.187]	0.5727653134161705	0.5674195054679282
+K18218	K15633	gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	0.5727653134161705	0.5674665981013444
+K18218	K02029	ABC.PA.P; polar amino acid transport system permease protein	0.5727653134161705	0.5677273543095446
+K18218	K02016	ABC.FEV.S; iron complex transport system substrate-binding protein	0.5727653134161705	0.5679969367679217
+K18218	K00266	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]	0.5727653134161705	0.5680527868753815
+K18218	K13788	pta; phosphate acetyltransferase [EC:2.3.1.8]	0.5727653134161705	0.5682094390173523
+K18218	K05799	pdhR; GntR family transcriptional regulator, transcriptional repressor for pyruvate dehydrogenase complex	0.5727653134161705	0.5682349012613384
+K18218	mobileOG_000162433	tnpA	0.5727653134161705	0.5787087953361614
+K18218	K02471	bacA; vitamin B12/bleomycin/antimicrobial peptide transport system ATP-binding/permease protein	0.5727653134161705	0.5826668675967025
+K18218	K04091	ssuD; alkanesulfonate monooxygenase [EC:1.14.14.5]	0.5727653134161705	0.5854548693031002
+K18218	mobileOG_000232929	llaDCHIBM	0.5727653134161705	0.5857683143100754

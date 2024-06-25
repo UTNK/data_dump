@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18903	K14155	0.0073417707082759	patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18903	K01006	0.007242015712469	ppdK; pyruvate, orthophosphate dikinase [EC:2.7.9.1]
+K18903	K03446	0.0072188889955145	emrB; MFS transporter, DHA2 family, multidrug resistance protein
+K18903	K07461	0.0071708327489165	K07461; putative endonuclease
+K18903	K07335	0.0071355117183786	bmpA, bmpB, tmpC; basic membrane protein A and related proteins
+K18903	K03782	0.0070630825611917	katG; catalase-peroxidase [EC:1.11.1.21]
+K18903	K07979	0.0070620551882105	ytrA; GntR family transcriptional regulator
+K18903	K01760	0.0069120890820864	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18903	K01935	0.0068292593212068	bioD; dethiobiotin synthetase [EC:6.3.3.3]
+K18903	K13283	0.0067792145996954	fieF; ferrous-iron efflux pump FieF
+K18903	K08992	0.0067644374393817	lapA; lipopolysaccharide assembly protein A
+K18903	K08300	0.0067165857116686	rne; ribonuclease E [EC:3.1.26.12]
+K18903	K03426	0.0066948117728775	E3.6.1.22, NUDT12, nudC; NAD+ diphosphatase [EC:3.6.1.22]
+K18903	K03310	0.0066007592339345	TC.AGCS; alanine or glycine:cation symporter, AGCS family
+K18903	K07397	0.0065847109044181	yhfA; putative redox protein
+K18903	K06996	0.0065715259477898	K06996; uncharacterized protein
+K18903	K07124	0.006533015866785	K07124; uncharacterized protein
+K18903	K10804	0.0064697786612802	tesA; acyl-CoA thioesterase I [EC:3.1.2.- 3.1.2.2 3.1.1.2 3.1.1.5]
+K18903	K18220	0.0064610526080757	tetM, tetO; ribosomal protection tetracycline resistance protein
+K18903	K03688	0.0064163185725131	ubiB, aarF; ubiquinone biosynthesis protein
+K18903	K01239	0.0064088989501591	iunH; purine nucleosidase [EC:3.2.2.1]
+K18903	K07259	0.006385209866581	dacB; serine-type D-Ala-D-Ala carboxypeptidase/endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]
+K18903	K07160	0.0063733266489255	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18903	K07507	0.0063512196551303	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18903	mobileOG_000331108	0.0063338270296459	ssb
+K18903	mobileOG_000777978	0.0063063623452069	korSA
+K18903	K01187	0.00629988494651	malZ; alpha-glucosidase [EC:3.2.1.20]
+K18903	K04744	0.0062406696575253	lptD, imp, ostA; LPS-assembly protein
+K18903	K07015	0.006221717684561	K07015; uncharacterized protein
+K18903	K03585	0.0062085244322944	acrA, mexA, adeI, smeD, mtrC, cmeA; membrane fusion protein, multidrug efflux system
+K18903	mobileOG_000270594	0.0061406192754124	pilR
+K18903	K03179	0.0061374298051355	ubiA; 4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]
+K18903	K03474	0.0060898809412186	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]
+K18903	mobileOG_000038071	0.0060845486992112	ihfB
+K18903	mobileOG_000031464	0.0060821729420368	mutT
+K18903	K03814	0.0060587937773647	mtgA; monofunctional glycosyltransferase [EC:2.4.1.129]
+K18903	mobileOG_000116025	0.0060170709119249	dut
+K18903	K03559	0.0060141083936554	exbD; biopolymer transport protein ExbD
+K18903	K03117	0.0059909581310687	tatB; sec-independent protein translocase protein TatB
+K18903	K09774	0.0059879346147547	lptA; lipopolysaccharide export system protein LptA
+K18903	K01879	0.0059757855261332	glyS; glycyl-tRNA synthetase beta chain [EC:6.1.1.14]
+K18903	K10439	0.0059696334786866	rbsB; ribose transport system substrate-binding protein
+K18903	K06960	0.0059694665797177	K06960; uncharacterized protein
+K18903	K23509	0.0059428688956163	ytfT, yjfF; galactofuranose transport system permease protein
+K18903	mobileOG_000037882	0.0059386626113718	nusG
+K18903	K03643	0.005928081701794	lptE, rlpB; LPS-assembly lipoprotein
+K18903	K17713	0.005927809138837	bamB; outer membrane protein assembly factor BamB
+K18903	K07234	0.005912208628429	K07234; uncharacterized protein involved in response to NO
+K18903	K01880	0.0059037451074447	GARS, glyS1; glycyl-tRNA synthetase [EC:6.1.1.14]
+K18903	K07164	0.0059024490527965	K07164; uncharacterized protein

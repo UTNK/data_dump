@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18797	K02401	0.0087489854385122	flhB; flagellar biosynthetic protein FlhB
+K18797	K03594	0.0083740002309671	bfr; bacterioferritin [EC:1.16.3.1]
+K18797	K01809	0.0081979870459899	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18797	mobileOG_000031464	0.0080676786496557	mutT
+K18797	K07160	0.0080504627540249	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18797	K02421	0.0078858209622515	fliR; flagellar biosynthetic protein FliR
+K18797	K01512	0.0078786289569733	acyP; acylphosphatase [EC:3.6.1.7]
+K18797	K02406	0.0077888840719976	fliC; flagellin
+K18797	K07010	0.007714584450938	K07010; putative glutamine amidotransferase
+K18797	K06872	0.0076940231069396	K06872; uncharacterized protein
+K18797	K11070	0.0076788947358744	potC; spermidine/putrescine transport system permease protein
+K18797	K03767	0.0076049456492252	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18797	K10439	0.0075833906632565	rbsB; ribose transport system substrate-binding protein
+K18797	K17723	0.0075512871988129	preA; dihydropyrimidine dehydrogenase (NAD+) subunit PreA [EC:1.3.1.1]
+K18797	K01480	0.0075340390580557	speB; agmatinase [EC:3.5.3.11]
+K18797	K02039	0.0074868774497532	phoU; phosphate transport system protein
+K18797	K10229	0.0073322940520101	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K18797	K19267	0.0073033096649335	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18797	K01760	0.0072965519713913	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18797	K23535	0.0072582228405917	nupB; general nucleoside transport system permease protein
+K18797	K11354	0.0072292384535148	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]
+K18797	K01432	0.0072220268985676	AFMID; arylformamidase [EC:3.5.1.9]
+K18797	mobileOG_000093088	0.0071938130915322	ftsZ
+K18797	K01919	0.0071938130915321	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K18797	K00424	0.0071648287044552	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K18797	K07096	0.0071358443173784	K07096; uncharacterized protein
+K18797	K07077	0.0071036394428486	K07077; uncharacterized protein
+K18797	K07124	0.0070965012450709	K07124; uncharacterized protein
+K18797	K24206	0.0070649935934127	
+K18797	K06996	0.0070578469035046	K06996; uncharacterized protein
+K18797	K01880	0.0070424501812421	GARS, glyS1; glycyl-tRNA synthetase [EC:6.1.1.14]
+K18797	K02011	0.0070304391217118	afuB, fbpB; iron(III) transport system permease protein
+K18797	K00830	0.007013465794165	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+K18797	K10228	0.007012172215939	smoF, mtlF; sorbitol/mannitol transport system permease protein
+K18797	K00375	0.0070067225349331	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18797	K13628	0.0069941428694472	iscA; iron-sulfur cluster assembly protein
+K18797	K01262	0.0069683789698234	pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]
+K18797	K15975	0.0069651584823703	K15975; glyoxalase family protein
+K18797	K02575	0.0069578453617815	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18797	K07101	0.0069071897082169	K07101; uncharacterized protein
+K18797	K07122	0.0069071897082169	mlaB; phospholipid transport system transporter-binding protein
+K18797	K08682	0.0068976916437658	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K18797	K07646	0.0068861362227418	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18797	K08225	0.0068858756201953	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter
+K18797	K07095	0.006874984833687	K07095; uncharacterized protein
+K18797	mobileOG_000300939	0.0068735207208296	uvrA
+K18797	K00479	0.006855661908969	gbcA; glycine betaine catabolism A
+K18797	K13693	0.006852441421516	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]
+K18797	K13789	0.006849220934063	GGPS; geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]
+K18797	K03770	0.006849220934063	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]

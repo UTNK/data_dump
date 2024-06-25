@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18589	K07221	oprO_P; phosphate-selective porin OprO and OprP	0.4831164477679002	0.4390651589414935
+K18589	K07124	K07124; uncharacterized protein	0.4831164477679002	0.4395756396819735
+K18589	K07010	K07010; putative glutamine amidotransferase	0.4831164477679002	0.4439726327665212
+K18589	K00612	nodU; carbamoyltransferase [EC:2.1.3.-]	0.4831164477679002	0.4452863980830017
+K18589	K15987	hppA; K(+)-stimulated pyrophosphate-energized sodium pump	0.4831164477679002	0.449077044998186
+K18589	K03336	iolD; 3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (decyclizing) [EC:3.7.1.22]	0.4831164477679002	0.4534519985292202
+K18589	K03300	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family	0.4831164477679002	0.4547105450327302
+K18589	K03337	iolB; 5-deoxy-glucuronate isomerase [EC:5.3.1.30]	0.4831164477679002	0.4584030592506957
+K18589	K00010	iolG; myo-inositol 2-dehydrogenase / D-chiro-inositol 1-dehydrogenase [EC:1.1.1.18 1.1.1.369]	0.4831164477679002	0.4590865655739135
+K18589	K09983	K09983; uncharacterized protein	0.4831164477679002	0.4609209185453115
+K18589	K18981	udh; uronate dehydrogenase [EC:1.1.1.203]	0.4831164477679002	0.461108146723245
+K18589	K11354	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]	0.4831164477679002	0.4634677559838751
+K18589	K00333	nuoD; NADH-quinone oxidoreductase subunit D [EC:7.1.1.2]	0.4831164477679002	0.4648234437517484
+K18589	K03724	lhr; ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	0.4831164477679002	0.4649560360928233
+K18589	K00162	PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]	0.4831164477679002	0.4651073074520047
+K18589	K09004	K09004; uncharacterized protein	0.4831164477679002	0.4658706309822466
+K18589	K08744	CRLS; cardiolipin synthase (CMP-forming) [EC:2.7.8.41]	0.4831164477679002	0.4661296541672559
+K18589	K01266	dmpA, dap; D-aminopeptidase [EC:3.4.11.19]	0.4831164477679002	0.4667145352172597
+K18589	K07215	pigA, hemO; heme oxygenase (biliverdin-IX-beta and delta-forming) [EC:1.14.99.58]	0.4831164477679002	0.4669748051362345
+K18589	K09457	queF; 7-cyano-7-deazaguanine reductase [EC:1.7.1.13]	0.4831164477679002	0.4680166780061217
+K18589	K03705	hrcA; heat-inducible transcriptional repressor	0.4831164477679002	0.4707862137240431
+K18589	K00446	dmpB, xylE; catechol 2,3-dioxygenase [EC:1.13.11.2]	0.4831164477679002	0.4714974561043585
+K18589	K06136	pqqB; pyrroloquinoline quinone biosynthesis protein B	0.4831164477679002	0.4717117100627822
+K18589	K11414	SIRT4, SIR2L4; NAD+-dependent protein deacetylase sirtuin 4 [EC:2.3.1.286]	0.4831164477679002	0.472243847320103
+K18589	K06996	K06996; uncharacterized protein	0.4831164477679002	0.4941926458294681

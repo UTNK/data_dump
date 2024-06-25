@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18824	K08482	kaiC; circadian clock protein KaiC	0.7645325515255107	0.7250921754620906
+K18824	K10227	smoE, mtlE; sorbitol/mannitol transport system substrate-binding protein	0.7645325515255107	0.7290146750191012
+K18824	K10229	smoG, mtlG; sorbitol/mannitol transport system permease protein	0.7645325515255107	0.7309217376315217
+K18824	K10228	smoF, mtlF; sorbitol/mannitol transport system permease protein	0.7645325515255107	0.7311536551259501
+K18824	K02277	coxD, ctaF; cytochrome c oxidase subunit IV [EC:7.1.1.9]	0.7645325515255107	0.7332413759603412
+K18824	K17315	gtsA, glcE; glucose/mannose transport system substrate-binding protein	0.7645325515255107	0.7350950881081751
+K18824	K19689	ampS, pepS, ampT; aminopeptidase [EC:3.4.11.-]	0.7645325515255107	0.7395450512294613
+K18824	K16238	eat, eutP; ethanolamine permease	0.7645325515255107	0.7409771922914394
+K18824	K06136	pqqB; pyrroloquinoline quinone biosynthesis protein B	0.7645325515255107	0.7421838123904981
+K18824	K00479	gbcA; glycine betaine catabolism A	0.7645325515255107	0.7437481538452771
+K18824	mobileOG_000349657	xth	0.7645325515255107	0.7440463335190467
+K18824	K13924	cheBR; two-component system, chemotaxis family, CheB/CheR fusion protein [EC:2.1.1.80 3.1.1.61]	0.7645325515255107	0.7441251259233713
+K18824	K11354	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]	0.7645325515255107	0.744259731881813
+K18824	K12132	prkC, stkP; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	0.7645325515255107	0.7458671407849252
+K18824	K17752	rsbT; serine/threonine-protein kinase RsbT [EC:2.7.11.1]	0.7645325515255107	0.7466977302312862
+K18824	K21481	mhuD, hmoB; heme oxygenase (mycobilin-producing) [EC:1.14.99.57]	0.7645325515255107	0.7471792735420488
+K18824	K05568	mnhD, mrpD; multicomponent Na+:H+ antiporter subunit D	0.7645325515255107	0.7478897362067234
+K18824	K09924	K09924; uncharacterized protein	0.7645325515255107	0.7479199750268242
+K18824	K01545	kdpF; potassium-transporting ATPase KdpF subunit	0.7645325515255107	0.749594460519997
+K18824	K15975	K15975; glyoxalase family protein	0.7645325515255107	0.7514859385749557
+K18824	K13013	wbqV; O-antigen biosynthesis protein WbqV	0.7645325515255107	0.7518074812679887
+K18824	K04034	bchE; anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase [EC:1.21.98.3]	0.7645325515255107	0.7521555279071356
+K18824	K18981	udh; uronate dehydrogenase [EC:1.1.1.203]	0.7645325515255107	0.7524577125416557
+K18824	K21159	sgcF, ncsF2, kedF; epoxide hydrolase	0.7645325515255107	0.752636385961584
+K18824	K12542	lapC; membrane fusion protein, adhesin transport system	0.7645325515255107	0.7830651314571329

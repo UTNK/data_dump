@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18143	K03566	gcvA; LysR family transcriptional regulator, glycine cleavage system transcriptional activator	0.7558508284039491	0.7090552083214664
+K18143	K11209	yghU, yfcG; GSH-dependent disulfide-bond oxidoreductase [EC:1.8.4.-]	0.7558508284039491	0.7128483247924198
+K18143	K03719	lrp; Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	0.7558508284039491	0.7138372481485742
+K18143	K00325	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]	0.7558508284039491	0.7147284814964253
+K18143	K06190	ispZ; intracellular septation protein	0.7558508284039491	0.7188425829084978
+K18143	K05799	pdhR; GntR family transcriptional regulator, transcriptional repressor for pyruvate dehydrogenase complex	0.7558508284039491	0.7189435761037914
+K18143	K00626	ACAT, atoB; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	0.7558508284039491	0.7215640975979223
+K18143	K02391	flgF; flagellar basal-body rod protein FlgF	0.7558508284039491	0.72218432890013
+K18143	K06916	zapE; cell division protein ZapE	0.7558508284039491	0.7223840658806858
+K18143	K01207	nagZ; beta-N-acetylhexosaminidase [EC:3.2.1.52]	0.7558508284039491	0.723604770453559
+K18143	K03667	hslU; ATP-dependent HslUV protease ATP-binding subunit HslU	0.7558508284039491	0.7237586465523274
+K18143	K09159	cptB; antitoxin CptB	0.7558508284039491	0.7240062244625753
+K18143	mobileOG_000778060	parC	0.7558508284039491	0.7265881660111692
+K18143	K03594	bfr; bacterioferritin [EC:1.16.3.1]	0.7558508284039491	0.727643605444219
+K18143	K12262	cybB; superoxide oxidase [EC:1.10.3.17]	0.7558508284039491	0.7281813128464146
+K18143	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	0.7558508284039491	0.7292187640670149
+K18143	K06194	nlpD; lipoprotein NlpD	0.7558508284039491	0.729290352253241
+K18143	mobileOG_000021898	clpA	0.7558508284039491	0.729602971802881
+K18143	K01419	hslV, clpQ; ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]	0.7558508284039491	0.7305219914976233
+K18143	K08305	mltB; membrane-bound lytic murein transglycosylase B [EC:4.2.2.-]	0.7558508284039491	0.7306224287131446
+K18143	mobileOG_000332073	dnaQ	0.7558508284039491	0.7312175410324524
+K18143	K03688	ubiB, aarF; ubiquinone biosynthesis protein	0.7558508284039491	0.7319453349234406
+K18143	K01919	gshA; glutamate--cysteine ligase [EC:6.3.2.2]	0.7558508284039491	0.7321644738913239
+K18143	K07708	glnL, ntrB; two-component system, NtrC family, nitrogen regulation sensor histidine kinase GlnL [EC:2.7.13.3]	0.7558508284039491	0.7340321193050982
+K18143	K02557	motB; chemotaxis protein MotB	0.7558508284039491	0.7341968390052631

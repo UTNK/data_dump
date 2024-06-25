@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18301	K03635	MOCS2B, moaE; molybdopterin synthase catalytic subunit [EC:2.8.1.12]	0.7526758793191071	0.7193701297133682
+K18301	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	0.7526758793191071	0.7218603015227827
+K18301	K01895	ACSS1_2, acs; acetyl-CoA synthetase [EC:6.2.1.1]	0.7526758793191071	0.7223766287666018
+K18301	K06980	ygfZ; tRNA-modifying protein YgfZ	0.7526758793191071	0.7273314642459823
+K18301	K02020	modA; molybdate transport system substrate-binding protein	0.7526758793191071	0.7289175604144541
+K18301	K00982	glnE; [glutamine synthetase] adenylyltransferase / [glutamine synthetase]-adenylyl-L-tyrosine phosphorylase [EC:2.7.7.42 2.7.7.89]	0.7526758793191071	0.7300090697875226
+K18301	K00344	qor, CRYZ; NADPH:quinone reductase [EC:1.6.5.5]	0.7526758793191071	0.7304297085992841
+K18301	K03750	moeA; molybdopterin molybdotransferase [EC:2.10.1.1]	0.7526758793191071	0.7305041003445449
+K18301	K00990	glnD; [protein-PII] uridylyltransferase [EC:2.7.7.59]	0.7526758793191071	0.7309951605496291
+K18301	K03639	moaA, CNX2; GTP 3,8-cyclase [EC:4.1.99.22]	0.7526758793191071	0.7310422301309539
+K18301	K03637	moaC, CNX3; cyclic pyranopterin monophosphate synthase [EC:4.6.1.17]	0.7526758793191071	0.7310844494688626
+K18301	K00528	fpr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]	0.7526758793191071	0.7310903865212393
+K18301	K03799	htpX; heat shock protein HtpX [EC:3.4.24.-]	0.7526758793191071	0.7320589336062316
+K18301	K06998	phzF; trans-2,3-dihydro-3-hydroxyanthranilate isomerase [EC:5.3.3.17]	0.7526758793191071	0.7323001509636893
+K18301	K00108	betA, CHDH; choline dehydrogenase [EC:1.1.99.1]	0.7526758793191071	0.7350913018954573
+K18301	K01126	E3.1.4.46, glpQ, ugpQ; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]	0.7526758793191071	0.735390757170957
+K18301	K06911	PIR; quercetin 2,3-dioxygenase [EC:1.13.11.24]	0.7526758793191071	0.7360852012895636
+K18301	K02303	cobA; uroporphyrin-III C-methyltransferase [EC:2.1.1.107]	0.7526758793191071	0.7365992866788418
+K18301	K08300	rne; ribonuclease E [EC:3.1.26.12]	0.7526758793191071	0.7367891919996191
+K18301	K00632	fadA, fadI; acetyl-CoA acyltransferase [EC:2.3.1.16]	0.7526758793191071	0.7370841519919618
+K18301	K00163	aceE; pyruvate dehydrogenase E1 component [EC:1.2.4.1]	0.7526758793191071	0.7371270962438266
+K18301	K00362	nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]	0.7526758793191071	0.7371364668937959
+K18301	K01626	E2.5.1.54, aroF, aroG, aroH; 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]	0.7526758793191071	0.7374548319144988
+K18301	K02025	ABC.MS.P; multiple sugar transport system permease protein	0.7526758793191071	0.7377845034175246
+K18301	K02018	modB; molybdate transport system permease protein	0.7526758793191071	0.7382644965188427

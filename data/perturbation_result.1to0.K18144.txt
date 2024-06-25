@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18144	K11209	yghU, yfcG; GSH-dependent disulfide-bond oxidoreductase [EC:1.8.4.-]	0.7557189682750998	0.6708398003865483
+K18144	K06194	nlpD; lipoprotein NlpD	0.7557189682750998	0.6904364140392781
+K18144	K03566	gcvA; LysR family transcriptional regulator, glycine cleavage system transcriptional activator	0.7557189682750998	0.7057109189594053
+K18144	K03719	lrp; Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	0.7557189682750998	0.7074214112011143
+K18144	K04063	osmC, ohr; lipoyl-dependent peroxiredoxin [EC:1.11.1.28]	0.7557189682750998	0.7155691070566841
+K18144	K06916	zapE; cell division protein ZapE	0.7557189682750998	0.7194433127398936
+K18144	K05799	pdhR; GntR family transcriptional regulator, transcriptional repressor for pyruvate dehydrogenase complex	0.7557189682750998	0.7206081239062164
+K18144	K00626	ACAT, atoB; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	0.7557189682750998	0.7218721391011983
+K18144	K02533	lasT; tRNA/rRNA methyltransferase [EC:2.1.1.-]	0.7557189682750998	0.7239152444585368
+K18144	K09159	cptB; antitoxin CptB	0.7557189682750998	0.7247128817999734
+K18144	K06190	ispZ; intracellular septation protein	0.7557189682750998	0.7249078104990951
+K18144	K03594	bfr; bacterioferritin [EC:1.16.3.1]	0.7557189682750998	0.7253339851359316
+K18144	K00121	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	0.7557189682750998	0.7260758167516804
+K18144	mobileOG_000778060	parC	0.7557189682750998	0.7271351834664964
+K18144	K00275	pdxH, PNPO; pyridoxamine 5-phosphate oxidase [EC:1.4.3.5]	0.7557189682750998	0.7286869889976382
+K18144	mobileOG_000170347	mutL	0.7557189682750998	0.7310752857535167
+K18144	K00242	sdhD, frdD; succinate dehydrogenase / fumarate reductase, membrane anchor subunit	0.7557189682750998	0.7313474082211957
+K18144	K00325	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]	0.7557189682750998	0.7315450671038995
+K18144	K09806	K09806; uncharacterized protein	0.7557189682750998	0.7315470400567455
+K18144	K12262	cybB; superoxide oxidase [EC:1.10.3.17]	0.7557189682750998	0.7317464901910453
+K18144	K02427	rlmE, rrmJ, ftsJ; 23S rRNA (uridine2552-2-O)-methyltransferase [EC:2.1.1.166]	0.7557189682750998	0.7321221053053277
+K18144	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	0.7557189682750998	0.732125610467501
+K18144	K03688	ubiB, aarF; ubiquinone biosynthesis protein	0.7557189682750998	0.7334791534205691
+K18144	mobileOG_000351769	uvrC	0.7557189682750998	0.7347237125623203
+K18144	K06179	rluC; 23S rRNA pseudouridine955/2504/2580 synthase [EC:5.4.99.24]	0.7557189682750998	0.7356021259605701

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18230	K07071	0.0075369178145	K07071; uncharacterized protein
+K18230	K05349	0.0072296249781484	bglX; beta-glucosidase [EC:3.2.1.21]
+K18230	K21430	0.0071869609480527	yliI; aldose sugar dehydrogenase [EC:1.1.5.-]
+K18230	K02056	0.0071192029481235	ABC.SS.A; simple sugar transport system ATP-binding protein [EC:7.5.2.-]
+K18230	K03310	0.0071094378553709	TC.AGCS; alanine or glycine:cation symporter, AGCS family
+K18230	K16264	0.0070724338118169	czcD, zitB; cobalt-zinc-cadmium efflux system protein
+K18230	K16137	0.007041516132392	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K18230	K07112	0.0070319669029661	K07112; uncharacterized protein
+K18230	K01480	0.0070065229219896	speB; agmatinase [EC:3.5.3.11]
+K18230	K01638	0.0069653705561422	aceB, glcB; malate synthase [EC:2.3.3.9]
+K18230	K07126	0.0069624328560226	K07126; uncharacterized protein
+K18230	mobileOG_000301711	0.0069517072178438	fhuE
+K18230	K09861	0.0069446691985626	K09861; uncharacterized protein
+K18230	K07027	0.0069332599316268	K07027; glycosyltransferase 2 family protein
+K18230	K09125	0.006883919870124	yhhQ; queuosine precursor transporter
+K18230	K02012	0.0068504828723883	afuA, fbpA; iron(III) transport system substrate-binding protein
+K18230	K05520	0.0068224928923995	pfpI; protease I [EC:3.5.1.124]
+K18230	K02011	0.0066784672744417	afuB, fbpB; iron(III) transport system permease protein
+K18230	K04750	0.0066625901586339	phnB; PhnB protein
+K18230	K08981	0.0066240459262935	K08981; putative membrane protein
+K18230	K07646	0.0066109995522629	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18230	K06215	0.0064180542177527	pdxS, pdx1; pyridoxal 5-phosphate synthase pdxS subunit [EC:4.3.3.6]
+K18230	K07181	0.0063798117051624	cdgJ; c-di-GMP phosphodiesterase [EC:3.1.4.52]
+K18230	mobileOG_000026121	0.0063780982577783	dinB
+K18230	K14136	0.0063538169467571	K14136; decaprenyl-phosphate phosphoribosyltransferase [EC:2.4.2.45]
+K18230	K07063	0.0062874672207606	K07063; uncharacterized protein
+K18230	K01912	0.0062469163095257	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18230	K09461	0.0061829232125972	E1.14.13.40; anthraniloyl-CoA monooxygenase [EC:1.14.13.40]
+K18230	K11897	0.0061804650591434	impF; type VI secretion system protein ImpF
+K18230	K18122	0.0061681457745979	cat2, abfT; 4-hydroxybutyrate CoA-transferase [EC:2.8.3.-]
+K18230	K05979	0.0061495315375607	comB; 2-phosphosulfolactate phosphatase [EC:3.1.3.71]
+K18230	K07079	0.0061206118822392	K07079; uncharacterized protein
+K18230	K24131	0.0061121112105858	prsW; protease PrsW [EC:3.4.-.-]
+K18230	K07649	0.0061061159655722	tctE; two-component system, OmpR family, sensor histidine kinase TctE [EC:2.7.13.3]
+K18230	mobileOG_000276756	0.0061024111890527	CBU_0006;
+K18230	K09949	0.0060917198654401	K09949; uncharacterized protein
+K18230	mobileOG_000170347	0.0060803750407651	mutL
+K18230	K11443	0.0060732427971081	divK; two-component system, cell cycle response regulator DivK
+K18230	K02393	0.0060721911021952	flgH; flagellar L-ring protein precursor FlgH
+K18230	K03117	0.0060644115133848	tatB; sec-independent protein translocase protein TatB
+K18230	K06960	0.0060638797420178	K06960; uncharacterized protein
+K18230	K00951	0.0060621664089928	relA; GTP pyrophosphokinase [EC:2.7.6.5]
+K18230	K02077	0.0060488299491352	ABC.ZM.S; zinc/manganese transport system substrate-binding protein
+K18230	K18682	0.0060440495241319	rny; ribonucrease Y [EC:3.1.-.-]
+K18230	K01421	0.0060330976836302	yhgE; putative membrane protein
+K18230	K02418	0.0060165082416656	fliOZ, fliO; flagellar protein FliO/FliZ
+K18230	K07020	0.0059993620436828	K07020; uncharacterized protein
+K18230	K15269	0.0059992206529484	pecM; probable blue pigment (indigoidine) exporter
+K18230	K01918	0.0059916990110429	panC; pantoate--beta-alanine ligase [EC:6.3.2.1]
+K18230	K11085	0.0059792980222218	msbA; ATP-binding cassette, subfamily B, bacterial MsbA [EC:3.6.3.-]

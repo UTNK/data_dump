@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K17840	K00140	0.0080390037998699	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]
+K17840	K03568	0.0078311708238424	tldD; TldD protein
+K17840	activated_sludge	0.0077360703165944	
+K17840	K07027	0.0076607317734734	K07027; glycosyltransferase 2 family protein
+K17840	K19221	0.0076185546143259	cobA, btuR; cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+K17840	K03407	0.0075820508204537	cheA; two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]
+K17840	K02415	0.0075606381642854	fliL; flagellar FliL protein
+K17840	K00847	0.0073666593597432	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K17840	K00325	0.0073634161901536	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K17840	K02049	0.0073577679323132	ABC.SN.A; NitT/TauT family transport system ATP-binding protein
+K17840	K08281	0.0073371678654603	pncA; nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-]
+K17840	K03783	0.0072826705058377	punA, PNP; purine-nucleoside phosphorylase [EC:2.4.2.1]
+K17840	K00652	0.0072038498425484	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K17840	K01664	0.0071487561151487	pabA; para-aminobenzoate synthetase component II [EC:2.6.1.85]
+K17840	K00783	0.0071375567084783	rlmH; 23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177]
+K17840	K03782	0.0070704027890693	katG; catalase-peroxidase [EC:1.11.1.21]
+K17840	K09125	0.0070595549002236	yhhQ; queuosine precursor transporter
+K17840	K08997	0.0070556790469262	SELENOO, selO; serine/tyrosine/threonine adenylyltransferase [EC:2.7.7.-]
+K17840	K02027	0.0070502306938767	ABC.MS.S; multiple sugar transport system substrate-binding protein
+K17840	K01534	0.0070397158980276	zntA; Zn2+/Cd2+-exporting ATPase [EC:7.2.2.12 7.2.2.21]
+K17840	K02418	0.006990741846363	fliOZ, fliO; flagellar protein FliO/FliZ
+K17840	K02071	0.0069713412263263	metN; D-methionine transport system ATP-binding protein
+K17840	K00027	0.0069705244973057	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K17840	K07112	0.0069365370777301	K07112; uncharacterized protein
+K17840	K02058	0.0068944307154182	ABC.SS.S; simple sugar transport system substrate-binding protein
+K17840	money	0.0068272869507629	
+K17840	K16137	0.0068190391897849	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K17840	mobileOG_000777978	0.0068078394239818	korSA
+K17840	K05520	0.0067921913806324	pfpI; protease I [EC:3.5.1.124]
+K17840	K07646	0.0067137675439709	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K17840	K07507	0.0066857143649204	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K17840	K01820	0.0066733391767008	rhaA; L-rhamnose isomerase / sugar isomerase [EC:5.3.1.14 5.3.1.-]
+K17840	K02011	0.0066504160278173	afuB, fbpB; iron(III) transport system permease protein
+K17840	K03310	0.0065197779446158	TC.AGCS; alanine or glycine:cation symporter, AGCS family
+K17840	K16329	0.0065184889080107	psuG; pseudouridylate synthase [EC:4.2.1.70]
+K17840	K01912	0.0064987172919409	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K17840	K01483	0.0064395250336437	allA; ureidoglycolate lyase [EC:4.3.2.3]
+K17840	K05559	0.0064189198228953	phaA; multicomponent K+:H+ antiporter subunit A
+K17840	K17315	0.0064040726870464	gtsA, glcE; glucose/mannose transport system substrate-binding protein
+K17840	K06413	0.0063803661552387	spoVK; stage V sporulation protein K
+K17840	K19267	0.0063718253297559	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K17840	mobileOG_000353629	0.006312138931292	XAC0522
+K17840	mobileOG_000093088	0.0063040963767656	ftsZ
+K17840	K07778	0.0062869789760438	desK; two-component system, NarL family, sensor histidine kinase DesK [EC:2.7.13.3]
+K17840	K00951	0.0062785350848286	relA; GTP pyrophosphokinase [EC:2.7.6.5]
+K17840	K22719	0.006271498856031	envC; murein hydrolase activator
+K17840	K02616	0.0062654002562245	paaX; phenylacetic acid degradation operon negative regulatory protein
+K17840	K00931	0.0062505896717142	proB; glutamate 5-kinase [EC:2.7.2.11]
+K17840	mobileOG_000001353	0.0062498184248441	oppB
+K17840	K02160	0.0062428044131758	accB, bccP; acetyl-CoA carboxylase biotin carboxyl carrier protein

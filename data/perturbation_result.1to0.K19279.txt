@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19279	mobileOG_000282572	radC	0.0012685341433585	0.0004550388668753
+K19279	mobileOG_000150860	uvrC	0.0012685341433585	0.0007304571833234
+K19279	K01061	E3.1.1.45; carboxymethylenebutenolidase [EC:3.1.1.45]	0.0012685341433585	0.0018322473990868
+K19279	mobileOG_000261240	groS	0.0012685341433585	0.0018475909307041
+K19279	K00912	lpxK; tetraacyldisaccharide 4-kinase [EC:2.7.1.130]	0.0012685341433585	0.00184882198567
+K19279	K11720	lptG; lipopolysaccharide export system permease protein	0.0012685341433585	0.0019020624153335
+K19279	K02527	kdtA, waaA; 3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]	0.0012685341433585	0.0019276516959178
+K19279	K01772	hemH, FECH; protoporphyrin/coproporphyrin ferrochelatase [EC:4.99.1.1 4.99.1.9]	0.0012685341433585	0.0019297657634416
+K19279	K01627	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]	0.0012685341433585	0.0019428714295926
+K19279	K00674	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]	0.0012685341433585	0.0020826162076081
+K19279	K00979	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]	0.0012685341433585	0.0021245900825239
+K19279	K02536	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	0.0012685341433585	0.0021419746649968
+K19279	K06041	kdsD, kpsF; arabinose-5-phosphate isomerase [EC:5.3.1.13]	0.0012685341433585	0.002206386743969
+K19279	K06020	ettA; energy-dependent translational throttle protein EttA	0.0012685341433585	0.0022217230339662
+K19279	K02066	mlaE, linK; phospholipid/cholesterol/gamma-HCH transport system permease protein	0.0012685341433585	0.0022541186219064
+K19279	mobileOG_000330441	polA	0.0012685341433585	0.0025498589623561
+K19279	K02067	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	0.0012685341433585	0.0025928652549093
+K19279	K03801	lipB; lipoyl(octanoyl) transferase [EC:2.3.1.181]	0.0012685341433585	0.002637318337376
+K19279	K03820	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.269]	0.0012685341433585	0.0026757513473891
+K19279	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	0.0012685341433585	0.0026954014691432
+K19279	K02065	mlaF, linL, mkl; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	0.0012685341433585	0.0028052491220641
+K19279	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]	0.0012685341433585	0.0032025450419774
+K19279	K07091	lptF; lipopolysaccharide export system permease protein	0.0012685341433585	0.0032787873409176
+K19279	K03559	exbD; biopolymer transport protein ExbD	0.0012685341433585	0.0033300060591762
+K19279	K03561	exbB; biopolymer transport protein ExbB	0.0012685341433585	0.0033894310502409

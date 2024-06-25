@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18698	K02421	0.0081725970982018	fliR; flagellar biosynthetic protein FliR
+K18698	K01809	0.0081699759565871	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18698	K06872	0.0081483464208356	K06872; uncharacterized protein
+K18698	K01512	0.0080508148414047	acyP; acylphosphatase [EC:3.6.1.7]
+K18698	K02406	0.0080405051630674	fliC; flagellin
+K18698	K03594	0.00794542057536	bfr; bacterioferritin [EC:1.16.3.1]
+K18698	K11070	0.0078802083662344	potC; spermidine/putrescine transport system permease protein
+K18698	K07010	0.0077725348734025	K07010; putative glutamine amidotransferase
+K18698	K01760	0.0077608093640798	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18698	K02401	0.0077106201496197	flhB; flagellar biosynthetic protein FlhB
+K18698	K03767	0.0075361967016844	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18698	K07124	0.0074965158300048	K07124; uncharacterized protein
+K18698	K01480	0.0074371029162965	speB; agmatinase [EC:3.5.3.11]
+K18698	K19267	0.0074286278679338	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18698	K07160	0.0074235584939104	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18698	K07646	0.0073088814385942	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18698	K02575	0.0072613383020726	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18698	K10439	0.0072214337761118	rbsB; ribose transport system substrate-binding protein
+K18698	mobileOG_000031464	0.0072096345349379	mutT
+K18698	K06996	0.0072031392334237	K06996; uncharacterized protein
+K18698	K00375	0.00717240440824	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18698	mobileOG_000802159	0.00715660306234	rep
+K18698	K01167	0.0070811810028968	rnaSA; ribonuclease T1 [EC:4.6.1.24]
+K18698	K00865	0.0070574244399412	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18698	K07507	0.006999772336291	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18698	K02011	0.0069895158315173	afuB, fbpB; iron(III) transport system permease protein
+K18698	K01912	0.0069251958954484	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18698	K07077	0.0068637155222517	K07077; uncharacterized protein
+K18698	K01821	0.0068337960114286	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18698	K00163	0.006757865044402	aceE; pyruvate dehydrogenase E1 component [EC:1.2.4.1]
+K18698	K24206	0.006741978942867	
+K18698	K15578	0.0067284470492983	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K18698	K03773	0.0067201903256203	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K18698	K03325	0.0067181942878705	ACR3, arsB; arsenite transporter
+K18698	K03316	0.0067142876318905	TC.CPA1; monovalent cation:H+ antiporter, CPA1 family
+K18698	K00424	0.0067107306355113	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K18698	K06132	0.0067094541480305	clsC; cardiolipin synthase C [EC:2.7.8.-]
+K18698	K12658	0.0067021990330484	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]
+K18698	K02523	0.0066974550493801	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K18698	K06726	0.0066896211391683	rbsD; D-ribose pyranase [EC:5.4.99.62]
+K18698	K08682	0.0066796204440414	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K18698	K01579	0.0066748146281392	panD; aspartate 1-decarboxylase [EC:4.1.1.11]
+K18698	K01466	0.0066700968983286	allB; allantoinase [EC:3.5.2.5]
+K18698	mobileOG_000130713	0.0066245844006025	dnaG
+K18698	mobileOG_000093088	0.0066186604231428	ftsZ
+K18698	K01255	0.0065979558671518	CARP, pepA; leucyl aminopeptidase [EC:3.4.11.1]
+K18698	mobileOG_000015288	0.0065952573592119	hflC
+K18698	K15975	0.0065837385210208	K15975; glyoxalase family protein
+K18698	K13693	0.0065706484941895	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]
+K18698	K07101	0.0065599644308492	K07101; uncharacterized protein

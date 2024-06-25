@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18129	K02406	0.0094204002201667	fliC; flagellin
+K18129	K03594	0.0094009767099499	bfr; bacterioferritin [EC:1.16.3.1]
+K18129	K02401	0.0092876729003521	flhB; flagellar biosynthetic protein FlhB
+K18129	K00325	0.0090893737250254	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K18129	K01480	0.0090282842052754	speB; agmatinase [EC:3.5.3.11]
+K18129	K00865	0.0090204269837934	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18129	K00652	0.0088441694170693	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18129	K07124	0.0088136586793174	K07124; uncharacterized protein
+K18129	K14393	0.0088100788398663	actP; cation/acetate symporter
+K18129	K07646	0.0087143064289411	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18129	K01512	0.0086726962371274	acyP; acylphosphatase [EC:3.6.1.7]
+K18129	K06872	0.0086275412001312	K06872; uncharacterized protein
+K18129	K02039	0.0086105224635651	phoU; phosphate transport system protein
+K18129	K02575	0.0085304772119895	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18129	K01760	0.0084476063362025	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18129	K07507	0.0083812424235696	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18129	K02011	0.008325305789417	afuB, fbpB; iron(III) transport system permease protein
+K18129	K07010	0.0082579702164851	K07010; putative glutamine amidotransferase
+K18129	K01969	0.0082427300984231	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K18129	K16090	0.0082005993997102	fiu; catecholate siderophore receptor
+K18129	K01821	0.0081611093077796	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18129	K06976	0.0081546348043739	K06976; uncharacterized protein
+K18129	K10206	0.0081449230492656	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K18129	K02008	0.0081025100605565	cbiQ; cobalt/nickel transport system permease protein
+K18129	K06996	0.0080497082846688	K06996; uncharacterized protein
+K18129	K03773	0.0080342963352689	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K18129	K13693	0.0080182465344318	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]
+K18129	K06980	0.0079882435673813	ygfZ; tRNA-modifying protein YgfZ
+K18129	K06956	0.0079862977158287	K06956; uncharacterized protein
+K18129	mobileOG_000019670	0.0079636369539092	nusB
+K18129	K07160	0.0079365302146217	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18129	K00375	0.0079313130337471	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18129	K00392	0.0079280271851783	sir; sulfite reductase (ferredoxin) [EC:1.8.7.1]
+K18129	K03767	0.0078660624849726	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18129	K06186	0.0078632821511226	bamE, smpA; outer membrane protein assembly factor BamE
+K18129	mobileOG_000093088	0.007856807647717	ftsZ
+K18129	K02016	0.0078309096340946	ABC.FEV.S; iron complex transport system substrate-binding protein
+K18129	mobileOG_000026018	0.0078244351306889	xerC
+K18129	K23265	0.0077952998653638	purQ; phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase [EC:6.3.5.3 3.5.1.2]
+K18129	K13015	0.0077883944868292	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K18129	mobileOG_000384384	0.0077661646000387	25
+K18129	K03269	0.0077661646000387	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]
+K18129	K07224	0.0077370293347136	efeO; iron uptake system component EfeO
+K18129	K01545	0.0076969751945795	kdpF; potassium-transporting ATPase KdpF subunit
+K18129	mobileOG_000031464	0.0076928500899241	mutT
+K18129	K10228	0.0076833068611813	smoF, mtlF; sorbitol/mannitol transport system permease protein
+K18129	K07077	0.007681996055766	K07077; uncharacterized protein
+K18129	K17230	0.00767634187678	fccA; cytochrome subunit of sulfide dehydrogenase
+K18129	mobileOG_000000370	0.0076722843006578	dnaE2
+K18129	K00849	0.0076690470489549	galK; galactokinase [EC:2.7.1.6]

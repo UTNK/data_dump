@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19595	K06980	0.0086376008685856	ygfZ; tRNA-modifying protein YgfZ
+K19595	K14393	0.0084181900079944	actP; cation/acetate symporter
+K19595	K07160	0.0081855934709825	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K19595	K02406	0.0081455242372513	fliC; flagellin
+K19595	K02420	0.0081347879248969	fliQ; flagellar biosynthetic protein FliQ
+K19595	K00845	0.0080948972786698	glk; glucokinase [EC:2.7.1.2]
+K19595	K02401	0.0080853989878061	flhB; flagellar biosynthetic protein FlhB
+K19595	K01760	0.0080561911972603	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19595	K01480	0.0078184224983095	speB; agmatinase [EC:3.5.3.11]
+K19595	K03767	0.0078162529399636	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19595	K01512	0.0077813250090367	acyP; acylphosphatase [EC:3.6.1.7]
+K19595	K07646	0.0077800125253836	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K19595	mobileOG_000031464	0.0076868918713769	mutT
+K19595	K00865	0.0076692264532176	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K19595	K06996	0.0076254016364019	K06996; uncharacterized protein
+K19595	K07124	0.0075917508532558	K07124; uncharacterized protein
+K19595	K00375	0.0075770319523897	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19595	K02575	0.0075758058757396	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K19595	K00652	0.0075564627979416	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K19595	K06132	0.0075390012795598	clsC; cardiolipin synthase C [EC:2.7.8.-]
+K19595	K06872	0.0075061576662278	K06872; uncharacterized protein
+K19595	K02011	0.0074860896193449	afuB, fbpB; iron(III) transport system permease protein
+K19595	K00325	0.0074850340730772	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K19595	K07122	0.0073328134917552	mlaB; phospholipid transport system transporter-binding protein
+K19595	K01048	0.0072672890187036	pldB; lysophospholipase [EC:3.1.1.5]
+K19595	K07010	0.0072130003701028	K07010; putative glutamine amidotransferase
+K19595	K05802	0.0071727838250544	mscK, kefA, aefA; potassium-dependent mechanosensitive channel
+K19595	K01912	0.0071697569766256	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K19595	K00990	0.007159586995462	glnD; [protein-PII] uridylyltransferase [EC:2.7.7.59]
+K19595	K10439	0.0070889463860286	rbsB; ribose transport system substrate-binding protein
+K19595	mobileOG_000026018	0.007054419859552	xerC
+K19595	K07507	0.0070306803996974	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19595	K02523	0.0070105688182865	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K19595	K12658	0.0068982154237384	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]
+K19595	K01821	0.0068878684140556	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K19595	K07712	0.0068632147805132	glnG, ntrC; two-component system, NtrC family, nitrogen regulation response regulator GlnG
+K19595	K00342	0.0068553703044246	nuoM; NADH-quinone oxidoreductase subunit M [EC:7.1.1.2]
+K19595	K02806	0.0068543145140486	ptsN; nitrogen PTS system EIIA component [EC:2.7.1.-]
+K19595	K11719	0.0068522099971518	lptC; lipopolysaccharide export system protein LptC
+K19595	K03426	0.0068366893661078	E3.6.1.22, NUDT12, nudC; NAD+ diphosphatase [EC:3.6.1.22]
+K19595	mobileOG_000188203	0.0068347815098002	mutS2
+K19595	K01878	0.0068303345710144	glyQ; glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]
+K19595	mobileOG_000156238	0.0068134569589347	hfq
+K19595	K07224	0.0067963396637612	efeO; iron uptake system component EfeO
+K19595	K04090	0.0067952405231351	E1.2.7.8; indolepyruvate ferredoxin oxidoreductase [EC:1.2.7.8]
+K19595	mobileOG_000778060	0.0067943915091772	parC
+K19595	K13282	0.0067923257169666	cphB; cyanophycinase [EC:3.4.15.6]
+K19595	K03300	0.0067599537609406	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family
+K19595	K02300	0.0067498276429921	cyoD; cytochrome o ubiquinol oxidase subunit IV
+K19595	K06143	0.0067470692986463	creD; inner membrane protein

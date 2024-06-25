@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18899	K01912	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]	0.0677149522075628	0.0630194670336004
+K18899	K00074	paaH, hbd, fadB, mmgB; 3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]	0.0677149522075628	0.0639184130289431
+K18899	K18297	mexT; LysR family transcriptional regulator, mexEF-oprN operon transcriptional activator	0.0677149522075628	0.0710119194721798
+K18899	K01457	atzF; allophanate hydrolase [EC:3.5.1.54]	0.0677149522075628	0.071211094099604
+K18899	K03189	ureG; urease accessory protein	0.0677149522075628	0.0718110072706149
+K18899	K01304	pcp; pyroglutamyl-peptidase [EC:3.4.19.3]	0.0677149522075628	0.0720091377007952
+K18899	K02224	cobB-cbiA; cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11]	0.0677149522075628	0.0721099293418012
+K18899	K05921	hpaG; 5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase / 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase [EC:4.1.1.68 5.3.3.-]	0.0677149522075628	0.0721107379075227
+K18899	K01826	hpaF, hpcD; 5-carboxymethyl-2-hydroxymuconate isomerase [EC:5.3.3.10]	0.0677149522075628	0.0723108453018053
+K18899	K15532	yteR, yesR; unsaturated rhamnogalacturonyl hydrolase [EC:3.2.1.172]	0.0677149522075628	0.0725085234240682
+K18899	K15578	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]	0.0677149522075628	0.0728088431597852
+K18899	K20938	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]	0.0677149522075628	0.0733095770396543
+K18899	K01479	hutG; formiminoglutamase [EC:3.5.3.8]	0.0677149522075628	0.0733100025597315
+K18899	K03929	pnbA; para-nitrobenzyl esterase [EC:3.1.1.-]	0.0677149522075628	0.073508671369466
+K18899	K01857	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2]	0.0677149522075628	0.0736078614446326
+K18899	K09702	K09702; uncharacterized protein	0.0677149522075628	0.074908103737537
+K18899	K02007	cbiM; cobalt/nickel transport system permease protein	0.0677149522075628	0.0758087167988457
+K18899	K16165	nagK; fumarylpyruvate hydrolase [EC:3.7.1.20]	0.0677149522075628	0.0781086451232886
+K18899	K12941	abgB; aminobenzoyl-glutamate utilization protein B	0.0677149522075628	0.0786059079315033
+K18899	K07217	K07217; Mn-containing catalase	0.0677149522075628	0.0786066649141579
+K18899	root		0.0677149522075628	0.0789073245115999
+K18899	K02008	cbiQ; cobalt/nickel transport system permease protein	0.0677149522075628	0.0794059717730391
+K18899	K05712	mhpA; 3-(3-hydroxy-phenyl)propionate hydroxylase [EC:1.14.13.127]	0.0677149522075628	0.0796107344018663
+K18899	K00016	LDH, ldh; L-lactate dehydrogenase [EC:1.1.1.27]	0.0677149522075628	0.0829076224322616
+K18899	K13020	wlbA, bplA; UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase [EC:1.1.1.335]	0.0677149522075628	0.0859035920435216

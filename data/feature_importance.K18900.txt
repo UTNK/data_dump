@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18900	mobileOG_000348401	0.0083458039930464	ihfA
+K18900	K07390	0.0079040545746823	grxD, GLRX5; monothiol glutaredoxin
+K18900	K01920	0.007822669775364	gshB; glutathione synthase [EC:6.3.2.3]
+K18900	K03089	0.0077802125930108	rpoH; RNA polymerase sigma-32 factor
+K18900	K03562	0.0077268365241585	tolQ; biopolymer transport protein TolQ
+K18900	K02533	0.0075699866824117	lasT; tRNA/rRNA methyltransferase [EC:2.1.1.-]
+K18900	K03643	0.00748558017208	lptE, rlpB; LPS-assembly lipoprotein
+K18900	K11719	0.0074293812816856	lptC; lipopolysaccharide export system protein LptC
+K18900	K01894	0.0072996970675187	gluQ; glutamyl-Q tRNA(Asp) synthetase [EC:6.1.1.-]
+K18900	K00412	0.0072687402671599	CYTB, petB; ubiquinol-cytochrome c reductase cytochrome b subunit
+K18900	K03179	0.00724685206097	ubiA; 4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]
+K18900	K07735	0.0072268594315383	algH; putative transcriptional regulator
+K18900	mobileOG_000801665	0.007183376306605	dnaN
+K18900	mobileOG_000327567	0.0070842273706485	mutM
+K18900	K00992	0.0069634539013264	murU; N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase [EC:2.7.7.99]
+K18900	mobileOG_000021898	0.0069441494937992	clpA
+K18900	K06194	0.0068797661378039	nlpD; lipoprotein NlpD
+K18900	K01406	0.0067935269806179	prtC; serralysin [EC:3.4.24.40]
+K18900	mobileOG_000778060	0.0067669962999815	parC
+K18900	K08311	0.0067229828507974	nudH; putative (di)nucleoside polyphosphate hydrolase [EC:3.6.1.-]
+K18900	K00074	0.0066964098612819	paaH, hbd, fadB, mmgB; 3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]
+K18900	mobileOG_000325428	0.006654000195944	radC
+K18900	K02005	0.0066496302429577	ABC.CD.TX; HlyD family secretion protein
+K18900	K09774	0.0066310192621927	lptA; lipopolysaccharide export system protein LptA
+K18900	K00684	0.0066157580197422	aat; leucyl/phenylalanyl-tRNA---protein transferase [EC:2.3.2.6]
+K18900	mobileOG_000038959	0.0065968099875888	clpS
+K18900	K02393	0.0065859613076134	flgH; flagellar L-ring protein precursor FlgH
+K18900	K11206	0.0065391728651852	NIT1, ybeM; deaminated glutathione amidase [EC:3.5.1.128]
+K18900	K13587	0.006523200226952	cckA; two-component system, cell cycle sensor histidine kinase and response regulator CckA [EC:2.7.13.3]
+K18900	K08997	0.0065072127856068	SELENOO, selO; serine/tyrosine/threonine adenylyltransferase [EC:2.7.7.-]
+K18900	mobileOG_000326446	0.0064852151743314	dnaX
+K18900	K01879	0.0064782642420644	glyS; glycyl-tRNA synthetase beta chain [EC:6.1.1.14]
+K18900	K00845	0.0064732131173452	glk; glucokinase [EC:2.7.1.2]
+K18900	K07102	0.0064705357387878	amgK; N-acetylmuramate 1-kinase [EC:2.7.1.221]
+K18900	K01057	0.0064613140237722	PGLS, pgl, devB; 6-phosphogluconolactonase [EC:3.1.1.31]
+K18900	K03561	0.0064602332681739	exbB; biopolymer transport protein ExbB
+K18900	K18138	0.0064579413367007	acrB, mexB, adeJ, smeE, mtrD, cmeB; multidrug efflux pump
+K18900	K02793	0.0064465614894875	manXa; mannose PTS system EIIA component [EC:2.7.1.191]
+K18900	mobileOG_000170347	0.0064397378659952	mutL
+K18900	freshwater_sediment	0.0063808550274639	
+K18900	mobileOG_000330441	0.0063752609324854	polA
+K18900	K10026	0.0063684850663127	queE; 7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]
+K18900	K02394	0.0063588303759721	flgI; flagellar P-ring protein precursor FlgI
+K18900	K06923	0.0063534383878743	K06923; uncharacterized protein
+K18900	K01739	0.0063509038253757	metB; cystathionine gamma-synthase [EC:2.5.1.48]
+K18900	K01759	0.0063382125168329	GLO1, gloA; lactoylglutathione lyase [EC:4.4.1.5]
+K18900	K13598	0.006333835275896	ntrY; two-component system, NtrC family, nitrogen regulation sensor histidine kinase NtrY [EC:2.7.13.3]
+K18900	mobileOG_000020993	0.0063304849153482	groEL
+K18900	K01823	0.0063229434781376	idi, IDI; isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]
+K18900	K07018	0.006313855423316	K07018; uncharacterized protein

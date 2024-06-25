@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18590	K02232	cobQ, cbiP; adenosylcobyric acid synthase [EC:6.3.5.10]	0.0839798794162572	0.0737125978808238
+K18590	K02227	cbiB, cobD; adenosylcobinamide-phosphate synthase [EC:6.3.1.10]	0.0839798794162572	0.0745766026984732
+K18590	K03306	TC.PIT; inorganic phosphate transporter, PiT family	0.0839798794162572	0.0763826813624321
+K18590	K01693	hisB; imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	0.0839798794162572	0.0766754999294332
+K18590	K00620	argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]	0.0839798794162572	0.0774379840684502
+K18590	K03325	ACR3, arsB; arsenite transporter	0.0839798794162572	0.0776671908868492
+K18590	K01251	E3.3.1.1, ahcY; adenosylhomocysteinase [EC:3.3.1.1]	0.0839798794162572	0.078220260856471
+K18590	K01821	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]	0.0839798794162572	0.0782770292322808
+K18590	K01817	trpF; phosphoribosylanthranilate isomerase [EC:5.3.1.24]	0.0839798794162572	0.0783221631371003
+K18590	K01724	PCBD, phhB; 4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]	0.0839798794162572	0.0792274417226245
+K18590	K03415	cheV; two-component system, chemotaxis family, chemotaxis protein CheV	0.0839798794162572	0.0794607010618178
+K18590	K00024	mdh; malate dehydrogenase [EC:1.1.1.37]	0.0839798794162572	0.0795027056095453
+K18590	K20509	madB, oadB, gcdB, mmdB; carboxybiotin decarboxylase [EC:7.2.4.1]	0.0839798794162572	0.0795879078434167
+K18590	K02259	COX15, ctaA; cytochrome c oxidase assembly protein subunit 15	0.0839798794162572	0.0798160289161757
+K18590	K01712	hutU, UROC1; urocanate hydratase [EC:4.2.1.49]	0.0839798794162572	0.080054982463447
+K18590	K02224	cobB-cbiA; cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11]	0.0839798794162572	0.0803778204991238
+K18590	K02275	coxB, ctaC; cytochrome c oxidase subunit II [EC:7.1.1.9]	0.0839798794162572	0.0804650850118992
+K18590	K09955	K09955; uncharacterized protein	0.0839798794162572	0.0805690291197338
+K18590	K07152	SCO1; protein SCO1	0.0839798794162572	0.0807906267221005
+K18590	K05825	LYSN; 2-aminoadipate transaminase [EC:2.6.1.-]	0.0839798794162572	0.0809699316796828
+K18590	K06886	glbN; hemoglobin	0.0839798794162572	0.0813440535785592
+K18590	K15987	hppA; K(+)-stimulated pyrophosphate-energized sodium pump	0.0839798794162572	0.0813513586596487
+K18590	K05936	cobM, cbiF; precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271]	0.0839798794162572	0.0816346978029161
+K18590	K00162	PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]	0.0839798794162572	0.0817355195824425
+K18590	K21900	cysL; LysR family transcriptional regulator, transcriptional activator of the cysJI operon	0.0839798794162572	0.0939315380586693

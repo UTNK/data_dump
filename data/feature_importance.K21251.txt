@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K21251	K01975	0.0082982216683478	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K21251	K01480	0.0080608470318277	speB; agmatinase [EC:3.5.3.11]
+K21251	K01640	0.0080410658121177	E4.1.3.4, HMGCL, hmgL; hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4]
+K21251	K02390	0.0079718315431327	flgE; flagellar hook protein FlgE
+K21251	K02071	0.0079223784938576	metN; D-methionine transport system ATP-binding protein
+K21251	K07010	0.0079124878840026	K07010; putative glutamine amidotransferase
+K21251	K17758	0.0078432536150176	nnrD; ADP-dependent NAD(P)H-hydrate dehydratase [EC:4.2.1.136]
+K21251	K07124	0.0078432536150176	K07124; uncharacterized protein
+K21251	K02026	0.0077443475164675	ABC.MS.P1; multiple sugar transport system permease protein
+K21251	K14393	0.0076948944671926	actP; cation/acetate symporter
+K21251	K16137	0.0076454414179175	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K21251	K08997	0.0076058789784975	SELENOO, selO; serine/tyrosine/threonine adenylyltransferase [EC:2.7.7.-]
+K21251	K02011	0.0075959883686426	afuB, fbpB; iron(III) transport system permease protein
+K21251	K00027	0.0074674104405275	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K21251	K02416	0.0074278480011075	fliM; flagellar motor switch protein FliM
+K21251	K00847	0.0073586137321224	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K21251	activated_sludge	0.0071014578758923	
+K21251	K00652	0.0070816766561824	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K21251	K01707	0.0069926611674873	kdgD; 5-dehydro-4-deoxyglucarate dehydratase [EC:4.2.1.41]
+K21251	K06996	0.0068937550689373	K06996; uncharacterized protein
+K21251	K07646	0.0068443020196622	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K21251	K01912	0.0068344114098072	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K21251	K09915	0.0068146301900973	K09915; uncharacterized protein
+K21251	K06949	0.0068146301900973	rsgA, engC; ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100]
+K21251	K09166	0.0067849583605322	K09166; uncharacterized protein
+K21251	K02225	0.0067453959211122	cobC1, cobC; cobalamin biosynthetic protein CobC
+K21251	K19710	0.0066168179929971	E2.7.7.53; ATP adenylyltransferase [EC:2.7.7.53]
+K21251	money	0.0065871461634321	
+K21251	K06864	0.0065475837240122	larE; pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase [EC:4.4.1.37]
+K21251	K00154	0.0065475837240122	E1.2.1.68; coniferyl-aldehyde dehydrogenase [EC:1.2.1.68]
+K21251	K21481	0.0065179118944471	mhuD, hmoB; heme oxygenase (mycobilin-producing) [EC:1.14.99.57]
+K21251	K11076	0.0065080212845921	potG; putrescine transport system ATP-binding protein
+K21251	K06143	0.0064882400648821	creD; inner membrane protein
+K21251	K09019	0.006458568235317	rutE; 3-hydroxypropanoate dehydrogenase [EC:1.1.1.-]
+K21251	K03181	0.006448677625462	ubiC; chorismate--pyruvate lyase [EC:4.1.3.40]
+K21251	K10820	0.006448677625462	ytfR; galactofuranose transport system ATP-binding protein [EC:7.5.2.9]
+K21251	K18208	0.006448677625462	RNLS; renalase [EC:1.6.3.5]
+K21251	K03673	0.0064190057958971	dsbA; protein dithiol oxidoreductase (disulfide-forming) [EC:1.8.4.15]
+K21251	K11689	0.0064190057958971	dctQ; C4-dicarboxylate transporter, DctQ subunit
+K21251	K07799	0.0064091151860421	mdtA; membrane fusion protein, multidrug efflux system
+K21251	K03316	0.0063992245761871	TC.CPA1; monovalent cation:H+ antiporter, CPA1 family
+K21251	K03298	0.0063794433564771	TC.DME; drug/metabolite transporter, DME family
+K21251	K19701	0.006369552746622	ywaD; aminopeptidase YwaD [EC:3.4.11.6 3.4.11.10]
+K21251	K19267	0.006369552746622	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K21251	K00588	0.006359662136767	E2.1.1.104; caffeoyl-CoA O-methyltransferase [EC:2.1.1.104]
+K21251	biofilm	0.006359662136767	
+K21251	K14274	0.006359662136767	xylC; xylono-1,5-lactonase [EC:3.1.1.110]
+K21251	mobileOG_000331053	0.006349771526912	ligD
+K21251	K00448	0.006329990307202	pcaG; protocatechuate 3,4-dioxygenase, alpha subunit [EC:1.13.11.3]
+K21251	K11941	0.0063200996973471	mdoC; glucans biosynthesis protein C [EC:2.1.-.-]

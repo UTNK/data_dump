@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18345	K00254	DHODH, pyrD; dihydroorotate dehydrogenase [EC:1.3.5.2]	0.0030346149843697	0.0044517207808789
+K18345	K03561	exbB; biopolymer transport protein ExbB	0.0030346149843697	0.0045369825396636
+K18345	K07390	grxD, GLRX5; monothiol glutaredoxin	0.0030346149843697	0.0045396317085497
+K18345	K07738	nrdR; transcriptional repressor NrdR	0.0030346149843697	0.0046016640178822
+K18345	K02389	flgD; flagellar basal-body rod modification protein FlgD	0.0030346149843697	0.0046023338288087
+K18345	K02419	fliP; flagellar biosynthetic protein FliP	0.0030346149843697	0.0046353557568888
+K18345	K02421	fliR; flagellar biosynthetic protein FliR	0.0030346149843697	0.0046443301839782
+K18345	K00677	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	0.0030346149843697	0.0046550023930965
+K18345	K00537	arsC; arsenate reductase (glutaredoxin) [EC:1.20.4.1]	0.0030346149843697	0.0047010979755125
+K18345	K02388	flgC; flagellar basal-body rod protein FlgC	0.0030346149843697	0.004820089016127
+K18345	K01897	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]	0.0030346149843697	0.0048255664046082
+K18345	K01845	hemL; glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	0.0030346149843697	0.0049116464242657
+K18345	K06020	ettA; energy-dependent translational throttle protein EttA	0.0030346149843697	0.005028657292647
+K18345	mobileOG_000037882	nusG	0.0030346149843697	0.0050643502105172
+K18345	mobileOG_000369761	oppB	0.0030346149843697	0.0054388792290932
+K18345	K00674	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]	0.0030346149843697	0.0058059440106394
+K18345	K04762	hslR; ribosome-associated heat shock protein Hsp15	0.0030346149843697	0.0058601825204642
+K18345	K08296	sixA; phosphohistidine phosphatase [EC:3.1.3.-]	0.0030346149843697	0.0060121885737004
+K18345	K04761	oxyR; LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator	0.0030346149843697	0.006316177984747
+K18345	K01079	serB, PSPH; phosphoserine phosphatase [EC:3.1.3.3]	0.0030346149843697	0.0068840110638613
+K18345	K02067	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	0.0030346149843697	0.0087328693894715
+K18345	K02066	mlaE, linK; phospholipid/cholesterol/gamma-HCH transport system permease protein	0.0030346149843697	0.009839003867518
+K18345	K00956	cysN; sulfate adenylyltransferase subunit 1 [EC:2.7.7.4]	0.0030346149843697	0.011552220365843
+K18345	K00957	cysD; sulfate adenylyltransferase subunit 2 [EC:2.7.7.4]	0.0030346149843697	0.0136590289840089
+K18345	K02065	mlaF, linL, mkl; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	0.0030346149843697	0.0141870535926998

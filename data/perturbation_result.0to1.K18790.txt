@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18790	K09765	queH; epoxyqueuosine reductase [EC:1.17.99.6]	0.6654612378860436	0.6193389793272261
+K18790	K13529	ada-alkA; AraC family transcriptional regulator, regulatory protein of adaptative response / DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	0.6654612378860436	0.6251073267412297
+K18790	K07124	K07124; uncharacterized protein	0.6654612378860436	0.6266912215517234
+K18790	K03192	ureJ; urease accessory protein	0.6654612378860436	0.6269124571159309
+K18790	K06152	E1.1.99.3G; gluconate 2-dehydrogenase gamma chain [EC:1.1.99.3]	0.6654612378860436	0.639137459784012
+K18790	K13693	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]	0.6654612378860436	0.6404550779626078
+K18790	K02435	gatC, GATC; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]	0.6654612378860436	0.640764441314755
+K18790	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	0.6654612378860436	0.642322249988362
+K18790	K07017	K07017; uncharacterized protein	0.6654612378860436	0.6429336309123418
+K18790	K00822	E2.6.1.18; beta-alanine--pyruvate transaminase [EC:2.6.1.18]	0.6654612378860436	0.643547293003387
+K18790	K03525	coaX; type III pantothenate kinase [EC:2.7.1.33]	0.6654612378860436	0.6436329339917535
+K18790	K07010	K07010; putative glutamine amidotransferase	0.6654612378860436	0.6456332609934387
+K18790	K01029	E2.8.3.5B, scoB; 3-oxoacid CoA-transferase subunit B [EC:2.8.3.5]	0.6654612378860436	0.6462515017701714
+K18790	K02656	pilF; type IV pilus assembly protein PilF	0.6654612378860436	0.6463539309629079
+K18790	K01028	E2.8.3.5A, scoA; 3-oxoacid CoA-transferase subunit A [EC:2.8.3.5]	0.6654612378860436	0.6488045747665391
+K18790	K17230	fccA; cytochrome subunit of sulfide dehydrogenase	0.6654612378860436	0.6489086338231126
+K18790	K01322	PREP; prolyl oligopeptidase [EC:3.4.21.26]	0.6654612378860436	0.6490211962901451
+K18790	K12251	aguB; N-carbamoylputrescine amidase [EC:3.5.1.53]	0.6654612378860436	0.6500873602194093
+K18790	K07102	amgK; N-acetylmuramate 1-kinase [EC:2.7.1.221]	0.6654612378860436	0.6505356861760643
+K18790	K02227	cbiB, cobD; adenosylcobinamide-phosphate synthase [EC:6.3.1.10]	0.6654612378860436	0.6805931594738581
+K18790	K02232	cobQ, cbiP; adenosylcobyric acid synthase [EC:6.3.5.10]	0.6654612378860436	0.6853389864182334
+K18790	K08167	smvA, qacA, lfrA; MFS transporter, DHA2 family, multidrug resistance protein	0.6654612378860436	0.6909872554318344
+K18790	K12542	lapC; membrane fusion protein, adhesin transport system	0.6654612378860436	0.6927293984179546
+K18790	K15532	yteR, yesR; unsaturated rhamnogalacturonyl hydrolase [EC:3.2.1.172]	0.6654612378860436	0.6963055097470933
+K18790	K00847	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]	0.6654612378860436	0.6992408217202406

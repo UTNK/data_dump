@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19318	K01809	0.0085731959560046	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K19318	K02401	0.0083605574993732	flhB; flagellar biosynthetic protein FlhB
+K19318	K01512	0.0082252421178805	acyP; acylphosphatase [EC:3.6.1.7]
+K19318	K01760	0.0081285882739572	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19318	K02421	0.0080802613519954	fliR; flagellar biosynthetic protein FliR
+K19318	K11070	0.0080126036612491	potC; spermidine/putrescine transport system permease protein
+K19318	K10439	0.0079062844329333	rbsB; ribose transport system substrate-binding protein
+K19318	K03594	0.0078966190485411	bfr; bacterioferritin [EC:1.16.3.1]
+K19318	K00375	0.0077806344358329	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19318	K03767	0.0077323075138713	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19318	K06996	0.0076453190543402	K06996; uncharacterized protein
+K19318	K07160	0.0075969921323786	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K19318	K06872	0.0075293344416322	K06872; uncharacterized protein
+K19318	K02406	0.0072780344474314	fliC; flagellin
+K19318	mobileOG_000093088	0.0071813806035081	ftsZ
+K19318	K07010	0.0071717152191157	K07010; putative glutamine amidotransferase
+K19318	K07507	0.0071620498347234	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19318	K02575	0.007123388297154	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K19318	K07077	0.007123388297154	K07077; uncharacterized protein
+K19318	mobileOG_000031464	0.007058952401205	mutT
+K19318	K01480	0.0069880729156613	speB; agmatinase [EC:3.5.3.11]
+K19318	K07646	0.0069590767624844	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K19318	K19267	0.0069300806093073	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K19318	K09765	0.0069010844561303	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K19318	mobileOG_000034793	0.0068624229185609	diaA
+K19318	K01821	0.0068527575341686	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K19318	K07124	0.0068430921497762	K07124; uncharacterized protein
+K19318	K02011	0.0068430921497762	afuB, fbpB; iron(III) transport system permease protein
+K19318	K10206	0.0067657690746376	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K19318	K09767	0.0066691152307142	yajQ; cyclic-di-GMP-binding protein
+K19318	K13015	0.0066497844619295	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K19318	K00830	0.0066207883087525	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+K19318	K03773	0.0066111229243602	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K19318	K06152	0.0066014575399678	E1.1.99.3G; gluconate 2-dehydrogenase gamma chain [EC:1.1.99.3]
+K19318	K01912	0.0065917921555755	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K19318	K09791	0.0065917921555755	K09791; uncharacterized protein
+K19318	K00424	0.0065724613867909	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K19318	K13013	0.0065724613867909	wbqV; O-antigen biosynthesis protein WbqV
+K19318	mobileOG_000300939	0.0065627960023985	uvrA
+K19318	K18218	0.0065531306180062	tet35; tetracycline resistance efflux pump
+K19318	K03600	0.0065531306180062	sspB; stringent starvation protein B
+K19318	K23264	0.0065434652336138	purS; phosphoribosylformylglycinamidine synthase subunit PurS [EC:6.3.5.3]
+K19318	K18707	0.0065434652336138	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]
+K19318	K01545	0.0065337998492215	kdpF; potassium-transporting ATPase KdpF subunit
+K19318	K18926	0.0065241344648292	lmrB; MFS transporter, DHA2 family, lincomycin resistance protein
+K19318	K19221	0.0065241344648292	cobA, btuR; cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+K19318	K01058	0.0065241344648292	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]
+K19318	K00266	0.0065241344648292	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K19318	K16165	0.0065241344648292	nagK; fumarylpyruvate hydrolase [EC:3.7.1.20]
+K19318	K07101	0.0065144690804368	K07101; uncharacterized protein

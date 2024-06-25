@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K07665	K19304	0.0080490573601755	mepM; murein DD-endopeptidase [EC:3.4.24.-]
+K07665	K00849	0.0072715956414917	galK; galactokinase [EC:2.7.1.6]
+K07665	K01760	0.0071448058427745	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K07665	K21430	0.0069169397572445	yliI; aldose sugar dehydrogenase [EC:1.1.5.-]
+K07665	K05520	0.006608304881211	pfpI; protease I [EC:3.5.1.124]
+K07665	K07636	0.0065075065734494	phoR; two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]
+K07665	K04065	0.0064753951629817	osmY; hyperosmotically inducible periplasmic protein
+K07665	K07461	0.0064357334758977	K07461; putative endonuclease
+K07665	K00575	0.0064004308775064	cheR; chemotaxis protein methyltransferase CheR [EC:2.1.1.80]
+K07665	K19267	0.0063933268207064	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K07665	K01480	0.0063452161926872	speB; agmatinase [EC:3.5.3.11]
+K07665	K03616	0.0063388575179843	rnfB; Na+-translocating ferredoxin:NAD+ oxidoreductase subunit B [EC:7.2.1.2]
+K07665	K01912	0.0063050230897568	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K07665	K04757	0.0063016673623681	rsbW; serine/threonine-protein kinase RsbW [EC:2.7.11.1]
+K07665	K03548	0.0062759635183975	perM; putative permease
+K07665	K07224	0.0062449438347585	efeO; iron uptake system component EfeO
+K07665	mobileOG_000021898	0.0062328714164973	clpA
+K07665	K04754	0.0062301030883105	mlaA, vacJ; phospholipid-binding lipoprotein MlaA
+K07665	K06996	0.0061375067077069	K06996; uncharacterized protein
+K07665	K05516	0.0061340342610107	cbpA; curved DNA-binding protein
+K07665	K01239	0.0060740496975004	iunH; purine nucleosidase [EC:3.2.2.1]
+K07665	K15725	0.0060723960707884	czcC, cusC, cnrC; outer membrane protein, heavy metal efflux system
+K07665	K03543	0.0060710609648315	emrA; membrane fusion protein, multidrug efflux system
+K07665	K08300	0.0060709432860395	rne; ribonuclease E [EC:3.1.26.12]
+K07665	K02194	0.0060688993273707	ccmB; heme exporter protein B
+K07665	K00253	0.0060592283657345	IVD, ivd; isovaleryl-CoA dehydrogenase [EC:1.3.8.4]
+K07665	K06181	0.0060471550088853	rluE; 23S rRNA pseudouridine2457 synthase [EC:5.4.99.20]
+K07665	K03562	0.0060254624657509	tolQ; biopolymer transport protein TolQ
+K07665	K00748	0.0060175280454612	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]
+K07665	K11720	0.005997606406752	lptG; lipopolysaccharide export system permease protein
+K07665	K01420	0.0059967417974551	fnr; CRP/FNR family transcriptional regulator, anaerobic regulatory protein
+K07665	K00677	0.0059904792429207	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]
+K07665	K09780	0.0059799939183318	K09780; uncharacterized protein
+K07665	K07323	0.0059770357877835	mlaC; phospholipid transport system substrate-binding protein
+K07665	mobileOG_000777978	0.005975159404197	korSA
+K07665	K03724	0.0059614677103557	lhr; ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]
+K07665	mobileOG_000326446	0.0059527809569591	dnaX
+K07665	mobileOG_000161370	0.0059473719741275	ratA
+K07665	K00457	0.0059418381363718	HPD, hppD; 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27]
+K07665	K03559	0.0059411996312527	exbD; biopolymer transport protein ExbD
+K07665	K08301	0.00591592629287	rng, cafA; ribonuclease G [EC:3.1.26.-]
+K07665	K17713	0.0059157543067205	bamB; outer membrane protein assembly factor BamB
+K07665	mobileOG_000351769	0.0058983185046921	uvrC
+K07665	K02417	0.005850767970469	fliNY, fliN; flagellar motor switch protein FliN/FliY
+K07665	K06189	0.0058320811276483	corC; magnesium and cobalt transporter
+K07665	K03797	0.0058232989255708	E3.4.21.102, prc, ctpA; carboxyl-terminal processing protease [EC:3.4.21.102]
+K07665	K00795	0.0058208024941224	ispA; farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10]
+K07665	K00990	0.0058199686745552	glnD; [protein-PII] uridylyltransferase [EC:2.7.7.59]
+K07665	mobileOG_000331108	0.0058171005267544	ssb
+K07665	K00381	0.0057975289740049	cysI; sulfite reductase (NADPH) hemoprotein beta-component [EC:1.8.1.2]

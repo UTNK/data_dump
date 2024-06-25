@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K17881	K02401	0.0088280138526642	flhB; flagellar biosynthetic protein FlhB
+K17881	K03594	0.0082824265250298	bfr; bacterioferritin [EC:1.16.3.1]
+K17881	K01809	0.0081829019627173	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K17881	mobileOG_000031464	0.0080816068413511	mutT
+K17881	K01512	0.0079001459808361	acyP; acylphosphatase [EC:3.6.1.7]
+K17881	K02421	0.0078720557620531	fliR; flagellar biosynthetic protein FliR
+K17881	K02406	0.0078268940306484	fliC; flagellin
+K17881	K11070	0.0077340841338922	potC; spermidine/putrescine transport system permease protein
+K17881	K06872	0.007717482118231	K06872; uncharacterized protein
+K17881	K03767	0.0077130899538682	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K17881	K10439	0.007569525306021	rbsB; ribose transport system substrate-binding protein
+K17881	K01480	0.0075286400862787	speB; agmatinase [EC:3.5.3.11]
+K17881	K07010	0.0074629398188177	K07010; putative glutamine amidotransferase
+K17881	K07160	0.0074196299164176	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K17881	K01760	0.0072934406103971	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K17881	K02011	0.0071524754122487	afuB, fbpB; iron(III) transport system permease protein
+K17881	K07124	0.0071364146173905	K07124; uncharacterized protein
+K17881	K00375	0.0071287796850597	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K17881	K06996	0.0070756106867018	K06996; uncharacterized protein
+K17881	K01432	0.0070437370497653	AFMID; arylformamidase [EC:3.5.1.9]
+K17881	K08682	0.0070409531932059	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K17881	K02575	0.0069835432290422	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K17881	mobileOG_000300939	0.006972801980264	uvrA
+K17881	K08225	0.0069496868608075	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter
+K17881	K02039	0.0068852976409999	phoU; phosphate transport system protein
+K17881	K17723	0.0068760322542986	preA; dihydropyrimidine dehydrogenase (NAD+) subunit PreA [EC:1.3.1.1]
+K17881	K10228	0.0068321766577519	smoF, mtlF; sorbitol/mannitol transport system permease protein
+K17881	K15578	0.0068300342350059	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K17881	K07646	0.0068295233289431	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K17881	K02016	0.0068085825242808	ABC.FEV.S; iron complex transport system substrate-binding protein
+K17881	mobileOG_000802159	0.0067920927214962	rep
+K17881	K13015	0.0067893455295533	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K17881	K01912	0.0067853937600372	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K17881	K02389	0.006783819051889	flgD; flagellar basal-body rod modification protein FlgD
+K17881	K23535	0.0067401934479813	nupB; general nucleoside transport system permease protein
+K17881	K19267	0.0067109259194636	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K17881	K06976	0.0066883629072465	K06976; uncharacterized protein
+K17881	K19416	0.0066850008423448	yccA; modulator of FtsH protease
+K17881	K10229	0.0066834059781653	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K17881	K18981	0.0066750752286238	udh; uronate dehydrogenase [EC:1.1.1.203]
+K17881	K07507	0.0066681776962458	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K17881	K09765	0.0066638993845141	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K17881	K00424	0.0066634233995879	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K17881	K01469	0.0066551207306094	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+K17881	K20938	0.0066493692512623	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]
+K17881	K11354	0.0066283580901914	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]
+K17881	K01919	0.0066239178461989	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K17881	K13626	0.0066137684624738	fliW; flagellar assembly factor FliW
+K17881	K03773	0.0065904028462202	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K17881	K00588	0.0065610305345988	E2.1.1.104; caffeoyl-CoA O-methyltransferase [EC:2.1.1.104]

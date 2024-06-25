@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19214	K00074	paaH, hbd, fadB, mmgB; 3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]	0.0048967945750872	0.0060965782239973
+K19214	mobileOG_000384384	25	0.0048967945750872	0.0061963855727167
+K19214	K03317	TC.CNT; concentrative nucleoside transporter, CNT family	0.0048967945750872	0.0061964977446957
+K19214	K15532	yteR, yesR; unsaturated rhamnogalacturonyl hydrolase [EC:3.2.1.172]	0.0048967945750872	0.0066960139909282
+K19214	K02656	pilF; type IV pilus assembly protein PilF	0.0048967945750872	0.006796180865395
+K19214	K22522	LOG; cytokinin riboside 5-monophosphate phosphoribohydrolase [EC:3.2.2.-]	0.0048967945750872	0.0069960955820554
+K19214	K17230	fccA; cytochrome subunit of sulfide dehydrogenase	0.0048967945750872	0.0069964594339727
+K19214	K02008	cbiQ; cobalt/nickel transport system permease protein	0.0048967945750872	0.0070963648330413
+K19214	K08217	mef; MFS transporter, DHA3 family, macrolide efflux protein	0.0048967945750872	0.0071962845091644
+K19214	K01057	PGLS, pgl, devB; 6-phosphogluconolactonase [EC:3.1.1.31]	0.0048967945750872	0.0075963789202385
+K19214	K01950	E6.3.5.1, NADSYN1, QNS1, nadE; NAD+ synthase (glutamine-hydrolysing) [EC:6.3.5.1]	0.0048967945750872	0.0076959959493012
+K19214	K02616	paaX; phenylacetic acid degradation operon negative regulatory protein	0.0048967945750872	0.0077954815831009
+K19214	K03315	nhaC; Na+:H+ antiporter, NhaC family	0.0048967945750872	0.0078962480134277
+K19214	K20938	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]	0.0048967945750872	0.0081960751998887
+K19214	K18456	E3.5.4.32; 8-oxoguanine deaminase [EC:3.5.4.32]	0.0048967945750872	0.0081962514190948
+K19214	K13529	ada-alkA; AraC family transcriptional regulator, regulatory protein of adaptative response / DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	0.0048967945750872	0.0084961195718605
+K19214	K07220	K07220; uncharacterized protein	0.0048967945750872	0.0087963473313349
+K19214	K09012	sufR; DeoR family transcriptional regulator, suf operon transcriptional repressor	0.0048967945750872	0.0089954968601802
+K19214	K12511	tadC; tight adherence protein C	0.0048967945750872	0.0089960191285129
+K19214	K02279	cpaB, rcpC; pilus assembly protein CpaB	0.0048967945750872	0.0090959458953485
+K19214	K01167	rnaSA; ribonuclease T1 [EC:4.6.1.24]	0.0048967945750872	0.0100958497433334
+K19214	K06152	E1.1.99.3G; gluconate 2-dehydrogenase gamma chain [EC:1.1.99.3]	0.0048967945750872	0.010395590719034
+K19214	K17315	gtsA, glcE; glucose/mannose transport system substrate-binding protein	0.0048967945750872	0.0112959621974699
+K19214	K07017	K07017; uncharacterized protein	0.0048967945750872	0.0123961683950023
+K19214	K01545	kdpF; potassium-transporting ATPase KdpF subunit	0.0048967945750872	0.0140956999040516

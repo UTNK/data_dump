@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19278	K13013	wbqV; O-antigen biosynthesis protein WbqV	0.7632335125387525	0.7118525606021631
+K19278	K00091	E1.1.1.219; dihydroflavonol-4-reductase [EC:1.1.1.219]	0.7632335125387525	0.7207140283609205
+K19278	K23886	CISD3; CDGSH iron-sulfur domain-containing protein 3	0.7632335125387525	0.7270558538699905
+K19278	K09702	K09702; uncharacterized protein	0.7632335125387525	0.7290408414461578
+K19278	K00161	PDHA, pdhA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]	0.7632335125387525	0.7299491468326841
+K19278	K00162	PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]	0.7632335125387525	0.7360490465334827
+K19278	mobileOG_000326260	ligD	0.7632335125387525	0.7437952885457498
+K19278	K02171	blaI; BlaI family transcriptional regulator, penicillinase repressor	0.7632335125387525	0.7463139601072841
+K19278	K06888	K06888; uncharacterized protein	0.7632335125387525	0.7464459073646007
+K19278	K21159	sgcF, ncsF2, kedF; epoxide hydrolase	0.7632335125387525	0.7468587821388092
+K19278	mobileOG_000330062	recR	0.7632335125387525	0.7485768967879282
+K19278	K01006	ppdK; pyruvate, orthophosphate dikinase [EC:2.7.9.1]	0.7632335125387525	0.7488898219746537
+K19278	K20938	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]	0.7632335125387525	0.7490297147725362
+K19278	K18707	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]	0.7632335125387525	0.7498987874867469
+K19278	K18118	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]	0.7632335125387525	0.7503234539455587
+K19278	K01179	E3.2.1.4; endoglucanase [EC:3.2.1.4]	0.7632335125387525	0.7507937519557032
+K19278	K21481	mhuD, hmoB; heme oxygenase (mycobilin-producing) [EC:1.14.99.57]	0.7632335125387525	0.7526544136925697
+K19278	mobileOG_000349657	xth	0.7632335125387525	0.7531010495625357
+K19278	K10119	msmG; raffinose/stachyose/melibiose transport system permease protein	0.7632335125387525	0.7531014632198013
+K19278	K13017	wbpE, wlbC; UDP-2-acetamido-2-deoxy-ribo-hexuluronate aminotransferase [EC:2.6.1.98]	0.7632335125387525	0.753595430906461
+K19278	K07215	pigA, hemO; heme oxygenase (biliverdin-IX-beta and delta-forming) [EC:1.14.99.58]	0.7632335125387525	0.7541140804226125
+K19278	K01057	PGLS, pgl, devB; 6-phosphogluconolactonase [EC:3.1.1.31]	0.7632335125387525	0.754500667432871
+K19278	K11263	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]	0.7632335125387525	0.7546771181619328
+K19278	K02012	afuA, fbpA; iron(III) transport system substrate-binding protein	0.7632335125387525	0.7767392796074487
+K19278	K02011	afuB, fbpB; iron(III) transport system permease protein	0.7632335125387525	0.778666548530231

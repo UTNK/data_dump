@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19209	K03317	TC.CNT; concentrative nucleoside transporter, CNT family	9.98032900700056e-05	0.0003997038145438
+K19209	K01432	AFMID; arylformamidase [EC:3.5.1.9]	9.98032900700056e-05	0.0003997503227853
+K19209	K02666	pilQ; type IV pilus assembly protein PilQ	9.98032900700056e-05	0.0003997540269051
+K19209	K17315	gtsA, glcE; glucose/mannose transport system substrate-binding protein	9.98032900700056e-05	0.0004994414472473
+K19209	K04090	E1.2.7.8; indolepyruvate ferredoxin oxidoreductase [EC:1.2.7.8]	9.98032900700056e-05	0.0004995465420152
+K19209	K08972	K08972; putative membrane protein	9.98032900700056e-05	0.0004995735128971
+K19209	K09012	sufR; DeoR family transcriptional regulator, suf operon transcriptional repressor	9.98032900700056e-05	0.0004996960813454
+K19209	mobileOG_000137572	rlmL	9.98032900700056e-05	0.0004997083171101
+K19209	K01266	dmpA, dap; D-aminopeptidase [EC:3.4.11.19]	9.98032900700056e-05	0.0005990713289118
+K19209	K01545	kdpF; potassium-transporting ATPase KdpF subunit	9.98032900700056e-05	0.0005991038374405
+K19209	K10227	smoE, mtlE; sorbitol/mannitol transport system substrate-binding protein	9.98032900700056e-05	0.0006991675587947
+K19209	K05832	ABC.X4.P; putative ABC transport system permease protein	9.98032900700056e-05	0.0006995879415464
+K19209	K03298	TC.DME; drug/metabolite transporter, DME family	9.98032900700056e-05	0.0006996044292036
+K19209	K18118	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]	9.98032900700056e-05	0.0007992735951476
+K19209	K07101	K07101; uncharacterized protein	9.98032900700056e-05	0.0007996130290623
+K19209	K10228	smoF, mtlF; sorbitol/mannitol transport system permease protein	9.98032900700056e-05	0.0008991804939272
+K19209	K10229	smoG, mtlG; sorbitol/mannitol transport system permease protein	9.98032900700056e-05	0.0009990992704293
+K19209	K11263	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]	9.98032900700056e-05	0.0009994576618102
+K19209	termite_gut		9.98032900700056e-05	0.00109919455577
+K19209	K18981	udh; uronate dehydrogenase [EC:1.1.1.203]	9.98032900700056e-05	0.0010994473872129
+K19209	K00479	gbcA; glycine betaine catabolism A	9.98032900700056e-05	0.0011991153460279
+K19209	K21147	moeZR, moeBR; sulfur-carrier protein adenylyltransferase/sulfurtransferase [EC:2.7.7.80 2.7.7.- 2.8.1.11 2.8.1.-]	9.98032900700056e-05	0.0011997516047208
+K19209	K13013	wbqV; O-antigen biosynthesis protein WbqV	9.98032900700056e-05	0.0012996055975903
+K19209	mobileOG_000077438	polX	9.98032900700056e-05	0.0015996123532448
+K19209	K19342	nosL; copper chaperone NosL	9.98032900700056e-05	0.001899419590115

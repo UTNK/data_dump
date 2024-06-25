@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K17880	K00342	0.0084369742437703	nuoM; NADH-quinone oxidoreductase subunit M [EC:7.1.1.2]
+K17880	K02073	0.008135821479459	metQ; D-methionine transport system substrate-binding protein
+K17880	K09791	0.0079820619942055	K09791; uncharacterized protein
+K17880	K02421	0.0079623405090162	fliR; flagellar biosynthetic protein FliR
+K17880	K02027	0.0078742402222067	ABC.MS.S; multiple sugar transport system substrate-binding protein
+K17880	K03684	0.0078415430110653	rnd; ribonuclease D [EC:3.1.13.5]
+K17880	K01640	0.0078231160910383	E4.1.3.4, HMGCL, hmgL; hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4]
+K17880	K03310	0.0076096916595349	TC.AGCS; alanine or glycine:cation symporter, AGCS family
+K17880	K03426	0.0075602549392158	E3.6.1.22, NUDT12, nudC; NAD+ diphosphatase [EC:3.6.1.22]
+K17880	K08303	0.0075093731864214	K08303; putative protease [EC:3.4.-.-]
+K17880	K03973	0.0075091746773323	pspC; phage shock protein C
+K17880	K02072	0.0074913845571868	metI; D-methionine transport system permease protein
+K17880	K16137	0.0074339794250597	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K17880	K00027	0.0074164321603171	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K17880	K07010	0.0073283433800857	K07010; putative glutamine amidotransferase
+K17880	K01770	0.0072803804383669	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]
+K17880	K02049	0.0072677235832158	ABC.SN.A; NitT/TauT family transport system ATP-binding protein
+K17880	K01912	0.0072019593972998	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K17880	activated_sludge	0.0071503396716356	
+K17880	K18346	0.0070368958785973	vanW; vancomycin resistance protein VanW
+K17880	mobileOG_000777978	0.0070323705755472	korSA
+K17880	K12524	0.0070284045909863	thrA; bifunctional aspartokinase / homoserine dehydrogenase 1 [EC:2.7.2.4 1.1.1.3]
+K17880	K05520	0.0070236499311022	pfpI; protease I [EC:3.5.1.124]
+K17880	K01480	0.0069662379094594	speB; agmatinase [EC:3.5.3.11]
+K17880	K00847	0.0068899337530053	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K17880	K00140	0.0068641953391541	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]
+K17880	K02025	0.0068285963329285	ABC.MS.P; multiple sugar transport system permease protein
+K17880	K03558	0.0067823648709021	cvpA; membrane protein required for colicin V production
+K17880	K02058	0.00677570436571	ABC.SS.S; simple sugar transport system substrate-binding protein
+K17880	K00348	0.0067687017912581	nqrC; Na+-transporting NADH:ubiquinone oxidoreductase subunit C [EC:7.2.1.1]
+K17880	K07646	0.006748674693628	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K17880	K16329	0.0067449316944273	psuG; pseudouridylate synthase [EC:4.2.1.70]
+K17880	mobileOG_000354553	0.0066887561138773	xerC
+K17880	K07161	0.0066381981573132	K07161; uncharacterized protein
+K17880	K03298	0.0066150036898774	TC.DME; drug/metabolite transporter, DME family
+K17880	K19267	0.0065960249559137	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K17880	K02011	0.0065931501517439	afuB, fbpB; iron(III) transport system permease protein
+K17880	K02016	0.0065693421110628	ABC.FEV.S; iron complex transport system substrate-binding protein
+K17880	K00652	0.0065132797571364	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K17880	K15578	0.0064859094722807	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K17880	K06898	0.0064565196349903	larB; pyridinium-3,5-biscarboxylic acid mononucleotide synthase [EC:2.5.1.143]
+K17880	K06864	0.0064489054615859	larE; pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase [EC:4.4.1.37]
+K17880	K12941	0.0064466756670028	abgB; aminobenzoyl-glutamate utilization protein B
+K17880	K14652	0.006413649673204	ribBA; 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]
+K17880	K10126	0.0063819083196596	dctD; two-component system, NtrC family, C4-dicarboxylate transport response regulator DctD
+K17880	K00349	0.0063783465214812	nqrD; Na+-transporting NADH:ubiquinone oxidoreductase subunit D [EC:7.2.1.1]
+K17880	K02517	0.0063649413637127	lpxL, htrB; Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-]
+K17880	K09972	0.0063350607372394	aapP, bztD; general L-amino acid transport system ATP-binding protein [EC:7.4.2.1]
+K17880	K00424	0.0063248217435385	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K17880	K08167	0.0063217593803965	smvA, qacA, lfrA; MFS transporter, DHA2 family, multidrug resistance protein

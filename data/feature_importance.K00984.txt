@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K00984	K00029	0.0083654742943402	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+K00984	K00325	0.00834891169728	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K00984	K07160	0.0082094657078883	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K00984	mobileOG_000034793	0.008088802836439	diaA
+K00984	mobileOG_000031464	0.008056002284188	mutT
+K00984	K00845	0.0080073959009113	glk; glucokinase [EC:2.7.1.2]
+K00984	K01975	0.0079970000692367	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K00984	K00865	0.007976689966369	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K00984	K01760	0.0079055872900913	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K00984	K14393	0.0078961756250878	actP; cation/acetate symporter
+K00984	K06872	0.0078599163059749	K06872; uncharacterized protein
+K00984	K02420	0.0078496379368205	fliQ; flagellar biosynthetic protein FliQ
+K00984	K10439	0.0078203877940994	rbsB; ribose transport system substrate-binding protein
+K00984	K00324	0.0078133684290181	pntA; H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1]
+K00984	K02406	0.0077713879739572	fliC; flagellin
+K00984	K03767	0.007699438114617	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K00984	K07010	0.0075528638376202	K07010; putative glutamine amidotransferase
+K00984	K07507	0.0074369879142666	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K00984	K01912	0.0074313755771726	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K00984	K02011	0.0074250440382046	afuB, fbpB; iron(III) transport system permease protein
+K00984	K03412	0.0073810031021902	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K00984	K00652	0.0073163683442069	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K00984	activated_sludge	0.0072740623198023	
+K00984	K01480	0.0072663251791671	speB; agmatinase [EC:3.5.3.11]
+K00984	K00375	0.007186411782221	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K00984	K06996	0.0071777323201763	K06996; uncharacterized protein
+K00984	K16137	0.0071647300874293	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K00984	K01512	0.0071145573771186	acyP; acylphosphatase [EC:3.6.1.7]
+K00984	K03717	0.0069817954249298	nhaR; LysR family transcriptional regulator, transcriptional activator of nhaA
+K00984	K07124	0.0069378093088514	K07124; uncharacterized protein
+K00984	K10227	0.0069313862711308	smoE, mtlE; sorbitol/mannitol transport system substrate-binding protein
+K00984	mobileOG_000075044	0.0069079711276416	parE
+K00984	K07646	0.0068994644003201	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K00984	K16090	0.0068698976144714	fiu; catecholate siderophore receptor
+K00984	K11354	0.0067977316827042	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]
+K00984	K00606	0.0067896373061322	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]
+K00984	mobileOG_000015288	0.0067700899949677	hflC
+K00984	K06186	0.0067238858901051	bamE, smpA; outer membrane protein assembly factor BamE
+K00984	K06864	0.0067140512993841	larE; pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase [EC:4.4.1.37]
+K00984	K18707	0.0067011106622015	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]
+K00984	K02494	0.0066968471258296	lolB; outer membrane lipoprotein LolB
+K00984	K09121	0.0066965422276121	larC; pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel chelatase [EC:4.99.1.12]
+K00984	K06194	0.0066697116851874	nlpD; lipoprotein NlpD
+K00984	K11689	0.0066636710473908	dctQ; C4-dicarboxylate transporter, DctQ subunit
+K00984	K03690	0.0066549270764926	ubiJ; ubiquinone biosynthesis protein UbiJ
+K00984	K13628	0.0066413542619446	iscA; iron-sulfur cluster assembly protein
+K00984	K19267	0.0066240329496258	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K00984	K09800	0.0066096423229516	tamB; translocation and assembly module TamB
+K00984	plant	0.0066001992596113	
+K00984	K06898	0.006573465794271	larB; pyridinium-3,5-biscarboxylic acid mononucleotide synthase [EC:2.5.1.143]

@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18347	K12132	prkC, stkP; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	0.0012872558650794	0.0019726967329908
+K18347	mobileOG_000134557	rnj	0.0012872558650794	0.0019813594285187
+K18347	K00756	pdp; pyrimidine-nucleoside phosphorylase [EC:2.4.2.2]	0.0012872558650794	0.0020081195891688
+K18347	K10917	aphA; PadR family transcriptional regulator, regulatory protein AphA	0.0012872558650794	0.0020376579433278
+K18347	K02484	K02484; two-component system, OmpR family, sensor kinase [EC:2.7.13.3]	0.0012872558650794	0.0021222041232206
+K18347	K06994	K06994; putative drug exporter of the RND superfamily	0.0012872558650794	0.0021359063598307
+K18347	K13542	cobA-hemD; uroporphyrinogen III methyltransferase / synthase [EC:2.1.1.107 4.2.1.75]	0.0012872558650794	0.002191084092879
+K18347	K15772	ganQ; arabinogalactan oligomer / maltooligosaccharide transport system permease protein	0.0012872558650794	0.0022296739093549
+K18347	mobileOG_000362884	helD	0.0012872558650794	0.0024167816278281
+K18347	K10118	msmF; raffinose/stachyose/melibiose transport system permease protein	0.0012872558650794	0.0026240963343573
+K18347	K06402	spoIVFB; stage IV sporulation protein FB [EC:3.4.24.-]	0.0012872558650794	0.003045242115596
+K18347	K06215	pdxS, pdx1; pyridoxal 5-phosphate synthase pdxS subunit [EC:4.3.3.6]	0.0012872558650794	0.0030767775589317
+K18347	mobileOG_000334867	nfo	0.0012872558650794	0.0032063468696463
+K18347	K00805	hepST; heptaprenyl diphosphate synthase [EC:2.5.1.30]	0.0012872558650794	0.0032877998196784
+K18347	mobileOG_000355086	mutM	0.0012872558650794	0.0036364629901855
+K18347	K09684	pucR; PucR family transcriptional regulator, purine catabolism regulatory protein	0.0012872558650794	0.0036729099577721
+K18347	K06960	K06960; uncharacterized protein	0.0012872558650794	0.0044283934186481
+K18347	K06346	jag; spoIIIJ-associated protein	0.0012872558650794	0.0044835592057483
+K18347	K21600	csoR, ricR; CsoR family transcriptional regulator, copper-sensing transcriptional repressor	0.0012872558650794	0.0059178150806528
+K18347	K07030	K07030; uncharacterized protein	0.0012872558650794	0.0061598841626063
+K18347	K04074	divIVA; cell division initiation protein	0.0012872558650794	0.0065840931763287
+K18347	K09772	sepF; cell division inhibitor SepF	0.0012872558650794	0.0068938775181434
+K18347	K07177	K07177; Lon-like protease	0.0012872558650794	0.007678194975713
+K18347	K01005	tagT_U_V; polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase [EC:2.7.8.-]	0.0012872558650794	0.0077745796263378
+K18347	K09762	K09762; uncharacterized protein	0.0012872558650794	0.0078043253352136

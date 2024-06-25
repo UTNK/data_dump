@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18344	K07160	0.008623203192613	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18344	K01610	0.0085262230741411	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K18344	K02073	0.0082894998370218	metQ; D-methionine transport system substrate-binding protein
+K18344	K00703	0.0081685102531905	glgA; starch synthase [EC:2.4.1.21]
+K18344	K00568	0.0079258889683415	ubiG; 2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1.222 2.1.1.64]
+K18344	K02071	0.0078931421286487	metN; D-methionine transport system ATP-binding protein
+K18344	K03724	0.0078359535444627	lhr; ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]
+K18344	K02026	0.0078088613272575	ABC.MS.P1; multiple sugar transport system permease protein
+K18344	K00847	0.0077642225700625	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K18344	K03313	0.0077052297812547	nhaA; Na+:H+ antiporter, NhaA family
+K18344	K00457	0.0076976586612571	HPD, hppD; 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27]
+K18344	K02011	0.0076973672132046	afuB, fbpB; iron(III) transport system permease protein
+K18344	K00027	0.0076645146737499	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K18344	K02072	0.0076431268675148	metI; D-methionine transport system permease protein
+K18344	K06872	0.0076250369559051	K06872; uncharacterized protein
+K18344	K03767	0.007562351446673	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18344	K06975	0.0074723307193399	K06975; uncharacterized protein
+K18344	K02420	0.0074325408511004	fliQ; flagellar biosynthetic protein FliQ
+K18344	K01480	0.0073872425126161	speB; agmatinase [EC:3.5.3.11]
+K18344	K03651	0.0073241987863705	cpdA; 3,5-cyclic-AMP phosphodiesterase [EC:3.1.4.53]
+K18344	K01809	0.0073200228354001	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18344	K22479	0.0073063742844899	argA; N-acetyltransferase
+K18344	K01966	0.0072441217187205	PCCB, pccB; propionyl-CoA carboxylase beta chain [EC:6.4.1.3 2.1.3.15]
+K18344	K04758	0.0072190752063564	feoA; ferrous iron transport protein A
+K18344	K00362	0.0072048148569904	nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]
+K18344	K00363	0.0071999545584914	nirD; nitrite reductase (NADH) small subunit [EC:1.7.1.15]
+K18344	K07646	0.0070351966605218	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18344	mobileOG_000031464	0.0069877581407785	mutT
+K18344	K07010	0.0069394989319959	K07010; putative glutamine amidotransferase
+K18344	K02575	0.0068415229586954	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18344	K15975	0.0067663342680881	K15975; glyoxalase family protein
+K18344	K07096	0.006723315441548	K07096; uncharacterized protein
+K18344	K02229	0.0066691349447939	cobG; precorrin-3B synthase [EC:1.14.13.83]
+K18344	K06132	0.0066509026409589	clsC; cardiolipin synthase C [EC:2.7.8.-]
+K18344	K07124	0.0066376182693458	K07124; uncharacterized protein
+K18344	K07050	0.0066117219926162	AARSD1, ALAX; misacylated tRNA(Ala) deacylase [EC:3.1.1.-]
+K18344	K13653	0.0065490905604805	K13653; AraC family transcriptional regulator
+K18344	K07019	0.006536408903974	K07019; uncharacterized protein
+K18344	K02016	0.0065233618612335	ABC.FEV.S; iron complex transport system substrate-binding protein
+K18344	mobileOG_000232929	0.0065057028888353	llaDCHIBM
+K18344	K15520	0.0064965905992943	mshD; mycothiol synthase [EC:2.3.1.189]
+K18344	K05591	0.0064800707837255	dbpA; ATP-dependent RNA helicase DbpA [EC:3.6.4.13]
+K18344	K17315	0.0064767672270841	gtsA, glcE; glucose/mannose transport system substrate-binding protein
+K18344	K02566	0.0064497133116353	nagD; NagD protein
+K18344	K07401	0.0064477270534591	K07401; selenoprotein W-related protein
+K18344	K02225	0.0064388182008484	cobC1, cobC; cobalamin biosynthetic protein CobC
+K18344	K09932	0.0064226052741189	K09932; uncharacterized protein
+K18344	K00342	0.0063949745578051	nuoM; NADH-quinone oxidoreductase subunit M [EC:7.1.1.2]
+K18344	K01821	0.0063677543951081	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18344	K09966	0.0063629660866892	K09966; uncharacterized protein

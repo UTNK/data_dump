@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K17910	K22205	K22205; S-adenosyl-L-methionine hydrolase (adenosine-forming) [EC:3.13.1.8]	0.0254202514683064	0.0211540842752391
+K17910	K09803	K09803; uncharacterized protein	0.0254202514683064	0.0222311011825627
+K17910	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]	0.0254202514683064	0.0282989889149751
+K17910	K01952	PFAS, purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	0.0254202514683064	0.0283291520678186
+K17910	K06020	ettA; energy-dependent translational throttle protein EttA	0.0254202514683064	0.0283626707352786
+K17910	K06142	hlpA, ompH; outer membrane protein	0.0254202514683064	0.0283947055000359
+K17910	K01676	E4.2.1.2A, fumA, fumB; fumarate hydratase, class I [EC:4.2.1.2]	0.0254202514683064	0.0285032811600897
+K17910	K01423	bepA; beta-barrel assembly-enhancing protease [EC:3.4.-.-]	0.0254202514683064	0.0285354753704605
+K17910	K00833	bioA; adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62]	0.0254202514683064	0.0287756136428741
+K17910	K01919	gshA; glutamate--cysteine ligase [EC:6.3.2.2]	0.0254202514683064	0.0289385128834487
+K17910	mobileOG_000801216	pilD	0.0254202514683064	0.0289925620751502
+K17910	K12340	tolC; outer membrane protein	0.0254202514683064	0.029077557706604
+K17910	K02067	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	0.0254202514683064	0.0291365931847283
+K17910	K08997	SELENOO, selO; serine/tyrosine/threonine adenylyltransferase [EC:2.7.7.-]	0.0254202514683064	0.0291521453194193
+K17910	K09158	K09158; uncharacterized protein	0.0254202514683064	0.0291747392178305
+K17910	K01669	phrB; deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]	0.0254202514683064	0.0291957254426916
+K17910	K02066	mlaE, linK; phospholipid/cholesterol/gamma-HCH transport system permease protein	0.0254202514683064	0.0292225637094294
+K17910	K01627	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]	0.0254202514683064	0.0292264289383566
+K17910	K14393	actP; cation/acetate symporter	0.0254202514683064	0.0296524496692238
+K17910	K02065	mlaF, linL, mkl; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	0.0254202514683064	0.0303049867703592
+K17910	K17713	bamB; outer membrane protein assembly factor BamB	0.0254202514683064	0.0303638445723461
+K17910	K08307	mltD, dniR; membrane-bound lytic murein transglycosylase D [EC:4.2.2.-]	0.0254202514683064	0.0326616604562536
+K17910	mobileOG_000270594	pilR	0.0254202514683064	0.0328790770908203
+K17910	K03771	surA; peptidyl-prolyl cis-trans isomerase SurA [EC:5.2.1.8]	0.0254202514683064	0.0330176675636499
+K17910	K03474	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]	0.0254202514683064	0.0337053322924003

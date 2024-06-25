@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K17880	K14136	K14136; decaprenyl-phosphate phosphoribosyltransferase [EC:2.4.2.45]	0.0733516482081365	0.0769912749114058
+K17880	K00015	gyaR, GOR1; glyoxylate reductase [EC:1.1.1.26]	0.0733516482081365	0.0770202053516903
+K17880	mobileOG_000326446	dnaX	0.0733516482081365	0.0770839567538655
+K17880	K07693	desR; two-component system, NarL family, response regulator DesR	0.0733516482081365	0.0772294053599903
+K17880	K01843	kamA; lysine 2,3-aminomutase [EC:5.4.3.2]	0.0733516482081365	0.0773276707139463
+K17880	K07161	K07161; uncharacterized protein	0.0733516482081365	0.0774371316719064
+K17880	K01858	INO1, ISYNA1; myo-inositol-1-phosphate synthase [EC:5.5.1.4]	0.0733516482081365	0.0775757167454191
+K17880	K03705	hrcA; heat-inducible transcriptional repressor	0.0733516482081365	0.0781627224860117
+K17880	K07335	bmpA, bmpB, tmpC; basic membrane protein A and related proteins	0.0733516482081365	0.0782427615807516
+K17880	K18346	vanW; vancomycin resistance protein VanW	0.0733516482081365	0.0782783951914035
+K17880	K06402	spoIVFB; stage IV sporulation protein FB [EC:3.4.24.-]	0.0733516482081365	0.0783779921144355
+K17880	K10548	ABC.GGU.A, gguA; putative multiple sugar transport system ATP-binding protein [EC:7.5.2.-]	0.0733516482081365	0.0784088528866796
+K17880	K04757	rsbW; serine/threonine-protein kinase RsbW [EC:2.7.11.1]	0.0733516482081365	0.0786182866157925
+K17880	K01192	E3.2.1.25, MANBA, manB; beta-mannosidase [EC:3.2.1.25]	0.0733516482081365	0.0786648725354129
+K17880	K23536	nupC; general nucleoside transport system permease protein	0.0733516482081365	0.0787267249257277
+K17880	K23537	nupA; general nucleoside transport system ATP-binding protein	0.0733516482081365	0.0790958444118636
+K17880	K10547	ABC.GGU.P, gguB; putative multiple sugar transport system permease protein	0.0733516482081365	0.0792296159153459
+K17880	K03518	coxS; aerobic carbon-monoxide dehydrogenase small subunit [EC:1.2.5.3]	0.0733516482081365	0.0794176584268116
+K17880	K03523	bioY; biotin transport system substrate-specific component	0.0733516482081365	0.0796915053137981
+K17880	K15987	hppA; K(+)-stimulated pyrophosphate-energized sodium pump	0.0733516482081365	0.0796992695461344
+K17880	K00333	nuoD; NADH-quinone oxidoreductase subunit D [EC:7.1.1.2]	0.0733516482081365	0.0803907087111324
+K17880	K04034	bchE; anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase [EC:1.21.98.3]	0.0733516482081365	0.080420205705602
+K17880	K07050	AARSD1, ALAX; misacylated tRNA(Ala) deacylase [EC:3.1.1.-]	0.0733516482081365	0.0814036836521291
+K17880	K01006	ppdK; pyruvate, orthophosphate dikinase [EC:2.7.9.1]	0.0733516482081365	0.0827021519829791
+K17880	mobileOG_000013471	dinB	0.0733516482081365	0.0931402542467742

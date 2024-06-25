@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18792	K03594	0.0090018186283747	bfr; bacterioferritin [EC:1.16.3.1]
+K18792	K02401	0.0087427466637094	flhB; flagellar biosynthetic protein FlhB
+K18792	K02421	0.0083266313448627	fliR; flagellar biosynthetic protein FliR
+K18792	K02406	0.0082490307412037	fliC; flagellin
+K18792	K01809	0.008203032075278	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18792	K11070	0.0081434556972247	potC; spermidine/putrescine transport system permease protein
+K18792	mobileOG_000031464	0.0080710716674268	mutT
+K18792	K01432	0.0080333177829321	AFMID; arylformamidase [EC:3.5.1.9]
+K18792	K17723	0.0079721285213255	preA; dihydropyrimidine dehydrogenase (NAD+) subunit PreA [EC:1.3.1.1]
+K18792	K07124	0.0079504804508476	K07124; uncharacterized protein
+K18792	K01512	0.0079039670761568	acyP; acylphosphatase [EC:3.6.1.7]
+K18792	K02011	0.0078587410489373	afuB, fbpB; iron(III) transport system permease protein
+K18792	K02575	0.0077953531868615	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18792	K08225	0.0077403279884693	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter
+K18792	mobileOG_000300939	0.0077075605125619	uvrA
+K18792	K06976	0.0076726231881982	K06976; uncharacterized protein
+K18792	K20938	0.0076694027007453	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]
+K18792	mobileOG_000802159	0.0076533002634805	rep
+K18792	K06872	0.007652040494414	K06872; uncharacterized protein
+K18792	K02016	0.0076238648790909	ABC.FEV.S; iron complex transport system substrate-binding protein
+K18792	K01919	0.0076210953889506	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K18792	K13626	0.0076114339265915	fliW; flagellar assembly factor FliW
+K18792	K03767	0.0075952855519629	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18792	K10439	0.007591455665221	rbsB; ribose transport system substrate-binding protein
+K18792	K09765	0.0075721093178443	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K18792	K15921	0.0075373627151731	xynD; arabinoxylan arabinofuranohydrolase [EC:3.2.1.55]
+K18792	K01466	0.0075309217402672	allB; allantoinase [EC:3.5.2.5]
+K18792	K13015	0.007520720124338	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K18792	K02008	0.0074987168657373	cbiQ; cobalt/nickel transport system permease protein
+K18792	K01469	0.0074948194981089	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+K18792	K01480	0.0074921759661413	speB; agmatinase [EC:3.5.3.11]
+K18792	K02039	0.0074586947117946	phoU; phosphate transport system protein
+K18792	K01880	0.0074504095539424	GARS, glyS1; glycyl-tRNA synthetase [EC:6.1.1.14]
+K18792	K06996	0.007448789345973	K06996; uncharacterized protein
+K18792	K07010	0.0074436659208773	K07010; putative glutamine amidotransferase
+K18792	K07160	0.0074284810879113	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18792	K01262	0.0074117637045068	pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]
+K18792	K00424	0.0073908775805918	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K18792	mobileOG_000093088	0.0073659605764506	ftsZ
+K18792	K19416	0.0073657221431457	yccA; modulator of FtsH protease
+K18792	K01760	0.0073638614742845	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18792	K07096	0.0073338883718626	K07096; uncharacterized protein
+K18792	K12506	0.0073280310307294	ispDF; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:2.7.7.60 4.6.1.12]
+K18792	K06980	0.0073087081060113	ygfZ; tRNA-modifying protein YgfZ
+K18792	K03773	0.0073013069067899	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K18792	mobileOG_000026018	0.0072727378596074	xerC
+K18792	K17752	0.0072726613807495	rsbT; serine/threonine-protein kinase RsbT [EC:2.7.11.1]
+K18792	K21159	0.0072604007942165	sgcF, ncsF2, kedF; epoxide hydrolase
+K18792	K06956	0.0072536873147284	K06956; uncharacterized protein
+K18792	K05589	0.0072346368945928	ftsB; cell division protein FtsB

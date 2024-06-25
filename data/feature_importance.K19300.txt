@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19300	K00845	0.0085553247988022	glk; glucokinase [EC:2.7.1.2]
+K19300	K02420	0.0081812871121516	fliQ; flagellar biosynthetic protein FliQ
+K19300	K01969	0.0080407499102891	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K19300	K07160	0.0080143517051086	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K19300	K02011	0.007964973377322	afuB, fbpB; iron(III) transport system permease protein
+K19300	mobileOG_000031464	0.0079304528280845	mutT
+K19300	K00029	0.0079263155839118	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+K19300	K01512	0.0078855987576846	acyP; acylphosphatase [EC:3.6.1.7]
+K19300	K00847	0.0078712101316105	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K19300	K02851	0.0078347160927864	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K19300	K06872	0.0077962533134403	K06872; uncharacterized protein
+K19300	K07010	0.0077288660072913	K07010; putative glutamine amidotransferase
+K19300	K01975	0.0077212041069519	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K19300	K02406	0.007701658609959	fliC; flagellin
+K19300	K07124	0.0076559361737585	K07124; uncharacterized protein
+K19300	K07507	0.0076116642638366	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19300	K01760	0.0076093635354486	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19300	K01480	0.0076034300277778	speB; agmatinase [EC:3.5.3.11]
+K19300	K00324	0.00756080925195	pntA; H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1]
+K19300	K03412	0.0075576317994962	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K19300	K10439	0.0073900258203891	rbsB; ribose transport system substrate-binding protein
+K19300	K06996	0.007359785344129	K06996; uncharacterized protein
+K19300	K16137	0.0073290716530549	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K19300	K01610	0.007318515940461	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K19300	K00652	0.0072592342254685	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K19300	K10125	0.0070476674042726	dctB; two-component system, NtrC family, C4-dicarboxylate transport sensor histidine kinase DctB [EC:2.7.13.3]
+K19300	K01919	0.0069947668569083	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K19300	K19416	0.0069668923729669	yccA; modulator of FtsH protease
+K19300	K00375	0.0069605992360932	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19300	K19267	0.0069594989797107	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K19300	K17230	0.0069472181279037	fccA; cytochrome subunit of sulfide dehydrogenase
+K19300	K01912	0.0069387989785171	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K19300	K01857	0.0068886975255687	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2]
+K19300	K02415	0.0068814292437094	fliL; flagellar FliL protein
+K19300	K07278	0.0068406544065984	tamA; translocation and assembly module TamA
+K19300	K03773	0.006832267870627	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K19300	K06136	0.0068276862326865	pqqB; pyrroloquinoline quinone biosynthesis protein B
+K19300	activated_sludge	0.0068268324154506	
+K19300	K01707	0.0067720496418572	kdgD; 5-dehydro-4-deoxyglucarate dehydratase [EC:4.2.1.41]
+K19300	K07646	0.0067699875201977	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K19300	K03300	0.0067671828948614	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family
+K19300	K13895	0.0067407811416863	yejE; microcin C transport system permease protein
+K19300	mobileOG_000134996	0.0067238889149511	mazF
+K19300	K13485	0.0066842691899096	PRHOXNB, URAD; 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase [EC:4.1.1.97]
+K19300	K18218	0.0066782648896277	tet35; tetracycline resistance efflux pump
+K19300	K06137	0.0066621774927727	pqqC; pyrroloquinoline-quinone synthase [EC:1.3.3.11]
+K19300	mobileOG_000176095	0.0066238474967919	recR
+K19300	K03325	0.0066235267020048	ACR3, arsB; arsenite transporter
+K19300	K00795	0.00662232332898	ispA; farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10]
+K19300	K06132	0.006582336413675	clsC; cardiolipin synthase C [EC:2.7.8.-]

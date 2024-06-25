@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19318	K02666	pilQ; type IV pilus assembly protein PilQ	0.0	9.998647029262823e-05
+K19318	K06136	pqqB; pyrroloquinoline quinone biosynthesis protein B	0.0	9.99884028838162e-05
+K19318	K07102	amgK; N-acetylmuramate 1-kinase [EC:2.7.1.221]	0.0	9.99884028838162e-05
+K19318	K00822	E2.6.1.18; beta-alanine--pyruvate transaminase [EC:2.6.1.18]	0.0	9.998936920742607e-05
+K19318	K01857	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2]	0.0	9.999033554971392e-05
+K19318	K00253	IVD, ivd; isovaleryl-CoA dehydrogenase [EC:1.3.8.4]	0.0	9.999033554971392e-05
+K19318	K08084	fimT; type IV fimbrial biogenesis protein FimT	0.0	9.999226829032568e-05
+K19318	K14267	dapC; N-succinyldiaminopimelate aminotransferase [EC:2.6.1.17]	0.0	9.999226829032568e-05
+K19318	K02663	pilN; type IV pilus assembly protein PilN	0.0	9.999323468865072e-05
+K19318	K06137	pqqC; pyrroloquinoline-quinone synthase [EC:1.3.3.11]	0.0	9.999420110565586e-05
+K19318	K07124	K07124; uncharacterized protein	0.0	9.999420110565586e-05
+K19318	K07183	nasT; two-component system, response regulator / RNA-binding antiterminator	0.0	9.999613399570872e-05
+K19318	K12658	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]	0.0	9.999806696048868e-05
+K19318	K03192	ureJ; urease accessory protein	0.0	0.0001999613478018
+K19318	K18118	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]	0.0	0.0001999636015901
+K19318	K03652	MPG; DNA-3-methyladenine glycosylase [EC:3.2.2.21]	0.0	0.0001999787399277
+K19318	K09986	K09986; uncharacterized protein	0.0	0.0002998841368486
+K19318	K13018	wbpD, wlbB; UDP-2-acetamido-3-amino-2,3-dideoxy-glucuronate N-acetyltransferase [EC:2.3.1.201]	0.0	0.0002999429880638
+K19318	K07017	K07017; uncharacterized protein	0.0	0.0002999574800049
+K19318	K09924	K09924; uncharacterized protein	0.0	0.000299969075851
+K19318	K03816	xpt; xanthine phosphoribosyltransferase [EC:2.4.2.22]	0.0	0.0006999017693118
+K19318	termite_gut		0.0	0.0007997199046691
+K19318	K07215	pigA, hemO; heme oxygenase (biliverdin-IX-beta and delta-forming) [EC:1.14.99.58]	0.0	0.0007998059853573
+K19318	K06001	trpB; tryptophan synthase beta chain [EC:4.2.1.20]	0.0	0.0007999222115146
+K19318	mobileOG_000221853	parA	0.0	0.0009996743393915

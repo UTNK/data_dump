@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19300	K00019	E1.1.1.30, bdh; 3-hydroxybutyrate dehydrogenase [EC:1.1.1.30]	0.2862161596696101	0.2518346783301809
+K19300	plant		0.2862161596696101	0.2584544370960168
+K19300	K00108	betA, CHDH; choline dehydrogenase [EC:1.1.99.1]	0.2862161596696101	0.2610261161756673
+K19300	K09456	aidB; putative acyl-CoA dehydrogenase	0.2862161596696101	0.2612892073132656
+K19300	K04063	osmC, ohr; lipoyl-dependent peroxiredoxin [EC:1.11.1.28]	0.2862161596696101	0.2651896378589681
+K19300	K23163	sbp; sulfate/thiosulfate transport system substrate-binding protein	0.2862161596696101	0.2664226192026465
+K19300	K07712	glnG, ntrC; two-component system, NtrC family, nitrogen regulation response regulator GlnG	0.2862161596696101	0.2701385237121356
+K19300	K19591	cueR; MerR family transcriptional regulator, copper efflux regulator	0.2862161596696101	0.270626931324445
+K19300	K05800	ybaO; Lrp/AsnC family transcriptional regulator	0.2862161596696101	0.2710032472326667
+K19300	K07507	mgtC; putative Mg2+ transporter-C (MgtC) family protein	0.2862161596696101	0.2717930902519641
+K19300	wetland		0.2862161596696101	0.2718549945398033
+K19300	K16087	TC.FEV.OM3, tbpA, hemR, lbpA, hpuB, bhuR, hugA, hmbR; hemoglobin/transferrin/lactoferrin receptor protein	0.2862161596696101	0.2725983002030381
+K19300	K18138	acrB, mexB, adeJ, smeE, mtrD, cmeB; multidrug efflux pump	0.2862161596696101	0.2734062034598024
+K19300	K00031	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]	0.2862161596696101	0.2742231138669207
+K19300	K11103	dctA; aerobic C4-dicarboxylate transport protein	0.2862161596696101	0.2743578963828746
+K19300	K06959	tex; protein Tex	0.2862161596696101	0.2744959793926615
+K19300	K01681	ACO, acnA; aconitate hydratase [EC:4.2.1.3]	0.2862161596696101	0.2744977850619201
+K19300	K04046	yegD; hypothetical chaperone protein	0.2862161596696101	0.2753693093470116
+K19300	K00375	K00375; GntR family transcriptional regulator / MocR family aminotransferase	0.2862161596696101	0.2755458901046801
+K19300	K02049	ABC.SN.A; NitT/TauT family transport system ATP-binding protein	0.2862161596696101	0.2761225439223801
+K19300	K02047	cysW; sulfate/thiosulfate transport system permease protein	0.2862161596696101	0.2762523416944422
+K19300	K03566	gcvA; LysR family transcriptional regulator, glycine cleavage system transcriptional activator	0.2862161596696101	0.276363422249759
+K19300	K09773	ppsR; [pyruvate, water dikinase]-phosphate phosphotransferase / [pyruvate, water dikinase] kinase [EC:2.7.4.28 2.7.11.33]	0.2862161596696101	0.2763982053339675
+K19300	K00121	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	0.2862161596696101	0.276445944794372
+K19300	K06938	K06938; uncharacterized protein	0.2862161596696101	0.2766419878090278

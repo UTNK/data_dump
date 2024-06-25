@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19101	K21993	fdhC; formate transporter	0.0004997254748853	0.0001998552030245
+K19101	K01760	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]	0.0004997254748853	0.0006996713950284
+K19101	K07160	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]	0.0004997254748853	0.0006996733223213
+K19101	K02099	araC; AraC family transcriptional regulator, arabinose operon regulatory protein	0.0004997254748853	0.0006996964943061
+K19101	K06929	K06929; uncharacterized protein	0.0004997254748853	0.000699701969963
+K19101	K04062	osmB; osmotically inducible lipoprotein OsmB	0.0004997254748853	0.000799605741425
+K19101	K07264	arnT, pmrK; 4-amino-4-deoxy-L-arabinose transferase [EC:2.4.2.43]	0.0004997254748853	0.0007996250288957
+K19101	K12339	cysM; S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent) [EC:2.5.1.144]	0.0004997254748853	0.0007996539958727
+K19101	K00138	aldB; aldehyde dehydrogenase [EC:1.2.1.-]	0.0004997254748853	0.0007997000352319
+K19101	K21430	yliI; aldose sugar dehydrogenase [EC:1.1.5.-]	0.0004997254748853	0.0008994869953654
+K19101	K05800	ybaO; Lrp/AsnC family transcriptional regulator	0.0004997254748853	0.0008994986959642
+K19101	K00997	acpS; holo-[acyl-carrier protein] synthase [EC:2.7.8.7]	0.0004997254748853	0.0008996018839054
+K19101	K02299	cyoC; cytochrome o ubiquinol oxidase subunit III	0.0004997254748853	0.0008996723476207
+K19101	K02297	cyoA; cytochrome o ubiquinol oxidase subunit II [EC:7.1.1.3]	0.0004997254748853	0.0009996436928612
+K19101	K11891	impL, vasK, icmF; type VI secretion system protein ImpL	0.0004997254748853	0.0009997100170869
+K19101	K15523	FN3KRP; protein-ribulosamine 3-kinase [EC:2.7.1.172]	0.0004997254748853	0.0010993017432551
+K19101	K03981	dsbC; thiol:disulfide interchange protein DsbC [EC:5.3.4.1]	0.0004997254748853	0.001099552608234
+K19101	K02298	cyoB; cytochrome o ubiquinol oxidase subunit I [EC:7.1.1.3]	0.0004997254748853	0.0010997119489873
+K19101	K01061	E3.1.1.45; carboxymethylenebutenolidase [EC:3.1.1.45]	0.0004997254748853	0.0012994737989233
+K19101	K00375	K00375; GntR family transcriptional regulator / MocR family aminotransferase	0.0004997254748853	0.0012995482432113
+K19101	mobileOG_000059166	impB	0.0004997254748853	0.0013996124566515
+K19101	K04568	epmA, poxA; elongation factor P--(R)-beta-lysine ligase [EC:6.3.1.-]	0.0004997254748853	0.001499388773573
+K19101	K11896	impG, vasA; type VI secretion system protein ImpG	0.0004997254748853	0.0019995720792045
+K19101	K01992	ABC-2.P; ABC-2 type transport system permease protein	0.0004997254748853	0.0027996238740039
+K19101	K01207	nagZ; beta-N-acetylhexosaminidase [EC:3.2.1.52]	0.0004997254748853	0.0028992282205659

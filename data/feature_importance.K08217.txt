@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K08217	K07646	0.0062145907258981	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K08217	K22132	0.0061007311667156	tcdA; tRNA threonylcarbamoyladenosine dehydratase
+K08217	K13485	0.0059012079441009	PRHOXNB, URAD; 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase [EC:4.1.1.97]
+K08217	K03449	0.005843099759029	MFS.CP; MFS transporter, CP family, cyanate transporter
+K08217	K01507	0.0058300473069603	ppa; inorganic pyrophosphatase [EC:3.6.1.1]
+K08217	K07735	0.0057087041794501	algH; putative transcriptional regulator
+K08217	K06079	0.005688636204286	cutF, nlpE; copper homeostasis protein (lipoprotein)
+K08217	K01999	0.0056716490100823	livK; branched-chain amino acid transport system substrate-binding protein
+K08217	human_skin	0.0056376985970787	
+K08217	K07010	0.0055950636265393	K07010; putative glutamine amidotransferase
+K08217	K00355	0.0055733930276431	NQO1; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K08217	K01126	0.0054791711572379	E3.1.4.46, glpQ, ugpQ; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]
+K08217	K07346	0.0054474828875941	fimC; fimbrial chaperone protein
+K08217	K13481	0.0054408203557254	xdhA; xanthine dehydrogenase small subunit [EC:1.17.1.4]
+K08217	K03634	0.0054101637001229	lolA; outer membrane lipoprotein carrier protein
+K08217	K02847	0.0054058030429511	waaL, rfaL; O-antigen ligase [EC:2.4.1.-]
+K08217	mobileOG_000777978	0.005370915059879	korSA
+K08217	K02406	0.0053460032687533	fliC; flagellin
+K08217	K03179	0.0053333975656251	ubiA; 4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]
+K08217	K13993	0.0053040225579179	HSP20; HSP20 family protein
+K08217	K02029	0.0052375584822843	ABC.PA.P; polar amino acid transport system permease protein
+K08217	mobileOG_000237546	0.0052167477698974	recF
+K08217	K09937	0.0052154226850762	K09937; uncharacterized protein
+K08217	K07636	0.0051777796628249	phoR; two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]
+K08217	K02002	0.0051469782702042	proX; glycine betaine/proline transport system substrate-binding protein
+K08217	K00768	0.0051020846334395	E2.4.2.21, cobU, cobT; nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase [EC:2.4.2.21]
+K08217	K13936	0.0050814422240268	mdcF; malonate transporter and related proteins
+K08217	K20074	0.0050741093261965	prpC, phpP; PPM family protein phosphatase [EC:3.1.3.16]
+K08217	K09159	0.0050730282115767	cptB; antitoxin CptB
+K08217	K13771	0.0050561281346386	nsrR; Rrf2 family transcriptional regulator, nitric oxide-sensitive transcriptional repressor
+K08217	K01782	0.0050400216892543	fadJ; 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3]
+K08217	K02303	0.0050364331302961	cobA; uroporphyrin-III C-methyltransferase [EC:2.1.1.107]
+K08217	mobileOG_000326437	0.0050347859714714	sbcB
+K08217	K18301	0.0050311935721947	mexL; TetR/AcrR family transcriptional regulator, mexJK operon transcriptional repressor
+K08217	K03521	0.0050211530154462	fixA, etfB; electron transfer flavoprotein beta subunit
+K08217	K19113	0.005017649262196	ttr; acetyltransferase [EC:2.3.1.-]
+K08217	K11068	0.0050115043161316	hlyIII; hemolysin III
+K08217	K12257	0.0050024077069019	secDF; SecD/SecF fusion protein
+K08217	K01770	0.0050001124639904	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]
+K08217	K07794	0.004987841023665	tctB; putative tricarboxylic transport membrane protein
+K08217	K23537	0.0049794975527037	nupA; general nucleoside transport system ATP-binding protein
+K08217	K02408	0.0049794591510825	fliE; flagellar hook-basal body complex protein FliE
+K08217	K09955	0.0049622908151487	K09955; uncharacterized protein
+K08217	K00412	0.0049586774995802	CYTB, petB; ubiquinol-cytochrome c reductase cytochrome b subunit
+K08217	K01998	0.0049539009842649	livM; branched-chain amino acid transport system permease protein
+K08217	mobileOG_000129781	0.0049227390555439	atl
+K08217	K11065	0.0049190334233319	tpx; thioredoxin-dependent peroxiredoxin [EC:1.11.1.24]
+K08217	K06200	0.0048807583301684	cstA; carbon starvation protein
+K08217	K01596	0.0048781396590049	E4.1.1.32, pckA, PCK; phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]
+K08217	K10532	0.0048660189127944	HGSNAT; heparan-alpha-glucosaminide N-acetyltransferase [EC:2.3.1.78]

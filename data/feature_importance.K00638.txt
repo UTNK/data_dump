@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K00638	K02387	0.0082862486975677	flgB; flagellar basal-body rod protein FlgB
+K00638	K02417	0.0079849965896433	fliNY, fliN; flagellar motor switch protein FliN/FliY
+K00638	K06193	0.0079814974293184	phnA; protein PhnA
+K00638	K01480	0.0078916933376078	speB; agmatinase [EC:3.5.3.11]
+K00638	K02073	0.0078301294101561	metQ; D-methionine transport system substrate-binding protein
+K00638	mobileOG_000034793	0.0078040695055747	diaA
+K00638	K14393	0.0077519422452518	actP; cation/acetate symporter
+K00638	K02388	0.0077302576464488	flgC; flagellar basal-body rod protein FlgC
+K00638	K02409	0.0076571182254502	fliF; flagellar M-ring protein FliF
+K00638	K03412	0.0076457600704553	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K00638	K02389	0.0076008112692136	flgD; flagellar basal-body rod modification protein FlgD
+K00638	K01886	0.0075904858866701	QARS, glnS; glutaminyl-tRNA synthetase [EC:6.1.1.18]
+K00638	K03642	0.0075788246941266	rlpA; rare lipoprotein A
+K00638	mobileOG_000021084	0.0075744082010937	priA
+K00638	K01512	0.0075006635407133	acyP; acylphosphatase [EC:3.6.1.7]
+K00638	K02410	0.0074528745697283	fliG; flagellar motor switch protein FliG
+K00638	K02419	0.0074083196877683	fliP; flagellar biosynthetic protein FliP
+K00638	K02851	0.0073963528519274	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K00638	K01975	0.007369687827764	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K00638	K10806	0.0073602460160904	yciA; acyl-CoA thioesterase YciA [EC:3.1.2.-]
+K00638	K02575	0.007232215177291	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K00638	K07507	0.0072282660803145	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K00638	K02011	0.0072194449272769	afuB, fbpB; iron(III) transport system permease protein
+K00638	K06980	0.0072169051893441	ygfZ; tRNA-modifying protein YgfZ
+K00638	K02071	0.0071272904430079	metN; D-methionine transport system ATP-binding protein
+K00638	K06872	0.0070925229022925	K06872; uncharacterized protein
+K00638	K02072	0.0070312551741011	metI; D-methionine transport system permease protein
+K00638	K10439	0.0070248910262535	rbsB; ribose transport system substrate-binding protein
+K00638	K02054	0.0070095295993928	ABC.SP.P1; putative spermidine/putrescine transport system permease protein
+K00638	K01969	0.0069269200284124	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K00638	K00865	0.0069047435702239	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K00638	K02408	0.0068902124234443	fliE; flagellar hook-basal body complex protein FliE
+K00638	K05786	0.0068775765053971	rarD; chloramphenicol-sensitive protein RarD
+K00638	K03667	0.0068720938561422	hslU; ATP-dependent HslUV protease ATP-binding subunit HslU
+K00638	K02396	0.0068583817970387	flgK; flagellar hook-associated protein 1 FlgK
+K00638	K23509	0.0068125556386137	ytfT, yjfF; galactofuranose transport system permease protein
+K00638	K16137	0.0067979993831113	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K00638	K15460	0.006792148567715	yfiC, trmX; tRNA1Val (adenine37-N6)-methyltransferase [EC:2.1.1.223]
+K00638	K07646	0.0067876017132976	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K00638	K04758	0.006773723085941	feoA; ferrous iron transport protein A
+K00638	K07642	0.0067258103962036	baeS, smeS; two-component system, OmpR family, sensor histidine kinase BaeS [EC:2.7.13.3]
+K00638	K04564	0.0067104907942039	SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+K00638	mobileOG_000093088	0.0066865207321948	ftsZ
+K00638	K03634	0.0066575625993476	lolA; outer membrane lipoprotein carrier protein
+K00638	K15984	0.0066226789477156	rsmJ; 16S rRNA (guanine1516-N2)-methyltransferase [EC:2.1.1.242]
+K00638	K01638	0.0066118794947042	aceB, glcB; malate synthase [EC:2.3.3.9]
+K00638	K01912	0.0065856414710663	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K00638	K06996	0.0065659046153043	K06996; uncharacterized protein
+K00638	K09472	0.006539802745934	puuC, aldH; 4-(gamma-glutamylamino)butanal dehydrogenase [EC:1.2.1.99]
+K00638	K02523	0.0065215143310132	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]

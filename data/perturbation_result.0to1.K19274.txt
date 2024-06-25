@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19274	K13985	NAPEPLD; N-acyl-phosphatidylethanolamine-hydrolysing phospholipase D [EC:3.1.4.54]	0.0325214222355973	0.0228527979533954
+K19274	K01912	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]	0.0325214222355973	0.0295366328445035
+K19274	K02075	ABC.ZM.P; zinc/manganese transport system permease protein	0.0325214222355973	0.030830717849734
+K19274	K01458	hutG; N-formylglutamate deformylase [EC:3.5.1.68]	0.0325214222355973	0.0308337674091126
+K19274	K06016	pydC; beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase [EC:3.5.1.6 3.5.1.87]	0.0325214222355973	0.0308351575290342
+K19274	K09117	K09117; uncharacterized protein	0.0325214222355973	0.0309274245539505
+K19274	K05603	hutF; formimidoylglutamate deiminase [EC:3.5.3.13]	0.0325214222355973	0.0311321552014813
+K19274	K03829	yedL; putative acetyltransferase [EC:2.3.1.-]	0.0325214222355973	0.0312290727303102
+K19274	K12510	tadB; tight adherence protein B	0.0325214222355973	0.0314305700573115
+K19274	K22479	argA; N-acetyltransferase	0.0325214222355973	0.0336131034016524
+K19274	K01039	gctA; glutaconate CoA-transferase, subunit A [EC:2.8.3.12]	0.0325214222355973	0.0336192350065523
+K19274	K11263	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]	0.0325214222355973	0.0336203188390941
+K19274	K03188	ureF; urease accessory protein	0.0325214222355973	0.0338158155321109
+K19274	K03190	ureD, ureH; urease accessory protein	0.0325214222355973	0.0344114120778527
+K19274	K09765	queH; epoxyqueuosine reductase [EC:1.17.99.6]	0.0325214222355973	0.0352188589766854
+K19274	K01167	rnaSA; ribonuclease T1 [EC:4.6.1.24]	0.0325214222355973	0.0357159729028495
+K19274	K22522	LOG; cytokinin riboside 5-monophosphate phosphoribohydrolase [EC:3.2.2.-]	0.0325214222355973	0.036999998352984
+K19274	K01857	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2]	0.0325214222355973	0.0381993450207777
+K19274	K07396	K07396; putative protein-disulfide isomerase	0.0325214222355973	0.0382953528767562
+K19274	K08167	smvA, qacA, lfrA; MFS transporter, DHA2 family, multidrug resistance protein	0.0325214222355973	0.0385957152796749
+K19274	K12960	mtaD; 5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]	0.0325214222355973	0.0395970135612212
+K19274	K01247	alkA; DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	0.0325214222355973	0.0396983046201687
+K19274	K03315	nhaC; Na+:H+ antiporter, NhaC family	0.0325214222355973	0.0443859784725765
+K19274	K21900	cysL; LysR family transcriptional regulator, transcriptional activator of the cysJI operon	0.0325214222355973	0.0477880340784799
+K19274	K06878	K06878; tRNA-binding protein	0.0325214222355973	0.05278196069287

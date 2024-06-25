@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K07637	K07018	0.0079608476688667	K07018; uncharacterized protein
+K07637	K03643	0.0078557969452405	lptE, rlpB; LPS-assembly lipoprotein
+K07637	K15539	0.0078127290477298	rodZ; cytoskeleton protein RodZ
+K07637	K02535	0.0076449252960175	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]
+K07637	K02393	0.0076250027939651	flgH; flagellar L-ring protein precursor FlgH
+K07637	K01739	0.0076055307326868	metB; cystathionine gamma-synthase [EC:2.5.1.48]
+K07637	mobileOG_000237546	0.0075319785355594	recF
+K07637	K02386	0.0074547007967081	flgA; flagella basal body P-ring formation protein FlgA
+K07637	mobileOG_000170347	0.007442299899062	mutL
+K07637	K02557	0.0074083041271784	motB; chemotaxis protein MotB
+K07637	K02394	0.0073639899877701	flgI; flagellar P-ring protein precursor FlgI
+K07637	mobileOG_000801665	0.0073475693234321	dnaN
+K07637	K11719	0.0073307098505256	lptC; lipopolysaccharide export system protein LptC
+K07637	K01920	0.0073176756739468	gshB; glutathione synthase [EC:6.3.2.3]
+K07637	K02049	0.0073150338286512	ABC.SN.A; NitT/TauT family transport system ATP-binding protein
+K07637	K07240	0.0071709154106419	chrA; chromate transporter
+K07637	K01894	0.0071573192392681	gluQ; glutamyl-Q tRNA(Asp) synthetase [EC:6.1.1.-]
+K07637	mobileOG_000327567	0.0071467884487235	mutM
+K07637	K17247	0.0070821527010075	msrQ; methionine sulfoxide reductase heme-binding subunit
+K07637	K00412	0.0070607651561438	CYTB, petB; ubiquinol-cytochrome c reductase cytochrome b subunit
+K07637	K07303	0.0070067039021864	iorB; isoquinoline 1-oxidoreductase subunit beta [EC:1.3.99.16]
+K07637	K08305	0.0069733840841831	mltB; membrane-bound lytic murein transglycosylase B [EC:4.2.2.-]
+K07637	K06194	0.0069593814962881	nlpD; lipoprotein NlpD
+K07637	K03592	0.0069583100611513	pmbA; PmbA protein
+K07637	K03769	0.0068933556011191	ppiC; peptidyl-prolyl cis-trans isomerase C [EC:5.2.1.8]
+K07637	K03561	0.0068909996164001	exbB; biopolymer transport protein ExbB
+K07637	K07638	0.00686632477552	envZ; two-component system, OmpR family, osmolarity sensor histidine kinase EnvZ [EC:2.7.13.3]
+K07637	mobileOG_000354053	0.0068504094358986	sspA
+K07637	K03566	0.0068275549928417	gcvA; LysR family transcriptional regulator, glycine cleavage system transcriptional activator
+K07637	K03676	0.0068190278669303	grxC, GLRX, GLRX2; glutaredoxin 3
+K07637	K06016	0.0068080675170241	pydC; beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase [EC:3.5.1.6 3.5.1.87]
+K07637	K02793	0.0067617668800269	manXa; mannose PTS system EIIA component [EC:2.7.1.191]
+K07637	K07708	0.0067460770065731	glnL, ntrB; two-component system, NtrC family, nitrogen regulation sensor histidine kinase GlnL [EC:2.7.13.3]
+K07637	mobileOG_000161370	0.0067420809676924	ratA
+K07637	mobileOG_000334103	0.0067400643775069	rnr
+K07637	K02392	0.0067235471717822	flgG; flagellar basal-body rod protein FlgG
+K07637	K06980	0.0067190677715622	ygfZ; tRNA-modifying protein YgfZ
+K07637	K02523	0.006714261598817	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K07637	K03641	0.0067130493899348	tolB; TolB protein
+K07637	mobileOG_000021898	0.0067107984883552	clpA
+K07637	K03814	0.0067088588994408	mtgA; monofunctional glycosyltransferase [EC:2.4.1.129]
+K07637	K03562	0.0067038110085725	tolQ; biopolymer transport protein TolQ
+K07637	K03640	0.0066939697195423	pal; peptidoglycan-associated lipoprotein
+K07637	K22310	0.0066854373890997	olsB; L-ornithine Nalpha-acyltransferase [EC:2.3.2.30]
+K07637	K09808	0.0066738007155622	lolC_E; lipoprotein-releasing system permease protein
+K07637	K02194	0.0066639464379699	ccmB; heme exporter protein B
+K07637	K09701	0.0066623742384698	K09701; uncharacterized protein
+K07637	K01908	0.0066622119203221	ACSS3, prpE; propionyl-CoA synthetase [EC:6.2.1.17]
+K07637	K03072	0.0066603993143274	secD; preprotein translocase subunit SecD
+K07637	K02195	0.0066552165033412	ccmC; heme exporter protein C

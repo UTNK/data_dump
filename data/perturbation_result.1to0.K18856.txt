@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18856	K07720	yesN; two-component system, response regulator YesN	0.0028150810295845	0.0015591513195286
+K18856	K01507	ppa; inorganic pyrophosphatase [EC:3.6.1.1]	0.0028150810295845	0.0035603229665613
+K18856	K00912	lpxK; tetraacyldisaccharide 4-kinase [EC:2.7.1.130]	0.0028150810295845	0.003561999956365
+K18856	K00946	thiL; thiamine-monophosphate kinase [EC:2.7.4.16]	0.0028150810295845	0.0035761670734919
+K18856	K02527	kdtA, waaA; 3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]	0.0028150810295845	0.0037135722066351
+K18856	K03474	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]	0.0028150810295845	0.0037290894018314
+K18856	K05595	marC; multiple antibiotic resistance protein	0.0028150810295845	0.0037516729395105
+K18856	K02536	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	0.0028150810295845	0.0037541527671631
+K18856	K04744	lptD, imp, ostA; LPS-assembly protein	0.0028150810295845	0.0038135791670059
+K18856	K03820	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.269]	0.0028150810295845	0.0038285333022018
+K18856	K07091	lptF; lipopolysaccharide export system permease protein	0.0028150810295845	0.0038779469758051
+K18856	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]	0.0028150810295845	0.0039392821914506
+K18856	K01772	hemH, FECH; protoporphyrin/coproporphyrin ferrochelatase [EC:4.99.1.1 4.99.1.9]	0.0028150810295845	0.0039725985367379
+K18856	K09774	lptA; lipopolysaccharide export system protein LptA	0.0028150810295845	0.0040328054241306
+K18856	K11720	lptG; lipopolysaccharide export system permease protein	0.0028150810295845	0.0042918188217337
+K18856	K07735	algH; putative transcriptional regulator	0.0028150810295845	0.0043785044485394
+K18856	K00677	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	0.0028150810295845	0.0043819573029135
+K18856	K00674	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]	0.0028150810295845	0.0043980219502469
+K18856	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	0.0028150810295845	0.0045008636416844
+K18856	K01895	ACSS1_2, acs; acetyl-CoA synthetase [EC:6.2.1.1]	0.0028150810295845	0.00460738066828
+K18856	K02065	mlaF, linL, mkl; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	0.0028150810295845	0.0049173088191096
+K18856	K03559	exbD; biopolymer transport protein ExbD	0.0028150810295845	0.0053327141078866
+K18856	K03561	exbB; biopolymer transport protein ExbB	0.0028150810295845	0.0054267499787306
+K18856	K02067	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	0.0028150810295845	0.0055977805793447
+K18856	K02066	mlaE, linK; phospholipid/cholesterol/gamma-HCH transport system permease protein	0.0028150810295845	0.0061060774920574

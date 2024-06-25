@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18782	K02401	0.0095908906271083	flhB; flagellar biosynthetic protein FlhB
+K18782	K02406	0.008857762570897	fliC; flagellin
+K18782	K03594	0.0087755186287634	bfr; bacterioferritin [EC:1.16.3.1]
+K18782	K02421	0.0087377034055008	fliR; flagellar biosynthetic protein FliR
+K18782	K10439	0.0084289443692437	rbsB; ribose transport system substrate-binding protein
+K18782	K07160	0.0083119641586305	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18782	K01809	0.008176877925514	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18782	K11070	0.0081266535960291	potC; spermidine/putrescine transport system permease protein
+K18782	mobileOG_000031464	0.0080813690416428	mutT
+K18782	K08682	0.0079334826718914	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K18782	K01512	0.0078760940776912	acyP; acylphosphatase [EC:3.6.1.7]
+K18782	K02039	0.007859411460473	phoU; phosphate transport system protein
+K18782	K01432	0.0078268212959224	AFMID; arylformamidase [EC:3.5.1.9]
+K18782	K00375	0.007820664849595	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18782	K17723	0.0077415274947423	preA; dihydropyrimidine dehydrogenase (NAD+) subunit PreA [EC:1.3.1.1]
+K18782	K10229	0.0077338124498068	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K18782	K06872	0.0077090096668742	K06872; uncharacterized protein
+K18782	K03767	0.0076311642607397	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18782	K02575	0.0076213207633702	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18782	K13626	0.0076146544140464	fliW; flagellar assembly factor FliW
+K18782	K01919	0.0075888905144225	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K18782	K18981	0.0075495931710553	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18782	K13015	0.0075464840239636	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K18782	K01480	0.0075394673882801	speB; agmatinase [EC:3.5.3.11]
+K18782	K09765	0.0075334634684102	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K18782	mobileOG_000802159	0.0074957432830977	rep
+K18782	K01469	0.0074948194981108	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+K18782	K23535	0.0074732671491262	nupB; general nucleoside transport system permease protein
+K18782	K07010	0.0074434601405859	K07010; putative glutamine amidotransferase
+K18782	K10227	0.0073988817546967	smoE, mtlE; sorbitol/mannitol transport system substrate-binding protein
+K18782	K00424	0.007393549266917	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K18782	K15975	0.0073441334679961	K15975; glyoxalase family protein
+K18782	K03071	0.007340912980543	secB; preprotein translocase subunit SecB
+K18782	K17758	0.0073344451174438	nnrD; ADP-dependent NAD(P)H-hydrate dehydratase [EC:4.2.1.136]
+K18782	K06967	0.007331251518184	trmK; tRNA (adenine22-N1)-methyltransferase [EC:2.1.1.217]
+K18782	K07101	0.0073280310307312	K07101; uncharacterized protein
+K18782	mobileOG_000026018	0.0073178246839508	xerC
+K18782	K01760	0.0073138119784483	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18782	K01278	0.0072990466436542	DPP4, CD26; dipeptidyl-peptidase 4 [EC:3.4.14.5]
+K18782	K15921	0.007291384256731	xynD; arabinoxylan arabinofuranohydrolase [EC:3.2.1.55]
+K18782	mobileOG_000134996	0.0072887609912709	mazF
+K18782	K13693	0.0072861646938423	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]
+K18782	K03770	0.0072700622565774	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K18782	K24206	0.007262973551503	
+K18782	K02426	0.0072603303814627	sufE; cysteine desulfuration protein SufE
+K18782	K07646	0.0072573636825695	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18782	K00163	0.0072410778695005	aceE; pyruvate dehydrogenase E1 component [EC:1.2.4.1]
+K18782	K01880	0.0072154001254812	GARS, glyS1; glycyl-tRNA synthetase [EC:6.1.1.14]
+K18782	mobileOG_000188203	0.0071992115326119	mutS2
+K18782	K02410	0.0071909791407183	fliG; flagellar motor switch protein FliG

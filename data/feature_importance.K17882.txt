@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K17882	K01975	0.0086316232557751	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K17882	K01919	0.0085820206724739	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K17882	K01610	0.0082208994695442	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K17882	K07010	0.0080450401982944	K07010; putative glutamine amidotransferase
+K17882	K01480	0.0079538079850617	speB; agmatinase [EC:3.5.3.11]
+K17882	K00705	0.0079460277000112	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]
+K17882	K00652	0.0078579046902533	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K17882	K02420	0.0078070756799445	fliQ; flagellar biosynthetic protein FliQ
+K17882	K01760	0.0077828328211528	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K17882	K02406	0.0077419267256856	fliC; flagellin
+K17882	K01512	0.0076910509891773	acyP; acylphosphatase [EC:3.6.1.7]
+K17882	K14393	0.0076332880743458	actP; cation/acetate symporter
+K17882	K06872	0.0076157924160406	K06872; uncharacterized protein
+K17882	K03767	0.0075731489587848	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K17882	K03412	0.0075040169494711	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K17882	K01809	0.0074604959434299	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K17882	K01912	0.0073548493701346	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K17882	K02026	0.0072723664838398	ABC.MS.P1; multiple sugar transport system permease protein
+K17882	K07124	0.0072527595876121	K07124; uncharacterized protein
+K17882	K00375	0.0072515568221593	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K17882	K02575	0.0072432306624858	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K17882	K10439	0.0072012672071739	rbsB; ribose transport system substrate-binding protein
+K17882	K18981	0.0072012467688283	udh; uronate dehydrogenase [EC:1.1.1.203]
+K17882	K03594	0.0071966566249026	bfr; bacterioferritin [EC:1.16.3.1]
+K17882	K07507	0.0071732834284808	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K17882	K00865	0.0070894387515257	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K17882	mobileOG_000031464	0.0070190227082107	mutT
+K17882	K19267	0.0069681862450442	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K17882	K02099	0.0069613477966964	araC; AraC family transcriptional regulator, arabinose operon regulatory protein
+K17882	K06996	0.0069487293239801	K06996; uncharacterized protein
+K17882	K00266	0.0068903460091327	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K17882	K11076	0.0068662225080409	potG; putrescine transport system ATP-binding protein
+K17882	K07646	0.0068516241844245	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K17882	K11263	0.006833434929175	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]
+K17882	K07263	0.0068181899589778	pqqL; zinc protease [EC:3.4.24.-]
+K17882	biofilm	0.0067916341913186	
+K17882	K07116	0.0066475308112969	pvdQ, quiP; acyl-homoserine-lactone acylase [EC:3.5.1.97]
+K17882	K07150	0.0066270424077211	K07150; uncharacterized protein
+K17882	K02011	0.0066178593425371	afuB, fbpB; iron(III) transport system permease protein
+K17882	K02471	0.0065551498036456	bacA; vitamin B12/bleomycin/antimicrobial peptide transport system ATP-binding/permease protein
+K17882	K02523	0.0065320690874287	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K17882	K02039	0.0065240218722217	phoU; phosphate transport system protein
+K17882	K01466	0.0065147680171928	allB; allantoinase [EC:3.5.2.5]
+K17882	K06136	0.0065144511599153	pqqB; pyrroloquinoline quinone biosynthesis protein B
+K17882	K10229	0.006503237096153	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K17882	K02054	0.006493206630646	ABC.SP.P1; putative spermidine/putrescine transport system permease protein
+K17882	K08482	0.0064711606922593	kaiC; circadian clock protein KaiC
+K17882	K02081	0.0064700665899575	agaR; DeoR family transcriptional regulator, aga operon transcriptional repressor
+K17882	K15578	0.0064695438911521	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K17882	K01469	0.0064665964710184	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]

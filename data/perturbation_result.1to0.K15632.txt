@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K15632	K00375	K00375; GntR family transcriptional regulator / MocR family aminotransferase	0.1188243478003494	0.1090599333991462
+K15632	K14761	ybcJ; ribosome-associated protein	0.1188243478003494	0.1097675249268385
+K15632	K03783	punA, PNP; purine-nucleoside phosphorylase [EC:2.4.2.1]	0.1188243478003494	0.1112852832854072
+K15632	K02481	K02481; two-component system, NtrC family, response regulator	0.1188243478003494	0.111945542656794
+K15632	K00262	E1.4.1.4, gdhA; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]	0.1188243478003494	0.1124252684481888
+K15632	K03521	fixA, etfB; electron transfer flavoprotein beta subunit	0.1188243478003494	0.1132399146869333
+K15632	K00928	lysC; aspartate kinase [EC:2.7.2.4]	0.1188243478003494	0.1132615139000485
+K15632	K03522	fixB, etfA; electron transfer flavoprotein alpha subunit	0.1188243478003494	0.1134354992082801
+K15632	K07646	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]	0.1188243478003494	0.1136576177493792
+K15632	K07507	mgtC; putative Mg2+ transporter-C (MgtC) family protein	0.1188243478003494	0.113868865436325
+K15632	K02455	gspF; general secretion pathway protein F	0.1188243478003494	0.1229819516377563
+K15632	K06132	clsC; cardiolipin synthase C [EC:2.7.8.-]	0.1188243478003494	0.1233010383817105
+K15632	K02460	gspK; general secretion pathway protein K	0.1188243478003494	0.123432643744694
+K15632	K01061	E3.1.1.45; carboxymethylenebutenolidase [EC:3.1.1.45]	0.1188243478003494	0.123644299913089
+K15632	K08997	SELENOO, selO; serine/tyrosine/threonine adenylyltransferase [EC:2.7.7.-]	0.1188243478003494	0.1237928222383013
+K15632	K02459	gspJ; general secretion pathway protein J	0.1188243478003494	0.1238391353800338
+K15632	K15034	yaeJ; ribosome-associated protein	0.1188243478003494	0.1239663495323883
+K15632	K04080	ibpA; molecular chaperone IbpA	0.1188243478003494	0.1241707049981744
+K15632	K11105	cvrA, nhaP2; potassium/hydrogen antiporter	0.1188243478003494	0.1242279650312535
+K15632	K13895	yejE; microcin C transport system permease protein	0.1188243478003494	0.1245450530687844
+K15632	K09780	K09780; uncharacterized protein	0.1188243478003494	0.1250357622577238
+K15632	K01095	pgpA; phosphatidylglycerophosphatase A [EC:3.1.3.27]	0.1188243478003494	0.126493645137927
+K15632	K07146	K07146; UPF0176 protein	0.1188243478003494	0.1271916888202656
+K15632	K01991	wza, gfcE; polysaccharide biosynthesis/export protein	0.1188243478003494	0.1308789448314374
+K15632	K03668	hslJ; heat shock protein HslJ	0.1188243478003494	0.1402278070202711

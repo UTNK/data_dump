@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19595	K19591	cueR; MerR family transcriptional regulator, copper efflux regulator	0.6900212661723387	0.6099304892860647
+K19595	K07115	rlmJ; 23S rRNA (adenine2030-N6)-methyltransferase [EC:2.1.1.266]	0.6900212661723387	0.6342953609278977
+K19595	K03790	rimJ; [ribosomal protein S5]-alanine N-acetyltransferase [EC:2.3.1.267]	0.6900212661723387	0.6440345652431237
+K19595	K10914	crp; CRP/FNR family transcriptional regulator, cyclic AMP receptor protein	0.6900212661723387	0.649191364332633
+K19595	K18138	acrB, mexB, adeJ, smeE, mtrD, cmeB; multidrug efflux pump	0.6900212661723387	0.6518703795597278
+K19595	K07708	glnL, ntrB; two-component system, NtrC family, nitrogen regulation sensor histidine kinase GlnL [EC:2.7.13.3]	0.6900212661723387	0.658624710248852
+K19595	K06140	rnk; regulator of nucleoside diphosphate kinase	0.6900212661723387	0.6593589709680289
+K19595	K16087	TC.FEV.OM3, tbpA, hemR, lbpA, hpuB, bhuR, hugA, hmbR; hemoglobin/transferrin/lactoferrin receptor protein	0.6900212661723387	0.6605743441226616
+K19595	K00121	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	0.6900212661723387	0.6608148578297912
+K19595	K04063	osmC, ohr; lipoyl-dependent peroxiredoxin [EC:1.11.1.28]	0.6900212661723387	0.6624803984596919
+K19595	K03566	gcvA; LysR family transcriptional regulator, glycine cleavage system transcriptional activator	0.6900212661723387	0.6628713806228936
+K19595	mobileOG_000320008	fhuE	0.6900212661723387	0.6630950522144597
+K19595	K00528	fpr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]	0.6900212661723387	0.6631664903757081
+K19595	K01495	GCH1, folE; GTP cyclohydrolase IA [EC:3.5.4.16]	0.6900212661723387	0.6635050971336497
+K19595	K05539	dusA; tRNA-dihydrouridine synthase A [EC:1.-.-.-]	0.6900212661723387	0.6638655740977781
+K19595	K07712	glnG, ntrC; two-component system, NtrC family, nitrogen regulation response regulator GlnG	0.6900212661723387	0.664259449822371
+K19595	K07029	dagK; diacylglycerol kinase (ATP) [EC:2.7.1.107]	0.6900212661723387	0.6651564214392908
+K19595	K01011	TST, MPST, sseA; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	0.6900212661723387	0.6660500909004788
+K19595	K01241	amn; AMP nucleosidase [EC:3.2.2.4]	0.6900212661723387	0.6661030100802039
+K19595	K01679	E4.2.1.2B, fumC, FH; fumarate hydratase, class II [EC:4.2.1.2]	0.6900212661723387	0.6681032956962999
+K19595	K18900	bpeT; LysR family transcriptional regulator, regulator for bpeEF and oprC	0.6900212661723387	0.6685509300837511
+K19595	K07278	tamA; translocation and assembly module TamA	0.6900212661723387	0.6689235890559825
+K19595	K03975	dedA; membrane-associated protein	0.6900212661723387	0.6691206558256096
+K19595	K06916	zapE; cell division protein ZapE	0.6900212661723387	0.6691487615478311
+K19595	K03799	htpX; heat shock protein HtpX [EC:3.4.24.-]	0.6900212661723387	0.6692048399801722

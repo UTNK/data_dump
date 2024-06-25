@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19883	K01809	0.0087965999013839	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K19883	K01512	0.0083174545997052	acyP; acylphosphatase [EC:3.6.1.7]
+K19883	K02401	0.0082640423607193	flhB; flagellar biosynthetic protein FlhB
+K19883	K02421	0.008076438595954	fliR; flagellar biosynthetic protein FliR
+K19883	K11070	0.0079912761403687	potC; spermidine/putrescine transport system permease protein
+K19883	K03594	0.0079887364231907	bfr; bacterioferritin [EC:1.16.3.1]
+K19883	K01760	0.0079035879105948	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19883	K06996	0.0078851567784749	K06996; uncharacterized protein
+K19883	K02406	0.0077336505830032	fliC; flagellin
+K19883	K10439	0.0077225625143392	rbsB; ribose transport system substrate-binding protein
+K19883	K00375	0.0075777381235723	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19883	K03767	0.0075085104918046	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19883	K07010	0.0074929831425876	K07010; putative glutamine amidotransferase
+K19883	K07160	0.0074824393670506	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K19883	K01480	0.0074568544972238	speB; agmatinase [EC:3.5.3.11]
+K19883	K06872	0.0074025639708653	K06872; uncharacterized protein
+K19883	mobileOG_000031464	0.0073854631822748	mutT
+K19883	K02011	0.0073436214473935	afuB, fbpB; iron(III) transport system permease protein
+K19883	K02575	0.0072154879155839	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K19883	K07124	0.0071068542472525	K07124; uncharacterized protein
+K19883	K01821	0.0070917177406368	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K19883	K00424	0.0070844868943206	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K19883	mobileOG_000093088	0.0070647509287147	ftsZ
+K19883	K00266	0.0070094634025725	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K19883	K06152	0.0069924686076697	E1.1.99.3G; gluconate 2-dehydrogenase gamma chain [EC:1.1.99.3]
+K19883	K09765	0.0069909451867327	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K19883	K11074	0.0069214638415618	potI; putrescine transport system permease protein
+K19883	K10206	0.0068746000220435	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K19883	K07646	0.0068450546270572	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K19883	K01912	0.0068372138676933	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K19883	K07077	0.00682710511151	K07077; uncharacterized protein
+K19883	K19267	0.0067398212076217	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K19883	K02054	0.00673378072565	ABC.SP.P1; putative spermidine/putrescine transport system permease protein
+K19883	K09810	0.0067309882507026	lolD; lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]
+K19883	K07507	0.0067269215534071	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19883	K13013	0.0066974935110649	wbqV; O-antigen biosynthesis protein WbqV
+K19883	K03192	0.0066667859267077	ureJ; urease accessory protein
+K19883	K18707	0.0066640650623017	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]
+K19883	K01266	0.0066590427467413	dmpA, dap; D-aminopeptidase [EC:3.4.11.19]
+K19883	mobileOG_000034793	0.0066300100839828	diaA
+K19883	K03634	0.0066247432461008	lolA; outer membrane lipoprotein carrier protein
+K19883	K01058	0.0066160530793176	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]
+K19883	mobileOG_000134996	0.0066021811791169	mazF
+K19883	K07642	0.0066003868297277	baeS, smeS; two-component system, OmpR family, sensor histidine kinase BaeS [EC:2.7.13.3]
+K19883	K03117	0.0065923013640488	tatB; sec-independent protein translocase protein TatB
+K19883	K23264	0.0065829441472772	purS; phosphoribosylformylglycinamidine synthase subunit PurS [EC:6.3.5.3]
+K19883	biofilm	0.0065826096698121	
+K19883	K05601	0.0065727403211945	hcp; hydroxylamine reductase [EC:1.7.99.1]
+K19883	K18218	0.0065690653700929	tet35; tetracycline resistance efflux pump
+K19883	K07101	0.0065507371085332	K07101; uncharacterized protein

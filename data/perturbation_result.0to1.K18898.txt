@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18898	K00140	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	0.0726427904027078	0.0659470406616865
+K18898	K15866	paaG; 2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase [EC:5.3.3.18]	0.0726427904027078	0.0688444478853795
+K18898	K01912	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]	0.0726427904027078	0.069044280684651
+K18898	K15578	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]	0.0726427904027078	0.0763396381920364
+K18898	K03317	TC.CNT; concentrative nucleoside transporter, CNT family	0.0726427904027078	0.0765394160739218
+K18898	K09955	K09955; uncharacterized protein	0.0726427904027078	0.0765394829765786
+K18898	K20938	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]	0.0726427904027078	0.076539819119532
+K18898	K03929	pnbA; para-nitrobenzyl esterase [EC:3.1.1.-]	0.0726427904027078	0.0768392777568832
+K18898	K01479	hutG; formiminoglutamase [EC:3.5.3.8]	0.0726427904027078	0.0771396894345173
+K18898	K15532	yteR, yesR; unsaturated rhamnogalacturonyl hydrolase [EC:3.2.1.172]	0.0726427904027078	0.0772384866258152
+K18898	K14274	xylC; xylono-1,5-lactonase [EC:3.1.1.110]	0.0726427904027078	0.0774397162452328
+K18898	K01693	hisB; imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	0.0726427904027078	0.0774400705312519
+K18898	K01826	hpaF, hpcD; 5-carboxymethyl-2-hydroxymuconate isomerase [EC:5.3.3.10]	0.0726427904027078	0.0779376222599209
+K18898	K07149	K07149; uncharacterized protein	0.0726427904027078	0.0783389260300326
+K18898	K01800	maiA, GSTZ1; maleylacetoacetate isomerase [EC:5.2.1.2]	0.0726427904027078	0.0784386425611453
+K18898	K01857	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2]	0.0726427904027078	0.0786372828302934
+K18898	K09472	puuC, aldH; 4-(gamma-glutamylamino)butanal dehydrogenase [EC:1.2.1.99]	0.0726427904027078	0.0787386907968065
+K18898	K06044	treY, glgY; (1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase [EC:5.4.99.15]	0.0726427904027078	0.0801385572640663
+K18898	K02008	cbiQ; cobalt/nickel transport system permease protein	0.0726427904027078	0.0806384083817499
+K18898	K09702	K09702; uncharacterized protein	0.0726427904027078	0.0808371096991865
+K18898	K07401	K07401; selenoprotein W-related protein	0.0726427904027078	0.0811372666656399
+K18898	K12941	abgB; aminobenzoyl-glutamate utilization protein B	0.0726427904027078	0.0812371562626936
+K18898	K16165	nagK; fumarylpyruvate hydrolase [EC:3.7.1.20]	0.0726427904027078	0.0815375869723321
+K18898	root		0.0726427904027078	0.0825381085309202
+K18898	K13020	wlbA, bplA; UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase [EC:1.1.1.335]	0.0726427904027078	0.0895341282576542

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18296	K00865	0.0083158399403387	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18296	K00325	0.0082109773590001	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K18296	K02406	0.0081459486524397	fliC; flagellin
+K18296	K02851	0.0081193695551332	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K18296	K00845	0.0080508091336206	glk; glucokinase [EC:2.7.1.2]
+K18296	K01512	0.008050555720985	acyP; acylphosphatase [EC:3.6.1.7]
+K18296	K01969	0.0080358964094663	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K18296	K02420	0.0080016291131119	fliQ; flagellar biosynthetic protein FliQ
+K18296	mobileOG_000034793	0.0079239160341003	diaA
+K18296	K00375	0.0078280263345693	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18296	K03412	0.0078274805961502	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K18296	K01610	0.0078241223853061	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K18296	activated_sludge	0.0077342637579744	
+K18296	K06872	0.0076739016686918	K06872; uncharacterized protein
+K18296	K10439	0.0076354661233822	rbsB; ribose transport system substrate-binding protein
+K18296	K01239	0.0076335367082414	iunH; purine nucleosidase [EC:3.2.2.1]
+K18296	K01480	0.0076134619795812	speB; agmatinase [EC:3.5.3.11]
+K18296	K03767	0.0076007803612968	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18296	K07010	0.0074960290873938	K07010; putative glutamine amidotransferase
+K18296	K01760	0.0074442757896995	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18296	K14393	0.0073471925904214	actP; cation/acetate symporter
+K18296	K00652	0.0073084274019001	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18296	K02575	0.0072684889852047	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18296	K02011	0.0072164591586872	afuB, fbpB; iron(III) transport system permease protein
+K18296	mobileOG_000031464	0.0071725163989738	mutT
+K18296	K07646	0.0071575434263374	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18296	mobileOG_000025524	0.0071273266000255	holB
+K18296	K07124	0.0070846519081346	K07124; uncharacterized protein
+K18296	K01912	0.0070841462836959	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18296	K09774	0.0068762297999518	lptA; lipopolysaccharide export system protein LptA
+K18296	K02415	0.0068444091599587	fliL; flagellar FliL protein
+K18296	K02008	0.0068386449548606	cbiQ; cobalt/nickel transport system permease protein
+K18296	K01631	0.0068231761255154	dgoA; 2-dehydro-3-deoxyphosphogalactonate aldolase [EC:4.1.2.21]
+K18296	K03770	0.006811368688089	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K18296	K18218	0.0068081001558051	tet35; tetracycline resistance efflux pump
+K18296	K01886	0.0067213647784052	QARS, glnS; glutaminyl-tRNA synthetase [EC:6.1.1.18]
+K18296	K02400	0.006709512505209	flhA; flagellar biosynthesis protein FlhA
+K18296	mobileOG_000015288	0.0066942624672636	hflC
+K18296	K06996	0.0066929804791382	K06996; uncharacterized protein
+K18296	K03414	0.00667482585408	cheZ; chemotaxis protein CheZ
+K18296	K06956	0.0066744777085293	K06956; uncharacterized protein
+K18296	mobileOG_000330062	0.0066556864563804	recR
+K18296	K02462	0.0066503863425845	gspM; general secretion pathway protein M
+K18296	K11354	0.0066423185341435	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]
+K18296	K00606	0.0066374205019836	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]
+K18296	K07507	0.0066369633212988	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18296	K09121	0.0066357507646099	larC; pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel chelatase [EC:4.99.1.12]
+K18296	K19267	0.0066349079690056	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18296	K03415	0.0066330951721172	cheV; two-component system, chemotaxis family, chemotaxis protein CheV
+K18296	K02099	0.0066320740752231	araC; AraC family transcriptional regulator, arabinose operon regulatory protein

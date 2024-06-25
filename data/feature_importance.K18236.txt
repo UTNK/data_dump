@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18236	K01512	0.0080565888856071	acyP; acylphosphatase [EC:3.6.1.7]
+K18236	K00865	0.0080381146224646	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18236	K00652	0.0078632927502144	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18236	K01975	0.0077156575156457	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K18236	K03767	0.007661909058532	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18236	K02401	0.0076241404397153	flhB; flagellar biosynthetic protein FlhB
+K18236	K00847	0.0076032651803524	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K18236	K06996	0.0075798497888538	K06996; uncharacterized protein
+K18236	K02421	0.0075250284946464	fliR; flagellar biosynthetic protein FliR
+K18236	K02026	0.0075038739491741	ABC.MS.P1; multiple sugar transport system permease protein
+K18236	K07124	0.0074262386921751	K07124; uncharacterized protein
+K18236	K14393	0.0073819049076724	actP; cation/acetate symporter
+K18236	K07010	0.007358102418804	K07010; putative glutamine amidotransferase
+K18236	K10439	0.007267535997311	rbsB; ribose transport system substrate-binding protein
+K18236	K03594	0.0072669519870055	bfr; bacterioferritin [EC:1.16.3.1]
+K18236	K06872	0.0072202649117711	K06872; uncharacterized protein
+K18236	K01912	0.0071184576987669	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18236	K01480	0.0071113377717416	speB; agmatinase [EC:3.5.3.11]
+K18236	K02011	0.0070846023501157	afuB, fbpB; iron(III) transport system permease protein
+K18236	mobileOG_000031464	0.0069598842349986	mutT
+K18236	K23509	0.0068553563107566	ytfT, yjfF; galactofuranose transport system permease protein
+K18236	mobileOG_000115691	0.0068195303053426	sigH
+K18236	K15578	0.0067290241205653	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K18236	K14987	0.0067125513501931	fixJ; two-component system, LuxR family, response regulator FixJ
+K18236	K00154	0.0066785003341393	E1.2.1.68; coniferyl-aldehyde dehydrogenase [EC:1.2.1.68]
+K18236	K13020	0.0066674159725692	wlbA, bplA; UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase [EC:1.1.1.335]
+K18236	K00263	0.0066446652730699	E1.4.1.9; leucine dehydrogenase [EC:1.4.1.9]
+K18236	mobileOG_000026018	0.0066361271403326	xerC
+K18236	K01483	0.0065960535364008	allA; ureidoglycolate lyase [EC:4.3.2.3]
+K18236	K06726	0.0065784707807861	rbsD; D-ribose pyranase [EC:5.4.99.62]
+K18236	K09810	0.0065300871109988	lolD; lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]
+K18236	K01809	0.0065198780897156	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18236	K00830	0.0064983914087849	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+K18236	biofilm	0.006475727875844	
+K18236	K01048	0.0064735831816435	pldB; lysophospholipase [EC:3.1.1.5]
+K18236	K00853	0.0064706082948455	araB; L-ribulokinase [EC:2.7.1.16]
+K18236	K13693	0.0064702585226344	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]
+K18236	K06864	0.0064652108269409	larE; pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase [EC:4.4.1.37]
+K18236	K16165	0.0064598944131333	nagK; fumarylpyruvate hydrolase [EC:3.7.1.20]
+K18236	K18118	0.0064545550936698	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]
+K18236	K07646	0.0064511994803528	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18236	K03749	0.0064293170943126	dedD; DedD protein
+K18236	K21481	0.0064259185359208	mhuD, hmoB; heme oxygenase (mycobilin-producing) [EC:1.14.99.57]
+K18236	K06194	0.0064193466310268	nlpD; lipoprotein NlpD
+K18236	K19776	0.0064178264730303	dgoR; GntR family transcriptional regulator, galactonate operon transcriptional repressor
+K18236	K00266	0.0064162004019897	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K18236	mobileOG_000375139	0.0064025406654513	nfuA
+K18236	K00640	0.0063988875771789	cysE; serine O-acetyltransferase [EC:2.3.1.30]
+K18236	K19267	0.0063909557182065	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18236	K03117	0.0063835470864499	tatB; sec-independent protein translocase protein TatB

@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18554	K07263	pqqL; zinc protease [EC:3.4.24.-]	0.1052232566558696	0.0995295981471373
+K18554	K01089	hisB; imidazoleglycerol-phosphate dehydratase / histidinol-phosphatase [EC:4.2.1.19 3.1.3.15]	0.1052232566558696	0.1096611767025769
+K18554	K01996	livF; branched-chain amino acid transport system ATP-binding protein	0.1052232566558696	0.1096903929442621
+K18554	K02770	fruA; fructose PTS system EIIBC or EIIC component [EC:2.7.1.202]	0.1052232566558696	0.1096912990994414
+K18554	mobileOG_000327250	hda	0.1052232566558696	0.1097648297121971
+K18554	K09812	ftsE; cell division transport system ATP-binding protein	0.1052232566558696	0.110230475029573
+K18554	K16091	fecA; Fe(3+) dicitrate transport protein	0.1052232566558696	0.1105154463475078
+K18554	K20866	yihX; glucose-1-phosphatase [EC:3.1.3.10]	0.1052232566558696	0.1105239396829263
+K18554	K09158	K09158; uncharacterized protein	0.1052232566558696	0.110571299740122
+K18554	K03311	TC.LIVCS; branched-chain amino acid:cation transporter, LIVCS family	0.1052232566558696	0.1106340825310016
+K18554	K22719	envC; murein hydrolase activator	0.1052232566558696	0.110816683408729
+K18554	K03670	mdoG; periplasmic glucans biosynthesis protein	0.1052232566558696	0.1109955760911568
+K18554	K10112	msmX, msmK, malK, sugC, ggtA, msiK; multiple sugar transport system ATP-binding protein	0.1052232566558696	0.111266796168515
+K18554	mobileOG_000116025	dut	0.1052232566558696	0.1113037659636364
+K18554	K16066	ydfG; 3-hydroxy acid dehydrogenase / malonic semialdehyde reductase [EC:1.1.1.381 1.1.1.-]	0.1052232566558696	0.1115942629733651
+K18554	K02429	fucP; MFS transporter, FHS family, L-fucose permease	0.1052232566558696	0.111637395955377
+K18554	K06076	fadL; long-chain fatty acid transport protein	0.1052232566558696	0.1116567642220993
+K18554	K01952	PFAS, purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	0.1052232566558696	0.1121324484127887
+K18554	K02168	betT, betS; choline/glycine/proline betaine transport protein	0.1052232566558696	0.1125781613286561
+K18554	mobileOG_000371848		0.1052232566558696	0.1127426716354187
+K18554	K00262	E1.4.1.4, gdhA; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]	0.1052232566558696	0.1130484655905942
+K18554	K17758	nnrD; ADP-dependent NAD(P)H-hydrate dehydratase [EC:4.2.1.136]	0.1052232566558696	0.1130807206600689
+K18554	K03814	mtgA; monofunctional glycosyltransferase [EC:2.4.1.129]	0.1052232566558696	0.1141686061991027
+K18554	K08307	mltD, dniR; membrane-bound lytic murein transglycosylase D [EC:4.2.2.-]	0.1052232566558696	0.1152235685688193
+K18554	K03270	kdsC; 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO 8-P phosphatase) [EC:3.1.3.45]	0.1052232566558696	0.1167706259010542

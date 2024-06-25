@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18235	K00104	0.0087329985362856	glcD; glycolate oxidase [EC:1.1.3.15]
+K18235	K02027	0.0080327835800061	ABC.MS.S; multiple sugar transport system substrate-binding protein
+K18235	K05520	0.0079971693185439	pfpI; protease I [EC:3.5.1.124]
+K18235	mobileOG_000034793	0.0077427741903931	diaA
+K18235	K01770	0.0073884773980427	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]
+K18235	K01809	0.0073419129986168	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18235	K09125	0.0071501407659694	yhhQ; queuosine precursor transporter
+K18235	K00991	0.0071056071524746	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]
+K18235	K07027	0.0070120171766091	K07027; glycosyltransferase 2 family protein
+K18235	mobileOG_000777978	0.0069403509871766	korSA
+K18235	K00865	0.0069163610110618	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18235	K00027	0.006898231464939	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K18235	K05786	0.0068770717536102	rarD; chloramphenicol-sensitive protein RarD
+K18235	K07646	0.0068399008767446	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18235	K00847	0.0067958443511476	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K18235	K03310	0.0067288047097436	TC.AGCS; alanine or glycine:cation symporter, AGCS family
+K18235	K14393	0.0066964198107543	actP; cation/acetate symporter
+K18235	K01918	0.006695212790504	panC; pantoate--beta-alanine ligase [EC:6.3.2.1]
+K18235	K01638	0.0066833416431377	aceB, glcB; malate synthase [EC:2.3.3.9]
+K18235	K19267	0.0066768273604648	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18235	activated_sludge	0.0066563165838012	
+K18235	K02274	0.0064682266287319	coxA, ctaD; cytochrome c oxidase subunit I [EC:7.1.1.9]
+K18235	K16843	0.0064125683550404	slcC; (S)-sulfolactate dehydrogenase [EC:1.1.1.310]
+K18235	K05896	0.006410437941656	scpA; segregation and condensation protein A
+K18235	K09927	0.0063437430708104	K09927; uncharacterized protein
+K18235	K00348	0.0063188100122046	nqrC; Na+-transporting NADH:ubiquinone oxidoreductase subunit C [EC:7.2.1.1]
+K18235	K03298	0.0063038812714478	TC.DME; drug/metabolite transporter, DME family
+K18235	K00652	0.006283591930708	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18235	K00928	0.0062409342267423	lysC; aspartate kinase [EC:2.7.2.4]
+K18235	K18911	0.0062322095347373	egtD; L-histidine Nalpha-methyltransferase [EC:2.1.1.44]
+K18235	K08683	0.0062284511961793	HSD17B10; 3-hydroxyacyl-CoA dehydrogenase / 3-hydroxy-2-methylbutyryl-CoA dehydrogenase [EC:1.1.1.35 1.1.1.178]
+K18235	K03311	0.006227065314065	TC.LIVCS; branched-chain amino acid:cation transporter, LIVCS family
+K18235	K09012	0.0062258029831583	sufR; DeoR family transcriptional regulator, suf operon transcriptional repressor
+K18235	K00349	0.0062120436362942	nqrD; Na+-transporting NADH:ubiquinone oxidoreductase subunit D [EC:7.2.1.1]
+K18235	K01060	0.0062010695737306	cah; cephalosporin-C deacetylase [EC:3.1.1.41]
+K18235	K07009	0.0061910476847696	gatD; lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13]
+K18235	mobileOG_000332333	0.006189430719072	ruvC
+K18235	K00997	0.0061821596407413	acpS; holo-[acyl-carrier protein] synthase [EC:2.7.8.7]
+K18235	K16703	0.0061812203062754	wcaL, amsK; colanic acid/amylovoran biosynthesis glycosyltransferase [EC:2.4.-.-]
+K18235	K02058	0.0061619376250064	ABC.SS.S; simple sugar transport system substrate-binding protein
+K18235	K07507	0.0061578131652355	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18235	K03636	0.0061511076964381	moaD, cysO; sulfur-carrier protein
+K18235	K00041	0.006143042258642	uxaB; tagaturonate reductase [EC:1.1.1.58]
+K18235	K19802	0.0061427591514268	ycjG, ykfB; L-Ala-D/L-Glu epimerase [EC:5.1.1.20]
+K18235	K01720	0.0061406928587677	prpD; 2-methylcitrate dehydratase [EC:4.2.1.79]
+K18235	K14645	0.0061345961991187	K14645; serine protease [EC:3.4.21.-]
+K18235	K03926	0.006127398773453	cutA; periplasmic divalent cation tolerance protein
+K18235	K09981	0.0061238988731956	K09981; uncharacterized protein
+K18235	K02026	0.006121451068263	ABC.MS.P1; multiple sugar transport system permease protein
+K18235	K02259	0.0061196457274709	COX15, ctaA; cytochrome c oxidase assembly protein subunit 15

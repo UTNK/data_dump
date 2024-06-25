@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19096	K02011	afuB, fbpB; iron(III) transport system permease protein	0.0038976486298456	0.0026983758118031
+K19096	K12541	lapB; ATP-binding cassette, subfamily C, bacterial LapB	0.0038976486298456	0.0029982272301789
+K19096	K01821	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]	0.0038976486298456	0.0030980629877223
+K19096	K12542	lapC; membrane fusion protein, adhesin transport system	0.0038976486298456	0.0032978227758366
+K19096	K02656	pilF; type IV pilus assembly protein PilF	0.0038976486298456	0.0033979567700171
+K19096	K01912	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]	0.0038976486298456	0.004397325355853
+K19096	K07017	K07017; uncharacterized protein	0.0038976486298456	0.0044975272045031
+K19096	K01479	hutG; formiminoglutamase [EC:3.5.3.8]	0.0038976486298456	0.0046971637984643
+K19096	K02616	paaX; phenylacetic acid degradation operon negative regulatory protein	0.0038976486298456	0.0048973548703532
+K19096	K01029	E2.8.3.5B, scoB; 3-oxoacid CoA-transferase subunit B [EC:2.8.3.5]	0.0038976486298456	0.0051973020231032
+K19096	K09012	sufR; DeoR family transcriptional regulator, suf operon transcriptional repressor	0.0038976486298456	0.0052967409200479
+K19096	K12941	abgB; aminobenzoyl-glutamate utilization protein B	0.0038976486298456	0.0052974888611217
+K19096	K00311	ETFDH; electron-transferring-flavoprotein dehydrogenase [EC:1.5.5.1]	0.0038976486298456	0.0053972219196311
+K19096	K15269	pecM; probable blue pigment (indigoidine) exporter	0.0038976486298456	0.0054965745142923
+K19096	K02613	paaE; ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	0.0038976486298456	0.0054968565467143
+K19096	K00824	dat; D-alanine transaminase [EC:2.6.1.21]	0.0038976486298456	0.0054972753820903
+K19096	K01167	rnaSA; ribonuclease T1 [EC:4.6.1.24]	0.0038976486298456	0.0055965751968487
+K19096	K12658	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]	0.0038976486298456	0.0057969771886709
+K19096	K08151	tetA; MFS transporter, DHA1 family, tetracycline resistance protein	0.0038976486298456	0.0059971283138984
+K19096	K18218	tet35; tetracycline resistance efflux pump	0.0038976486298456	0.006096662999932
+K19096	K00318	PRODH, fadM, putB; proline dehydrogenase [EC:1.5.5.2]	0.0038976486298456	0.0063963534122974
+K19096	K03300	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family	0.0038976486298456	0.0066965721730548
+K19096	K18476	tetR; TetR/AcrR family transcriptional regulator, tetracycline repressor protein	0.0038976486298456	0.0067965166069179
+K19096	mobileOG_000363469	intS	0.0038976486298456	0.0078963585999031
+K19096	K00886	ppgK; polyphosphate glucokinase [EC:2.7.1.63]	0.0038976486298456	0.00869708077605

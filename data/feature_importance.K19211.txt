@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19211	K02401	0.0083160887307288	flhB; flagellar biosynthetic protein FlhB
+K19211	K02421	0.0081710406714718	fliR; flagellar biosynthetic protein FliR
+K19211	K01809	0.0081323611890034	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K19211	K01512	0.0081226913183862	acyP; acylphosphatase [EC:3.6.1.7]
+K19211	K02406	0.008035662482832	fliC; flagellin
+K19211	K01760	0.0079583035178949	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19211	K03594	0.0079583035178949	bfr; bacterioferritin [EC:1.16.3.1]
+K19211	K07124	0.0079002842941922	K07124; uncharacterized protein
+K19211	K01480	0.007890614423575	speB; agmatinase [EC:3.5.3.11]
+K19211	K02011	0.0078229253292552	afuB, fbpB; iron(III) transport system permease protein
+K19211	K07010	0.0078132554586379	K07010; putative glutamine amidotransferase
+K19211	K07160	0.0077358964937009	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K19211	K11070	0.0076005183050611	potC; spermidine/putrescine transport system permease protein
+K19211	K02575	0.0075038195988897	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K19211	K00375	0.0074554702458041	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19211	K03767	0.0074554702458041	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19211	K07507	0.0074071208927185	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19211	K19267	0.0072524029628444	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K19211	mobileOG_000031464	0.0072330632216102	mutT
+K19211	K01912	0.007000986326799	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K19211	K06872	0.0069913164561818	K06872; uncharacterized protein
+K19211	K06996	0.0069332972324791	K06996; uncharacterized protein
+K19211	K02851	0.0069042876206276	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K19211	K01821	0.0068656081381591	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K19211	K07646	0.0068365985263078	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K19211	K10439	0.0068269286556906	rbsB; ribose transport system substrate-binding protein
+K19211	K17230	0.0068172587850735	fccA; cytochrome subunit of sulfide dehydrogenase
+K19211	K02039	0.0067882491732221	phoU; phosphate transport system protein
+K19211	K02666	0.0067882491732221	pilQ; type IV pilus assembly protein PilQ
+K19211	K18981	0.0067495696907535	udh; uronate dehydrogenase [EC:1.1.1.203]
+K19211	K11074	0.0066528709845823	potI; putrescine transport system permease protein
+K19211	biofilm	0.0066528709845823	
+K19211	K12658	0.0066432011139652	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]
+K19211	K18218	0.0066335312433479	tet35; tetracycline resistance efflux pump
+K19211	mobileOG_000026018	0.0066238613727308	xerC
+K19211	K05601	0.0066238613727308	hcp; hydroxylamine reductase [EC:1.7.99.1]
+K19211	K10206	0.0066045216314966	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K19211	K18297	0.0065755120196452	mexT; LysR family transcriptional regulator, mexEF-oprN operon transcriptional activator
+K19211	K15975	0.0065465024077938	K15975; glyoxalase family protein
+K19211	K08682	0.0065368325371767	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K19211	K02016	0.0065174927959424	ABC.FEV.S; iron complex transport system substrate-binding protein
+K19211	K08300	0.0065174927959424	rne; ribonuclease E [EC:3.1.26.12]
+K19211	K18118	0.0065078229253253	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]
+K19211	K06994	0.0064981530547082	K06994; putative drug exporter of the RND superfamily
+K19211	K07077	0.0064884831840911	K07077; uncharacterized protein
+K19211	K00830	0.0064788133134738	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+K19211	K00266	0.0064691434428567	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K19211	K11689	0.0064594735722396	dctQ; C4-dicarboxylate transporter, DctQ subunit
+K19211	K01297	0.0064594735722396	ldcA; muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]
+K19211	K09791	0.0064498037016225	K09791; uncharacterized protein

@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18816	K07507	mgtC; putative Mg2+ transporter-C (MgtC) family protein	0.5053054007177384	0.4868777897342513
+K18816	K11070	potC; spermidine/putrescine transport system permease protein	0.5053054007177384	0.4908759711330092
+K18816	K06158	ABCF3; ATP-binding cassette, subfamily F, member 3	0.5053054007177384	0.4912414899977146
+K18816	K08968	msrC; L-methionine (R)-S-oxide reductase [EC:1.8.4.14]	0.5053054007177384	0.4920385403913702
+K18816	K03650	mnmE, trmE, MSS1; tRNA modification GTPase [EC:3.6.-.-]	0.5053054007177384	0.4927558031383216
+K18816	K03495	gidA, mnmG, MTO1; tRNA uridine 5-carboxymethylaminomethyl modification enzyme	0.5053054007177384	0.4933506147456052
+K18816	K02056	ABC.SS.A; simple sugar transport system ATP-binding protein [EC:7.5.2.-]	0.5053054007177384	0.4940072656942563
+K18816	K07636	phoR; two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]	0.5053054007177384	0.4940290263286272
+K18816	K11071	potB; spermidine/putrescine transport system permease protein	0.5053054007177384	0.4947145686184545
+K18816	mobileOG_000042284	api2	0.5053054007177384	0.4954662483268177
+K18816	K06143	creD; inner membrane protein	0.5053054007177384	0.4955869156633031
+K18816	K02970	RP-S21, MRPS21, rpsU; small subunit ribosomal protein S21	0.5053054007177384	0.495604804183148
+K18816	K00703	glgA; starch synthase [EC:2.4.1.21]	0.5053054007177384	0.4958431895033388
+K18816	K09790	K09790; uncharacterized protein	0.5053054007177384	0.4960457380264778
+K18816	K03621	plsX; phosphate acyltransferase [EC:2.3.1.274]	0.5053054007177384	0.496737671067587
+K18816	K08591	plsY; acyl phosphate:glycerol-3-phosphate acyltransferase [EC:2.3.1.275]	0.5053054007177384	0.497673907809555
+K18816	K09975	K09975; uncharacterized protein	0.5053054007177384	0.4982431576453061
+K18816	K19302	bcrC; undecaprenyl-diphosphatase [EC:3.6.1.27]	0.5053054007177384	0.4985633517476748
+K18816	K01816	hyi, gip; hydroxypyruvate isomerase [EC:5.3.1.22]	0.5053054007177384	0.4986714771902071
+K18816	mobileOG_000374576	dprA	0.5053054007177384	0.4988446020250063
+K18816	K00657	speG, SAT; diamine N-acetyltransferase [EC:2.3.1.57]	0.5053054007177384	0.4989050207783416
+K18816	K01963	accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2 2.1.3.15]	0.5053054007177384	0.4991061448617776
+K18816	K10112	msmX, msmK, malK, sugC, ggtA, msiK; multiple sugar transport system ATP-binding protein	0.5053054007177384	0.4993195480674079
+K18816	K07574	yhbY; RNA-binding protein	0.5053054007177384	0.4996194073760837
+K18816	K02687	prmA; ribosomal protein L11 methyltransferase [EC:2.1.1.-]	0.5053054007177384	0.4996356003718644

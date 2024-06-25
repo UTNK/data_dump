@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18797	K06975	K06975; uncharacterized protein	0.0417064202643797	0.0369408336745257
+K18797	human		0.0417064202643797	0.0375362503522291
+K18797	K19267	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	0.0417064202643797	0.0381315972763198
+K18797	K11939	rhtA; inner membrane transporter RhtA	0.0417064202643797	0.0383374784490473
+K18797	K19802	ycjG, ykfB; L-Ala-D/L-Glu epimerase [EC:5.1.1.20]	0.0417064202643797	0.0448849792030885
+K18797	K00138	aldB; aldehyde dehydrogenase [EC:1.2.1.-]	0.0417064202643797	0.0448933069700513
+K18797	K05816	ugpC; sn-glycerol 3-phosphate transport system ATP-binding protein [EC:7.6.2.10]	0.0417064202643797	0.0449812746960415
+K18797	K18900	bpeT; LysR family transcriptional regulator, regulator for bpeEF and oprC	0.0417064202643797	0.0454912593934043
+K18797	K05815	ugpE; sn-glycerol 3-phosphate transport system permease protein	0.0417064202643797	0.045581757899291
+K18797	K07301	yrbG; cation:H+ antiporter	0.0417064202643797	0.0455916602473331
+K18797	K02446	glpX; fructose-1,6-bisphosphatase II [EC:3.1.3.11]	0.0417064202643797	0.0456780945726443
+K18797	K01176	AMY, amyA, malS; alpha-amylase [EC:3.2.1.1]	0.0417064202643797	0.0458728314377627
+K18797	K10009	tcyB, yecS; L-cystine transport system permease protein	0.0417064202643797	0.0463795207222138
+K18797	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	0.0417064202643797	0.0464577089692855
+K18797	K02025	ABC.MS.P; multiple sugar transport system permease protein	0.0417064202643797	0.0464663996095063
+K18797	seawater		0.0417064202643797	0.0467678544532504
+K18797	K03669	mdoH; membrane glycosyltransferase [EC:2.4.1.-]	0.0417064202643797	0.0473657011599583
+K18797	K01297	ldcA; muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]	0.0417064202643797	0.0474632975846856
+K18797	K23997	nnr; ADP-dependent NAD(P)H-hydrate dehydratase / NAD(P)H-hydrate epimerase [EC:4.2.1.136 5.1.99.6]	0.0417064202643797	0.0476920278442112
+K18797	K11074	potI; putrescine transport system permease protein	0.0417064202643797	0.04825960258744
+K18797	K11073	potF; putrescine transport system substrate-binding protein	0.0417064202643797	0.0493507997489879
+K18797	K10111	malK, mtlK, thuK; multiple sugar transport system ATP-binding protein [EC:3.6.3.-]	0.0417064202643797	0.0502481127736136
+K18797	K07393	ECM4, yqjG; glutathionyl-hydroquinone reductase [EC:1.8.5.7]	0.0417064202643797	0.0519424793937791
+K18797	K23124	pxpC; 5-oxoprolinase (ATP-hydrolysing) subunit C [EC:3.5.2.9]	0.0417064202643797	0.0550250480948377
+K18797	K17758	nnrD; ADP-dependent NAD(P)H-hydrate dehydratase [EC:4.2.1.136]	0.0417064202643797	0.0646158438338774

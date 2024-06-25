@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K02172	K10947	0.0067999334250731	padR; PadR family transcriptional regulator, regulatory protein PadR
+K02172	K01424	0.0067308969125453	E3.5.1.1, ansA, ansB; L-asparaginase [EC:3.5.1.1]
+K02172	K03724	0.0066620302646418	lhr; ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]
+K02172	K03297	0.0065466691809542	emrE, qac, mmr, smr; small multidrug resistance pump
+K02172	K18672	0.0063929078124743	dacA; diadenylate cyclase [EC:2.7.7.85]
+K02172	K19005	0.0061225184175398	ltaS; lipoteichoic acid synthase [EC:2.7.8.20]
+K02172	K11072	0.0060473863950938	potA; spermidine/putrescine transport system ATP-binding protein [EC:7.6.2.11]
+K02172	K10680	0.0059073217350179	nemA; N-ethylmaleimide reductase [EC:1.-.-.-]
+K02172	K01066	0.0057840342807937	aes; acetyl esterase [EC:3.1.1.-]
+K02172	K01626	0.005756797797135	E2.5.1.54, aroF, aroG, aroH; 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]
+K02172	mobileOG_000354553	0.0057367278692976	xerC
+K02172	K00874	0.0057287166994935	kdgK; 2-dehydro-3-deoxygluconokinase [EC:2.7.1.45]
+K02172	K02228	0.0057116976896781	cobF; precorrin-6A synthase [EC:2.1.1.152]
+K02172	K03313	0.0056931865518666	nhaA; Na+:H+ antiporter, NhaA family
+K02172	K07139	0.0056925099273296	K07139; uncharacterized protein
+K02172	K22391	0.0056874710377472	E3.5.4.16; GTP cyclohydrolase I [EC:3.5.4.16]
+K02172	mobileOG_000005184	0.005657711789213	mutS
+K02172	K22132	0.0056493477176566	tcdA; tRNA threonylcarbamoyladenosine dehydratase
+K02172	K03412	0.0056428807310553	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K02172	K02535	0.0056359339916617	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]
+K02172	mobileOG_000091440	0.0055852820506006	cinA
+K02172	K02065	0.0055837349126867	mlaF, linL, mkl; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein
+K02172	K02392	0.0055815539620488	flgG; flagellar basal-body rod protein FlgG
+K02172	K07768	0.0055727924565754	senX3; two-component system, OmpR family, sensor histidine kinase SenX3 [EC:2.7.13.3]
+K02172	K05275	0.0055577161486286	E1.1.1.65; pyridoxine 4-dehydrogenase [EC:1.1.1.65]
+K02172	K14761	0.0055337776619184	ybcJ; ribosome-associated protein
+K02172	K09815	0.0055259759055209	znuA; zinc transport system substrate-binding protein
+K02172	K07574	0.0055239719469857	yhbY; RNA-binding protein
+K02172	K01468	0.0055198437204517	hutI, AMDHD1; imidazolonepropionase [EC:3.5.2.7]
+K02172	mobileOG_000053082	0.0055102257769177	BQ2027_MB1076;
+K02172	K10806	0.0055100132194687	yciA; acyl-CoA thioesterase YciA [EC:3.1.2.-]
+K02172	K00528	0.0055028900613406	fpr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]
+K02172	K09992	0.0054956677041564	K09992; uncharacterized protein
+K02172	K06962	0.0054892034886051	K06962; uncharacterized protein
+K02172	mobileOG_000211041	0.0054828221714646	sbcC
+K02172	K03727	0.0054543832270936	helY; ATP-dependent RNA helicase HelY [EC:3.6.4.-]
+K02172	K06177	0.005442431902875	rluA; tRNA pseudouridine32 synthase / 23S rRNA pseudouridine746 synthase [EC:5.4.99.28 5.4.99.29]
+K02172	K16842	0.005432936736341	hpxB; allantoinase [EC:3.5.2.5]
+K02172	K03816	0.0054204648050945	xpt; xanthine phosphoribosyltransferase [EC:2.4.2.22]
+K02172	mobileOG_000334867	0.0054181601108834	nfo
+K02172	K05524	0.0054057701528753	fdxA; ferredoxin
+K02172	K10805	0.00539806777631	tesB; acyl-CoA thioesterase II [EC:3.1.2.-]
+K02172	K00876	0.0053961935227631	udk, UCK; uridine kinase [EC:2.7.1.48]
+K02172	K03684	0.0053918979538085	rnd; ribonuclease D [EC:3.1.13.5]
+K02172	K00242	0.0053898244268892	sdhD, frdD; succinate dehydrogenase / fumarate reductase, membrane anchor subunit
+K02172	K03585	0.0053763387624157	acrA, mexA, adeI, smeD, mtrC, cmeA; membrane fusion protein, multidrug efflux system
+K02172	K00625	0.0053682733389232	E2.3.1.8, pta; phosphate acetyltransferase [EC:2.3.1.8]
+K02172	K15986	0.0053582958259725	ppaC; manganese-dependent inorganic pyrophosphatase [EC:3.6.1.1]
+K02172	K06182	0.0053342574406898	rluF; 23S rRNA pseudouridine2604 synthase [EC:5.4.99.21]
+K02172	K13888	0.0053260468009665	macA; membrane fusion protein, macrolide-specific efflux system

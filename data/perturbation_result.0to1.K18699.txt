@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18699	K05603	hutF; formimidoylglutamate deiminase [EC:3.5.3.13]	0.3725702086280323	0.3525771646121252
+K18699	K01458	hutG; N-formylglutamate deformylase [EC:3.5.1.68]	0.3725702086280323	0.352880099414423
+K18699	K02656	pilF; type IV pilus assembly protein PilF	0.3725702086280323	0.3530784418331887
+K18699	K07006	K07006; uncharacterized protein	0.3725702086280323	0.35616738270204
+K18699	K20938	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]	0.3725702086280323	0.3583457857399656
+K18699	K17230	fccA; cytochrome subunit of sulfide dehydrogenase	0.3725702086280323	0.35915060079512
+K18699	K03306	TC.PIT; inorganic phosphate transporter, PiT family	0.3725702086280323	0.3593477014302169
+K18699	K06152	E1.1.99.3G; gluconate 2-dehydrogenase gamma chain [EC:1.1.99.3]	0.3725702086280323	0.3613315999992052
+K18699	K01273	DPEP; membrane dipeptidase [EC:3.4.13.19]	0.3725702086280323	0.3621278200317415
+K18699	K18297	mexT; LysR family transcriptional regulator, mexEF-oprN operon transcriptional activator	0.3725702086280323	0.3632999683180293
+K18699	K09702	K09702; uncharacterized protein	0.3725702086280323	0.3633217592462141
+K18699	K15270	sam; S-adenosylmethionine uptake transporter	0.3725702086280323	0.363526243981702
+K18699	K15578	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]	0.3725702086280323	0.3635971658184259
+K18699	K06169	miaE; tRNA-(ms[2]io[6]A)-hydroxylase [EC:1.-.-.-]	0.3725702086280323	0.3824131493020798
+K18699	K11959	urtA; urea transport system substrate-binding protein	0.3725702086280323	0.3846026982923999
+K18699	K01693	hisB; imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	0.3725702086280323	0.3846334641924985
+K18699	K00433	cpo; non-heme chloroperoxidase [EC:1.11.1.10]	0.3725702086280323	0.3859977942980972
+K18699	K03415	cheV; two-component system, chemotaxis family, chemotaxis protein CheV	0.3725702086280323	0.3870842934715417
+K18699	K09472	puuC, aldH; 4-(gamma-glutamylamino)butanal dehydrogenase [EC:1.2.1.99]	0.3725702086280323	0.387896351255519
+K18699	K02058	ABC.SS.S; simple sugar transport system substrate-binding protein	0.3725702086280323	0.3907709127433968
+K18699	K12941	abgB; aminobenzoyl-glutamate utilization protein B	0.3725702086280323	0.3932745053851783
+K18699	K13020	wlbA, bplA; UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase [EC:1.1.1.335]	0.3725702086280323	0.3966046891073158
+K18699	K08167	smvA, qacA, lfrA; MFS transporter, DHA2 family, multidrug resistance protein	0.3725702086280323	0.4052987785116601
+K18699	mobileOG_000067917	Bmul_4720	0.3725702086280323	0.4065882460430308
+K18699	K03188	ureF; urease accessory protein	0.3725702086280323	0.4090427340867305

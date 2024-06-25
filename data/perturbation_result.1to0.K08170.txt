@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K08170	K05815	ugpE; sn-glycerol 3-phosphate transport system permease protein	0.7642558390942139	0.7282673690997749
+K08170	K05813	ugpB; sn-glycerol 3-phosphate transport system substrate-binding protein	0.7642558390942139	0.7322688374127734
+K08170	K05814	ugpA; sn-glycerol 3-phosphate transport system permease protein	0.7642558390942139	0.7329957617285732
+K08170	K10009	tcyB, yecS; L-cystine transport system permease protein	0.7642558390942139	0.7352403855564427
+K08170	mobileOG_000173306	td	0.7642558390942139	0.7355482858360599
+K08170	K09773	ppsR; [pyruvate, water dikinase]-phosphate phosphotransferase / [pyruvate, water dikinase] kinase [EC:2.7.4.28 2.7.11.33]	0.7642558390942139	0.7379717364953874
+K08170	K02424	fliY, tcyA; L-cystine transport system substrate-binding protein	0.7642558390942139	0.7389327023854811
+K08170	K06133	LYS5, acpT; 4-phosphopantetheinyl transferase [EC:2.7.8.-]	0.7642558390942139	0.7398873862574774
+K08170	mobileOG_000331552	tmk	0.7642558390942139	0.740078139029014
+K08170	K02529	lacI, galR; LacI family transcriptional regulator	0.7642558390942139	0.7408668958794442
+K08170	K01531	mgtA, mgtB; P-type Mg2+ transporter [EC:7.2.2.14]	0.7642558390942139	0.7413424358531168
+K08170	K02071	metN; D-methionine transport system ATP-binding protein	0.7642558390942139	0.7431493803129386
+K08170	mobileOG_000031464	mutT	0.7642558390942139	0.7446918700896352
+K08170	K00761	upp, UPRT; uracil phosphoribosyltransferase [EC:2.4.2.9]	0.7642558390942139	0.7449635201005531
+K08170	K02072	metI; D-methionine transport system permease protein	0.7642558390942139	0.7461875446843255
+K08170	K02073	metQ; D-methionine transport system substrate-binding protein	0.7642558390942139	0.7464888395951483
+K08170	K00287	DHFR, folA; dihydrofolate reductase [EC:1.5.1.3]	0.7642558390942139	0.7468688894652863
+K08170	K11741	sugE; quaternary ammonium compound-resistance protein SugE	0.7642558390942139	0.7470158645627096
+K08170	K01992	ABC-2.P; ABC-2 type transport system permease protein	0.7642558390942139	0.7479858859758967
+K08170	K03800	lplA, lplJ, lipL1; lipoate---protein ligase [EC:6.3.1.20]	0.7642558390942139	0.7497845984194613
+K08170	K06131	clsA_B; cardiolipin synthase A/B [EC:2.7.8.-]	0.7642558390942139	0.7504881661694324
+K08170	K00874	kdgK; 2-dehydro-3-deoxygluconokinase [EC:2.7.1.45]	0.7642558390942139	0.7505547214977061
+K08170	K00640	cysE; serine O-acetyltransferase [EC:2.3.1.30]	0.7642558390942139	0.7505926639866785
+K08170	K02025	ABC.MS.P; multiple sugar transport system permease protein	0.7642558390942139	0.7511825856855384
+K08170	K14260	alaA; alanine-synthesizing transaminase [EC:2.6.1.66 2.6.1.2]	0.7642558390942139	0.7513517927621824

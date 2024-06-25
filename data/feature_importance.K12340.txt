@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K12340	K07284	0.0061004131845558	srtA; sortase A [EC:3.4.22.70]
+K12340	K00748	0.0058899768937328	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]
+K12340	K06861	0.0058792743117398	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]
+K12340	K00805	0.005842963057419	hepST; heptaprenyl diphosphate synthase [EC:2.5.1.30]
+K12340	K09762	0.0057226150449248	K09762; uncharacterized protein
+K12340	K00979	0.0057001248705659	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]
+K12340	K01627	0.0054705143963015	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]
+K12340	K00912	0.0053883861506363	lpxK; tetraacyldisaccharide 4-kinase [EC:2.7.1.130]
+K12340	K07030	0.005367055377452	K07030; uncharacterized protein
+K12340	K09772	0.0053517764039587	sepF; cell division inhibitor SepF
+K12340	K03790	0.0053226630187106	rimJ; [ribosomal protein S5]-alanine N-acetyltransferase [EC:2.3.1.267]
+K12340	K02536	0.0052455876648696	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]
+K12340	K01421	0.0052321222193221	yhgE; putative membrane protein
+K12340	K06041	0.005176492658776	kdsD, kpsF; arabinose-5-phosphate isomerase [EC:5.3.1.13]
+K12340	plant	0.005173645419795	
+K12340	K07177	0.0051562604189947	K07177; Lon-like protease
+K12340	K16785	0.0051473872576762	ecfT; energy-coupling factor transport system permease protein
+K12340	K16012	0.0051365215292573	cydC; ATP-binding cassette, subfamily C, bacterial CydC
+K12340	K21688	0.0051336547940357	rpfB; resuscitation-promoting factor RpfB
+K12340	K21600	0.0051103367267462	csoR, ricR; CsoR family transcriptional regulator, copper-sensing transcriptional repressor
+K12340	K00540	0.0051041967675629	fqr; F420H(2)-dependent quinone reductase [EC:1.1.98.-]
+K12340	K00677	0.0050579925392186	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]
+K12340	K21064	0.005029935518969	ycsE, yitU, ywtE; 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+K12340	K03561	0.0050271747864092	exbB; biopolymer transport protein ExbB
+K12340	K03474	0.00499694234192	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]
+K12340	K07979	0.0049714689552141	ytrA; GntR family transcriptional regulator
+K12340	K02067	0.004943109990558	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein
+K12340	K04074	0.0049329961776314	divIVA; cell division initiation protein
+K12340	K03559	0.0049323400258211	exbD; biopolymer transport protein ExbD
+K12340	K06221	0.0049269348928689	dkgA; 2,5-diketo-D-gluconate reductase A [EC:1.1.1.346]
+K12340	K23393	0.0048915452570758	murT; lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13]
+K12340	K20074	0.0048447122236656	prpC, phpP; PPM family protein phosphatase [EC:3.1.3.16]
+K12340	mobileOG_000330441	0.0047936446300019	polA
+K12340	K21744	0.0046810239632991	tipA; MerR family transcriptional regulator, thiopeptide resistance regulator
+K12340	K03705	0.0046460527198218	hrcA; heat-inducible transcriptional repressor
+K12340	mobileOG_000362884	0.0046225066130448	helD
+K12340	K10112	0.0046141473444674	msmX, msmK, malK, sugC, ggtA, msiK; multiple sugar transport system ATP-binding protein
+K12340	K09167	0.0046087822139753	K09167; uncharacterized protein
+K12340	K19222	0.0046051264387673	menI, DHNAT; 1,4-dihydroxy-2-naphthoyl-CoA hydrolase [EC:3.1.2.28]
+K12340	K06994	0.0045771129084511	K06994; putative drug exporter of the RND superfamily
+K12340	K06142	0.0045617661465073	hlpA, ompH; outer membrane protein
+K12340	mobileOG_000270594	0.0045399971643337	pilR
+K12340	K21885	0.0045242642638967	cmtR; ArsR family transcriptional regulator, cadmium/lead-responsive transcriptional repressor
+K12340	K08981	0.0045097462515221	K08981; putative membrane protein
+K12340	K10947	0.0044683665297584	padR; PadR family transcriptional regulator, regulatory protein PadR
+K12340	K01823	0.0044642128159845	idi, IDI; isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]
+K12340	K03890	0.004463831097666	qcrA; ubiquinol-cytochrome c reductase iron-sulfur subunit
+K12340	K02517	0.0044570783390858	lpxL, htrB; Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-]
+K12340	K03270	0.0044504067154328	kdsC; 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO 8-P phosphatase) [EC:3.1.3.45]
+K12340	K01991	0.0044477400639784	wza, gfcE; polysaccharide biosynthesis/export protein

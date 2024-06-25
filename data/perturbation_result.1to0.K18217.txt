@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18217	K06980	ygfZ; tRNA-modifying protein YgfZ	0.0	0.0
+K18217	K06959	tex; protein Tex	0.0	0.0
+K18217	K06950	K06950; uncharacterized protein	0.0	0.0
+K18217	K06929	K06929; uncharacterized protein	0.0	0.0
+K18217	K06920	queC; 7-cyano-7-deazaguanine synthase [EC:6.3.4.20]	0.0	0.0
+K18217	mobileOG_000801665	dnaN	0.0	0.0
+K18217	K06911	PIR; quercetin 2,3-dioxygenase [EC:1.13.11.24]	0.0	0.0
+K18217	K06895	lysE, argO; L-lysine exporter family protein LysE/ArgO	0.0	0.0
+K18217	K06894	yfhM; alpha-2-macroglobulin	0.0	0.0
+K18217	K06890	K06890; uncharacterized protein	0.0	0.0
+K18217	K06969	rlmI; 23S rRNA (cytosine1962-C5)-methyltransferase [EC:2.1.1.191]	0.0	0.0
+K18217	K05515	mrdA; penicillin-binding protein 2 [EC:3.4.16.4]	0.0	8.077784100502142e-05
+K18217	K01770	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]	0.0	8.935445380185727e-05
+K18217	K07460	yraN; putative endonuclease	0.0	9.47987377536418e-05
+K18217	K01662	dxs; 1-deoxy-D-xylulose-5-phosphate synthase [EC:2.2.1.7]	0.0	9.554416312643594e-05
+K18217	mobileOG_000187617	dnaE	0.0	9.81536006686549e-05
+K18217	K00793	ribE, RIB5; riboflavin synthase [EC:2.5.1.9]	0.0	9.845658428764696e-05
+K18217	mobileOG_000329817	rdgB	0.0	9.884457197513151e-05
+K18217	K07173	luxS; S-ribosylhomocysteine lyase [EC:4.4.1.21]	0.0	9.90169400582554e-05
+K18217	K03587	ftsI; cell division protein FtsI (penicillin-binding protein 3) [EC:3.4.16.4]	0.0	9.92140601286628e-05
+K18217	K00794	ribH, RIB4; 6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]	0.0	9.935106761394772e-05
+K18217	K03569	mreB; rod shape-determining protein MreB and related proteins	0.0	0.0001861446090085
+K18217	K01928	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase [EC:6.3.2.13]	0.0	0.0001977741569553
+K18217	K03593	mrp, NUBPL; ATP-binding protein involved in chromosome partitioning	0.0	0.0001978725531705
+K18217	K06168	miaB; tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3]	0.0	0.0007393303677046

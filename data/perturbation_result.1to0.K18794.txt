@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18794	K02390	flgE; flagellar hook protein FlgE	0.0	0.0003995696440394
+K18794	mobileOG_000089681	dnaG	0.0	0.0003998049313112
+K18794	K02056	ABC.SS.A; simple sugar transport system ATP-binding protein [EC:7.5.2.-]	0.0	0.0003998802334942
+K18794	K02496	hemX; uroporphyrin-III C-methyltransferase [EC:2.1.1.107]	0.0	0.0003998889370244
+K18794	K05838	ybbN; putative thioredoxin	0.0	0.0004996700581314
+K18794	K01420	fnr; CRP/FNR family transcriptional regulator, anaerobic regulatory protein	0.0	0.0004998638527301
+K18794	mobileOG_000005782	rnhA	0.0	0.0005997904476469
+K18794	mobileOG_000156238	hfq	0.0	0.000699785917993
+K18794	K01997	livH; branched-chain amino acid transport system permease protein	0.0	0.0007998042606184
+K18794	K08591	plsY; acyl phosphate:glycerol-3-phosphate acyltransferase [EC:2.3.1.275]	0.0	0.0007998313037316
+K18794	K03667	hslU; ATP-dependent HslUV protease ATP-binding subunit HslU	0.0	0.000799837731681
+K18794	K03568	tldD; TldD protein	0.0	0.0008995703806846
+K18794	mobileOG_000015288	hflC	0.0	0.0008996636139949
+K18794	K00281	GLDC, gcvP; glycine dehydrogenase [EC:1.4.4.2]	0.0	0.0009997585392821
+K18794	K09812	ftsE; cell division transport system ATP-binding protein	0.0	0.0010994357327642
+K18794	mobileOG_000282901	pcrA	0.0	0.0010996327244955
+K18794	K06980	ygfZ; tRNA-modifying protein YgfZ	0.0	0.0011993641103453
+K18794	K00573	E2.1.1.77, pcm; protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]	0.0	0.0011996022277647
+K18794	mobileOG_000332073	dnaQ	0.0	0.0012997825174163
+K18794	mobileOG_000091440	cinA	0.0	0.0013993624790667
+K18794	K00605	gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]	0.0	0.0014995064491498
+K18794	K05808	yhbH; putative sigma-54 modulation protein	0.0	0.0014995470792164
+K18794	K11927	rhlE; ATP-dependent RNA helicase RhlE [EC:3.6.4.13]	0.0	0.0015992000568153
+K18794	K09791	K09791; uncharacterized protein	0.0	0.0015996893364548
+K18794	K01419	hslV, clpQ; ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]	0.0	0.0020993800467277

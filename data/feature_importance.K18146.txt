@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18146	K01759	0.0089226489473491	GLO1, gloA; lactoylglutathione lyase [EC:4.4.1.5]
+K18146	K03426	0.0085052787339514	E3.6.1.22, NUDT12, nudC; NAD+ diphosphatase [EC:3.6.1.22]
+K18146	K02420	0.0084605242584047	fliQ; flagellar biosynthetic protein FliQ
+K18146	K10806	0.0083846084333618	yciA; acyl-CoA thioesterase YciA [EC:3.1.2.-]
+K18146	K00652	0.0082911418224623	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18146	K00029	0.0082867719315381	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+K18146	K02851	0.0081188942044488	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K18146	K01975	0.0080470372088061	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K18146	K03412	0.0080466168187681	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K18146	K00342	0.0080401570261585	nuoM; NADH-quinone oxidoreductase subunit M [EC:7.1.1.2]
+K18146	mobileOG_000034793	0.0078977290911396	diaA
+K18146	activated_sludge	0.0078290739494977	
+K18146	K06193	0.0077802791305183	phnA; protein PhnA
+K18146	K00865	0.0076811138712318	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18146	K03558	0.007547375106768	cvpA; membrane protein required for colicin V production
+K18146	K18900	0.0075423450687809	bpeT; LysR family transcriptional regulator, regulator for bpeEF and oprC
+K18146	K03640	0.0075390887981731	pal; peptidoglycan-associated lipoprotein
+K18146	K07160	0.0075315658953838	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18146	K16137	0.007530392478712	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K18146	K03667	0.0075227735142191	hslU; ATP-dependent HslUV protease ATP-binding subunit HslU
+K18146	K03562	0.0075209631329972	tolQ; biopolymer transport protein TolQ
+K18146	K14393	0.0074875594416218	actP; cation/acetate symporter
+K18146	K00847	0.007477629990139	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K18146	K09862	0.0074767255109612	K09862; uncharacterized protein
+K18146	mobileOG_000348401	0.0074449310042085	ihfA
+K18146	K03641	0.0074100789930556	tolB; TolB protein
+K18146	K03767	0.0073697454169409	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18146	K01760	0.007355567114731	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18146	K13894	0.0073547995461097	yejB; microcin C transport system permease protein
+K18146	K01878	0.007330372048363	glyQ; glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]
+K18146	K07124	0.0073300299781329	K07124; uncharacterized protein
+K18146	K04758	0.0073149343713965	feoA; ferrous iron transport protein A
+K18146	K02071	0.007301264737202	metN; D-methionine transport system ATP-binding protein
+K18146	K02011	0.0073010395786192	afuB, fbpB; iron(III) transport system permease protein
+K18146	K02389	0.0072970024610176	flgD; flagellar basal-body rod modification protein FlgD
+K18146	K18682	0.0072820912395245	rny; ribonucrease Y [EC:3.1.-.-]
+K18146	mobileOG_000170347	0.0072761800584696	mutL
+K18146	mobileOG_000237546	0.0072458250315912	recF
+K18146	K12972	0.0072256147201387	ghrA; glyoxylate/hydroxypyruvate reductase [EC:1.1.1.79 1.1.1.81]
+K18146	K03089	0.0072246089567105	rpoH; RNA polymerase sigma-32 factor
+K18146	K02204	0.0071966900860906	thrB2; homoserine kinase type II [EC:2.7.1.39]
+K18146	K06872	0.0071899955298604	K06872; uncharacterized protein
+K18146	K12262	0.0071861173221267	cybB; superoxide oxidase [EC:1.10.3.17]
+K18146	K21420	0.0071464819031124	bpt; leucyl-tRNA---protein transferase [EC:2.3.2.29]
+K18146	K08305	0.0071373461963343	mltB; membrane-bound lytic murein transglycosylase B [EC:4.2.2.-]
+K18146	mobileOG_000354053	0.0071267369322324	sspA
+K18146	K20975	0.007121660066964	K20975; two-component system, sensor histidine kinase [EC:2.7.13.3]
+K18146	mobileOG_000021898	0.0071187226312799	clpA
+K18146	K07010	0.0071178180774266	K07010; putative glutamine amidotransferase
+K18146	K01079	0.007115783883706	serB, PSPH; phosphoserine phosphatase [EC:3.1.3.3]

@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18297	K03566	gcvA; LysR family transcriptional regulator, glycine cleavage system transcriptional activator	0.8176612017680082	0.750740320698558
+K18297	K03719	lrp; Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	0.8176612017680082	0.7666548166550495
+K18297	K13821	putA; RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]	0.8176612017680082	0.7708709966141825
+K18297	K07552	bcr, tcaB; MFS transporter, DHA1 family, multidrug resistance protein	0.8176612017680082	0.7732181883343014
+K18297	K00616	E2.2.1.2, talA, talB; transaldolase [EC:2.2.1.2]	0.8176612017680082	0.7763117686124742
+K18297	K00266	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]	0.8176612017680082	0.78173352420721
+K18297	K00121	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	0.8176612017680082	0.7829732409075402
+K18297	K03320	amt, AMT, MEP; ammonium transporter, Amt family	0.8176612017680082	0.7847052162273606
+K18297	K00982	glnE; [glutamine synthetase] adenylyltransferase / [glutamine synthetase]-adenylyl-L-tyrosine phosphorylase [EC:2.7.7.42 2.7.7.89]	0.8176612017680082	0.7875643605521425
+K18297	K03117	tatB; sec-independent protein translocase protein TatB	0.8176612017680082	0.7888516991162419
+K18297	soil		0.8176612017680082	0.7892086189539017
+K18297	K01638	aceB, glcB; malate synthase [EC:2.3.3.9]	0.8176612017680082	0.7903341586690413
+K18297	K06916	zapE; cell division protein ZapE	0.8176612017680082	0.7905921918985369
+K18297	K01920	gshB; glutathione synthase [EC:6.3.2.3]	0.8176612017680082	0.7910046200973576
+K18297	K00931	proB; glutamate 5-kinase [EC:2.7.2.11]	0.8176612017680082	0.7916451763787562
+K18297	K02391	flgF; flagellar basal-body rod protein FlgF	0.8176612017680082	0.7919063174590507
+K18297	K11209	yghU, yfcG; GSH-dependent disulfide-bond oxidoreductase [EC:1.8.4.-]	0.8176612017680082	0.7921299665111718
+K18297	K01626	E2.5.1.54, aroF, aroG, aroH; 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]	0.8176612017680082	0.7932304371851898
+K18297	K00528	fpr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]	0.8176612017680082	0.7939970583159862
+K18297	K00344	qor, CRYZ; NADPH:quinone reductase [EC:1.6.5.5]	0.8176612017680082	0.7965230897893598
+K18297	K08300	rne; ribonuclease E [EC:3.1.26.12]	0.8176612017680082	0.7966859455900522
+K18297	mobileOG_000778060	parC	0.8176612017680082	0.7970725540237494
+K18297	K09159	cptB; antitoxin CptB	0.8176612017680082	0.7973620721147642
+K18297	K01070	frmB, ESD, fghA; S-formylglutathione hydrolase [EC:3.1.2.12]	0.8176612017680082	0.7975120840832155
+K18297	K07390	grxD, GLRX5; monothiol glutaredoxin	0.8176612017680082	0.7978546590431029

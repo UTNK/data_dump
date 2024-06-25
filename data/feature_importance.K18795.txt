@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18795	K02401	0.008838824772391	flhB; flagellar biosynthetic protein FlhB
+K18795	K01809	0.0082640840578682	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18795	K03594	0.0082565291020035	bfr; bacterioferritin [EC:1.16.3.1]
+K18795	mobileOG_000031464	0.0080831589746466	mutT
+K18795	K01512	0.0078696147158223	acyP; acylphosphatase [EC:3.6.1.7]
+K18795	K02421	0.0078568769449143	fliR; flagellar biosynthetic protein FliR
+K18795	K02406	0.007845867643062	fliC; flagellin
+K18795	K06872	0.0077974188328728	K06872; uncharacterized protein
+K18795	K11070	0.0077818407828962	potC; spermidine/putrescine transport system permease protein
+K18795	K03767	0.0076442549767399	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18795	K10439	0.007604609032512	rbsB; ribose transport system substrate-binding protein
+K18795	K01480	0.0075430520273035	speB; agmatinase [EC:3.5.3.11]
+K18795	K07010	0.0074623311860249	K07010; putative glutamine amidotransferase
+K18795	K07160	0.0074187962935251	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18795	K01760	0.007360963157143	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18795	K02011	0.0071322729471089	afuB, fbpB; iron(III) transport system permease protein
+K18795	K07124	0.0071287309052868	K07124; uncharacterized protein
+K18795	K08682	0.0070394890193286	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K18795	K01432	0.0070339887336127	AFMID; arylformamidase [EC:3.5.1.9]
+K18795	K06996	0.007030429913435	K06996; uncharacterized protein
+K18795	K00375	0.0069991474249753	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18795	K02575	0.006995207131219	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18795	K17723	0.0069653996059128	preA; dihydropyrimidine dehydrogenase (NAD+) subunit PreA [EC:1.3.1.1]
+K18795	mobileOG_000300939	0.0069035394395823	uvrA
+K18795	K08225	0.0069034925990985	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter
+K18795	mobileOG_000802159	0.0068873637129533	rep
+K18795	K15578	0.0068838840195513	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K18795	K02039	0.0068805336155046	phoU; phosphate transport system protein
+K18795	K10228	0.0068716015307808	smoF, mtlF; sorbitol/mannitol transport system permease protein
+K18795	K02016	0.0068321768664498	ABC.FEV.S; iron complex transport system substrate-binding protein
+K18795	K02389	0.0068207754045418	flgD; flagellar basal-body rod modification protein FlgD
+K18795	K01912	0.0068044360446832	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18795	K07646	0.0067993455911121	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18795	K19267	0.0067937853317897	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18795	K13015	0.0067460196540585	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K18795	K10229	0.0067210032013782	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K18795	K07507	0.0067092035841156	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18795	K18981	0.0067088269687667	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18795	K19416	0.0067065279343818	yccA; modulator of FtsH protease
+K18795	K09765	0.0067017827158553	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K18795	K06976	0.0066953214168177	K06976; uncharacterized protein
+K18795	K01469	0.0066629591132107	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+K18795	mobileOG_000093088	0.0066357286600718	ftsZ
+K18795	K20938	0.0066309209892302	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]
+K18795	K01919	0.0066297982976716	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K18795	K23535	0.0065983229044062	nupB; general nucleoside transport system permease protein
+K18795	mobileOG_000026018	0.006594258981357	xerC
+K18795	K00424	0.0065872627331685	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K18795	K02494	0.0065853694722042	lolB; outer membrane lipoprotein LolB
+K18795	K00588	0.0065747271530958	E2.1.1.104; caffeoyl-CoA O-methyltransferase [EC:2.1.1.104]

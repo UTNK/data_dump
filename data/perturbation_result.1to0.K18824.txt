@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18824	K05595	marC; multiple antibiotic resistance protein	0.7645325515255107	0.7266097114838984
+K18824	K01782	fadJ; 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3]	0.7645325515255107	0.7336574960478772
+K18824	K09159	cptB; antitoxin CptB	0.7645325515255107	0.7380293017732494
+K18824	K09773	ppsR; [pyruvate, water dikinase]-phosphate phosphotransferase / [pyruvate, water dikinase] kinase [EC:2.7.4.28 2.7.11.33]	0.7645325515255107	0.7382012922299481
+K18824	K17713	bamB; outer membrane protein assembly factor BamB	0.7645325515255107	0.7392142730297995
+K18824	K03981	dsbC; thiol:disulfide interchange protein DsbC [EC:5.3.4.1]	0.7645325515255107	0.7396216199816226
+K18824	K00537	arsC; arsenate reductase (glutaredoxin) [EC:1.20.4.1]	0.7645325515255107	0.7413511945257975
+K18824	K07735	algH; putative transcriptional regulator	0.7645325515255107	0.7421111164598783
+K18824	K01058	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]	0.7645325515255107	0.7421721096703581
+K18824	K02192	bfd; bacterioferritin-associated ferredoxin	0.7645325515255107	0.7425119681462524
+K18824	K15539	rodZ; cytoskeleton protein RodZ	0.7645325515255107	0.7445787115226172
+K18824	K00242	sdhD, frdD; succinate dehydrogenase / fumarate reductase, membrane anchor subunit	0.7645325515255107	0.7451231024584593
+K18824	K03499	trkA, ktrA; trk system potassium uptake protein	0.7645325515255107	0.7459078854349507
+K18824	K03498	trkH, trkG, ktrB; trk system potassium uptake protein	0.7645325515255107	0.7477024100834483
+K18824	mobileOG_000334103	rnr	0.7645325515255107	0.7480342684375926
+K18824	K18138	acrB, mexB, adeJ, smeE, mtrD, cmeB; multidrug efflux pump	0.7645325515255107	0.7487978470212894
+K18824	K03926	cutA; periplasmic divalent cation tolerance protein	0.7645325515255107	0.7492613205454891
+K18824	K01920	gshB; glutathione synthase [EC:6.3.2.3]	0.7645325515255107	0.7493151203546797
+K18824	mobileOG_000301711	fhuE	0.7645325515255107	0.7494776165051213
+K18824	K02494	lolB; outer membrane lipoprotein LolB	0.7645325515255107	0.7496815815234797
+K18824	K04488	iscU, nifU; nitrogen fixation protein NifU and related proteins	0.7645325515255107	0.7501554639381215
+K18824	K02169	bioC; malonyl-CoA O-methyltransferase [EC:2.1.1.197]	0.7645325515255107	0.7505284599139422
+K18824	K15724	erpA; iron-sulfur cluster insertion protein	0.7645325515255107	0.7513421431870138
+K18824	K00275	pdxH, PNPO; pyridoxamine 5-phosphate oxidase [EC:1.4.3.5]	0.7645325515255107	0.7513528833609338
+K18824	K10125	dctB; two-component system, NtrC family, C4-dicarboxylate transport sensor histidine kinase DctB [EC:2.7.13.3]	0.7645325515255107	0.7818583973638313

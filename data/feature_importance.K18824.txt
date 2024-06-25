@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18824	K03594	0.008674970909132	bfr; bacterioferritin [EC:1.16.3.1]
+K18824	K01512	0.0085295080331232	acyP; acylphosphatase [EC:3.6.1.7]
+K18824	K14393	0.0085073555754925	actP; cation/acetate symporter
+K18824	K01760	0.0083191350415764	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18824	K00325	0.0082859384879975	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K18824	K01480	0.0082162854594763	speB; agmatinase [EC:3.5.3.11]
+K18824	K00845	0.0081002322926522	glk; glucokinase [EC:2.7.1.2]
+K18824	K11070	0.0079805894991146	potC; spermidine/putrescine transport system permease protein
+K18824	K02401	0.0079109443979976	flhB; flagellar biosynthetic protein FlhB
+K18824	K07124	0.0078165630730967	K07124; uncharacterized protein
+K18824	K02011	0.0077434646047467	afuB, fbpB; iron(III) transport system permease protein
+K18824	K00375	0.0076656348126499	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18824	K02575	0.0076034761720391	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18824	K01239	0.0075568542735162	iunH; purine nucleosidase [EC:3.2.2.1]
+K18824	K03767	0.007527616108742	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18824	K07010	0.0074545463951634	K07010; putative glutamine amidotransferase
+K18824	K01809	0.0074359249873213	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18824	K07646	0.0072722845957842	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18824	K10439	0.0072702249191748	rbsB; ribose transport system substrate-binding protein
+K18824	K02074	0.0072532994026013	ABC.ZM.A; zinc/manganese transport system ATP-binding protein
+K18824	K06996	0.0071947881289574	K06996; uncharacterized protein
+K18824	K00266	0.0071536997520739	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K18824	K07160	0.0071447423793223	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18824	K06872	0.0071140398471163	K06872; uncharacterized protein
+K18824	K01912	0.0070966293490123	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18824	K18118	0.0070648201803833	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]
+K18824	mobileOG_000031464	0.0070298433352392	mutT
+K18824	K12658	0.0070044421920248	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]
+K18824	K19267	0.0069922181233144	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18824	mobileOG_000802159	0.0069732377347283	rep
+K18824	K02421	0.0069557738504496	fliR; flagellar biosynthetic protein FliR
+K18824	K06956	0.0069413620335393	K06956; uncharacterized protein
+K18824	mobileOG_000026018	0.0069156448058108	xerC
+K18824	K10206	0.0069068572866325	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K18824	K03523	0.0068781448746564	bioY; biotin transport system substrate-specific component
+K18824	K01821	0.0068601128617848	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18824	K03770	0.0068533831789173	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K18824	K09791	0.0068283541044842	K09791; uncharacterized protein
+K18824	mobileOG_000025524	0.0068205034415496	holB
+K18824	K03192	0.0068198502015417	ureJ; urease accessory protein
+K18824	K07507	0.0068173862569328	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18824	mobileOG_000330062	0.0068012615035156	recR
+K18824	K06142	0.0067769168575002	hlpA, ompH; outer membrane protein
+K18824	K02169	0.0067763066036147	bioC; malonyl-CoA O-methyltransferase [EC:2.1.1.197]
+K18824	mobileOG_000134996	0.0067465476758691	mazF
+K18824	K03522	0.0067383062752472	fixB, etfA; electron transfer flavoprotein alpha subunit
+K18824	K06881	0.006723419931582	nrnA; bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]
+K18824	K15724	0.0067223139204779	erpA; iron-sulfur cluster insertion protein
+K18824	K14058	0.0067115717295231	ttcA; tRNA 2-thiocytidine biosynthesis protein TtcA
+K18824	K07735	0.0067029337822448	algH; putative transcriptional regulator

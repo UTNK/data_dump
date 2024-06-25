@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K07660	K08300	0.0075988105323174	rne; ribonuclease E [EC:3.1.26.12]
+K07660	K03688	0.0075718137610781	ubiB, aarF; ubiquinone biosynthesis protein
+K07660	mobileOG_000331108	0.0074427307883063	ssb
+K07660	K00865	0.0074174533002226	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K07660	K00333	0.0073139995851239	nuoD; NADH-quinone oxidoreductase subunit D [EC:7.1.1.2]
+K07660	K02171	0.0072609305869184	blaI; BlaI family transcriptional regulator, penicillinase repressor
+K07660	K07146	0.0072379637323678	K07146; UPF0176 protein
+K07660	K08992	0.0071759311786712	lapA; lipopolysaccharide assembly protein A
+K07660	K00140	0.0071634294157759	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]
+K07660	K03307	0.007140344134097	TC.SSS; solute:Na+ symporter, SSS family
+K07660	K01480	0.0070903475195027	speB; agmatinase [EC:3.5.3.11]
+K07660	K02851	0.0070709240996922	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K07660	K01935	0.0070345677946348	bioD; dethiobiotin synthetase [EC:6.3.3.3]
+K07660	K07010	0.0069715932609478	K07010; putative glutamine amidotransferase
+K07660	K01912	0.0069177012955611	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K07660	activated_sludge	0.0068386991903041	
+K07660	K00847	0.0068032878555049	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K07660	mobileOG_000326446	0.006751796478683	dnaX
+K07660	K09780	0.006721654501976	K09780; uncharacterized protein
+K07660	K03782	0.0066750786708462	katG; catalase-peroxidase [EC:1.11.1.21]
+K07660	K09798	0.006653277528287	K09798; uncharacterized protein
+K07660	mobileOG_000091440	0.0066257825817301	cinA
+K07660	K02389	0.0064218894889982	flgD; flagellar basal-body rod modification protein FlgD
+K07660	K21430	0.0064202255658103	yliI; aldose sugar dehydrogenase [EC:1.1.5.-]
+K07660	K10439	0.006374816488967	rbsB; ribose transport system substrate-binding protein
+K07660	K07124	0.0063003027071074	K07124; uncharacterized protein
+K07660	K07646	0.0062889716477215	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K07660	K07101	0.0062413731278916	K07101; uncharacterized protein
+K07660	mobileOG_000023725	0.0062358521172756	pilC
+K07660	K17723	0.0062131893004434	preA; dihydropyrimidine dehydrogenase (NAD+) subunit PreA [EC:1.3.1.1]
+K07660	K24116	0.0061980889094122	scmK; N-acetyl-S-(2-succino)cysteine monooxygenase [EC:1.14.-.-]
+K07660	K06996	0.0061912275801494	K06996; uncharacterized protein
+K07660	K04090	0.0061895302094399	E1.2.7.8; indolepyruvate ferredoxin oxidoreductase [EC:1.2.7.8]
+K07660	K11354	0.0061782517388713	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]
+K07660	K07397	0.0061595982980872	yhfA; putative redox protein
+K07660	K17318	0.0061566562856774	K17318, lplA; putative aldouronate transport system substrate-binding protein
+K07660	K09019	0.0061381313007063	rutE; 3-hydroxypropanoate dehydrogenase [EC:1.1.1.-]
+K07660	K00102	0.0061304725151198	LDHD, dld; D-lactate dehydrogenase (cytochrome) [EC:1.1.2.4]
+K07660	K15921	0.0061149029038373	xynD; arabinoxylan arabinofuranohydrolase [EC:3.2.1.55]
+K07660	K03325	0.0060801562591555	ACR3, arsB; arsenite transporter
+K07660	K02006	0.0060775937525926	cbiO; cobalt/nickel transport system ATP-binding protein
+K07660	K01419	0.0060632595492876	hslV, clpQ; ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]
+K07660	K06346	0.0060601226031675	jag; spoIIIJ-associated protein
+K07660	K03560	0.0060591379370352	tolR; biopolymer transport protein TolR
+K07660	K20938	0.006030108859906	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]
+K07660	K09008	0.0060165681030808	NDUFAF3; NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 3
+K07660	K11527	0.0060038183551067	K11527; two-component system, sensor histidine kinase and response regulator [EC:2.7.13.3]
+K07660	K21470	0.0060021066776518	ycbB; L,D-transpeptidase YcbB
+K07660	K17319	0.0059924431282416	lplB; putative aldouronate transport system permease protein
+K07660	K00252	0.0059763108554291	GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18976	K02401	0.0096005520894673	flhB; flagellar biosynthetic protein FlhB
+K18976	mobileOG_000031464	0.0091347244918533	mutT
+K18976	K03594	0.0089953776534706	bfr; bacterioferritin [EC:1.16.3.1]
+K18976	K01512	0.0089737001192043	acyP; acylphosphatase [EC:3.6.1.7]
+K18976	K02406	0.008873865008162	fliC; flagellin
+K18976	K11070	0.0087643684347605	potC; spermidine/putrescine transport system permease protein
+K18976	K02421	0.0087119395058767	fliR; flagellar biosynthetic protein FliR
+K18976	K10439	0.0086741947860772	rbsB; ribose transport system substrate-binding protein
+K18976	K07010	0.008542154800505	K07010; putative glutamine amidotransferase
+K18976	K06872	0.0085417029263525	K06872; uncharacterized protein
+K18976	K01480	0.0083902680541489	speB; agmatinase [EC:3.5.3.11]
+K18976	K07160	0.0082771859539032	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18976	K01809	0.0082666927722578	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18976	K01760	0.0082095419319857	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18976	K02011	0.0080687431449166	afuB, fbpB; iron(III) transport system permease protein
+K18976	K17723	0.008023656320575	preA; dihydropyrimidine dehydrogenase (NAD+) subunit PreA [EC:1.3.1.1]
+K18976	K07124	0.0079782876368943	K07124; uncharacterized protein
+K18976	K02039	0.0079270416969856	phoU; phosphate transport system protein
+K18976	K10228	0.0078529704855671	smoF, mtlF; sorbitol/mannitol transport system permease protein
+K18976	K03767	0.0078176773249729	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18976	K09765	0.0077950017114132	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K18976	K10229	0.0077370329372595	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K18976	K08682	0.0077051649158572	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K18976	K02016	0.0076528492661694	ABC.FEV.S; iron complex transport system substrate-binding protein
+K18976	K02389	0.0076515249388752	flgD; flagellar basal-body rod modification protein FlgD
+K18976	K00424	0.0076178749014994	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K18976	mobileOG_000093088	0.0076146544140464	ftsZ
+K18976	K13626	0.0076082134391404	fliW; flagellar assembly factor FliW
+K18976	K01912	0.0075957008500274	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18976	K07116	0.0075921110018756	pvdQ, quiP; acyl-homoserine-lactone acylase [EC:3.5.1.97]
+K18976	K06136	0.0075663471022516	pqqB; pyrroloquinoline quinone biosynthesis protein B
+K18976	K07507	0.0075448571490168	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18976	K17758	0.0075438036900808	nnrD; ADP-dependent NAD(P)H-hydrate dehydratase [EC:4.2.1.136]
+K18976	K02008	0.007534142227722	cbiQ; cobalt/nickel transport system permease protein
+K18976	K01297	0.0075180397904571	ldcA; muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]
+K18976	K01469	0.0075012604730168	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+K18976	mobileOG_000026018	0.0074987168657391	xerC
+K18976	K17752	0.007495496378286	rsbT; serine/threonine-protein kinase RsbT [EC:2.7.11.1]
+K18976	K19416	0.0074407867311304	yccA; modulator of FtsH protease
+K18976	K09767	0.0074117637045085	yajQ; cyclic-di-GMP-binding protein
+K18976	K13020	0.0074117637045085	wlbA, bplA; UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase [EC:1.1.1.335]
+K18976	K13628	0.0074053227296024	iscA; iron-sulfur cluster assembly protein
+K18976	K01919	0.0074011598119404	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K18976	K18981	0.0073621534048508	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18976	K15975	0.0073602359052608	K15975; glyoxalase family protein
+K18976	mobileOG_000363469	0.0073505744429019	intS
+K18976	K15921	0.0073495175533525	xynD; arabinoxylan arabinofuranohydrolase [EC:3.2.1.55]
+K18976	K07122	0.0073280310307312	mlaB; phospholipid transport system transporter-binding protein
+K18976	K02415	0.0073248105432781	fliL; flagellar FliL protein
+K18976	K02426	0.0073247401305225	sufE; cysteine desulfuration protein SufE

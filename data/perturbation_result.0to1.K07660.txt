@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K07660	K00261	GLUD1_2, gdhA; glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]	0.2939563605836257	0.2664229545099749
+K07660	K02277	coxD, ctaF; cytochrome c oxidase subunit IV [EC:7.1.1.9]	0.2939563605836257	0.2790341096554113
+K07660	K02171	blaI; BlaI family transcriptional regulator, penicillinase repressor	0.2939563605836257	0.284344187903282
+K07660	K07004	K07004; uncharacterized protein	0.2939563605836257	0.2847761488543159
+K07660	K21159	sgcF, ncsF2, kedF; epoxide hydrolase	0.2939563605836257	0.2852368437944073
+K07660	K00588	E2.1.1.104; caffeoyl-CoA O-methyltransferase [EC:2.1.1.104]	0.2939563605836257	0.2856545981720095
+K07660	K08151	tetA; MFS transporter, DHA1 family, tetracycline resistance protein	0.2939563605836257	0.2863768265322903
+K07660	K02480	K02480; two-component system, NarL family, sensor kinase [EC:2.7.13.3]	0.2939563605836257	0.2867996522572842
+K07660	K02351	K02351; putative membrane protein	0.2939563605836257	0.2868363420993878
+K07660	K04061	flhB2; flagellar biosynthesis protein	0.2939563605836257	0.2878240841681719
+K07660	K09012	sufR; DeoR family transcriptional regulator, suf operon transcriptional repressor	0.2939563605836257	0.2882719990971173
+K07660	K01299	E3.4.17.19; carboxypeptidase Taq [EC:3.4.17.19]	0.2939563605836257	0.2893984824911197
+K07660	K01697	CBS; cystathionine beta-synthase [EC:4.2.1.22]	0.2939563605836257	0.2899986200707291
+K07660	K16211	malY, malT; maltose/moltooligosaccharide transporter	0.2939563605836257	0.2900380639745092
+K07660	K11414	SIRT4, SIR2L4; NAD+-dependent protein deacetylase sirtuin 4 [EC:2.3.1.286]	0.2939563605836257	0.2903851930447114
+K07660	K07315	rsbU_P; phosphoserine phosphatase RsbU/P [EC:3.1.3.3]	0.2939563605836257	0.2904883493261631
+K07660	K06864	larE; pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase [EC:4.4.1.37]	0.2939563605836257	0.2974319428628393
+K07660	K06016	pydC; beta-ureidopropionase / N-carbamoyl-L-amino-acid hydrolase [EC:3.5.1.6 3.5.1.87]	0.2939563605836257	0.2974769948042995
+K07660	K03560	tolR; biopolymer transport protein TolR	0.2939563605836257	0.2976859707155302
+K07660	K15987	hppA; K(+)-stimulated pyrophosphate-energized sodium pump	0.2939563605836257	0.2980022690936698
+K07660	K06985	K06985; aspartyl protease family protein	0.2939563605836257	0.2981421921807793
+K07660	K06898	larB; pyridinium-3,5-biscarboxylic acid mononucleotide synthase [EC:2.5.1.143]	0.2939563605836257	0.2981490096347701
+K07660	K21405	acoR; sigma-54 dependent transcriptional regulator, acetoin dehydrogenase operon transcriptional activator AcoR	0.2939563605836257	0.298566753557204
+K07660	K06996	K06996; uncharacterized protein	0.2939563605836257	0.3024676914412366
+K07660	K02232	cobQ, cbiP; adenosylcobyric acid synthase [EC:6.3.5.10]	0.2939563605836257	0.3120219452086285

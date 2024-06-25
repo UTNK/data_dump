@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K22334	K03571	mreD; rod shape-determining protein MreD	0.0	0.0002997890610521
+K22334	mobileOG_000334103	rnr	0.0	0.0002998571204857
+K22334	K15539	rodZ; cytoskeleton protein RodZ	0.0	0.0002999092238801
+K22334	K09800	tamB; translocation and assembly module TamB	0.0	0.0002999652277685
+K22334	K03820	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.269]	0.0	0.0002999826105624
+K22334	K00164	OGDH, sucA; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]	0.0	0.0002999840595601
+K22334	K03688	ubiB, aarF; ubiquinone biosynthesis protein	0.0	0.0002999948472615
+K22334	mobileOG_000351769	uvrC	0.0	0.0002999951692968
+K22334	K02837	prfC; peptide chain release factor 3	0.0	0.0003999488039082
+K22334	K00864	glpK, GK; glycerol kinase [EC:2.7.1.30]	0.0	0.0004997224088423
+K22334	K07091	lptF; lipopolysaccharide export system permease protein	0.0	0.0004999661887549
+K22334	K01897	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]	0.0	0.0005997839136914
+K22334	K11720	lptG; lipopolysaccharide export system permease protein	0.0	0.0005998261927034
+K22334	K04762	hslR; ribosome-associated heat shock protein Hsp15	0.0	0.0005998522611115
+K22334	K06020	ettA; energy-dependent translational throttle protein EttA	0.0	0.0005999299685198
+K22334	K07560	dtd, DTD; D-aminoacyl-tRNA deacylase [EC:3.1.1.96]	0.0	0.0006998614905368
+K22334	mobileOG_000369761	oppB	0.0	0.0008996486165868
+K22334	K01633	folB; 7,8-dihydroneopterin aldolase/epimerase/oxygenase [EC:4.1.2.25 5.1.99.8 1.13.11.81]	0.0	0.0008997869274162
+K22334	K00821	argD; acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17]	0.0	0.0009998113227695
+K22334	K09812	ftsE; cell division transport system ATP-binding protein	0.0	0.0010995627459312
+K22334	K01262	pepP; Xaa-Pro aminopeptidase [EC:3.4.11.9]	0.0	0.0013998309778249
+K22334	K00995	pgsA, PGS1; CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]	0.0	0.0013999042126709
+K22334	K06158	ABCF3; ATP-binding cassette, subfamily F, member 3	0.0	0.0014998081333995
+K22334	K03789	rimI; [ribosomal protein S18]-alanine N-acetyltransferase [EC:2.3.1.266]	0.0	0.0015996179559253
+K22334	K02039	phoU; phosphate transport system protein	0.0	0.0017995574172597

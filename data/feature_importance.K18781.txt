@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18781	K02401	0.0096303958913649	flhB; flagellar biosynthetic protein FlhB
+K18781	K03594	0.0085852262007902	bfr; bacterioferritin [EC:1.16.3.1]
+K18781	K11070	0.0085483121071634	potC; spermidine/putrescine transport system permease protein
+K18781	K01480	0.0084001696843264	speB; agmatinase [EC:3.5.3.11]
+K18781	K01809	0.0082029606364787	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18781	K02421	0.0080947404748382	fliR; flagellar biosynthetic protein FliR
+K18781	mobileOG_000031464	0.0080805285145242	mutT
+K18781	K02406	0.0080680966720888	fliC; flagellin
+K18781	K01512	0.0079056910643036	acyP; acylphosphatase [EC:3.6.1.7]
+K18781	K06872	0.0077375957648806	K06872; uncharacterized protein
+K18781	mobileOG_000300939	0.0077303082941064	uvrA
+K18781	K03767	0.0076362912325876	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18781	K02389	0.007611150258346	flgD; flagellar basal-body rod modification protein FlgD
+K18781	K18981	0.0075918273336281	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18781	K10439	0.0075605182792506	rbsB; ribose transport system substrate-binding protein
+K18781	K13015	0.0075531814841925	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K18781	K06976	0.0074984331974916	K06976; uncharacterized protein
+K18781	K07010	0.0074879233777187	K07010; putative glutamine amidotransferase
+K18781	K07160	0.0074182236365786	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18781	K02575	0.0074052644357731	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18781	K19416	0.0074018185739024	yccA; modulator of FtsH protease
+K18781	K01919	0.0073921571115436	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K18781	K01760	0.0073804362973851	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18781	mobileOG_000134996	0.0073245268750308	mazF
+K18781	mobileOG_000026018	0.0073180859001247	xerC
+K18781	K01466	0.0072923220005007	allB; allantoinase [EC:3.5.2.5]
+K18781	K01432	0.0072299768688325	AFMID; arylformamidase [EC:3.5.1.9]
+K18781	K09767	0.0071860459145527	yajQ; cyclic-di-GMP-binding protein
+K18781	K12506	0.0071538410400229	ispDF; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:2.7.7.60 4.6.1.12]
+K18781	K03639	0.007128077140399	moaA, CNX2; GTP 3,8-cyclase [EC:4.1.99.22]
+K18781	K02457	0.0071023132407751	gspH; general secretion pathway protein H
+K18781	K13693	0.007102313240775	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]
+K18781	mobileOG_000802159	0.0070770431507741	rep
+K18781	K07124	0.0070615845533426	K07124; uncharacterized protein
+K18781	K06996	0.0070591839951883	K06996; uncharacterized protein
+K18781	K02039	0.0070487209847668	phoU; phosphate transport system protein
+K18781	K05589	0.0070443444666213	ftsB; cell division protein FtsB
+K18781	K00375	0.0070246184961353	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18781	K16329	0.0070218010544506	psuG; pseudouridylate synthase [EC:4.2.1.70]
+K18781	K02011	0.0070142969460971	afuB, fbpB; iron(III) transport system permease protein
+K18781	K02016	0.0070107866001536	ABC.FEV.S; iron complex transport system substrate-binding protein
+K18781	K06881	0.0070024781297329	nrnA; bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]
+K18781	K02527	0.0069992576422797	kdtA, waaA; 3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]
+K18781	mobileOG_000330062	0.0069992576422797	recR
+K18781	K02299	0.0069992576422797	cyoC; cytochrome o ubiquinol oxidase subunit III
+K18781	mobileOG_000093088	0.0069720611352269	ftsZ
+K18781	K16843	0.0069702732552029	slcC; (S)-sulfolactate dehydrogenase [EC:1.1.1.310]
+K18781	K09889	0.0069541708179381	yjgA; ribosome-associated protein
+K18781	mobileOG_000015288	0.0069284069183143	hflC
+K18781	K17723	0.0069154980179795	preA; dihydropyrimidine dehydrogenase (NAD+) subunit PreA [EC:1.3.1.1]

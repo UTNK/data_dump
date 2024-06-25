@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18104	K01512	0.0081164509839771	acyP; acylphosphatase [EC:3.6.1.7]
+K18104	K01610	0.0078554243986627	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K18104	K18707	0.0077760129396705	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]
+K18104	K09810	0.0076603235681312	lolD; lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]
+K18104	K10680	0.0075910110387941	nemA; N-ethylmaleimide reductase [EC:1.-.-.-]
+K18104	K02396	0.0074658925647073	flgK; flagellar hook-associated protein 1 FlgK
+K18104	K01975	0.0074431363832229	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K18104	K03651	0.0074315460233439	cpdA; 3,5-cyclic-AMP phosphodiesterase [EC:3.1.4.53]
+K18104	K07124	0.0072870772552748	K07124; uncharacterized protein
+K18104	K03412	0.0072828895138747	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K18104	K02027	0.007269422769587	ABC.MS.S; multiple sugar transport system substrate-binding protein
+K18104	K02420	0.0072652378463998	fliQ; flagellar biosynthetic protein FliQ
+K18104	mobileOG_000777978	0.0071874698336483	korSA
+K18104	K02011	0.0070327376046128	afuB, fbpB; iron(III) transport system permease protein
+K18104	K07095	0.0069696455335057	K07095; uncharacterized protein
+K18104	K00027	0.0069168508751014	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K18104	K07126	0.006902430433528	K07126; uncharacterized protein
+K18104	K03724	0.006818197002299	lhr; ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]
+K18104	K03928	0.0067181992579311	yvaK; carboxylesterase [EC:3.1.1.1]
+K18104	K00652	0.0067076139966303	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18104	K02426	0.00668593810817	sufE; cysteine desulfuration protein SufE
+K18104	K14393	0.0066840412676028	actP; cation/acetate symporter
+K18104	K07010	0.0066634749001648	K07010; putative glutamine amidotransferase
+K18104	mobileOG_000031464	0.0066295373835261	mutT
+K18104	K06996	0.0065473760820056	K06996; uncharacterized protein
+K18104	K01480	0.0064198344871306	speB; agmatinase [EC:3.5.3.11]
+K18104	K09966	0.0064180960541732	K09966; uncharacterized protein
+K18104	K10206	0.0062990304056516	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K18104	K07507	0.0062582262313898	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18104	K12510	0.0062535613459934	tadB; tight adherence protein B
+K18104	K08369	0.0062118364483039	ydjE; MFS transporter, putative metabolite:H+ symporter
+K18104	K01006	0.006198027556397	ppdK; pyruvate, orthophosphate dikinase [EC:2.7.9.1]
+K18104	K21481	0.0061860676447578	mhuD, hmoB; heme oxygenase (mycobilin-producing) [EC:1.14.99.57]
+K18104	K00297	0.006182477275837	metF, MTHFR; methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]
+K18104	K02234	0.0061746490318095	cobW; cobalamin biosynthesis protein CobW
+K18104	K00012	0.0061664738710354	UGDH, ugd; UDPglucose 6-dehydrogenase [EC:1.1.1.22]
+K18104	K09166	0.0061554589427339	K09166; uncharacterized protein
+K18104	K03771	0.0061483678328783	surA; peptidyl-prolyl cis-trans isomerase SurA [EC:5.2.1.8]
+K18104	K13020	0.0061410009661371	wlbA, bplA; UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase [EC:1.1.1.335]
+K18104	K02274	0.0061240168593532	coxA, ctaD; cytochrome c oxidase subunit I [EC:7.1.1.9]
+K18104	K00721	0.0061235802908984	DPM1; dolichol-phosphate mannosyltransferase [EC:2.4.1.83]
+K18104	K07122	0.0061207489151099	mlaB; phospholipid transport system transporter-binding protein
+K18104	K02016	0.0061156310668842	ABC.FEV.S; iron complex transport system substrate-binding protein
+K18104	K20975	0.006097968851382	K20975; two-component system, sensor histidine kinase [EC:2.7.13.3]
+K18104	K03667	0.0060765122496713	hslU; ATP-dependent HslUV protease ATP-binding subunit HslU
+K18104	K03310	0.0060721986421137	TC.AGCS; alanine or glycine:cation symporter, AGCS family
+K18104	K11941	0.0060671785621759	mdoC; glucans biosynthesis protein C [EC:2.1.-.-]
+K18104	K05835	0.0060659606906848	rhtC; threonine efflux protein
+K18104	K05601	0.0060583476782126	hcp; hydroxylamine reductase [EC:1.7.99.1]
+K18104	K02039	0.006046062063246	phoU; phosphate transport system protein

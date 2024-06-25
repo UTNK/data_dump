@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18214	K13985	NAPEPLD; N-acyl-phosphatidylethanolamine-hydrolysing phospholipase D [EC:3.1.4.54]	0.0055361251473474	0.0039032659150312
+K18214	K09772	sepF; cell division inhibitor SepF	0.0055361251473474	0.0061070951132607
+K18214	K07183	nasT; two-component system, response regulator / RNA-binding antiterminator	0.0055361251473474	0.0061236852588045
+K18214	K04749	rsbV; anti-sigma B factor antagonist	0.0055361251473474	0.0061608597085214
+K18214	K07075	K07075; uncharacterized protein	0.0055361251473474	0.0062103371012501
+K18214	mobileOG_000006534	groEL	0.0055361251473474	0.0062860252301065
+K18214	K08972	K08972; putative membrane protein	0.0055361251473474	0.006304076997985
+K18214	K06136	pqqB; pyrroloquinoline quinone biosynthesis protein B	0.0055361251473474	0.0063100577767644
+K18214	K06960	K06960; uncharacterized protein	0.0055361251473474	0.0063210994510129
+K18214	K06374	spmB; spore maturation protein B	0.0055361251473474	0.0063998493800387
+K18214	K11942	icmF; isobutyryl-CoA mutase [EC:5.4.99.13]	0.0055361251473474	0.0066059197333898
+K18214	K07030	K07030; uncharacterized protein	0.0055361251473474	0.0066857027236701
+K18214	K00446	dmpB, xylE; catechol 2,3-dioxygenase [EC:1.13.11.2]	0.0055361251473474	0.006699043839296
+K18214	K11263	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]	0.0055361251473474	0.0067146864378654
+K18214	K15987	hppA; K(+)-stimulated pyrophosphate-energized sodium pump	0.0055361251473474	0.0067269423192782
+K18214	K01267	DNPEP; aspartyl aminopeptidase [EC:3.4.11.21]	0.0055361251473474	0.0068038035977417
+K18214	K16785	ecfT; energy-coupling factor transport system permease protein	0.0055361251473474	0.0068244963070635
+K18214	K06346	jag; spoIIIJ-associated protein	0.0055361251473474	0.006889975844876
+K18214	K03705	hrcA; heat-inducible transcriptional repressor	0.0055361251473474	0.0069941538208275
+K18214	K05979	comB; 2-phosphosulfolactate phosphatase [EC:3.1.3.71]	0.0055361251473474	0.0071008208613925
+K18214	K13013	wbqV; O-antigen biosynthesis protein WbqV	0.0055361251473474	0.0073141905118513
+K18214	K07009	gatD; lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13]	0.0055361251473474	0.0073641953954184
+K18214	K18118	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]	0.0055361251473474	0.0074093223842055
+K18214	K04034	bchE; anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase [EC:1.21.98.3]	0.0055361251473474	0.0080728914032118
+K18214	K07816	E2.7.6.5X; putative GTP pyrophosphokinase [EC:2.7.6.5]	0.0055361251473474	0.0083981176366328

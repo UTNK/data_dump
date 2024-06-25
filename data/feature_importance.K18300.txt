@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18300	K09001	0.0088217281515622	anmK; anhydro-N-acetylmuramic acid kinase [EC:2.7.1.170]
+K18300	K12340	0.0079378787314872	tolC; outer membrane protein
+K18300	K09767	0.0078007634614731	yajQ; cyclic-di-GMP-binding protein
+K18300	K02564	0.0077351710385387	nagB, GNPDA; glucosamine-6-phosphate deaminase [EC:3.5.99.6]
+K18300	activated_sludge	0.0077333626366271	
+K18300	K16137	0.0077284320828572	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K18300	K00991	0.0076513935717321	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]
+K18300	K00574	0.0073802950240071	cfa; cyclopropane-fatty-acyl-phospholipid synthase [EC:2.1.1.79]
+K18300	K02011	0.0073744708925531	afuB, fbpB; iron(III) transport system permease protein
+K18300	mobileOG_000024458	0.0073247699446662	dnaE
+K18300	K00849	0.0071743578119108	galK; galactokinase [EC:2.7.1.6]
+K18300	mobileOG_000091440	0.0071248294652249	cinA
+K18300	K00833	0.007097512894363	bioA; adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62]
+K18300	K11927	0.0070066341070342	rhlE; ATP-dependent RNA helicase RhlE [EC:3.6.4.13]
+K18300	K07160	0.0069916851379131	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18300	K03782	0.0069251161642149	katG; catalase-peroxidase [EC:1.11.1.21]
+K18300	K06991	0.0068747509040127	K06991; uncharacterized protein
+K18300	K05786	0.0068726062453285	rarD; chloramphenicol-sensitive protein RarD
+K18300	K07461	0.0068563976628308	K07461; putative endonuclease
+K18300	K07124	0.0068455482787788	K07124; uncharacterized protein
+K18300	K10439	0.0068256592955815	rbsB; ribose transport system substrate-binding protein
+K18300	K19221	0.0068035532361753	cobA, btuR; cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+K18300	K00703	0.006789603289378	glgA; starch synthase [EC:2.4.1.21]
+K18300	K07010	0.0067841273390596	K07010; putative glutamine amidotransferase
+K18300	mobileOG_000331053	0.0067564780101231	ligD
+K18300	K03117	0.0066524083385369	tatB; sec-independent protein translocase protein TatB
+K18300	K01480	0.0066492930376393	speB; agmatinase [EC:3.5.3.11]
+K18300	K07507	0.0066079492946279	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18300	K01991	0.0065935322450609	wza, gfcE; polysaccharide biosynthesis/export protein
+K18300	K04744	0.0065867678459109	lptD, imp, ostA; LPS-assembly protein
+K18300	K07259	0.0065222017822894	dacB; serine-type D-Ala-D-Ala carboxypeptidase/endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]
+K18300	K07646	0.0065199654580345	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18300	K03585	0.0064919814639896	acrA, mexA, adeI, smeD, mtrC, cmeA; membrane fusion protein, multidrug efflux system
+K18300	K15771	0.0064894234239561	ganP; arabinogalactan oligomer / maltooligosaccharide transport system permease protein
+K18300	K03406	0.0064825941530426	mcp; methyl-accepting chemotaxis protein
+K18300	K06142	0.006444757049288	hlpA, ompH; outer membrane protein
+K18300	K05939	0.0063791442950752	aas; acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase [EC:2.3.1.40 6.2.1.20]
+K18300	K04761	0.0063195047277605	oxyR; LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator
+K18300	K02558	0.0063154076171116	mpl; UDP-N-acetylmuramate: L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase [EC:6.3.2.45]
+K18300	K09800	0.0063031652409433	tamB; translocation and assembly module TamB
+K18300	K07091	0.006253004016308	lptF; lipopolysaccharide export system permease protein
+K18300	K01005	0.0062518559667743	tagT_U_V; polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase [EC:2.7.8.-]
+K18300	K03317	0.0062504348083649	TC.CNT; concentrative nucleoside transporter, CNT family
+K18300	K04092	0.0062382517789065	tyrA1; chorismate mutase [EC:5.4.99.5]
+K18300	K12542	0.0062337311999686	lapC; membrane fusion protein, adhesin transport system
+K18300	K06041	0.0062001555481909	kdsD, kpsF; arabinose-5-phosphate isomerase [EC:5.3.1.13]
+K18300	K01414	0.0061946812052839	prlC; oligopeptidase A [EC:3.4.24.70]
+K18300	mobileOG_000331108	0.0061896295941048	ssb
+K18300	K14274	0.0061889850933279	xylC; xylono-1,5-lactonase [EC:3.1.1.110]
+K18300	K18682	0.0061847613345737	rny; ribonucrease Y [EC:3.1.-.-]

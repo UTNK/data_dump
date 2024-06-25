@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K07260	K00830	0.0060129101211587	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+K07260	K02386	0.0057919274461474	flgA; flagella basal body P-ring formation protein FlgA
+K07260	K06041	0.0056875744159726	kdsD, kpsF; arabinose-5-phosphate isomerase [EC:5.3.1.13]
+K07260	K12132	0.0056824990808013	prkC, stkP; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]
+K07260	K19244	0.0056729641313651	ala; alanine dehydrogenase [EC:1.4.1.1]
+K07260	K00362	0.0055755383251248	nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]
+K07260	K00703	0.0055483967492714	glgA; starch synthase [EC:2.4.1.21]
+K07260	K02362	0.0055404253141974	entD; enterobactin synthetase component D [EC:6.3.2.14 2.7.8.-]
+K07260	K05785	0.0055231457628199	rfaH; transcriptional antiterminator RfaH
+K07260	K01676	0.0054802064444039	E4.2.1.2A, fumA, fumB; fumarate hydratase, class I [EC:4.2.1.2]
+K07260	K21744	0.0054565874493146	tipA; MerR family transcriptional regulator, thiopeptide resistance regulator
+K07260	K12369	0.0053984044871354	dppB; dipeptide transport system permease protein
+K07260	mobileOG_000160083	0.0053895769922394	oppA
+K07260	K01005	0.0053844170225977	tagT_U_V; polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase [EC:2.7.8.-]
+K07260	mobileOG_000237546	0.005382280033057	recF
+K07260	K03668	0.0053775557612458	hslJ; heat shock protein HslJ
+K07260	K06442	0.0053722320890547	tlyA; 23S rRNA (cytidine1920-2-O)/16S rRNA (cytidine1409-2-O)-methyltransferase [EC:2.1.1.226 2.1.1.227]
+K07260	K11785	0.005344992341855	mqnD; 1,4-dihydroxy-6-naphthoate synthase [EC:1.14.-.-]
+K07260	K13542	0.0052762166586337	cobA-hemD; uroporphyrinogen III methyltransferase / synthase [EC:2.1.1.107 4.2.1.75]
+K07260	K14998	0.0052732869178631	SURF1, SHY1; surfeit locus 1 family protein
+K07260	K00058	0.005272974136436	serA, PHGDH; D-3-phosphoglycerate dehydrogenase / 2-oxoglutarate reductase [EC:1.1.1.95 1.1.1.399]
+K07260	K01601	0.0052676356224007	rbcL; ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39]
+K07260	K07636	0.0052665710996895	phoR; two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]
+K07260	K09125	0.0052645417041028	yhhQ; queuosine precursor transporter
+K07260	K00375	0.0052500422796338	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K07260	mobileOG_000331108	0.0052489723602868	ssb
+K07260	K02063	0.0051872428366481	thiP; thiamine transport system permease protein
+K07260	mobileOG_000330441	0.0051822215429694	polA
+K07260	K21600	0.0051806512348421	csoR, ricR; CsoR family transcriptional regulator, copper-sensing transcriptional repressor
+K07260	K21470	0.0051736410503384	ycbB; L,D-transpeptidase YcbB
+K07260	K07106	0.0051593400600122	murQ; N-acetylmuramic acid 6-phosphate etherase [EC:4.2.1.126]
+K07260	K07039	0.0051565540625908	K07039; uncharacterized protein
+K07260	K00677	0.0051425625473392	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]
+K07260	K19267	0.005119342662042	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K07260	K03543	0.0051133209567961	emrA; membrane fusion protein, multidrug efflux system
+K07260	K06867	0.0051127503167844	K06867; uncharacterized protein
+K07260	mobileOG_000330401	0.0051031694395192	ruvA
+K07260	K01424	0.0050960721080126	E3.5.1.1, ansA, ansB; L-asparaginase [EC:3.5.1.1]
+K07260	K05337	0.0050934871435781	fer; ferredoxin
+K07260	K18301	0.0050885645409216	mexL; TetR/AcrR family transcriptional regulator, mexJK operon transcriptional repressor
+K07260	K09762	0.0050861050278983	K09762; uncharacterized protein
+K07260	K04774	0.0050808276639372	sohB; serine protease SohB [EC:3.4.21.-]
+K07260	K19225	0.0050791911383142	gluP; rhomboid protease GluP [EC:3.4.21.105]
+K07260	K00363	0.0050644652502136	nirD; nitrite reductase (NADH) small subunit [EC:1.7.1.15]
+K07260	mobileOG_000001353	0.0050633406968336	oppB
+K07260	mobileOG_000282572	0.0050446462231604	radC
+K07260	K09987	0.0050379041307828	K09987; uncharacterized protein
+K07260	K18122	0.0050357992891901	cat2, abfT; 4-hydroxybutyrate CoA-transferase [EC:2.8.3.-]
+K07260	K03929	0.0050272385688736	pnbA; para-nitrobenzyl esterase [EC:3.1.1.-]
+K07260	K00231	0.0050212404196284	PPOX, hemY; protoporphyrinogen/coproporphyrinogen III oxidase [EC:1.3.3.4 1.3.3.15]

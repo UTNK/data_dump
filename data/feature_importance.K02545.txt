@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K02545	K01760	0.0082386198617517	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K02545	K00865	0.0079094623114583	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K02545	K02421	0.0078320134760953	fliR; flagellar biosynthetic protein FliR
+K02545	K01480	0.0077642457451525	speB; agmatinase [EC:3.5.3.11]
+K02545	K00252	0.0077545646407322	GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]
+K02545	K07010	0.0076867969097894	K07010; putative glutamine amidotransferase
+K02545	K07160	0.0075996669700059	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K02545	K01912	0.0075899858655854	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K02545	K03767	0.0075899858655854	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K02545	K01512	0.0075803047611651	acyP; acylphosphatase [EC:3.6.1.7]
+K02545	K02575	0.0075803047611651	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K02545	K02401	0.0075706236567446	flhB; flagellar biosynthetic protein FlhB
+K02545	K11070	0.0075415803434835	potC; spermidine/putrescine transport system permease protein
+K02545	K06996	0.0075028559258019	K06996; uncharacterized protein
+K02545	K06872	0.0074834937169612	K06872; uncharacterized protein
+K02545	K03641	0.0074834937169612	tolB; TolB protein
+K02545	mobileOG_000031464	0.0074350881948591	mutT
+K02545	K01809	0.0072511472108717	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K02545	K02011	0.0071543361666678	afuB, fbpB; iron(III) transport system permease protein
+K02545	K07124	0.007134973957827	K07124; uncharacterized protein
+K02545	K10439	0.0071156117489862	rbsB; ribose transport system substrate-binding protein
+K02545	K02039	0.007086568435725	phoU; phosphate transport system protein
+K02545	K00375	0.0070381629136231	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K02545	K03594	0.0069413518694192	bfr; bacterioferritin [EC:1.16.3.1]
+K02545	K07215	0.0068832652428968	pigA, hemO; heme oxygenase (biliverdin-IX-beta and delta-forming) [EC:1.14.99.58]
+K02545	K19267	0.006863903034056	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K02545	K15921	0.0068445408252152	xynD; arabinoxylan arabinofuranohydrolase [EC:3.2.1.55]
+K02545	K07646	0.0068058164075337	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K02545	K02517	0.0067767730942724	lpxL, htrB; Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-]
+K02545	K11075	0.0067477297810113	potH; putrescine transport system permease protein
+K02545	K03698	0.0067283675721705	cbf, cbf1; 3-5 exoribonuclease [EC:3.1.-.-]
+K02545	K01821	0.0067186864677502	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K02545	K03634	0.0066799620500686	lolA; outer membrane lipoprotein carrier protein
+K02545	K15578	0.0066799620500686	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K02545	K01466	0.0066412376323869	allB; allantoinase [EC:3.5.2.5]
+K02545	K02074	0.0066412376323869	ABC.ZM.A; zinc/manganese transport system ATP-binding protein
+K02545	K22041	0.0066218754235463	comR; TetR/AcrR family transcriptional regulator, copper-responsive repressor
+K02545	K09765	0.006592832110285	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K02545	K20938	0.006592832110285	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]
+K02545	K05973	0.006592832110285	phaZ; poly(3-hydroxybutyrate) depolymerase [EC:3.1.1.75]
+K02545	K18118	0.0065637887970239	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]
+K02545	K17315	0.0065541076926035	gtsA, glcE; glucose/mannose transport system substrate-binding protein
+K02545	K07642	0.0065444265881831	baeS, smeS; two-component system, OmpR family, sensor histidine kinase BaeS [EC:2.7.13.3]
+K02545	K09801	0.0065250643793423	K09801; uncharacterized protein
+K02545	mobileOG_000093088	0.0065153832749219	ftsZ
+K02545	K07116	0.0065153832749219	pvdQ, quiP; acyl-homoserine-lactone acylase [EC:3.5.1.97]
+K02545	K01167	0.0065057021705015	rnaSA; ribonuclease T1 [EC:4.6.1.24]
+K02545	K01058	0.0064960210660811	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]
+K02545	K10229	0.0064960210660811	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K02545	K02008	0.0064863399616608	cbiQ; cobalt/nickel transport system permease protein

@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19080	K06885	K06885; uncharacterized protein	0.0	0.0001999747033545
+K19080	K18926	lmrB; MFS transporter, DHA2 family, lincomycin resistance protein	0.0	0.0002997298958049
+K19080	K00174	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]	0.0	0.0002998164393616
+K19080	K03300	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family	0.0	0.0002998328314816
+K19080	K18672	dacA; diadenylate cyclase [EC:2.7.7.85]	0.0	0.0002998695376423
+K19080	K07403	nfeD; membrane-bound serine protease (ClpP class)	0.0	0.0002999429688968
+K19080	K01623	ALDO; fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	0.0	0.0003997449495354
+K19080	mobileOG_000334867	nfo	0.0	0.0003999023077325
+K19080	K21481	mhuD, hmoB; heme oxygenase (mycobilin-producing) [EC:1.14.99.57]	0.0	0.0003999294410582
+K19080	K00294	E1.2.1.88; 1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]	0.0	0.000499589557479
+K19080	mobileOG_000098385	35	0.0	0.0004997162884506
+K19080	K06962	K06962; uncharacterized protein	0.0	0.0004997268924291
+K19080	K23393	murT; lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13]	0.0	0.0004998308862212
+K19080	K01585	speA; arginine decarboxylase [EC:4.1.1.19]	0.0	0.00049984343523
+K19080	mobileOG_000333823	dnaN	0.0	0.0005994973515637
+K19080	K07009	gatD; lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13]	0.0	0.0005995537399142
+K19080	mobileOG_000300939	uvrA	0.0	0.0005996453742224
+K19080	K04748	norQ; nitric oxide reductase NorQ protein	0.0	0.000599695125419
+K19080	mobileOG_000375139	nfuA	0.0	0.0005997236295105
+K19080	K00754	bshA; L-malate glycosyltransferase [EC:2.4.1.-]	0.0	0.0007993861347195
+K19080	K04768	acuC; acetoin utilization protein AcuC	0.0	0.0007996695032304
+K19080	mobileOG_000077438	polX	0.0	0.0008996762670512
+K19080	mobileOG_000026018	xerC	0.0	0.0011993586569702
+K19080	K15975	K15975; glyoxalase family protein	0.0	0.0016988752357146
+K19080	mobileOG_000134996	mazF	0.0	0.0017993095133473

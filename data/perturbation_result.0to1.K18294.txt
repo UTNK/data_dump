@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18294	K02371	fabK; enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]	0.516695535854209	0.4978167474815009
+K18294	K07501	K07501; 3-5 exonuclease	0.516695535854209	0.4986820379293817
+K18294	K13599	ntrX; two-component system, NtrC family, nitrogen regulation response regulator NtrX	0.516695535854209	0.503657534439628
+K18294	K08678	UXS1, uxs; UDP-glucuronate decarboxylase [EC:4.1.1.35]	0.516695535854209	0.5066863403577754
+K18294	K18989	vexF; multidrug efflux pump	0.516695535854209	0.5067546190392408
+K18294	mobileOG_000103117	L	0.516695535854209	0.5070016718998575
+K18294	K15578	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]	0.516695535854209	0.5096628253066761
+K18294	K18122	cat2, abfT; 4-hydroxybutyrate CoA-transferase [EC:2.8.3.-]	0.516695535854209	0.5102745784051207
+K18294	mobileOG_000276756	CBU_0006;	0.516695535854209	0.5103493090929399
+K18294	K16554	exoP, vpsO; polysaccharide biosynthesis transport protein	0.516695535854209	0.5103926487677487
+K18294	K01144	E3.1.11.5; exodeoxyribonuclease V [EC:3.1.11.5]	0.516695535854209	0.5104664118639607
+K18294	K02116	atpI; ATP synthase protein I	0.516695535854209	0.5109748554334096
+K18294	K20509	madB, oadB, gcdB, mmdB; carboxybiotin decarboxylase [EC:7.2.4.1]	0.516695535854209	0.511418031430313
+K18294	K00023	phbB; acetoacetyl-CoA reductase [EC:1.1.1.36]	0.516695535854209	0.5123018419526041
+K18294	K12506	ispDF; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:2.7.7.60 4.6.1.12]	0.516695535854209	0.5125878772148598
+K18294	mobileOG_000127353	mutL	0.516695535854209	0.5129292435987055
+K18294	K00625	E2.3.1.8, pta; phosphate acetyltransferase [EC:2.3.1.8]	0.516695535854209	0.5129451436314827
+K18294	K02274	coxA, ctaD; cytochrome c oxidase subunit I [EC:7.1.1.9]	0.516695535854209	0.5210759009055018
+K18294	K20074	prpC, phpP; PPM family protein phosphatase [EC:3.1.3.16]	0.516695535854209	0.5212831657286849
+K18294	K05565	mnhA, mrpA; multicomponent Na+:H+ antiporter subunit A	0.516695535854209	0.5215108081646023
+K18294	K01029	E2.8.3.5B, scoB; 3-oxoacid CoA-transferase subunit B [EC:2.8.3.5]	0.516695535854209	0.5218525268083386
+K18294	rice_paddy		0.516695535854209	0.5219546394292746
+K18294	K07260	vanY; zinc D-Ala-D-Ala carboxypeptidase [EC:3.4.17.14]	0.516695535854209	0.5241859180180507
+K18294	K03893	arsB; arsenical pump membrane protein	0.516695535854209	0.5261389556238625
+K18294	K00140	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	0.516695535854209	0.5527959889986628

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18299	K03426	0.0080258684980402	E3.6.1.22, NUDT12, nudC; NAD+ diphosphatase [EC:3.6.1.22]
+K18299	K01512	0.0078433266138635	acyP; acylphosphatase [EC:3.6.1.7]
+K18299	K00990	0.0077987811816965	glnD; [protein-PII] uridylyltransferase [EC:2.7.7.59]
+K18299	K03568	0.0077793309297677	tldD; TldD protein
+K18299	K10439	0.0076248924242401	rbsB; ribose transport system substrate-binding protein
+K18299	K00865	0.0075774381606177	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18299	K07010	0.007576121505466	K07010; putative glutamine amidotransferase
+K18299	K03767	0.0075659813381326	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18299	K23535	0.0075452945142872	nupB; general nucleoside transport system permease protein
+K18299	K00703	0.0074803901969077	glgA; starch synthase [EC:2.4.1.21]
+K18299	K10806	0.0074680325920646	yciA; acyl-CoA thioesterase YciA [EC:3.1.2.-]
+K18299	K02851	0.0074261021954303	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K18299	K03406	0.0073781264430468	mcp; methyl-accepting chemotaxis protein
+K18299	K01975	0.0072680208229236	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K18299	K06996	0.0072673377744418	K06996; uncharacterized protein
+K18299	mobileOG_000021084	0.0072671084215111	priA
+K18299	K06193	0.0072414579887356	phnA; protein PhnA
+K18299	K02011	0.0072021076287472	afuB, fbpB; iron(III) transport system permease protein
+K18299	K00588	0.0071885603282666	E2.1.1.104; caffeoyl-CoA O-methyltransferase [EC:2.1.1.104]
+K18299	K01480	0.0071820521535664	speB; agmatinase [EC:3.5.3.11]
+K18299	K01760	0.0071112324764855	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18299	K01640	0.0071107059310495	E4.1.3.4, HMGCL, hmgL; hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4]
+K18299	K23536	0.0070542841262921	nupC; general nucleoside transport system permease protein
+K18299	K01912	0.0070148013645312	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18299	K07124	0.0069898245465691	K07124; uncharacterized protein
+K18299	K06872	0.0069643032064423	K06872; uncharacterized protein
+K18299	mobileOG_000031464	0.0068563192436659	mutT
+K18299	K01720	0.0067866065135384	prpD; 2-methylcitrate dehydratase [EC:4.2.1.79]
+K18299	K09121	0.0067341749184942	larC; pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel chelatase [EC:4.99.1.12]
+K18299	K03647	0.0066655415204759	nrdI; protein involved in ribonucleotide reduction
+K18299	K07507	0.0066540670702568	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18299	K04092	0.0066474675587413	tyrA1; chorismate mutase [EC:5.4.99.5]
+K18299	K16554	0.00655698885613	exoP, vpsO; polysaccharide biosynthesis transport protein
+K18299	K16137	0.0065362622833371	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K18299	K07461	0.0065230314936715	K07461; putative endonuclease
+K18299	mobileOG_000261240	0.0065153706062823	groS
+K18299	K02409	0.0064240518723626	fliF; flagellar M-ring protein FliF
+K18299	K16167	0.0064158069351015	bpsA, srsA, pks11, pks10; alkylresorcinol/alkylpyrone synthase
+K18299	K00041	0.0064123569379633	uxaB; tagaturonate reductase [EC:1.1.1.58]
+K18299	K01338	0.0064054145441497	lon; ATP-dependent Lon protease [EC:3.4.21.53]
+K18299	K00847	0.0063922150300159	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K18299	K07646	0.0063656806682907	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18299	K03817	0.0063581164701047	rimL; ribosomal-protein-serine acetyltransferase [EC:2.3.1.-]
+K18299	K02299	0.0063535869159909	cyoC; cytochrome o ubiquinol oxidase subunit III
+K18299	K01681	0.0063485577459256	ACO, acnA; aconitate hydratase [EC:4.2.1.3]
+K18299	K12541	0.0063390897607578	lapB; ATP-binding cassette, subfamily C, bacterial LapB
+K18299	mobileOG_000059166	0.0063048953448476	impB
+K18299	K06985	0.0063009221110282	K06985; aspartyl protease family protein
+K18299	K01754	0.0062962772701092	E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]
+K18299	K04564	0.0062743299297013	SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]

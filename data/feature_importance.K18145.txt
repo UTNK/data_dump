@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18145	K02420	0.0086519418629141	fliQ; flagellar biosynthetic protein FliQ
+K18145	K01759	0.0085420314885724	GLO1, gloA; lactoylglutathione lyase [EC:4.4.1.5]
+K18145	K02851	0.0085120430716497	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K18145	K01480	0.0083989878953462	speB; agmatinase [EC:3.5.3.11]
+K18145	K00324	0.0083331560964592	pntA; H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1]
+K18145	K00652	0.0081552420302074	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18145	K06872	0.0081325708335691	K06872; uncharacterized protein
+K18145	K16137	0.0079801027839515	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K18145	K07160	0.0079274403317731	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18145	K03412	0.0079023224389018	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K18145	K00029	0.0076822880638584	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+K18145	K07010	0.0076302074263979	K07010; putative glutamine amidotransferase
+K18145	K07124	0.0076298323943356	K07124; uncharacterized protein
+K18145	K00375	0.0076254785939413	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18145	K03767	0.007610600592613	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18145	K01760	0.0076096557298126	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18145	K07646	0.0075283250709499	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18145	K03562	0.0074925456609784	tolQ; biopolymer transport protein TolQ
+K18145	K06193	0.0074726759154656	phnA; protein PhnA
+K18145	K14393	0.0074616762413949	actP; cation/acetate symporter
+K18145	mobileOG_000034793	0.0074484843315646	diaA
+K18145	K07712	0.0074483390506139	glnG, ntrC; two-component system, NtrC family, nitrogen regulation response regulator GlnG
+K18145	K10439	0.0074178463724153	rbsB; ribose transport system substrate-binding protein
+K18145	K02533	0.0073524466125759	lasT; tRNA/rRNA methyltransferase [EC:2.1.1.-]
+K18145	K06996	0.0073334027150728	K06996; uncharacterized protein
+K18145	K08305	0.0072753329312527	mltB; membrane-bound lytic murein transglycosylase B [EC:4.2.2.-]
+K18145	K01912	0.007240960274237	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18145	K01512	0.0072271821224358	acyP; acylphosphatase [EC:3.6.1.7]
+K18145	K06916	0.0072262285038694	zapE; cell division protein ZapE
+K18145	mobileOG_000031464	0.0072157012126882	mutT
+K18145	activated_sludge	0.0072087346735764	
+K18145	mobileOG_000282901	0.0071955268301745	pcrA
+K18145	K07507	0.007188436398189	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18145	K19267	0.0071619551314462	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18145	K03071	0.0071438817259763	secB; preprotein translocase subunit SecB
+K18145	K18218	0.0071391001073637	tet35; tetracycline resistance efflux pump
+K18145	K02401	0.0071116704563684	flhB; flagellar biosynthetic protein FlhB
+K18145	mobileOG_000348401	0.0071061482435895	ihfA
+K18145	K15011	0.0070907124406378	regB, regS, actS; two-component system, sensor histidine kinase RegB [EC:2.7.13.3]
+K18145	K18138	0.0070773143974284	acrB, mexB, adeJ, smeE, mtrD, cmeB; multidrug efflux pump
+K18145	K18900	0.0070730075256173	bpeT; LysR family transcriptional regulator, regulator for bpeEF and oprC
+K18145	K06864	0.0070652706187582	larE; pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase [EC:4.4.1.37]
+K18145	K01879	0.0070576136975502	glyS; glycyl-tRNA synthetase beta chain [EC:6.1.1.14]
+K18145	K03717	0.0070387608016977	nhaR; LysR family transcriptional regulator, transcriptional activator of nhaA
+K18145	K02409	0.0070283325116753	fliF; flagellar M-ring protein FliF
+K18145	K02419	0.0070203876196142	fliP; flagellar biosynthetic protein FliP
+K18145	K04083	0.0070077133979108	hslO; molecular chaperone Hsp33
+K18145	K03770	0.0069940462010685	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K18145	K01919	0.0069936724194377	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K18145	K02391	0.0069709748399683	flgF; flagellar basal-body rod protein FlgF

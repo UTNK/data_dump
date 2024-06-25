@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18791	K01809	0.0096397021347779	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18791	K02421	0.008614944569585	fliR; flagellar biosynthetic protein FliR
+K18791	K02401	0.0085880955708619	flhB; flagellar biosynthetic protein FlhB
+K18791	K03767	0.0085488829941144	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18791	K01760	0.0084083747426934	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18791	K11070	0.0082453619772826	potC; spermidine/putrescine transport system permease protein
+K18791	K01512	0.00821002250353	acyP; acylphosphatase [EC:3.6.1.7]
+K18791	K03594	0.0081383487762543	bfr; bacterioferritin [EC:1.16.3.1]
+K18791	K00375	0.007815602921837	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18791	K10439	0.007799439437489	rbsB; ribose transport system substrate-binding protein
+K18791	K02575	0.007721891710322	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18791	K09765	0.0077158770991327	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K18791	K13015	0.007681115924771	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K18791	K03773	0.0076553450535867	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K18791	mobileOG_000802159	0.0076298473528134	rep
+K18791	K10206	0.007593420861168	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K18791	K02406	0.0075662867175932	fliC; flagellin
+K18791	K07077	0.007492857247167	K07077; uncharacterized protein
+K18791	K01480	0.0074684281351065	speB; agmatinase [EC:3.5.3.11]
+K18791	K01912	0.0074617341946928	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18791	K06996	0.0074591365803078	K06996; uncharacterized protein
+K18791	K03525	0.0074523994430103	coaX; type III pantothenate kinase [EC:2.7.1.33]
+K18791	mobileOG_000093088	0.0074044606954024	ftsZ
+K18791	K03820	0.0073847509061516	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.269]
+K18791	K00424	0.0073767979167255	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K18791	K04042	0.0073750868294573	glmU; bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]
+K18791	K15736	0.0073683371171833	lhgO; (S)-2-hydroxyglutarate dehydrogenase [EC:1.1.5.13]
+K18791	K06872	0.0073647806347173	K06872; uncharacterized protein
+K18791	K01821	0.0073534330611148	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18791	K07160	0.0073492873633258	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18791	K02039	0.0073260846838821	phoU; phosphate transport system protein
+K18791	K23264	0.007318444261289	purS; phosphoribosylformylglycinamidine synthase subunit PurS [EC:6.3.5.3]
+K18791	mobileOG_000134996	0.0073138810103946	mazF
+K18791	K03117	0.0072816393187676	tatB; sec-independent protein translocase protein TatB
+K18791	K07010	0.0072590094098233	K07010; putative glutamine amidotransferase
+K18791	K07507	0.0072559545748619	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18791	K03520	0.0072430111146378	coxL, cutL; aerobic carbon-monoxide dehydrogenase large subunit [EC:1.2.5.3]
+K18791	K01167	0.0072368550487331	rnaSA; ribonuclease T1 [EC:4.6.1.24]
+K18791	K06976	0.0072365683968418	K06976; uncharacterized protein
+K18791	K15011	0.0072337267377559	regB, regS, actS; two-component system, sensor histidine kinase RegB [EC:2.7.13.3]
+K18791	K01267	0.0072207500034188	DNPEP; aspartyl aminopeptidase [EC:3.4.11.21]
+K18791	K02523	0.0072172402434536	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K18791	K11381	0.0072075761667594	bkdA; 2-oxoisovalerate dehydrogenase E1 component [EC:1.2.4.4]
+K18791	K01179	0.0072006064053652	E3.2.1.4; endoglucanase [EC:3.2.1.4]
+K18791	mobileOG_000026018	0.0071914693722693	xerC
+K18791	K09810	0.0071913829572021	lolD; lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]
+K18791	K09702	0.0071879065603023	K09702; uncharacterized protein
+K18791	K10229	0.0071864405802194	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K18791	biofilm	0.0071812645205884	
+K18791	K03634	0.0071627994559697	lolA; outer membrane lipoprotein carrier protein

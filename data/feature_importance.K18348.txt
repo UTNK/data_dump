@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18348	mobileOG_000000370	0.0085737533553449	dnaE2
+K18348	K00457	0.0081940603884058	HPD, hppD; 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27]
+K18348	K06872	0.008101530648724	K06872; uncharacterized protein
+K18348	K02406	0.0080775030873131	fliC; flagellin
+K18348	K00362	0.007941940431813	nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]
+K18348	K03767	0.0079280590352666	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18348	K02071	0.0078840544683237	metN; D-methionine transport system ATP-binding protein
+K18348	K03724	0.0078364751653448	lhr; ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]
+K18348	K22479	0.0078049162833366	argA; N-acetyltransferase
+K18348	K00568	0.0077938060096284	ubiG; 2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1.222 2.1.1.64]
+K18348	K01886	0.0076660738128687	QARS, glnS; glutaminyl-tRNA synthetase [EC:6.1.1.18]
+K18348	K02420	0.00762855439367	fliQ; flagellar biosynthetic protein FliQ
+K18348	K07124	0.0075280376047267	K07124; uncharacterized protein
+K18348	K08997	0.0075165360955951	SELENOO, selO; serine/tyrosine/threonine adenylyltransferase [EC:2.7.7.-]
+K18348	K06975	0.0075078050204903	K06975; uncharacterized protein
+K18348	K07160	0.0074640464840556	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18348	K03313	0.007393164860158	nhaA; Na+:H+ antiporter, NhaA family
+K18348	K00027	0.0073659843481638	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K18348	K01760	0.0073164036876334	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18348	K02026	0.0072892403930422	ABC.MS.P1; multiple sugar transport system permease protein
+K18348	K00363	0.0072709421525115	nirD; nitrite reductase (NADH) small subunit [EC:1.7.1.15]
+K18348	K01480	0.0072164340699435	speB; agmatinase [EC:3.5.3.11]
+K18348	mobileOG_000031464	0.0071797274690986	mutT
+K18348	K00703	0.0071775770930382	glgA; starch synthase [EC:2.4.1.21]
+K18348	K04758	0.0070102532205258	feoA; ferrous iron transport protein A
+K18348	K01912	0.0070093092672619	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18348	K01821	0.0069422256522355	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18348	K07401	0.0069390335898832	K07401; selenoprotein W-related protein
+K18348	K07507	0.006906129788592	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18348	K02074	0.0067384270716213	ABC.ZM.A; zinc/manganese transport system ATP-binding protein
+K18348	K07010	0.0067166346571526	K07010; putative glutamine amidotransferase
+K18348	mobileOG_000300939	0.0066584870862392	uvrA
+K18348	K02011	0.0066487399210066	afuB, fbpB; iron(III) transport system permease protein
+K18348	K07799	0.0066370248665773	mdtA; membrane fusion protein, multidrug efflux system
+K18348	K07646	0.0066207216455371	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18348	K01969	0.0066194768280174	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K18348	K03316	0.0066091673822102	TC.CPA1; monovalent cation:H+ antiporter, CPA1 family
+K18348	mobileOG_000229749	0.0065847643227009	nfo
+K18348	K18981	0.0065471463065633	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18348	K01495	0.0065429886817189	GCH1, folE; GTP cyclohydrolase IA [EC:3.5.4.16]
+K18348	K13789	0.0065322653514291	GGPS; geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]
+K18348	K11069	0.0065238153257363	potD; spermidine/putrescine transport system substrate-binding protein
+K18348	K01469	0.0065155141796443	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+K18348	K06143	0.006514912770744	creD; inner membrane protein
+K18348	K07116	0.0065076411660662	pvdQ, quiP; acyl-homoserine-lactone acylase [EC:3.5.1.97]
+K18348	K09966	0.006497916394637	K09966; uncharacterized protein
+K18348	K07077	0.0064891513561559	K07077; uncharacterized protein
+K18348	K02575	0.0064713890505022	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18348	K02471	0.0064523728771703	bacA; vitamin B12/bleomycin/antimicrobial peptide transport system ATP-binding/permease protein
+K18348	insect	0.0064491378245776	

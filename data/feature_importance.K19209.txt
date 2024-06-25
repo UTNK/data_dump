@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19209	K02401	0.0087534540395405	flhB; flagellar biosynthetic protein FlhB
+K19209	K01809	0.0082220633417762	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K19209	K03594	0.0081544317984244	bfr; bacterioferritin [EC:1.16.3.1]
+K19209	mobileOG_000031464	0.0081254468512735	mutT
+K19209	K01512	0.0079128905721679	acyP; acylphosphatase [EC:3.6.1.7]
+K19209	K02421	0.0078839056250171	fliR; flagellar biosynthetic protein FliR
+K19209	K02406	0.0078259357307155	fliC; flagellin
+K19209	K06872	0.0077196575911626	K06872; uncharacterized protein
+K19209	K11070	0.0077099959421124	potC; spermidine/putrescine transport system permease protein
+K19209	K03767	0.0076327027497103	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19209	K10439	0.0076133794516098	rbsB; ribose transport system substrate-binding protein
+K19209	K01480	0.0075360862592077	speB; agmatinase [EC:3.5.3.11]
+K19209	K07010	0.0074684547158559	K07010; putative glutamine amidotransferase
+K19209	K07160	0.0074587930668056	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K19209	K01760	0.0073428532782026	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19209	K07124	0.0071109737009963	K07124; uncharacterized protein
+K19209	K06996	0.0070819887538455	K06996; uncharacterized protein
+K19209	K02011	0.0070433421576444	afuB, fbpB; iron(III) transport system permease protein
+K19209	K01432	0.0070143572104937	AFMID; arylformamidase [EC:3.5.1.9]
+K19209	K00375	0.0069853722633429	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19209	K02575	0.0069660489652424	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K19209	K17723	0.0069370640180916	preA; dihydropyrimidine dehydrogenase (NAD+) subunit PreA [EC:1.3.1.1]
+K19209	K08225	0.0069080790709409	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter
+K19209	mobileOG_000300939	0.0068887557728403	uvrA
+K19209	K08682	0.00687909412379	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K19209	K02039	0.0068597708256895	phoU; phosphate transport system protein
+K19209	K07646	0.0068501091766393	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K19209	K10228	0.0068114625804382	smoF, mtlF; sorbitol/mannitol transport system permease protein
+K19209	K02016	0.006801800931388	ABC.FEV.S; iron complex transport system substrate-binding protein
+K19209	K01912	0.0067921392823377	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K19209	K15578	0.0067728159842372	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K19209	K02389	0.0067728159842372	flgD; flagellar basal-body rod modification protein FlgD
+K19209	K18981	0.0067341693880361	udh; uronate dehydrogenase [EC:1.1.1.203]
+K19209	K09765	0.0067148460899356	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K19209	K07507	0.0067051844408854	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19209	K10229	0.0067051844408854	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K19209	K19267	0.0066955227918351	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K19209	K13015	0.0066955227918351	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K19209	K01469	0.0066568761956341	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+K19209	K23535	0.0066375528975336	nupB; general nucleoside transport system permease protein
+K19209	K06976	0.0066278912484832	K06976; uncharacterized protein
+K19209	K20938	0.0066278912484832	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]
+K19209	K11354	0.0066085679503827	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]
+K19209	mobileOG_000802159	0.0065989063013325	rep
+K19209	K13626	0.0065602597051315	fliW; flagellar assembly factor FliW
+K19209	mobileOG_000093088	0.0065602597051315	ftsZ
+K19209	K00424	0.0065505980560812	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K19209	K19416	0.0065505980560812	yccA; modulator of FtsH protease
+K19209	K00588	0.0065505980560812	E2.1.1.104; caffeoyl-CoA O-methyltransferase [EC:2.1.1.104]
+K19209	K01919	0.006540936407031	gshA; glutamate--cysteine ligase [EC:6.3.2.2]

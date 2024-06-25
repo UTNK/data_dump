@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K08641	K07560	dtd, DTD; D-aminoacyl-tRNA deacylase [EC:3.1.1.96]	0.6281928248304379	0.6071272383098157
+K08641	K02412	fliI; flagellum-specific ATP synthase [EC:7.4.2.8]	0.6281928248304379	0.6118030719429336
+K08641	K02413	fliJ; flagellar FliJ protein	0.6281928248304379	0.613029226768745
+K08641	K01704	leuD, IPMI-S; 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	0.6281928248304379	0.6135282694317684
+K08641	K01734	mgsA; methylglyoxal synthase [EC:4.2.3.3]	0.6281928248304379	0.6139577916108224
+K08641	K03412	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]	0.6281928248304379	0.6147618113291002
+K08641	K00826	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]	0.6281928248304379	0.6149189478346563
+K08641	K22477	argO; N-acetylglutamate synthase [EC:2.3.1.1]	0.6281928248304379	0.6179575638261091
+K08641	K03616	rnfB; Na+-translocating ferredoxin:NAD+ oxidoreductase subunit B [EC:7.2.1.2]	0.6281928248304379	0.6179976341482436
+K08641	K05799	pdhR; GntR family transcriptional regulator, transcriptional repressor for pyruvate dehydrogenase complex	0.6281928248304379	0.6180100302973949
+K08641	K01886	QARS, glnS; glutaminyl-tRNA synthetase [EC:6.1.1.18]	0.6281928248304379	0.6180276323219014
+K08641	mobileOG_000000370	dnaE2	0.6281928248304379	0.6182160914454352
+K08641	K02411	fliH; flagellar assembly protein FliH	0.6281928248304379	0.618266735639352
+K08641	K02405	fliA; RNA polymerase sigma factor for flagellar operon FliA	0.6281928248304379	0.6183741579320743
+K08641	K01710	rfbB, rmlB, rffG; dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]	0.6281928248304379	0.6186857866008607
+K08641	K03406	mcp; methyl-accepting chemotaxis protein	0.6281928248304379	0.6190526715479139
+K08641	K04079	HSP90A, htpG; molecular chaperone HtpG	0.6281928248304379	0.6190939928119902
+K08641	K01652	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	0.6281928248304379	0.619642047713862
+K08641	K00575	cheR; chemotaxis protein methyltransferase CheR [EC:2.1.1.80]	0.6281928248304379	0.6201873904929783
+K08641	K02398	flgM; negative regulator of flagellin synthesis FlgM	0.6281928248304379	0.6202312818476803
+K08641	K02414	fliK; flagellar hook-length control protein FliK	0.6281928248304379	0.620242414937007
+K08641	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	0.6281928248304379	0.6203491256564577
+K08641	K01770	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]	0.6281928248304379	0.6207332466018951
+K08641	mobileOG_000367431	pilT	0.6281928248304379	0.6213193835137797
+K08641	mobileOG_000354990	tnpM	0.6281928248304379	0.6221231794444906

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18898	K00252	0.0085368217054242	GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]
+K18898	K01809	0.0082170542635637	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18898	K03767	0.0081686046511606	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18898	K07160	0.0081298449612381	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18898	K02406	0.0079651162790675	fliC; flagellin
+K18898	K01480	0.0078875968992226	speB; agmatinase [EC:3.5.3.11]
+K18898	K00865	0.0078875968992226	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18898	K03594	0.0078682170542614	bfr; bacterioferritin [EC:1.16.3.1]
+K18898	K02575	0.0078585271317808	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18898	K07010	0.0078100775193776	K07010; putative glutamine amidotransferase
+K18898	K01760	0.007751937984494	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18898	K02421	0.0076937984496102	fliR; flagellar biosynthetic protein FliR
+K18898	K01610	0.0075872093023234	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K18898	K01912	0.0074806201550365	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18898	K02401	0.0074224806201529	flhB; flagellar biosynthetic protein FlhB
+K18898	mobileOG_000188203	0.0074127906976723	mutS2
+K18898	K02011	0.007393410852711	afuB, fbpB; iron(III) transport system permease protein
+K18898	K10439	0.0071996124030986	rbsB; ribose transport system substrate-binding protein
+K18898	K07646	0.0071608527131761	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18898	K10227	0.0071511627906954	smoE, mtlE; sorbitol/mannitol transport system substrate-binding protein
+K18898	mobileOG_000031464	0.0071124031007731	mutT
+K18898	K15578	0.0070833333333312	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K18898	mobileOG_000093088	0.0070639534883699	ftsZ
+K18898	K01512	0.0070639534883699	acyP; acylphosphatase [EC:3.6.1.7]
+K18898	K01631	0.0070251937984474	dgoA; 2-dehydro-3-deoxyphosphogalactonate aldolase [EC:4.1.2.21]
+K18898	K11073	0.0069767441860443	potF; putrescine transport system substrate-binding protein
+K18898	K01191	0.0069282945736413	MAN2C1; alpha-mannosidase [EC:3.2.1.24]
+K18898	K01759	0.0068895348837187	GLO1, gloA; lactoylglutathione lyase [EC:4.4.1.5]
+K18898	K06872	0.0068895348837187	K06872; uncharacterized protein
+K18898	K01821	0.0068798449612381	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18898	K03717	0.0068701550387575	nhaR; LysR family transcriptional regulator, transcriptional activator of nhaA
+K18898	K06726	0.0068507751937962	rbsD; D-ribose pyranase [EC:5.4.99.62]
+K18898	K07124	0.0067538759689901	K07124; uncharacterized protein
+K18898	K18297	0.0067538759689901	mexT; LysR family transcriptional regulator, mexEF-oprN operon transcriptional activator
+K18898	K06996	0.0067441860465095	K06996; uncharacterized protein
+K18898	K19267	0.0067344961240288	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18898	K09765	0.0067151162790676	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K18898	K20469	0.0066860465116257	K20469; putative heme transporter
+K18898	K00375	0.0066860465116257	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18898	K01857	0.0066860465116257	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2]
+K18898	K01664	0.0066763565891451	pabA; para-aminobenzoate synthetase component II [EC:2.6.1.85]
+K18898	K03642	0.0066472868217032	rlpA; rare lipoprotein A
+K18898	K11719	0.0066375968992227	lptC; lipopolysaccharide export system protein LptC
+K18898	K03568	0.006627906976742	tldD; TldD protein
+K18898	K07507	0.0065988372093002	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18898	K06960	0.0065988372093002	K06960; uncharacterized protein
+K18898	K00528	0.0065891472868195	fpr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]
+K18898	K08225	0.0065697674418583	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter
+K18898	K18981	0.006550387596897	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18898	K11263	0.0065406976744164	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]

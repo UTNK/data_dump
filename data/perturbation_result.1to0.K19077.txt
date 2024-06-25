@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19077	mobileOG_000166773	topA	0.0001990023661426	0.0003982169377582
+K19077	K00239	sdhA, frdA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	0.0001990023661426	0.0003982895310413
+K19077	K00426	cydB; cytochrome bd ubiquinol oxidase subunit II [EC:7.1.1.7]	0.0001990023661426	0.0003983926610422
+K19077	K07636	phoR; two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]	0.0001990023661426	0.0003985954112424
+K19077	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]	0.0001990023661426	0.0003986096186909
+K19077	K11071	potB; spermidine/putrescine transport system permease protein	0.0001990023661426	0.0003986469100756
+K19077	K07646	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]	0.0001990023661426	0.000398668814891
+K19077	K02564	nagB, GNPDA; glucosamine-6-phosphate deaminase [EC:3.5.99.6]	0.0001990023661426	0.0003989268390899
+K19077	K03183	ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	0.0001990023661426	0.0004963631961527
+K19077	K00605	gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]	0.0001990023661426	0.0004975208770995
+K19077	K03635	MOCS2B, moaE; molybdopterin synthase catalytic subunit [EC:2.8.1.12]	0.0001990023661426	0.0004975579017968
+K19077	K01845	hemL; glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	0.0001990023661426	0.0004978171788668
+K19077	K01902	sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	0.0001990023661426	0.0004978431831791
+K19077	K02199	ccmG, dsbE; cytochrome c biogenesis protein CcmG, thiol:disulfide interchange protein DsbE	0.0001990023661426	0.0004982163834419
+K19077	K01599	hemE, UROD; uroporphyrinogen decarboxylase [EC:4.1.1.37]	0.0001990023661426	0.0004984129970634
+K19077	mobileOG_000300315	oppC	0.0001990023661426	0.0004984456311084
+K19077	K01627	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]	0.0001990023661426	0.0004984507791699
+K19077	K00020	HIBADH, mmsB; 3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]	0.0001990023661426	0.0005977509045002
+K19077	K01092	E3.1.3.25, IMPA, suhB; myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	0.0001990023661426	0.0005979897411513
+K19077	mobileOG_000332333	ruvC	0.0001990023661426	0.0005982301560876
+K19077	K04042	glmU; bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]	0.0001990023661426	0.0007978928045021
+K19077	K02016	ABC.FEV.S; iron complex transport system substrate-binding protein	0.0001990023661426	0.0007980297772175
+K19077	K01647	CS, gltA; citrate synthase [EC:2.3.3.1]	0.0001990023661426	0.0007983735856869
+K19077	K01673	cynT, can; carbonic anhydrase [EC:4.2.1.1]	0.0001990023661426	0.0013958389413261
+K19077	K04771	degP, htrA; serine protease Do [EC:3.4.21.107]	0.0001990023661426	0.0015955404861

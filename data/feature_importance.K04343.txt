@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K04343	K04063	0.0078379560130956	osmC, ohr; lipoyl-dependent peroxiredoxin [EC:1.11.1.28]
+K04343	K02231	0.0077958899370319	cobP, cobU; adenosylcobinamide kinase / adenosylcobinamide-phosphate guanylyltransferase [EC:2.7.1.156 2.7.7.62]
+K04343	K12132	0.0075871800257657	prkC, stkP; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]
+K04343	mobileOG_000301711	0.0072380178178581	fhuE
+K04343	K07229	0.0071846277228405	yqjH; ferric-chelate reductase (NADPH) [EC:1.16.1.9]
+K04343	mobileOG_000057598	0.0069929484879812	pcrA
+K04343	K07141	0.0068759050703226	mocA; molybdenum cofactor cytidylyltransferase [EC:2.7.7.76]
+K04343	K01681	0.0068751365283101	ACO, acnA; aconitate hydratase [EC:4.2.1.3]
+K04343	K15555	0.006754109776013	ssuB; sulfonate transport system ATP-binding protein [EC:3.6.3.-]
+K04343	K12152	0.0066977327403979	nudJ; phosphatase NudJ [EC:3.6.1.-]
+K04343	K19591	0.0066930540351916	cueR; MerR family transcriptional regulator, copper efflux regulator
+K04343	K03335	0.0066304719305686	iolE; inosose dehydratase [EC:4.2.1.44]
+K04343	K02392	0.0066203003687369	flgG; flagellar basal-body rod protein FlgG
+K04343	mobileOG_000026121	0.0065949906324895	dinB
+K04343	K02071	0.0065792000724625	metN; D-methionine transport system ATP-binding protein
+K04343	K07112	0.0065781691966858	K07112; uncharacterized protein
+K04343	K02379	0.0065378850249652	fdhD; FdhD protein
+K04343	K02299	0.0065116986190819	cyoC; cytochrome o ubiquinol oxidase subunit III
+K04343	K00528	0.0064911223086013	fpr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]
+K04343	K02416	0.006490008498368	fliM; flagellar motor switch protein FliM
+K04343	K01753	0.0064817697069935	dsdA; D-serine dehydratase [EC:4.3.1.18]
+K04343	mobileOG_000353886	0.0064713991344678	ompA
+K04343	mobileOG_000000370	0.0064460372971708	dnaE2
+K04343	wastewater	0.0064328222788464	
+K04343	K01745	0.0064147084659702	hutH, HAL; histidine ammonia-lyase [EC:4.3.1.3]
+K04343	K00337	0.006380536569141	nuoH; NADH-quinone oxidoreductase subunit H [EC:7.1.1.2]
+K04343	K19784	0.0063451247905704	chrR, NQR; chromate reductase, NAD(P)H dehydrogenase (quinone)
+K04343	K07507	0.0063405709531146	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K04343	K02444	0.0063371580782632	glpR; DeoR family transcriptional regulator, glycerol-3-phosphate regulon repressor
+K04343	K00652	0.006310928253325	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K04343	K00375	0.0063084903081398	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K04343	mobileOG_000170347	0.0063077524981205	mutL
+K04343	K00285	0.0062530711710055	dadA; D-amino-acid dehydrogenase [EC:1.4.5.1]
+K04343	K02424	0.0062516532531232	fliY, tcyA; L-cystine transport system substrate-binding protein
+K04343	K05524	0.0062289030178089	fdxA; ferredoxin
+K04343	K06879	0.0062275742508192	queF; 7-cyano-7-deazaguanine reductase [EC:1.7.1.13]
+K04343	K00179	0.0062118510682835	iorA; indolepyruvate ferredoxin oxidoreductase, alpha subunit [EC:1.2.7.8]
+K04343	K06999	0.0061945776518537	K06999; phospholipase/carboxylesterase
+K04343	mobileOG_000349657	0.0061785022728541	xth
+K04343	K02427	0.0061729455962481	rlmE, rrmJ, ftsJ; 23S rRNA (uridine2552-2-O)-methyltransferase [EC:2.1.1.166]
+K04343	mobileOG_000156238	0.0061509457798232	hfq
+K04343	K00130	0.0061413169284973	betB, gbsA; betaine-aldehyde dehydrogenase [EC:1.2.1.8]
+K04343	K03580	0.0061410990828257	hepA; ATP-dependent helicase HepA [EC:3.6.4.-]
+K04343	K00156	0.0061272214744947	poxB; pyruvate dehydrogenase (quinone) [EC:1.2.5.1]
+K04343	K06186	0.0061099116158064	bamE, smpA; outer membrane protein assembly factor BamE
+K04343	K06988	0.0061052071210579	fno; 8-hydroxy-5-deazaflavin:NADPH oxidoreductase [EC:1.5.1.40]
+K04343	K02496	0.0060785420646032	hemX; uroporphyrin-III C-methyltransferase [EC:2.1.1.107]
+K04343	K00598	0.0060682934461185	tam; trans-aconitate 2-methyltransferase [EC:2.1.1.144]
+K04343	K21062	0.006059016945909	lhpC; 1-pyrroline-4-hydroxy-2-carboxylate deaminase [EC:3.5.4.22]
+K04343	K00275	0.006051039816561	pdxH, PNPO; pyridoxamine 5-phosphate oxidase [EC:1.4.3.5]

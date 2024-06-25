@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K15739	K02523	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]	0.0005731251566668	0.0022775783081115
+K15739	K03770	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]	0.0005731251566668	0.0025220967790872
+K15739	K09800	tamB; translocation and assembly module TamB	0.0005731251566668	0.0026403979806374
+K15739	K06041	kdsD, kpsF; arabinose-5-phosphate isomerase [EC:5.3.1.13]	0.0005731251566668	0.0028436608224038
+K15739	K01991	wza, gfcE; polysaccharide biosynthesis/export protein	0.0005731251566668	0.0029840005213359
+K15739	K03634	lolA; outer membrane lipoprotein carrier protein	0.0005731251566668	0.0033890342471356
+K15739	K00912	lpxK; tetraacyldisaccharide 4-kinase [EC:2.7.1.130]	0.0005731251566668	0.0036072777290973
+K15739	mobileOG_000330441	polA	0.0005731251566668	0.0038332688577839
+K15739	K02527	kdtA, waaA; 3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]	0.0005731251566668	0.0039077296158018
+K15739	K03474	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]	0.0005731251566668	0.0043387013921182
+K15739	K04773	sppA; protease IV [EC:3.4.21.-]	0.0005731251566668	0.0043954201559198
+K15739	mobileOG_000037882	nusG	0.0005731251566668	0.0044314522580462
+K15739	K00677	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	0.0005731251566668	0.0044495825771084
+K15739	K04744	lptD, imp, ostA; LPS-assembly protein	0.0005731251566668	0.0045293521145505
+K15739	K00979	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]	0.0005731251566668	0.0047778721066357
+K15739	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	0.0005731251566668	0.0059334665419286
+K15739	K01627	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]	0.0005731251566668	0.0060710886293889
+K15739	K09774	lptA; lipopolysaccharide export system protein LptA	0.0005731251566668	0.0062088190901377
+K15739	K09808	lolC_E; lipoprotein-releasing system permease protein	0.0005731251566668	0.0062361545514107
+K15739	K11720	lptG; lipopolysaccharide export system permease protein	0.0005731251566668	0.0064350177728963
+K15739	K02536	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	0.0005731251566668	0.0072684875259741
+K15739	K07091	lptF; lipopolysaccharide export system permease protein	0.0005731251566668	0.0094784210516136
+K15739	K03559	exbD; biopolymer transport protein ExbD	0.0005731251566668	0.0108596121127232
+K15739	K03561	exbB; biopolymer transport protein ExbB	0.0005731251566668	0.0110903633668043
+K15739	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]	0.0005731251566668	0.0123293204880644

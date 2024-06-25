@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18817	K09007	folE2; GTP cyclohydrolase IB [EC:3.5.4.16]	0.1718683097101087	0.1644805205724502
+K18817	K08217	mef; MFS transporter, DHA3 family, macrolide efflux protein	0.1718683097101087	0.1658458791179787
+K18817	K03415	cheV; two-component system, chemotaxis family, chemotaxis protein CheV	0.1718683097101087	0.1670332395969618
+K18817	K12941	abgB; aminobenzoyl-glutamate utilization protein B	0.1718683097101087	0.1673143516511079
+K18817	K09765	queH; epoxyqueuosine reductase [EC:1.17.99.6]	0.1718683097101087	0.1684627266189712
+K18817	K23256	curA; NADPH-dependent curcumin reductase [EC:1.3.1.-]	0.1718683097101087	0.1686272265956779
+K18817	K02656	pilF; type IV pilus assembly protein PilF	0.1718683097101087	0.1687824332261018
+K18817	K09967	K09967; uncharacterized protein	0.1718683097101087	0.1688919072851132
+K18817	K07234	K07234; uncharacterized protein involved in response to NO	0.1718683097101087	0.1693952316969565
+K18817	mobileOG_000309574	dnaQ	0.1718683097101087	0.1694331053147754
+K18817	K09796	pccA; periplasmic copper chaperone A	0.1718683097101087	0.1695055330378472
+K18817	K12976	pagL; lipid A 3-O-deacylase [EC:3.1.1.-]	0.1718683097101087	0.169547792912563
+K18817	K00500	phhA, PAH; phenylalanine-4-hydroxylase [EC:1.14.16.1]	0.1718683097101087	0.1696403978094049
+K18817	K00406	ccoP; cytochrome c oxidase cbb3-type subunit III	0.1718683097101087	0.1696926996869784
+K18817	K12658	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]	0.1718683097101087	0.1742500766716647
+K18817	K00824	dat; D-alanine transaminase [EC:2.6.1.21]	0.1718683097101087	0.174306888000481
+K18817	K22479	argA; N-acetyltransferase	0.1718683097101087	0.1743481798814107
+K18817	K00318	PRODH, fadM, putB; proline dehydrogenase [EC:1.5.5.2]	0.1718683097101087	0.1765094496064273
+K18817	K03893	arsB; arsenical pump membrane protein	0.1718683097101087	0.1767611629785793
+K18817	K08167	smvA, qacA, lfrA; MFS transporter, DHA2 family, multidrug resistance protein	0.1718683097101087	0.1830886944542424
+K18817	K03892	arsR; ArsR family transcriptional regulator, arsenate/arsenite/antimonite-responsive transcriptional repressor	0.1718683097101087	0.1838131907570074
+K18817	K09012	sufR; DeoR family transcriptional regulator, suf operon transcriptional repressor	0.1718683097101087	0.1872672082689547
+K18817	K00249	ACADM, acd; acyl-CoA dehydrogenase [EC:1.3.8.7]	0.1718683097101087	0.1885419568154836
+K18817	K21900	cysL; LysR family transcriptional regulator, transcriptional activator of the cysJI operon	0.1718683097101087	0.1938548108276481
+K18817	K18346	vanW; vancomycin resistance protein VanW	0.1718683097101087	0.2001756814099858

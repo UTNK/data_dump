@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K07260	K12543	lapE; outer membrane protein, adhesin transport system	0.2228242665939796	0.2169270871608752
+K07260	K12542	lapC; membrane fusion protein, adhesin transport system	0.2228242665939796	0.2180459900041706
+K07260	K21744	tipA; MerR family transcriptional regulator, thiopeptide resistance regulator	0.2228242665939796	0.2181080063723756
+K07260	K00805	hepST; heptaprenyl diphosphate synthase [EC:2.5.1.30]	0.2228242665939796	0.218394394850757
+K07260	K18346	vanW; vancomycin resistance protein VanW	0.2228242665939796	0.2191644887836089
+K07260	K01907	AACS, acsA; acetoacetyl-CoA synthetase [EC:6.2.1.16]	0.2228242665939796	0.2262337867190361
+K07260	K07030	K07030; uncharacterized protein	0.2228242665939796	0.226335343230056
+K07260	mobileOG_000007890	sigH	0.2228242665939796	0.2264234433815923
+K07260	mobileOG_000199513	holA	0.2228242665939796	0.2266592981590371
+K07260	K18814	ictB; putative inorganic carbon (hco3(-)) transporter	0.2228242665939796	0.2266737827757902
+K07260	K05570	mnhF, mrpF; multicomponent Na+:H+ antiporter subunit F	0.2228242665939796	0.2269494224752644
+K07260	K06346	jag; spoIIIJ-associated protein	0.2228242665939796	0.2269779573456796
+K07260	K07303	iorB; isoquinoline 1-oxidoreductase subunit beta [EC:1.3.99.16]	0.2228242665939796	0.22704264455805
+K07260	K01251	E3.3.1.1, ahcY; adenosylhomocysteinase [EC:3.3.1.1]	0.2228242665939796	0.2271204514758268
+K07260	K06996	K06996; uncharacterized protein	0.2228242665939796	0.2276072747907661
+K07260	K20074	prpC, phpP; PPM family protein phosphatase [EC:3.1.3.16]	0.2228242665939796	0.227841688974059
+K07260	K21600	csoR, ricR; CsoR family transcriptional regulator, copper-sensing transcriptional repressor	0.2228242665939796	0.2281043830349619
+K07260	K02275	coxB, ctaC; cytochrome c oxidase subunit II [EC:7.1.1.9]	0.2228242665939796	0.2286458366954713
+K07260	K15987	hppA; K(+)-stimulated pyrophosphate-energized sodium pump	0.2228242665939796	0.2289084819296804
+K07260	K05350	bglB; beta-glucosidase [EC:3.2.1.21]	0.2228242665939796	0.2299862485312969
+K07260	K12960	mtaD; 5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]	0.2228242665939796	0.2303235499266149
+K07260	K02276	coxC, ctaE; cytochrome c oxidase subunit III [EC:7.1.1.9]	0.2228242665939796	0.230541714410403
+K07260	K02259	COX15, ctaA; cytochrome c oxidase assembly protein subunit 15	0.2228242665939796	0.230660540409895
+K07260	K02825	pyrR; pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9]	0.2228242665939796	0.2325170681470534
+K07260	K12132	prkC, stkP; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	0.2228242665939796	0.2359555561512839

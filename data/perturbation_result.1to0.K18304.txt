@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18304	K06006	cpxP, spy; periplasmic protein CpxP/Spy	0.3991731092033974	0.3685850060939993
+K18304	K12339	cysM; S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent) [EC:2.5.1.144]	0.3991731092033974	0.3732527471747374
+K18304	K04065	osmY; hyperosmotically inducible periplasmic protein	0.3991731092033974	0.3739735430253191
+K18304	K02575	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter	0.3991731092033974	0.3747420468757494
+K18304	K13643	iscR; Rrf2 family transcriptional regulator, iron-sulfur cluster assembly transcription factor	0.3991731092033974	0.3753437751445755
+K18304	K19221	cobA, btuR; cob(I)alamin adenosyltransferase [EC:2.5.1.17]	0.3991731092033974	0.3758606102079371
+K18304	K06077	slyB; outer membrane lipoprotein SlyB	0.3991731092033974	0.3764617898376908
+K18304	K06940	K06940; uncharacterized protein	0.3991731092033974	0.3769256462073851
+K18304	K09913	ppnP; purine/pyrimidine-nucleoside phosphorylase [EC:2.4.2.1 2.4.2.2]	0.3991731092033974	0.3785850510135096
+K18304	K03749	dedD; DedD protein	0.3991731092033974	0.3787357818927095
+K18304	K00362	nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]	0.3991731092033974	0.3809894228109079
+K18304	K09921	K09921; uncharacterized protein	0.3991731092033974	0.3814251905031238
+K18304	K07712	glnG, ntrC; two-component system, NtrC family, nitrogen regulation response regulator GlnG	0.3991731092033974	0.3821611768536465
+K18304	K01487	E3.5.4.3, guaD; guanine deaminase [EC:3.5.4.3]	0.3991731092033974	0.3823325997773779
+K18304	K00363	nirD; nitrite reductase (NADH) small subunit [EC:1.7.1.15]	0.3991731092033974	0.3833608505063784
+K18304	K19591	cueR; MerR family transcriptional regulator, copper efflux regulator	0.3991731092033974	0.3843156680529759
+K18304	K03576	metR; LysR family transcriptional regulator, regulator for metE and metH	0.3991731092033974	0.3847060445149303
+K18304	K04752	glnK; nitrogen regulatory protein P-II 2	0.3991731092033974	0.3847233178261373
+K18304	K15724	erpA; iron-sulfur cluster insertion protein	0.3991731092033974	0.3854306285680383
+K18304	K00652	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]	0.3991731092033974	0.3855919820102298
+K18304	K11903	hcp; type VI secretion system secreted protein Hcp	0.3991731092033974	0.3857824484919389
+K18304	K07689	uvrY, gacA, varA; two-component system, NarL family, invasion response regulator UvrY	0.3991731092033974	0.3858212777795442
+K18304	K03676	grxC, GLRX, GLRX2; glutaredoxin 3	0.3991731092033974	0.3859345346854599
+K18304	K06189	corC; magnesium and cobalt transporter	0.3991731092033974	0.3860065520157132
+K18304	K02407	fliD; flagellar hook-associated protein 2	0.3991731092033974	0.3868306447584004

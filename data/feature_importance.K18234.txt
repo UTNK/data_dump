@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18234	K02027	0.0072708863368613	ABC.MS.S; multiple sugar transport system substrate-binding protein
+K18234	K02071	0.0072349446008624	metN; D-methionine transport system ATP-binding protein
+K18234	K01273	0.0071215190126944	DPEP; membrane dipeptidase [EC:3.4.13.19]
+K18234	K02072	0.0070553713987259	metI; D-methionine transport system permease protein
+K18234	K03426	0.0070466172199405	E3.6.1.22, NUDT12, nudC; NAD+ diphosphatase [EC:3.6.1.22]
+K18234	K13628	0.0070428423854709	iscA; iron-sulfur cluster assembly protein
+K18234	K06872	0.006996648295571	K06872; uncharacterized protein
+K18234	K06996	0.0069426103960028	K06996; uncharacterized protein
+K18234	K02232	0.0069169972502931	cobQ, cbiP; adenosylcobyric acid synthase [EC:6.3.5.10]
+K18234	K02418	0.0068302119642029	fliOZ, fliO; flagellar protein FliO/FliZ
+K18234	K19221	0.0067107582571065	cobA, btuR; cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+K18234	K02416	0.0067047249360483	fliM; flagellar motor switch protein FliM
+K18234	K03558	0.006513860590798	cvpA; membrane protein required for colicin V production
+K18234	K02575	0.0064320311099078	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18234	K07507	0.0064246186588698	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18234	K16137	0.0064117194198682	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K18234	K11206	0.0063858732374851	NIT1, ybeM; deaminated glutathione amidase [EC:3.5.1.128]
+K18234	K07027	0.0063846245464911	K07027; glycosyltransferase 2 family protein
+K18234	K03973	0.0063673152682659	pspC; phage shock protein C
+K18234	mobileOG_000777978	0.0062980771981321	korSA
+K18234	K00116	0.0062577472548792	mqo; malate dehydrogenase (quinone) [EC:1.1.5.4]
+K18234	K02049	0.0062526815634009	ABC.SN.A; NitT/TauT family transport system ATP-binding protein
+K18234	K05562	0.0062394807386849	phaE; multicomponent K+:H+ antiporter subunit E
+K18234	K00928	0.0062381309938919	lysC; aspartate kinase [EC:2.7.2.4]
+K18234	K02073	0.0062112976670757	metQ; D-methionine transport system substrate-binding protein
+K18234	K04477	0.0061967467768487	ycdX; putative hydrolase
+K18234	K11075	0.0061661820284125	potH; putrescine transport system permease protein
+K18234	K01975	0.0061559363677283	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K18234	K04652	0.0061347541105289	hypB; hydrogenase nickel incorporation protein HypB
+K18234	K01912	0.0061248816152257	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18234	K01512	0.0061091099963026	acyP; acylphosphatase [EC:3.6.1.7]
+K18234	mobileOG_000277133	0.0061059465578829	
+K18234	K00652	0.0061029843743618	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18234	K02011	0.0060758506988286	afuB, fbpB; iron(III) transport system permease protein
+K18234	mobileOG_000362884	0.0060649638952368	helD
+K18234	K06880	0.0060348096268999	ereA_B; erythromycin esterase [EC:3.1.1.-]
+K18234	K07112	0.0060238435225219	K07112; uncharacterized protein
+K18234	K02194	0.0060100573388972	ccmB; heme exporter protein B
+K18234	K00574	0.0060088297005675	cfa; cyclopropane-fatty-acyl-phospholipid synthase [EC:2.1.1.79]
+K18234	K05564	0.0059973949016396	phaG; multicomponent K+:H+ antiporter subunit G
+K18234	K07217	0.0059906191982795	K07217; Mn-containing catalase
+K18234	K07390	0.0059461240971177	grxD, GLRX5; monothiol glutaredoxin
+K18234	mobileOG_000050280	0.0059459637217665	BQ2027_MB2839C
+K18234	K03980	0.0059300251472947	murJ, mviN; putative peptidoglycan lipid II flippase
+K18234	K03414	0.005899981636518	cheZ; chemotaxis protein CheZ
+K18234	microbial_mat	0.0058850411254778	
+K18234	K21900	0.0058741604566306	cysL; LysR family transcriptional regulator, transcriptional activator of the cysJI operon
+K18234	K00860	0.0058675020754922	cysC; adenylylsulfate kinase [EC:2.7.1.25]
+K18234	K06956	0.0058649407616933	K06956; uncharacterized protein
+K18234	K00849	0.0058640923575865	galK; galactokinase [EC:2.7.1.6]

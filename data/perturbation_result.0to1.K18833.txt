@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18833	K06442	tlyA; 23S rRNA (cytidine1920-2-O)/16S rRNA (cytidine1409-2-O)-methyltransferase [EC:2.1.1.226 2.1.1.227]	0.0043827270167246	0.0052569226045928
+K18833	K07736	carD; CarD family transcriptional regulator	0.0043827270167246	0.0052925324736037
+K18833	K10546	ABC.GGU.S, chvE; putative multiple sugar transport system substrate-binding protein	0.0043827270167246	0.005316653913357
+K18833	K09981	K09981; uncharacterized protein	0.0043827270167246	0.0053960466419142
+K18833	K02276	coxC, ctaE; cytochrome c oxidase subunit III [EC:7.1.1.9]	0.0043827270167246	0.0054096787988729
+K18833	K02275	coxB, ctaC; cytochrome c oxidase subunit II [EC:7.1.1.9]	0.0043827270167246	0.0054343526718658
+K18833	K07161	K07161; uncharacterized protein	0.0043827270167246	0.0054498447458385
+K18833	K18476	tetR; TetR/AcrR family transcriptional regulator, tetracycline repressor protein	0.0043827270167246	0.005490492580795
+K18833	K01469	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]	0.0043827270167246	0.0056019556757368
+K18833	K09684	pucR; PucR family transcriptional regulator, purine catabolism regulatory protein	0.0043827270167246	0.0056503363452343
+K18833	K12583	mgtA; phosphatidylinositol alpha 1,6-mannosyltransferase [EC:2.4.1.-]	0.0043827270167246	0.0056607059551091
+K18833	K00015	gyaR, GOR1; glyoxylate reductase [EC:1.1.1.26]	0.0043827270167246	0.0057140870856246
+K18833	K00024	mdh; malate dehydrogenase [EC:1.1.1.37]	0.0043827270167246	0.0057193828768873
+K18833	K03520	coxL, cutL; aerobic carbon-monoxide dehydrogenase large subunit [EC:1.2.5.3]	0.0043827270167246	0.0061882331111022
+K18833	K01057	PGLS, pgl, devB; 6-phosphogluconolactonase [EC:3.1.1.31]	0.0043827270167246	0.0061997419867607
+K18833	K00162	PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]	0.0043827270167246	0.0062040221735259
+K18833	K01966	PCCB, pccB; propionyl-CoA carboxylase beta chain [EC:6.4.1.3 2.1.3.15]	0.0043827270167246	0.0062628592133539
+K18833	K01858	INO1, ISYNA1; myo-inositol-1-phosphate synthase [EC:5.5.1.4]	0.0043827270167246	0.0062882469683733
+K18833	K00721	DPM1; dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	0.0043827270167246	0.0067170019620895
+K18833	K23269	purL; phosphoribosylformylglycinamidine synthase subunit PurL [EC:6.3.5.3]	0.0043827270167246	0.0070526298072496
+K18833	K00936	pdtaS; two-component system, sensor histidine kinase PdtaS [EC:2.7.13.3]	0.0043827270167246	0.0070937371292225
+K18833	K00161	PDHA, pdhA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]	0.0043827270167246	0.0074796786573428
+K18833	K16843	slcC; (S)-sulfolactate dehydrogenase [EC:1.1.1.310]	0.0043827270167246	0.0078213469352135
+K18833	K23264	purS; phosphoribosylformylglycinamidine synthase subunit PurS [EC:6.3.5.3]	0.0043827270167246	0.0089678388938972
+K18833	K23265	purQ; phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase [EC:6.3.5.3 3.5.1.2]	0.0043827270167246	0.0104312066420391

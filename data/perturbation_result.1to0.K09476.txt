@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K09476	K02081	agaR; DeoR family transcriptional regulator, aga operon transcriptional repressor	0.265507160089505	0.2350349865252745
+K09476	K03605	hyaD, hybD; hydrogenase maturation protease [EC:3.4.23.-]	0.265507160089505	0.2381320380390411
+K09476	K22024	pdxA2; 4-phospho-D-threonate 3-dehydrogenase / 4-phospho-D-erythronate 3-dehydrogenase [EC:1.1.1.408 1.1.1.409]	0.265507160089505	0.2390250354798491
+K09476	K04033	eutR; AraC family transcriptional regulator, ethanolamine operon transcriptional activator	0.265507160089505	0.2403282483982256
+K09476	K00883	dgoK; 2-dehydro-3-deoxygalactonokinase [EC:2.7.1.58]	0.265507160089505	0.2441255521665089
+K09476	K01531	mgtA, mgtB; P-type Mg2+ transporter [EC:7.2.2.14]	0.265507160089505	0.2457283837507124
+K09476	K05995	pepE; dipeptidase E [EC:3.4.13.21]	0.265507160089505	0.2459270824882283
+K09476	K06167	phnP; phosphoribosyl 1,2-cyclic phosphate phosphodiesterase [EC:3.1.4.55]	0.265507160089505	0.2466242304711083
+K09476	K05516	cbpA; curved DNA-binding protein	0.265507160089505	0.2467228781822623
+K09476	K03312	gltS; glutamate:Na+ symporter, ESS family	0.265507160089505	0.2481228820403105
+K09476	K05878	dhaK; phosphoenolpyruvate---glycerone phosphotransferase subunit DhaK [EC:2.7.1.121]	0.265507160089505	0.2487219381199513
+K09476	K03417	prpB; methylisocitrate lyase [EC:4.1.3.30]	0.265507160089505	0.2502193529750829
+K09476	K06975	K06975; uncharacterized protein	0.265507160089505	0.2509188186612441
+K09476	K03748	sanA; SanA protein	0.265507160089505	0.2523232735122658
+K09476	K03717	nhaR; LysR family transcriptional regulator, transcriptional activator of nhaA	0.265507160089505	0.2527213780234028
+K09476	K08994	yneE, BEST; ion channel-forming bestrophin family protein	0.265507160089505	0.2529191851647732
+K09476	K06726	rbsD; D-ribose pyranase [EC:5.4.99.62]	0.265507160089505	0.2529236307738767
+K09476	K16053	ybdG, mscM; miniconductance mechanosensitive channel	0.265507160089505	0.2530217059243716
+K09476	feces		0.265507160089505	0.2541202458991013
+K09476	mobileOG_000368530	alkB	0.265507160089505	0.2542194062685859
+K09476	K06890	K06890; uncharacterized protein	0.265507160089505	0.2542199730501341
+K09476	K04477	ycdX; putative hydrolase	0.265507160089505	0.2549187645108886
+K09476	K13641	iclR; IclR family transcriptional regulator, acetate operon repressor	0.265507160089505	0.255019464108268
+K09476	K07507	mgtC; putative Mg2+ transporter-C (MgtC) family protein	0.265507160089505	0.2557163249061732
+K09476	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	0.265507160089505	0.282994266007239

@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18302	K02005	ABC.CD.TX; HlyD family secretion protein	0.3088124961076617	0.2621867157555082
+K18302	K03585	acrA, mexA, adeI, smeD, mtrC, cmeA; membrane fusion protein, multidrug efflux system	0.3088124961076617	0.2844804085841146
+K18302	K02416	fliM; flagellar motor switch protein FliM	0.3088124961076617	0.2859792285839734
+K18302	K23997	nnr; ADP-dependent NAD(P)H-hydrate dehydratase / NAD(P)H-hydrate epimerase [EC:4.2.1.136 5.1.99.6]	0.3088124961076617	0.2910298704406865
+K18302	K00575	cheR; chemotaxis protein methyltransferase CheR [EC:2.1.1.80]	0.3088124961076617	0.2910918487534027
+K18302	K02421	fliR; flagellar biosynthetic protein FliR	0.3088124961076617	0.2911785078688221
+K18302	K02418	fliOZ, fliO; flagellar protein FliO/FliZ	0.3088124961076617	0.2915228241365629
+K18302	K03407	cheA; two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]	0.3088124961076617	0.2921874935688007
+K18302	K02401	flhB; flagellar biosynthetic protein FlhB	0.3088124961076617	0.2929289563292336
+K18302	K07636	phoR; two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]	0.3088124961076617	0.293684174005726
+K18302	K02389	flgD; flagellar basal-body rod modification protein FlgD	0.3088124961076617	0.2953849091666943
+K18302	K02387	flgB; flagellar basal-body rod protein FlgB	0.3088124961076617	0.295429254544039
+K18302	K02420	fliQ; flagellar biosynthetic protein FliQ	0.3088124961076617	0.2957896320040633
+K18302	K02419	fliP; flagellar biosynthetic protein FliP	0.3088124961076617	0.2968214433579162
+K18302	K02396	flgK; flagellar hook-associated protein 1 FlgK	0.3088124961076617	0.2970318532226077
+K18302	K01975	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]	0.3088124961076617	0.2970697945269268
+K18302	K03408	cheW; purine-binding chemotaxis protein CheW	0.3088124961076617	0.2970992779867715
+K18302	K02415	fliL; flagellar FliL protein	0.3088124961076617	0.2971638123157437
+K18302	K03412	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]	0.3088124961076617	0.2973171184415571
+K18302	K02417	fliNY, fliN; flagellar motor switch protein FliN/FliY	0.3088124961076617	0.2974585416581741
+K18302	K01911	menE; O-succinylbenzoic acid---CoA ligase [EC:6.2.1.26]	0.3088124961076617	0.3200883784637254
+K18302	K00882	fruK; 1-phosphofructokinase [EC:2.7.1.56]	0.3088124961076617	0.324476872949725
+K18302	K02551	menD; 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase [EC:2.2.1.9]	0.3088124961076617	0.3276815389869202
+K18302	K15736	lhgO; (S)-2-hydroxyglutarate dehydrogenase [EC:1.1.5.13]	0.3088124961076617	0.3287955010380713
+K18302	K03784	deoD; purine-nucleoside phosphorylase [EC:2.4.2.1]	0.3088124961076617	0.3288534444713171

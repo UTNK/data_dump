@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18295	K00029	0.0082484504151179	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+K18295	K01969	0.008094012476531	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K18295	K00845	0.0080599566865041	glk; glucokinase [EC:2.7.1.2]
+K18295	K02851	0.0080354516330337	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K18295	K00865	0.007957750074903	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18295	K01610	0.0079421763102024	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K18295	K03767	0.0079121740953116	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18295	K06872	0.0078961124133611	K06872; uncharacterized protein
+K18295	K02406	0.0078713250657611	fliC; flagellin
+K18295	K14393	0.0078635240301004	actP; cation/acetate symporter
+K18295	mobileOG_000034793	0.0078495372422857	diaA
+K18295	K00325	0.0078055800004598	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K18295	K01512	0.0077194351479665	acyP; acylphosphatase [EC:3.6.1.7]
+K18295	K00375	0.0076256033284323	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18295	K01760	0.0075686478420951	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18295	K07646	0.0074952594586741	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18295	K02420	0.0074709448755997	fliQ; flagellar biosynthetic protein FliQ
+K18295	K03412	0.0074668717109467	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K18295	K07010	0.0073813395981576	K07010; putative glutamine amidotransferase
+K18295	K01480	0.0073739270201672	speB; agmatinase [EC:3.5.3.11]
+K18295	K01912	0.0073543968415046	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18295	K00652	0.0073259864994033	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18295	mobileOG_000031464	0.0073139144263844	mutT
+K18295	K02011	0.0073078492511082	afuB, fbpB; iron(III) transport system permease protein
+K18295	K10439	0.0072544716267242	rbsB; ribose transport system substrate-binding protein
+K18295	activated_sludge	0.007114933085163	
+K18295	K16137	0.0070948007923359	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K18295	K06996	0.0070352826867683	K06996; uncharacterized protein
+K18295	K01631	0.0070259820389018	dgoA; 2-dehydro-3-deoxyphosphogalactonate aldolase [EC:4.1.2.21]
+K18295	mobileOG_000025524	0.0069781024999731	holB
+K18295	K07124	0.0068947386787974	K07124; uncharacterized protein
+K18295	K03770	0.0068727685863969	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K18295	K01179	0.0068345620430744	E3.2.1.4; endoglucanase [EC:3.2.1.4]
+K18295	K12339	0.0068306841024678	cysM; S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent) [EC:2.5.1.144]
+K18295	K00606	0.0068220567193497	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]
+K18295	K01886	0.006789898857932	QARS, glnS; glutaminyl-tRNA synthetase [EC:6.1.1.18]
+K18295	K05805	0.0066863843851748	creA; CreA protein
+K18295	K03670	0.0066602372105247	mdoG; periplasmic glucans biosynthesis protein
+K18295	K19267	0.0066570800215235	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18295	K02415	0.0066477354571924	fliL; flagellar FliL protein
+K18295	K03669	0.0066128065579631	mdoH; membrane glycosyltransferase [EC:2.4.1.-]
+K18295	K21903	0.0065922225447715	cadC, smtB; ArsR family transcriptional regulator, lead/cadmium/zinc/bismuth-responsive transcriptional repressor
+K18295	K09125	0.0065675945685639	yhhQ; queuosine precursor transporter
+K18295	K09702	0.0065548349741209	K09702; uncharacterized protein
+K18295	K16053	0.0065363610196355	ybdG, mscM; miniconductance mechanosensitive channel
+K18295	K15461	0.0065342637340343	mnmC; tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-]
+K18295	K18218	0.0065183616563561	tet35; tetracycline resistance efflux pump
+K18295	K09774	0.0065151941388841	lptA; lipopolysaccharide export system protein LptA
+K18295	K02099	0.0065138436536729	araC; AraC family transcriptional regulator, arabinose operon regulatory protein
+K18295	K03415	0.0065028996897871	cheV; two-component system, chemotaxis family, chemotaxis protein CheV

@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18139	K03585	acrA, mexA, adeI, smeD, mtrC, cmeA; membrane fusion protein, multidrug efflux system	0.7819405787380099	0.7003996906415074
+K18139	K03634	lolA; outer membrane lipoprotein carrier protein	0.7819405787380099	0.7164398309182409
+K18139	K03092	rpoN; RNA polymerase sigma-54 factor	0.7819405787380099	0.7209908762196646
+K18139	K04744	lptD, imp, ostA; LPS-assembly protein	0.7819405787380099	0.7475472928247154
+K18139	mobileOG_000331108	ssb	0.7819405787380099	0.7486741092207849
+K18139	K06193	phnA; protein PhnA	0.7819405787380099	0.7490342657703062
+K18139	K02065	mlaF, linL, mkl; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	0.7819405787380099	0.7505358610752197
+K18139	K06911	PIR; quercetin 2,3-dioxygenase [EC:1.13.11.24]	0.7819405787380099	0.75127784970696
+K18139	K09808	lolC_E; lipoprotein-releasing system permease protein	0.7819405787380099	0.753264011429181
+K18139	K19304	mepM; murein DD-endopeptidase [EC:3.4.24.-]	0.7819405787380099	0.753464837098171
+K18139	K03269	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]	0.7819405787380099	0.7537076792974922
+K18139	K02067	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	0.7819405787380099	0.7547457894578437
+K18139	K10026	queE; 7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]	0.7819405787380099	0.7550777788021897
+K18139	K02066	mlaE, linK; phospholipid/cholesterol/gamma-HCH transport system permease protein	0.7819405787380099	0.7555525204873227
+K18139	mobileOG_000037882	nusG	0.7819405787380099	0.755657694182004
+K18139	K03559	exbD; biopolymer transport protein ExbD	0.7819405787380099	0.7565202850438167
+K18139	K07552	bcr, tcaB; MFS transporter, DHA1 family, multidrug resistance protein	0.7819405787380099	0.7572107495295987
+K18139	K00573	E2.1.1.77, pcm; protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]	0.7819405787380099	0.7575618480445998
+K18139	K02557	motB; chemotaxis protein MotB	0.7819405787380099	0.7578992060868561
+K18139	K03770	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]	0.7819405787380099	0.7588172496574788
+K18139	K03561	exbB; biopolymer transport protein ExbB	0.7819405787380099	0.7601237772974268
+K18139	K01423	bepA; beta-barrel assembly-enhancing protease [EC:3.4.-.-]	0.7819405787380099	0.7612481235188896
+K18139	K11927	rhlE; ATP-dependent RNA helicase RhlE [EC:3.6.4.13]	0.7819405787380099	0.7632821034975346
+K18139	K02517	lpxL, htrB; Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-]	0.7819405787380099	0.7637761841418319
+K18139	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]	0.7819405787380099	0.7639413107742014

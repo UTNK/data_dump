@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19272	K02406	0.0083339015846805	fliC; flagellin
+K19272	K01760	0.0083163791998946	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19272	K01969	0.0082673353251979	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K19272	K00325	0.0082120347669785	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K19272	K02851	0.0081131811603616	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K19272	K02401	0.0079891600233517	flhB; flagellar biosynthetic protein FlhB
+K19272	K03412	0.0078749863177671	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K19272	K11070	0.0077875864905735	potC; spermidine/putrescine transport system permease protein
+K19272	K01512	0.0077153092521683	acyP; acylphosphatase [EC:3.6.1.7]
+K19272	K02420	0.0077004602377662	fliQ; flagellar biosynthetic protein FliQ
+K19272	K02011	0.007628535657664	afuB, fbpB; iron(III) transport system permease protein
+K19272	K06872	0.0076181079158472	K06872; uncharacterized protein
+K19272	K00845	0.0075411357126417	glk; glucokinase [EC:2.7.1.2]
+K19272	K01809	0.0075266389225279	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K19272	K03767	0.0074919948757381	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19272	K07160	0.0074468997181527	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K19272	K02575	0.0074323582660187	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K19272	K07124	0.0073928041205411	K07124; uncharacterized protein
+K19272	K00375	0.0073121707266908	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19272	K07010	0.0070792983342061	K07010; putative glutamine amidotransferase
+K19272	K01912	0.0070259163855952	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K19272	K01167	0.00691566451137	rnaSA; ribonuclease T1 [EC:4.6.1.24]
+K19272	K07646	0.0069044261081933	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K19272	K06996	0.0068849801667644	K06996; uncharacterized protein
+K19272	K12658	0.0068610558374028	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]
+K19272	mobileOG_000031464	0.006859153167276	mutT
+K19272	K02074	0.0068231203273122	ABC.ZM.A; zinc/manganese transport system ATP-binding protein
+K19272	K23886	0.0067929254377604	CISD3; CDGSH iron-sulfur domain-containing protein 3
+K19272	K01821	0.0067853284147662	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K19272	K10439	0.0067837032569222	rbsB; ribose transport system substrate-binding protein
+K19272	K03181	0.0067798800572844	ubiC; chorismate--pyruvate lyase [EC:4.1.3.40]
+K19272	K06881	0.0067616980782667	nrnA; bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]
+K19272	K09472	0.0067577764664	puuC, aldH; 4-(gamma-glutamylamino)butanal dehydrogenase [EC:1.2.1.99]
+K19272	K02039	0.0067485284522719	phoU; phosphate transport system protein
+K19272	K16090	0.0067411785868998	fiu; catecholate siderophore receptor
+K19272	K19267	0.0067319117493181	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K19272	K09166	0.0066569864051884	K09166; uncharacterized protein
+K19272	K07507	0.0066402840184692	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19272	mobileOG_000019670	0.0066382423465999	nusB
+K19272	K09791	0.0066246953943152	K09791; uncharacterized protein
+K19272	K00479	0.0066124252980248	gbcA; glycine betaine catabolism A
+K19272	K03640	0.006594416451374	pal; peptidoglycan-associated lipoprotein
+K19272	root	0.0065732905978922	
+K19272	K20469	0.0065633787621681	K20469; putative heme transporter
+K19272	K09972	0.0065610547408518	aapP, bztD; general L-amino acid transport system ATP-binding protein [EC:7.4.2.1]
+K19272	K15578	0.0065610392347408	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K19272	K01857	0.0065275433789727	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2]
+K19272	K01266	0.006526410242531	dmpA, dap; D-aminopeptidase [EC:3.4.11.19]
+K19272	K03770	0.0065260702638578	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K19272	K09858	0.0065046461642142	K09858; SEC-C motif domain protein

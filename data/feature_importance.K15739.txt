@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K15739	K01969	0.0083680583779507	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K15739	K01975	0.0083525896738455	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K15739	K03594	0.0082697622996632	bfr; bacterioferritin [EC:1.16.3.1]
+K15739	K14393	0.0082604159248347	actP; cation/acetate symporter
+K15739	K02026	0.0081832100402594	ABC.MS.P1; multiple sugar transport system permease protein
+K15739	K01760	0.0078731719842726	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K15739	K00652	0.0078281341269476	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K15739	K17758	0.0077309952181753	nnrD; ADP-dependent NAD(P)H-hydrate dehydratase [EC:4.2.1.136]
+K15739	K01512	0.0077089406005321	acyP; acylphosphatase [EC:3.6.1.7]
+K15739	K01480	0.0075109466827371	speB; agmatinase [EC:3.5.3.11]
+K15739	activated_sludge	0.0075022799075592	
+K15739	K07124	0.0074817801629869	K07124; uncharacterized protein
+K15739	K00847	0.0074114550192401	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K15739	mobileOG_000031464	0.0072950242438165	mutT
+K15739	K16137	0.0072362879861024	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K15739	K07010	0.0070966295490201	K07010; putative glutamine amidotransferase
+K15739	K02011	0.0070598310167111	afuB, fbpB; iron(III) transport system permease protein
+K15739	K08997	0.0070274262567732	SELENOO, selO; serine/tyrosine/threonine adenylyltransferase [EC:2.7.7.-]
+K15739	K01474	0.00685752344657	hyuB; N-methylhydantoinase B [EC:3.5.2.14]
+K15739	mobileOG_000134996	0.0068349481863382	mazF
+K15739	K22476	0.0068057018696837	K22476; N-acetylglutamate synthase [EC:2.3.1.1]
+K15739	K07507	0.00678896297813	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K15739	K06996	0.0067854537078648	K06996; uncharacterized protein
+K15739	K18297	0.0067646252507536	mexT; LysR family transcriptional regulator, mexEF-oprN operon transcriptional activator
+K15739	K01754	0.0067456270136668	E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]
+K15739	K01912	0.0067403187608821	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K15739	K01483	0.006704151418813	allA; ureidoglycolate lyase [EC:4.3.2.3]
+K15739	K06949	0.0067034597019614	rsgA, engC; ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100]
+K15739	K01770	0.0067010238247273	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]
+K15739	K03973	0.0066968137259075	pspC; phage shock protein C
+K15739	K00748	0.0066785651464758	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]
+K15739	K19267	0.0066769395683432	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K15739	K09915	0.0066748739131118	K09915; uncharacterized protein
+K15739	mobileOG_000331053	0.0066667895712088	ligD
+K15739	K03770	0.0066519635992204	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K15739	K03640	0.0066386373252296	pal; peptidoglycan-associated lipoprotein
+K15739	K02099	0.0066177377357438	araC; AraC family transcriptional regulator, arabinose operon regulatory protein
+K15739	mobileOG_000362884	0.0066161325370815	helD
+K15739	K13626	0.0066079992042685	fliW; flagellar assembly factor FliW
+K15739	K02225	0.0065861158838096	cobC1, cobC; cobalamin biosynthetic protein CobC
+K15739	K06152	0.0065808261224354	E1.1.99.3G; gluconate 2-dehydrogenase gamma chain [EC:1.1.99.3]
+K15739	K00991	0.006571556692023	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]
+K15739	K03684	0.0065575854674044	rnd; ribonuclease D [EC:3.1.13.5]
+K15739	K06181	0.0065489276179913	rluE; 23S rRNA pseudouridine2457 synthase [EC:5.4.99.20]
+K15739	K00528	0.0065254200212643	fpr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]
+K15739	K03325	0.0065229876200613	ACR3, arsB; arsenite transporter
+K15739	K04771	0.0065208187459263	degP, htrA; serine protease Do [EC:3.4.21.107]
+K15739	K09019	0.006479738845009	rutE; 3-hydroxypropanoate dehydrogenase [EC:1.1.1.-]
+K15739	mobileOG_000232929	0.0064715765851824	llaDCHIBM
+K15739	K00677	0.0064691774044188	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]

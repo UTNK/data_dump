@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K03367	K12506	ispDF; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:2.7.7.60 4.6.1.12]	0.5353139821410996	0.5236592436035457
+K03367	mobileOG_000354553	xerC	0.5353139821410996	0.5248785218864175
+K03367	K08982	K08982; putative membrane protein	0.5353139821410996	0.5304821231346895
+K03367	mobileOG_000336693	ruvA	0.5353139821410996	0.5325412689609761
+K03367	K07240	chrA; chromate transporter	0.5353139821410996	0.5379523724996318
+K03367	K07403	nfeD; membrane-bound serine protease (ClpP class)	0.5353139821410996	0.538364749349717
+K03367	K07168	K07168; CBS domain-containing membrane protein	0.5353139821410996	0.5383950165294117
+K03367	K07220	K07220; uncharacterized protein	0.5353139821410996	0.5385459699834276
+K03367	K04061	flhB2; flagellar biosynthesis protein	0.5353139821410996	0.5385549317650846
+K03367	K01712	hutU, UROC1; urocanate hydratase [EC:4.2.1.49]	0.5353139821410996	0.5385570064265145
+K03367	K02847	waaL, rfaL; O-antigen ligase [EC:2.4.1.-]	0.5353139821410996	0.5387119609277994
+K03367	K03652	MPG; DNA-3-methyladenine glycosylase [EC:3.2.2.21]	0.5353139821410996	0.5387322905227091
+K03367	K00457	HPD, hppD; 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27]	0.5353139821410996	0.5388282287274612
+K03367	K03525	coaX; type III pantothenate kinase [EC:2.7.1.33]	0.5353139821410996	0.5389092310537273
+K03367	K01468	hutI, AMDHD1; imidazolonepropionase [EC:3.5.2.7]	0.5353139821410996	0.5393157584806664
+K03367	K02488	pleD; two-component system, cell cycle response regulator [EC:2.7.7.65]	0.5353139821410996	0.5393381641653823
+K03367	mobileOG_000102982	motA	0.5353139821410996	0.5393603509510801
+K03367	K02404	flhF; flagellar biosynthesis protein FlhF	0.5353139821410996	0.5395202580231029
+K03367	K01745	hutH, HAL; histidine ammonia-lyase [EC:4.3.1.3]	0.5353139821410996	0.5399840696663734
+K03367	K01273	DPEP; membrane dipeptidase [EC:3.4.13.19]	0.5353139821410996	0.5414479624619828
+K03367	K00140	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	0.5353139821410996	0.5416125500079682
+K03367	K18336	lra6; 2,4-didehydro-3-deoxy-L-rhamnonate hydrolase [EC:3.7.1.26]	0.5353139821410996	0.54182689224167
+K03367	K23775	ohrR; MarR family transcriptional regulator, organic hydroperoxide resistance regulator	0.5353139821410996	0.5447619877206731
+K03367	K21405	acoR; sigma-54 dependent transcriptional regulator, acetoin dehydrogenase operon transcriptional activator AcoR	0.5353139821410996	0.5458471572639433
+K03367	K22278	pgdA; peptidoglycan-N-acetylglucosamine deacetylase [EC:3.5.1.104]	0.5353139821410996	0.5514301248078403

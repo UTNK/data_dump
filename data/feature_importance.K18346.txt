@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18346	K02390	0.0074043430126249	flgE; flagellar hook protein FlgE
+K18346	K01920	0.007346472621532	gshB; glutathione synthase [EC:6.3.2.3]
+K18346	K00412	0.0072019178810369	CYTB, petB; ubiquinol-cytochrome c reductase cytochrome b subunit
+K18346	K01760	0.0071280083288226	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18346	K02408	0.0070811414819051	fliE; flagellar hook-basal body complex protein FliE
+K18346	mobileOG_000332073	0.007022949937483	dnaQ
+K18346	K11085	0.0070068418211198	msbA; ATP-binding cassette, subfamily B, bacterial MsbA [EC:3.6.3.-]
+K18346	K02421	0.0070064595438864	fliR; flagellar biosynthetic protein FliR
+K18346	K02386	0.0069834341364611	flgA; flagella basal body P-ring formation protein FlgA
+K18346	K07646	0.0069671256207773	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18346	K02394	0.0068948856620185	flgI; flagellar P-ring protein precursor FlgI
+K18346	K06179	0.0068894504885738	rluC; 23S rRNA pseudouridine955/2504/2580 synthase [EC:5.4.99.24]
+K18346	K19221	0.0068779785964295	cobA, btuR; cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+K18346	K02392	0.0068621911432888	flgG; flagellar basal-body rod protein FlgG
+K18346	K02391	0.0067260203807087	flgF; flagellar basal-body rod protein FlgF
+K18346	K09160	0.00665356527178	K09160; uncharacterized protein
+K18346	mobileOG_000327567	0.0066276891323919	mutM
+K18346	K00795	0.0066105407155525	ispA; farnesyl diphosphate synthase [EC:2.5.1.1 2.5.1.10]
+K18346	mobileOG_000282901	0.0065994545012602	pcrA
+K18346	K02011	0.0065960347407533	afuB, fbpB; iron(III) transport system permease protein
+K18346	K01480	0.0065552205811146	speB; agmatinase [EC:3.5.3.11]
+K18346	K03071	0.0065216532379983	secB; preprotein translocase subunit SecB
+K18346	K03592	0.0065184648593056	pmbA; PmbA protein
+K18346	mobileOG_000237546	0.006493522099038	recF
+K18346	K03745	0.0064847053814672	slyX; SlyX protein
+K18346	mobileOG_000351769	0.0064834770817742	uvrC
+K18346	K03089	0.0064814441347672	rpoH; RNA polymerase sigma-32 factor
+K18346	K02427	0.0064223587422367	rlmE, rrmJ, ftsJ; 23S rRNA (uridine2552-2-O)-methyltransferase [EC:2.1.1.166]
+K18346	K05606	0.0064071674441941	MCEE, epi; methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1]
+K18346	K02406	0.0063949994499246	fliC; flagellin
+K18346	K01273	0.0063860884284926	DPEP; membrane dipeptidase [EC:3.4.13.19]
+K18346	K17226	0.0063854899288503	soxY; sulfur-oxidizing protein SoxY
+K18346	K02194	0.0063846023992618	ccmB; heme exporter protein B
+K18346	K07025	0.0063497873986092	K07025; putative hydrolase of the HAD superfamily
+K18346	K07010	0.0063474112694532	K07010; putative glutamine amidotransferase
+K18346	K12262	0.0063408543156077	cybB; superoxide oxidase [EC:1.10.3.17]
+K18346	K03667	0.0063379488951051	hslU; ATP-dependent HslUV protease ATP-binding subunit HslU
+K18346	mobileOG_000354053	0.0063310882018665	sspA
+K18346	K09937	0.0062881195488242	K09937; uncharacterized protein
+K18346	K09167	0.0062448048810708	K09167; uncharacterized protein
+K18346	K17315	0.006238727387166	gtsA, glcE; glucose/mannose transport system substrate-binding protein
+K18346	K14980	0.0062337709176638	chvG; two-component system, OmpR family, sensor histidine kinase ChvG [EC:2.7.13.3]
+K18346	K06194	0.0062079262564727	nlpD; lipoprotein NlpD
+K18346	K09159	0.0061961041569427	cptB; antitoxin CptB
+K18346	K01894	0.0061949593803807	gluQ; glutamyl-Q tRNA(Asp) synthetase [EC:6.1.1.-]
+K18346	K02387	0.0061731743738351	flgB; flagellar basal-body rod protein FlgB
+K18346	K02232	0.0061653885985464	cobQ, cbiP; adenosylcobyric acid synthase [EC:6.3.5.10]
+K18346	mobileOG_000777978	0.0061425112320714	korSA
+K18346	K09926	0.0060903495300422	K09926; uncharacterized protein
+K18346	K03431	0.0060849424952249	glmM; phosphoglucosamine mutase [EC:5.4.2.10]

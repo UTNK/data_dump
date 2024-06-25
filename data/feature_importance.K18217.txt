@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18217	K02401	0.009303293210832	flhB; flagellar biosynthetic protein FlhB
+K18217	K03594	0.0092852511073882	bfr; bacterioferritin [EC:1.16.3.1]
+K18217	K01809	0.0091569305842094	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18217	K18216	0.0089761325501062	steA, tetA46; ATP-binding cassette, subfamily B, tetracycline resistant protein
+K18217	K11070	0.0089364452368647	potC; spermidine/putrescine transport system permease protein
+K18217	K07010	0.0087687312199664	K07010; putative glutamine amidotransferase
+K18217	K03767	0.008703135772064	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18217	K06967	0.0086692765025601	trmK; tRNA (adenine22-N1)-methyltransferase [EC:2.1.1.217]
+K18217	K02421	0.0086523714143073	fliR; flagellar biosynthetic protein FliR
+K18217	K11069	0.0086184637935345	potD; spermidine/putrescine transport system substrate-binding protein
+K18217	K03698	0.0085566220460794	cbf, cbf1; 3-5 exoribonuclease [EC:3.1.-.-]
+K18217	mobileOG_000031464	0.0085225430469488	mutT
+K18217	K01788	0.0085038828183837	nanE; N-acylglucosamine-6-phosphate 2-epimerase [EC:5.1.3.9]
+K18217	K03639	0.0084961666142272	moaA, CNX2; GTP 3,8-cyclase [EC:4.1.99.22]
+K18217	K00266	0.0084584454063187	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K18217	K02406	0.0084294798159525	fliC; flagellin
+K18217	K03593	0.0083367310784737	mrp, NUBPL; ATP-binding protein involved in chromosome partitioning
+K18217	K07570	0.0082908475465111	GSP13; general stress protein 13
+K18217	K23997	0.008272873167779	nnr; ADP-dependent NAD(P)H-hydrate dehydratase / NAD(P)H-hydrate epimerase [EC:4.2.1.136 5.1.99.6]
+K18217	K04068	0.0082722768204611	nrdG; anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4]
+K18217	K00548	0.0082695865173828	metH, MTR; 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]
+K18217	K07263	0.0082569067555744	pqqL; zinc protease [EC:3.4.24.-]
+K18217	K01480	0.0082468736927298	speB; agmatinase [EC:3.5.3.11]
+K18217	K00928	0.008241885212141	lysC; aspartate kinase [EC:2.7.2.4]
+K18217	K23393	0.0082304898399621	murT; lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13]
+K18217	K06996	0.0082086428918178	K06996; uncharacterized protein
+K18217	mobileOG_000261240	0.0082014731833083	groS
+K18217	K07160	0.0081981767713523	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18217	mobileOG_000333823	0.0081598669871616	dnaN
+K18217	K06885	0.0081163310023588	K06885; uncharacterized protein
+K18217	K00869	0.0081099018175022	E2.7.1.36, MVK, mvaK1; mevalonate kinase [EC:2.7.1.36]
+K18217	K03525	0.0080806627366025	coaX; type III pantothenate kinase [EC:2.7.1.33]
+K18217	K22457	0.0080714090393395	E2.6.1.14; asparagine---oxo-acid transaminase [EC:2.6.1.14]
+K18217	K06286	0.008064621484924	ezrA; septation ring formation regulator
+K18217	K04072	0.0080581208015833	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]
+K18217	K01599	0.008049287788294	hemE, UROD; uroporphyrinogen decarboxylase [EC:4.1.1.37]
+K18217	K07009	0.0080380230311716	gatD; lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13]
+K18217	K00756	0.0080349064559689	pdp; pyrimidine-nucleoside phosphorylase [EC:2.4.2.2]
+K18217	K01261	0.0080098087214832	pepA; glutamyl aminopeptidase [EC:3.4.11.7]
+K18217	K02575	0.0080027764211521	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18217	K05810	0.0080023166989657	yfiH; polyphenol oxidase [EC:1.10.3.-]
+K18217	K03521	0.0079936487020072	fixA, etfB; electron transfer flavoprotein beta subunit
+K18217	K06020	0.0079878534917109	ettA; energy-dependent translational throttle protein EttA
+K18217	K00767	0.0079835234945633	nadC, QPRT; nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]
+K18217	K01255	0.0079569419359304	CARP, pepA; leucyl aminopeptidase [EC:3.4.11.1]
+K18217	K03800	0.0079561536247404	lplA, lplJ, lipL1; lipoate---protein ligase [EC:6.3.1.20]
+K18217	K03522	0.0079381350815949	fixB, etfA; electron transfer flavoprotein alpha subunit
+K18217	K00239	0.0079368560523979	sdhA, frdA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]
+K18217	K00605	0.0079349745991421	gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]
+K18217	K03980	0.0079319040037539	murJ, mviN; putative peptidoglycan lipid II flippase

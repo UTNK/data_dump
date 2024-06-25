@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19096	K02401	0.0083036888098347	flhB; flagellar biosynthetic protein FlhB
+K19096	K07160	0.0082456886551677	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K19096	K01480	0.0081296883458336	speB; agmatinase [EC:3.5.3.11]
+K19096	K07010	0.0080910215760554	K07010; putative glutamine amidotransferase
+K19096	K02421	0.0080620214987219	fliR; flagellar biosynthetic protein FliR
+K19096	K06872	0.0079073544196097	K06872; uncharacterized protein
+K19096	K02406	0.0078880210347207	fliC; flagellin
+K19096	K11070	0.0078300208800536	potC; spermidine/putrescine transport system permease protein
+K19096	K07124	0.0078010208027201	K07124; uncharacterized protein
+K19096	K03767	0.0077043538782749	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19096	K01512	0.0076173536462743	acyP; acylphosphatase [EC:3.6.1.7]
+K19096	K10439	0.0075786868764963	rbsB; ribose transport system substrate-binding protein
+K19096	mobileOG_000031464	0.0075496867991627	mutT
+K19096	K01760	0.0074626865671622	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19096	K03594	0.0073563529502724	bfr; bacterioferritin [EC:1.16.3.1]
+K19096	K01809	0.0073563529502724	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K19096	K02011	0.0073080194880499	afuB, fbpB; iron(III) transport system permease protein
+K19096	K06996	0.0072790194107164	K06996; uncharacterized protein
+K19096	K07646	0.0072500193333828	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K19096	K00375	0.0072500193333828	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19096	K02575	0.0072113525636048	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K19096	K07507	0.0071726857938267	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19096	K19267	0.0071436857164932	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K19096	mobileOG_000802159	0.0069890186373809	rep
+K19096	K01912	0.0069793519449364	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K19096	K10229	0.0069310184827139	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K19096	K01545	0.0068440182507133	kdpF; potassium-transporting ATPase KdpF subunit
+K19096	K03773	0.0068150181733798	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K19096	K16165	0.0067666847111571	nagK; fumarylpyruvate hydrolase [EC:3.7.1.20]
+K19096	K06136	0.0067473513262681	pqqB; pyrroloquinoline quinone biosynthesis protein B
+K19096	K07077	0.0067280179413791	K07077; uncharacterized protein
+K19096	K03717	0.0067183512489346	nhaR; LysR family transcriptional regulator, transcriptional activator of nhaA
+K19096	K02016	0.00670868455649	ABC.FEV.S; iron complex transport system substrate-binding protein
+K19096	K02039	0.0066990178640455	phoU; phosphate transport system protein
+K19096	K00266	0.006689351171601	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K19096	K11263	0.0066796844791565	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]
+K19096	K07335	0.0066796844791565	bmpA, bmpB, tmpC; basic membrane protein A and related proteins
+K19096	K01610	0.0066603510942675	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K19096	K08682	0.0066410177093785	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K19096	K01466	0.0066410177093785	allB; allantoinase [EC:3.5.2.5]
+K19096	K02418	0.006631351016934	fliOZ, fliO; flagellar protein FliO/FliZ
+K19096	K01191	0.0066120176320449	MAN2C1; alpha-mannosidase [EC:3.2.1.24]
+K19096	K24206	0.0066023509396004	
+K19096	K02099	0.0065830175547114	araC; AraC family transcriptional regulator, arabinose operon regulatory protein
+K19096	K15460	0.0065733508622669	yfiC, trmX; tRNA1Val (adenine37-N6)-methyltransferase [EC:2.1.1.223]
+K19096	K03192	0.0065636841698224	ureJ; urease accessory protein
+K19096	K11074	0.0065443507849334	potI; putrescine transport system permease protein
+K19096	K18118	0.0065250174000444	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]
+K19096	K07101	0.0065250174000444	K07101; uncharacterized protein
+K19096	K13015	0.0065250174000444	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]

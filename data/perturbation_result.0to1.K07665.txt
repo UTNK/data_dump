@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K07665	K07050	AARSD1, ALAX; misacylated tRNA(Ala) deacylase [EC:3.1.1.-]	0.7756787464357421	0.7391399284105109
+K07665	K05521	draG; ADP-ribosyl-[dinitrogen reductase] hydrolase [EC:3.2.2.24]	0.7756787464357421	0.7459225179402627
+K07665	K07161	K07161; uncharacterized protein	0.7756787464357421	0.7508297438657487
+K07665	K03520	coxL, cutL; aerobic carbon-monoxide dehydrogenase large subunit [EC:1.2.5.3]	0.7756787464357421	0.7533942864827619
+K07665	K13015	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]	0.7756787464357421	0.7549410940270417
+K07665	K09386	K09386; uncharacterized protein	0.7756787464357421	0.7555321274298512
+K07665	K01847	MUT; methylmalonyl-CoA mutase [EC:5.4.99.2]	0.7756787464357421	0.7555903395925178
+K07665	K00231	PPOX, hemY; protoporphyrinogen/coproporphyrinogen III oxidase [EC:1.3.3.4 1.3.3.15]	0.7756787464357421	0.7592088394718196
+K07665	K13020	wlbA, bplA; UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase [EC:1.1.1.335]	0.7756787464357421	0.7594685078673299
+K07665	K03518	coxS; aerobic carbon-monoxide dehydrogenase small subunit [EC:1.2.5.3]	0.7756787464357421	0.7606598899052015
+K07665	K18290	ich-Y; itaconyl-CoA hydratase [EC:4.2.1.56]	0.7756787464357421	0.7619512897591378
+K07665	K07588	argK; LAO/AO transport system kinase [EC:2.7.-.-]	0.7756787464357421	0.7624808505689477
+K07665	K02610	paaB; ring-1,2-phenylacetyl-CoA epoxidase subunit PaaB	0.7756787464357421	0.7639506737414771
+K07665	K01421	yhgE; putative membrane protein	0.7756787464357421	0.7641119674580287
+K07665	K05606	MCEE, epi; methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1]	0.7756787464357421	0.7644634719462221
+K07665	K00161	PDHA, pdhA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]	0.7756787464357421	0.7653708545967303
+K07665	K05343	treS; maltose alpha-D-glucosyltransferase / alpha-amylase [EC:5.4.99.16 3.2.1.1]	0.7756787464357421	0.7658129302543722
+K07665	mobileOG_000014158	bamA	0.7756787464357421	0.7658282883052
+K07665	K03769	ppiC; peptidyl-prolyl cis-trans isomerase C [EC:5.2.1.8]	0.7756787464357421	0.7658413429345302
+K07665	K02614	paaI; acyl-CoA thioesterase [EC:3.1.2.-]	0.7756787464357421	0.7660036288739815
+K07665	K12506	ispDF; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:2.7.7.60 4.6.1.12]	0.7756787464357421	0.76637568279039
+K07665	K01966	PCCB, pccB; propionyl-CoA carboxylase beta chain [EC:6.4.1.3 2.1.3.15]	0.7756787464357421	0.7667259935880396
+K07665	K00274	MAO, aofH; monoamine oxidase [EC:1.4.3.4]	0.7756787464357421	0.7672670888867188
+K07665	K04768	acuC; acetoin utilization protein AcuC	0.7756787464357421	0.7673867836510302
+K07665	K01474	hyuB; N-methylhydantoinase B [EC:3.5.2.14]	0.7756787464357421	0.7674472876575319

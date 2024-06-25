@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K08167	K00239	sdhA, frdA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	0.5923274895535462	0.5676352938699464
+K08167	K01011	TST, MPST, sseA; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	0.5923274895535462	0.5696396590494038
+K08167	K00344	qor, CRYZ; NADPH:quinone reductase [EC:1.6.5.5]	0.5923274895535462	0.5697284003649795
+K08167	K04063	osmC, ohr; lipoyl-dependent peroxiredoxin [EC:1.11.1.28]	0.5923274895535462	0.5747874309899598
+K08167	K00426	cydB; cytochrome bd ubiquinol oxidase subunit II [EC:7.1.1.7]	0.5923274895535462	0.5763787179399723
+K08167	soil		0.5923274895535462	0.5768584237860317
+K08167	K02047	cysW; sulfate/thiosulfate transport system permease protein	0.5923274895535462	0.5781107124508562
+K08167	K02045	cysA; sulfate/thiosulfate transport system ATP-binding protein [EC:7.3.2.3]	0.5923274895535462	0.5787352263430705
+K08167	K01681	ACO, acnA; aconitate hydratase [EC:4.2.1.3]	0.5923274895535462	0.5790660639382664
+K08167	K07127	uraH, pucM, hiuH; 5-hydroxyisourate hydrolase [EC:3.5.2.17]	0.5923274895535462	0.5794110489136037
+K08167	K01589	purK; 5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	0.5923274895535462	0.5797362344462167
+K08167	K00425	cydA; cytochrome bd ubiquinol oxidase subunit I [EC:7.1.1.7]	0.5923274895535462	0.5797465196525196
+K08167	K01599	hemE, UROD; uroporphyrinogen decarboxylase [EC:4.1.1.37]	0.5923274895535462	0.5799722319696222
+K08167	K02046	cysU; sulfate/thiosulfate transport system permease protein	0.5923274895535462	0.5800899901636587
+K08167	K02020	modA; molybdate transport system substrate-binding protein	0.5923274895535462	0.5811838027264599
+K08167	K02257	COX10, ctaB, cyoE; heme o synthase [EC:2.5.1.141]	0.5923274895535462	0.5812565165280588
+K08167	K01647	CS, gltA; citrate synthase [EC:2.3.3.1]	0.5923274895535462	0.5821302016892643
+K08167	K01118	acpD, azoR; FMN-dependent NADH-azoreductase [EC:1.7.1.17]	0.5923274895535462	0.5822389398913411
+K08167	K03446	emrB; MFS transporter, DHA2 family, multidrug resistance protein	0.5923274895535462	0.5822520084358945
+K08167	K21757	benM; LysR family transcriptional regulator, benzoate and cis,cis-muconate-responsive activator of ben and cat genes	0.5923274895535462	0.5825989235863966
+K08167	K03885	ndh; NADH dehydrogenase [EC:1.6.99.3]	0.5923274895535462	0.5828973595959047
+K08167	K00240	sdhB, frdB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]	0.5923274895535462	0.5830447827580871
+K08167	K03781	katE, CAT, catB, srpA; catalase [EC:1.11.1.6]	0.5923274895535462	0.5830811494529357
+K08167	K00632	fadA, fadI; acetyl-CoA acyltransferase [EC:2.3.1.16]	0.5923274895535462	0.5833315278455049
+K08167	K02574	napH; ferredoxin-type protein NapH	0.5923274895535462	0.6122445935430983

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K21267	K02072	0.0076416013413934	metI; D-methionine transport system permease protein
+K21267	K00104	0.0076196407786368	glcD; glycolate oxidase [EC:1.1.3.15]
+K21267	K00990	0.0075466381089697	glnD; [protein-PII] uridylyltransferase [EC:2.7.7.59]
+K21267	K21430	0.0074751254259461	yliI; aldose sugar dehydrogenase [EC:1.1.5.-]
+K21267	K09125	0.0074626828909265	yhhQ; queuosine precursor transporter
+K21267	K06940	0.0074543108724582	K06940; uncharacterized protein
+K21267	K16137	0.0073130629251395	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K21267	K02025	0.0072439245693867	ABC.MS.P; multiple sugar transport system permease protein
+K21267	K02011	0.007241530126432	afuB, fbpB; iron(III) transport system permease protein
+K21267	K00161	0.0072248995366461	PDHA, pdhA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]
+K21267	K08281	0.0071839345968838	pncA; nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-]
+K21267	K01057	0.0071419992587381	PGLS, pgl, devB; 6-phosphogluconolactonase [EC:3.1.1.31]
+K21267	K07112	0.0070891159639124	K07112; uncharacterized protein
+K21267	mobileOG_000777978	0.0070770129551017	korSA
+K21267	K01638	0.0070650216608149	aceB, glcB; malate synthase [EC:2.3.3.9]
+K21267	K02012	0.007014166397734	afuA, fbpA; iron(III) transport system substrate-binding protein
+K21267	K03408	0.007004534384332	cheW; purine-binding chemotaxis protein CheW
+K21267	K05349	0.0068473015510464	bglX; beta-glucosidase [EC:3.2.1.21]
+K21267	K07646	0.0068328904310384	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K21267	K03310	0.0068291931428319	TC.AGCS; alanine or glycine:cation symporter, AGCS family
+K21267	K01534	0.0068122764931682	zntA; Zn2+/Cd2+-exporting ATPase [EC:7.2.2.12 7.2.2.21]
+K21267	K02073	0.0067788574524005	metQ; D-methionine transport system substrate-binding protein
+K21267	K07027	0.0067625589573229	K07027; glycosyltransferase 2 family protein
+K21267	K03782	0.0067581776836086	katG; catalase-peroxidase [EC:1.11.1.21]
+K21267	K05520	0.0067511157317498	pfpI; protease I [EC:3.5.1.124]
+K21267	K02434	0.0066516303780709	gatB, PET112; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+K21267	K05564	0.0066515976141748	phaG; multicomponent K+:H+ antiporter subunit G
+K21267	K19221	0.0066501823583242	cobA, btuR; cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+K21267	K05561	0.0066389119819266	phaD; multicomponent K+:H+ antiporter subunit D
+K21267	K00652	0.0065969262953189	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K21267	K16091	0.0064967990565523	fecA; Fe(3+) dicitrate transport protein
+K21267	K01912	0.0064621158729117	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K21267	K09461	0.0064591401350037	E1.14.13.40; anthraniloyl-CoA monooxygenase [EC:1.14.13.40]
+K21267	mobileOG_000089543	0.0064482875978311	nusB
+K21267	mobileOG_000267561	0.0064480987467544	dpiA
+K21267	K00564	0.0063828166421081	rsmC; 16S rRNA (guanine1207-N2)-methyltransferase [EC:2.1.1.172]
+K21267	K06898	0.0063499040036901	larB; pyridinium-3,5-biscarboxylic acid mononucleotide synthase [EC:2.5.1.143]
+K21267	mobileOG_000308488	0.0063424889919677	sbcD
+K21267	K03590	0.00632491626412	ftsA; cell division protein FtsA
+K21267	K19267	0.0063188239025668	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K21267	K03087	0.0063110470200443	rpoS; RNA polymerase nonessential primary-like sigma factor
+K21267	K10118	0.006278797067504	msmF; raffinose/stachyose/melibiose transport system permease protein
+K21267	K09472	0.0062701239367629	puuC, aldH; 4-(gamma-glutamylamino)butanal dehydrogenase [EC:1.2.1.99]
+K21267	K09797	0.0062697212302349	K09797; uncharacterized protein
+K21267	K00448	0.0062426595810672	pcaG; protocatechuate 3,4-dioxygenase, alpha subunit [EC:1.13.11.3]
+K21267	K18456	0.0062209588294461	E3.5.4.32; 8-oxoguanine deaminase [EC:3.5.4.32]
+K21267	K15923	0.0062184980144553	AXY8, FUC95A, afcA; alpha-L-fucosidase 2 [EC:3.2.1.51]
+K21267	K07649	0.0062086664388526	tctE; two-component system, OmpR family, sensor histidine kinase TctE [EC:2.7.13.3]
+K21267	K00318	0.006204542208622	PRODH, fadM, putB; proline dehydrogenase [EC:1.5.5.2]
+K21267	K22934	0.0062041152738785	E3.2.1.28; alpha,alpha-trehalase [EC:3.2.1.28]

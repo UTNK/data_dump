@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18866	K07720	yesN; two-component system, response regulator YesN	0.0017462126942635	0.0009164933521118
+K18866	K01902	sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	0.0017462126942635	0.0023207972298546
+K18866	K01627	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]	0.0017462126942635	0.0023437608698046
+K18866	K01507	ppa; inorganic pyrophosphatase [EC:3.6.1.1]	0.0017462126942635	0.0024065650019034
+K18866	K00297	metF, MTHFR; methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]	0.0017462126942635	0.0024229217650939
+K18866	K03585	acrA, mexA, adeI, smeD, mtrC, cmeA; membrane fusion protein, multidrug efflux system	0.0017462126942635	0.0024757649061244
+K18866	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]	0.0017462126942635	0.0025119905845655
+K18866	K11720	lptG; lipopolysaccharide export system permease protein	0.0017462126942635	0.0025537680564536
+K18866	K03820	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.269]	0.0017462126942635	0.002562812809164
+K18866	K00912	lpxK; tetraacyldisaccharide 4-kinase [EC:2.7.1.130]	0.0017462126942635	0.0025660023416241
+K18866	K02536	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	0.0017462126942635	0.0025905893328374
+K18866	K08296	sixA; phosphohistidine phosphatase [EC:3.1.3.-]	0.0017462126942635	0.0026684975895435
+K18866	mobileOG_000261240	groS	0.0017462126942635	0.0026725595734724
+K18866	mobileOG_000037882	nusG	0.0017462126942635	0.002720623541511
+K18866	K07091	lptF; lipopolysaccharide export system permease protein	0.0017462126942635	0.002777787070482
+K18866	K03072	secD; preprotein translocase subunit SecD	0.0017462126942635	0.0028459950578373
+K18866	K00674	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]	0.0017462126942635	0.0028649019147261
+K18866	K00677	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	0.0017462126942635	0.0030294961752901
+K18866	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	0.0017462126942635	0.0030673811062758
+K18866	K01895	ACSS1_2, acs; acetyl-CoA synthetase [EC:6.2.1.1]	0.0017462126942635	0.0032461513094846
+K18866	K06020	ettA; energy-dependent translational throttle protein EttA	0.0017462126942635	0.0035175297895781
+K18866	K02067	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	0.0017462126942635	0.0036927829891636
+K18866	K03561	exbB; biopolymer transport protein ExbB	0.0017462126942635	0.0038380840004718
+K18866	K02066	mlaE, linK; phospholipid/cholesterol/gamma-HCH transport system permease protein	0.0017462126942635	0.0039062128935604
+K18866	K03559	exbD; biopolymer transport protein ExbD	0.0017462126942635	0.0039544477829418

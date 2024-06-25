@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19300	K02204	thrB2; homoserine kinase type II [EC:2.7.1.39]	0.2862161596696101	0.2912752194807579
+K19300	K21405	acoR; sigma-54 dependent transcriptional regulator, acetoin dehydrogenase operon transcriptional activator AcoR	0.2862161596696101	0.2913005057198953
+K19300	K07246	ttuC, dmlA; tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase [EC:1.1.1.93 4.1.1.73 1.1.1.83]	0.2862161596696101	0.2915413800546859
+K19300	K16238	eat, eutP; ethanolamine permease	0.2862161596696101	0.2918380044916568
+K19300	K09989	K09989; uncharacterized protein	0.2862161596696101	0.2920648122420973
+K19300	K07010	K07010; putative glutamine amidotransferase	0.2862161596696101	0.2920788346954846
+K19300	K01458	hutG; N-formylglutamate deformylase [EC:3.5.1.68]	0.2862161596696101	0.2924491423646928
+K19300	K01796	E5.1.99.4, AMACR, mcr; alpha-methylacyl-CoA racemase [EC:5.1.99.4]	0.2862161596696101	0.2929712453946406
+K19300	K22522	LOG; cytokinin riboside 5-monophosphate phosphoribohydrolase [EC:3.2.2.-]	0.2862161596696101	0.2932730381160249
+K19300	K14063	feaR; AraC family transcriptional regulator, positive regulator of tynA and feaB	0.2862161596696101	0.2939047627149287
+K19300	K13877	aldH; 2,5-dioxopentanoate dehydrogenase [EC:1.2.1.26]	0.2862161596696101	0.2944060017257082
+K19300	K05603	hutF; formimidoylglutamate deiminase [EC:3.5.3.13]	0.2862161596696101	0.2946360201659741
+K19300	K06136	pqqB; pyrroloquinoline quinone biosynthesis protein B	0.2862161596696101	0.2952056456163253
+K19300	K00140	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	0.2862161596696101	0.2956765443011107
+K19300	K00448	pcaG; protocatechuate 3,4-dioxygenase, alpha subunit [EC:1.13.11.3]	0.2862161596696101	0.2968260358896133
+K19300	K01857	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2]	0.2862161596696101	0.2975784102708906
+K19300	K07124	K07124; uncharacterized protein	0.2862161596696101	0.298312466260328
+K19300	K05836	hutC; GntR family transcriptional regulator, histidine utilization repressor	0.2862161596696101	0.2987737202908294
+K19300	K06137	pqqC; pyrroloquinoline-quinone synthase [EC:1.3.3.11]	0.2862161596696101	0.2988651537509543
+K19300	K22479	argA; N-acetyltransferase	0.2862161596696101	0.2993915863401191
+K19300	K01745	hutH, HAL; histidine ammonia-lyase [EC:4.3.1.3]	0.2862161596696101	0.2995968727353599
+K19300	K20938	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]	0.2862161596696101	0.3000735998044401
+K19300	K23256	curA; NADPH-dependent curcumin reductase [EC:1.3.1.-]	0.2862161596696101	0.3038224521572597
+K19300	K07240	chrA; chromate transporter	0.2862161596696101	0.3081633518293753
+K19300	K02624	pcaR; IclR family transcriptional regulator, pca regulon regulatory protein	0.2862161596696101	0.3187731687287626

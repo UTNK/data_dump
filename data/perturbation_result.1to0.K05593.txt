@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K05593	K07507	mgtC; putative Mg2+ transporter-C (MgtC) family protein	0.2317354274959542	0.2236977127787875
+K05593	K01489	cdd, CDA; cytidine deaminase [EC:3.5.4.5]	0.2317354274959542	0.2265091185728104
+K05593	K00876	udk, UCK; uridine kinase [EC:2.7.1.48]	0.2317354274959542	0.2270078618885819
+K05593	K01760	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]	0.2317354274959542	0.227535958889774
+K05593	K03672	trxC; thioredoxin 2 [EC:1.8.1.8]	0.2317354274959542	0.2354991918252788
+K05593	K04080	ibpA; molecular chaperone IbpA	0.2317354274959542	0.2361633520608246
+K05593	K23107	yajO; 1-deoxyxylulose-5-phosphate synthase [EC:1.1.-.-]	0.2317354274959542	0.2362791934081607
+K05593	K11209	yghU, yfcG; GSH-dependent disulfide-bond oxidoreductase [EC:1.8.4.-]	0.2317354274959542	0.2364307556379536
+K05593	K14261	alaC; alanine-synthesizing transaminase [EC:2.6.1.-]	0.2317354274959542	0.2365604205389777
+K05593	K07232	CHAC, chaC; glutathione-specific gamma-glutamylcyclotransferase [EC:4.3.2.7]	0.2317354274959542	0.236879893730437
+K05593	K07313	pphA; serine/threonine protein phosphatase 1 [EC:3.1.3.16]	0.2317354274959542	0.2370863746211897
+K05593	K23509	ytfT, yjfF; galactofuranose transport system permease protein	0.2317354274959542	0.237171169844193
+K05593	K00848	rhaB; rhamnulokinase [EC:2.7.1.5]	0.2317354274959542	0.2371712238548269
+K05593	K23778	rcdA; TetR/AcrR family transcriptional regulator, regulator of biofilm formation and stress response	0.2317354274959542	0.2373939208917855
+K05593	K07283	ydiY; putative salt-induced outer membrane protein	0.2317354274959542	0.2374146551426516
+K05593	K00675	nhoA; N-hydroxyarylamine O-acetyltransferase [EC:2.3.1.118]	0.2317354274959542	0.2375916884039459
+K05593	K09019	rutE; 3-hydroxypropanoate dehydrogenase [EC:1.1.1.-]	0.2317354274959542	0.2381496694892883
+K05593	K22293	rspR; GntR family transcriptional regulator, rspAB operon transcriptional repressor	0.2317354274959542	0.2381711377320977
+K05593	K01711	gmd, GMDS; GDPmannose 4,6-dehydratase [EC:4.2.1.47]	0.2317354274959542	0.2383114247612518
+K05593	K07637	phoQ; two-component system, OmpR family, sensor histidine kinase PhoQ [EC:2.7.13.3]	0.2317354274959542	0.2392779008187916
+K05593	K05844	rimK; ribosomal protein S6--L-glutamate ligase [EC:6.3.2.-]	0.2317354274959542	0.239548294759661
+K05593	K23508	ytfQ; galactofuranose transport system substrate-binding protein	0.2317354274959542	0.2406989697929857
+K05593	K16090	fiu; catecholate siderophore receptor	0.2317354274959542	0.240951595801227
+K05593	K24119	ahpC; NADH-dependent peroxiredoxin subunit C [EC:1.11.1.26]	0.2317354274959542	0.2442618051225655
+K05593	K07336	K07336; PKHD-type hydroxylase [EC:1.14.11.-]	0.2317354274959542	0.2444946596150178

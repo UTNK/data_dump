@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18698	K13641	iclR; IclR family transcriptional regulator, acetate operon repressor	0.8167024658856901	0.7640248109095097
+K18698	K00027	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	0.8167024658856901	0.7695603514571854
+K18698	K01579	panD; aspartate 1-decarboxylase [EC:4.1.1.11]	0.8167024658856901	0.7758252893165978
+K18698	K03811	pnuC; nicotinamide mononucleotide transporter	0.8167024658856901	0.7781450607071513
+K18698	K09807	K09807; uncharacterized protein	0.8167024658856901	0.7820434201632025
+K18698	mobileOG_000000370	dnaE2	0.8167024658856901	0.7828327800302303
+K18698	K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]	0.8167024658856901	0.7828726526325508
+K18698	K00033	PGD, gnd, gntZ; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	0.8167024658856901	0.7871633983182702
+K18698	K03305	TC.POT; proton-dependent oligopeptide transporter, POT family	0.8167024658856901	0.7887586940724743
+K18698	K07106	murQ; N-acetylmuramic acid 6-phosphate etherase [EC:4.2.1.126]	0.8167024658856901	0.7893262352357522
+K18698	K07259	dacB; serine-type D-Ala-D-Ala carboxypeptidase/endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]	0.8167024658856901	0.7898110069654679
+K18698	K16301	efeB; deferrochelatase/peroxidase EfeB [EC:1.11.1.-]	0.8167024658856901	0.7902564645805962
+K18698	K03748	sanA; SanA protein	0.8167024658856901	0.7935751825674616
+K18698	K02564	nagB, GNPDA; glucosamine-6-phosphate deaminase [EC:3.5.99.6]	0.8167024658856901	0.7947220300324367
+K18698	K02851	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]	0.8167024658856901	0.7947330885354933
+K18698	K07404	pgl; 6-phosphogluconolactonase [EC:3.1.1.31]	0.8167024658856901	0.7949298970712656
+K18698	K03274	gmhD, rfaD; ADP-L-glycero-D-manno-heptose 6-epimerase [EC:5.1.3.20]	0.8167024658856901	0.7950197472842174
+K18698	K03762	proP; MFS transporter, MHS family, proline/betaine transporter	0.8167024658856901	0.7950762626987061
+K18698	K06980	ygfZ; tRNA-modifying protein YgfZ	0.8167024658856901	0.7955867291005176
+K18698	K03578	hrpA; ATP-dependent helicase HrpA [EC:3.6.4.13]	0.8167024658856901	0.7958627177137828
+K18698	K00758	deoA, TYMP; thymidine phosphorylase [EC:2.4.2.4]	0.8167024658856901	0.7960382013668108
+K18698	mobileOG_000329165	recD	0.8167024658856901	0.7964884229270083
+K18698	K01834	PGAM, gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]	0.8167024658856901	0.7978711808296445
+K18698	K09815	znuA; zinc transport system substrate-binding protein	0.8167024658856901	0.7994718731867497
+K18698	mobileOG_000050280	BQ2027_MB2839C	0.8167024658856901	0.838508797090187

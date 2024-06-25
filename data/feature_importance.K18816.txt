@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18816	K00703	0.0085843418239524	glgA; starch synthase [EC:2.4.1.21]
+K18816	K02408	0.0079659852073833	fliE; flagellar hook-basal body complex protein FliE
+K18816	K02409	0.0079217422949247	fliF; flagellar M-ring protein FliF
+K18816	K06193	0.0078804202422406	phnA; protein PhnA
+K18816	K02396	0.0077700041480055	flgK; flagellar hook-associated protein 1 FlgK
+K18816	K02387	0.0077660464348203	flgB; flagellar basal-body rod protein FlgB
+K18816	K03767	0.0076621168073155	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18816	K03313	0.0075897204681608	nhaA; Na+:H+ antiporter, NhaA family
+K18816	K01759	0.0075549923258001	GLO1, gloA; lactoylglutathione lyase [EC:4.4.1.5]
+K18816	K02410	0.0075403142635157	fliG; flagellar motor switch protein FliG
+K18816	K01975	0.0075257821103265	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K18816	K02419	0.0073676252346984	fliP; flagellar biosynthetic protein FliP
+K18816	K02072	0.0073313867034773	metI; D-methionine transport system permease protein
+K18816	K02071	0.0073270938402948	metN; D-methionine transport system ATP-binding protein
+K18816	K00652	0.0072546016986642	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18816	K02417	0.0071136981949109	fliNY, fliN; flagellar motor switch protein FliN/FliY
+K18816	K07010	0.0070283106119506	K07010; putative glutamine amidotransferase
+K18816	K03594	0.0070236638704036	bfr; bacterioferritin [EC:1.16.3.1]
+K18816	K00705	0.0069847513280073	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]
+K18816	K06872	0.0069798459949402	K06872; uncharacterized protein
+K18816	K07124	0.0069702808313517	K07124; uncharacterized protein
+K18816	mobileOG_000031464	0.0069596667896912	mutT
+K18816	K00847	0.0069576952106729	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K18816	K09915	0.0069495183408014	K09915; uncharacterized protein
+K18816	K02026	0.00691802011223	ABC.MS.P1; multiple sugar transport system permease protein
+K18816	K02388	0.006854348344467	flgC; flagellar basal-body rod protein FlgC
+K18816	K01480	0.0067963822421696	speB; agmatinase [EC:3.5.3.11]
+K18816	K01058	0.0067588264079605	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]
+K18816	K10228	0.0067483079067958	smoF, mtlF; sorbitol/mannitol transport system permease protein
+K18816	K02389	0.0067157435144162	flgD; flagellar basal-body rod modification protein FlgD
+K18816	K02011	0.006705701388714	afuB, fbpB; iron(III) transport system permease protein
+K18816	K15532	0.0066976149671117	yteR, yesR; unsaturated rhamnogalacturonyl hydrolase [EC:3.2.1.172]
+K18816	K00351	0.0066571233075939	nqrF; Na+-transporting NADH:ubiquinone oxidoreductase subunit F [EC:7.2.1.1]
+K18816	K03650	0.0066221884518312	mnmE, trmE, MSS1; tRNA modification GTPase [EC:3.6.-.-]
+K18816	K23265	0.0066146434602577	purQ; phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase [EC:6.3.5.3 3.5.1.2]
+K18816	K03412	0.0066119582299942	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K18816	K13693	0.0066044621362291	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]
+K18816	K01512	0.0065972199647412	acyP; acylphosphatase [EC:3.6.1.7]
+K18816	K03580	0.006587417394628	hepA; ATP-dependent helicase HepA [EC:3.6.4.-]
+K18816	K00865	0.0065400422646	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18816	K00375	0.0065078587218582	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18816	K02575	0.0065053617357274	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18816	K12658	0.0064741249349699	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]
+K18816	K00990	0.0064426386852816	glnD; [protein-PII] uridylyltransferase [EC:2.7.7.59]
+K18816	K02455	0.0064206474343933	gspF; general secretion pathway protein F
+K18816	K01167	0.0063917188390913	rnaSA; ribonuclease T1 [EC:4.6.1.24]
+K18816	K08303	0.006375917145581	K08303; putative protease [EC:3.4.-.-]
+K18816	K23509	0.0063746661326954	ytfT, yjfF; galactofuranose transport system permease protein
+K18816	K19267	0.0063745466809975	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18816	K06976	0.0063714130403512	K06976; uncharacterized protein

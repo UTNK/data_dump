@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18767	money		0.3321731543821625	0.2851801015468831
+K18767	K00675	nhoA; N-hydroxyarylamine O-acetyltransferase [EC:2.3.1.118]	0.3321731543821625	0.2963774633859584
+K18767	K01531	mgtA, mgtB; P-type Mg2+ transporter [EC:7.2.2.14]	0.3321731543821625	0.2980738180841883
+K18767	K04651	hypA, hybF; hydrogenase nickel incorporation protein HypA/HybF	0.3321731543821625	0.3035022255329095
+K18767	K08225	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter	0.3321731543821625	0.3061205958063451
+K18767	K04655	hypE; hydrogenase expression/formation protein HypE	0.3321731543821625	0.3061233152863942
+K18767	K04653	hypC; hydrogenase expression/formation protein HypC	0.3321731543821625	0.3068000384412818
+K18767	K04656	hypF; hydrogenase maturation protein HypF	0.3321731543821625	0.3071056315679769
+K18767	K03748	sanA; SanA protein	0.3321731543821625	0.3103842334674719
+K18767	mobileOG_000368530	alkB	0.3321731543821625	0.3109792461755382
+K18767	K08172	shiA; MFS transporter, MHS family, shikimate and dehydroshikimate transport protein	0.3321731543821625	0.3113564908783526
+K18767	K03272	gmhC, hldE, waaE, rfaE; D-beta-D-heptose 7-phosphate kinase / D-beta-D-heptose 1-phosphate adenosyltransferase [EC:2.7.1.167 2.7.7.70]	0.3321731543821625	0.3135515679256551
+K18767	K10829	fhuC; ferric hydroxamate transport system ATP-binding protein [EC:7.2.2.16]	0.3321731543821625	0.3139590438628206
+K18767	skin		0.3321731543821625	0.314168579358061
+K18767	K10544	xylH; D-xylose transport system permease protein	0.3321731543821625	0.3150340065749223
+K18767	K13641	iclR; IclR family transcriptional regulator, acetate operon repressor	0.3321731543821625	0.3160449956494685
+K18767	K03762	proP; MFS transporter, MHS family, proline/betaine transporter	0.3321731543821625	0.3161302025514028
+K18767	K06048	gshA, ybdK; glutamate---cysteine ligase / carboxylate-amine ligase [EC:6.3.2.2 6.3.-.-]	0.3321731543821625	0.3163035572973096
+K18767	K10543	xylF; D-xylose transport system substrate-binding protein	0.3321731543821625	0.3168115159018511
+K18767	K07148	K07148; uncharacterized protein	0.3321731543821625	0.3175280265607047
+K18767	K08223	fsr; MFS transporter, FSR family, fosmidomycin resistance protein	0.3321731543821625	0.3187108124086013
+K18767	human		0.3321731543821625	0.3187253548662815
+K18767	K04033	eutR; AraC family transcriptional regulator, ethanolamine operon transcriptional activator	0.3321731543821625	0.345458802786355
+K18767	mobileOG_000320008	fhuE	0.3321731543821625	0.3510764012468327
+K18767	K01095	pgpA; phosphatidylglycerophosphatase A [EC:3.1.3.27]	0.3321731543821625	0.3552563013059618

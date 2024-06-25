@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18131	sediment		0.0	0.0001998106993855
+K18131	K00336	nuoG; NADH-quinone oxidoreductase subunit G [EC:7.1.1.2]	0.0	0.0001998261376497
+K18131	K05800	ybaO; Lrp/AsnC family transcriptional regulator	0.0	0.0001998705886799
+K18131	K00703	glgA; starch synthase [EC:2.4.1.21]	0.0	0.0001998744026692
+K18131	K10111	malK, mtlK, thuK; multiple sugar transport system ATP-binding protein [EC:3.6.3.-]	0.0	0.0001999188410991
+K18131	K21064	ycsE, yitU, ywtE; 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]	0.0	0.0001999207593149
+K18131	K01995	livG; branched-chain amino acid transport system ATP-binding protein	0.0	0.0001999439487652
+K18131	K00705	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]	0.0	0.0001999623098111
+K18131	K03282	mscL; large conductance mechanosensitive channel	0.0	0.0002993858197133
+K18131	K00375	K00375; GntR family transcriptional regulator / MocR family aminotransferase	0.0	0.0002997797484466
+K18131	K15777	DOPA; 4,5-DOPA dioxygenase extradiol [EC:1.13.11.-]	0.0	0.0002998300340811
+K18131	K16137	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon	0.0	0.0002999178525175
+K18131	freshwater_sediment		0.0	0.0002999342828576
+K18131	K09815	znuA; zinc transport system substrate-binding protein	0.0	0.0002999478108094
+K18131	K00965	galT, GALT; UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	0.0	0.0002999497378337
+K18131	K00850	pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]	0.0	0.0002999507063432
+K18131	K08483	ptsI; phosphoenolpyruvate-protein phosphotransferase (PTS system enzyme I) [EC:2.7.3.9]	0.0	0.0002999536080225
+K18131	K03426	E3.6.1.22, NUDT12, nudC; NAD+ diphosphatase [EC:3.6.1.22]	0.0	0.0002999608559331
+K18131	K00563	rlmA1; 23S rRNA (guanine745-N1)-methyltransferase [EC:2.1.1.187]	0.0	0.0002999903330459
+K18131	K00652	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]	0.0	0.0008999159122468
+K18131	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	0.0	0.0008999197783079
+K18131	K01175	ybfF; esterase [EC:3.1.-.-]	0.0	0.0009999217056678
+K18131	K01497	ribA, RIB1; GTP cyclohydrolase II [EC:3.5.4.25]	0.0	0.0013998527745882
+K18131	K14682	argAB; amino-acid N-acetyltransferase [EC:2.3.1.1]	0.0	0.0016998783914296
+K18131	K10806	yciA; acyl-CoA thioesterase YciA [EC:3.1.2.-]	0.0	0.0021998659640655

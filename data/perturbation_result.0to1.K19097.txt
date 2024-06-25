@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19097	K09986	K09986; uncharacterized protein	0.0003996699013186	0.0007994025283782
+K19097	biofilm		0.0003996699013186	0.0008992156703033
+K19097	K12976	pagL; lipid A 3-O-deacylase [EC:3.1.1.-]	0.0003996699013186	0.0009988664174362
+K19097	K17315	gtsA, glcE; glucose/mannose transport system substrate-binding protein	0.0003996699013186	0.0009991091977293
+K19097	K06413	spoVK; stage V sporulation protein K	0.0003996699013186	0.0009996418849164
+K19097	K07215	pigA, hemO; heme oxygenase (biliverdin-IX-beta and delta-forming) [EC:1.14.99.58]	0.0003996699013186	0.0010988109810852
+K19097	K07017	K07017; uncharacterized protein	0.0003996699013186	0.001198573995536
+K19097	K07403	nfeD; membrane-bound serine protease (ClpP class)	0.0003996699013186	0.0011988180913626
+K19097	K03300	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family	0.0003996699013186	0.0011991053539068
+K19097	K07116	pvdQ, quiP; acyl-homoserine-lactone acylase [EC:3.5.1.97]	0.0003996699013186	0.0011991325877743
+K19097	K11689	dctQ; C4-dicarboxylate transporter, DctQ subunit	0.0003996699013186	0.0011991579654648
+K19097	K10227	smoE, mtlE; sorbitol/mannitol transport system substrate-binding protein	0.0003996699013186	0.0012987770953375
+K19097	mobileOG_000331053	ligD	0.0003996699013186	0.0012993258551089
+K19097	K03816	xpt; xanthine phosphoribosyltransferase [EC:2.4.2.22]	0.0003996699013186	0.0013988431094317
+K19097	K10229	smoG, mtlG; sorbitol/mannitol transport system permease protein	0.0003996699013186	0.0013988900470116
+K19097	K04090	E1.2.7.8; indolepyruvate ferredoxin oxidoreductase [EC:1.2.7.8]	0.0003996699013186	0.0013989604780455
+K19097	K18981	udh; uronate dehydrogenase [EC:1.1.1.203]	0.0003996699013186	0.0013989932906465
+K19097	mobileOG_000221853	parA	0.0003996699013186	0.0013990163706782
+K19097	K10228	smoF, mtlF; sorbitol/mannitol transport system permease protein	0.0003996699013186	0.0013991195993584
+K19097	K00479	gbcA; glycine betaine catabolism A	0.0003996699013186	0.0014985415763327
+K19097	K03405	chlI, bchI; magnesium chelatase subunit I [EC:6.6.1.1]	0.0003996699013186	0.0016978396238745
+K19097	K11354	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]	0.0003996699013186	0.0017991983421852
+K19097	K04748	norQ; nitric oxide reductase NorQ protein	0.0003996699013186	0.0018986421767495
+K19097	K00263	E1.4.1.9; leucine dehydrogenase [EC:1.4.1.9]	0.0003996699013186	0.001998448495664
+K19097	K11263	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]	0.0003996699013186	0.00219848532724

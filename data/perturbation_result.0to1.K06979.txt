@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K06979	K05337	fer; ferredoxin	0.5403150917669025	0.5278229803892723
+K06979	K04749	rsbV; anti-sigma B factor antagonist	0.5403150917669025	0.5281696538929641
+K06979	K06402	spoIVFB; stage IV sporulation protein FB [EC:3.4.24.-]	0.5403150917669025	0.5282456918845323
+K06979	K10917	aphA; PadR family transcriptional regulator, regulatory protein AphA	0.5403150917669025	0.5295154889004416
+K06979	K02280	cpaC, rcpA; pilus assembly protein CpaC	0.5403150917669025	0.5300478876383995
+K06979	K21405	acoR; sigma-54 dependent transcriptional regulator, acetoin dehydrogenase operon transcriptional activator AcoR	0.5403150917669025	0.5300719330365897
+K06979	K02258	COX11, ctaG; cytochrome c oxidase assembly protein subunit 11	0.5403150917669025	0.5305952003646777
+K06979	K09796	pccA; periplasmic copper chaperone A	0.5403150917669025	0.5309290030649643
+K06979	K09667	OGT; protein O-GlcNAc transferase [EC:2.4.1.255]	0.5403150917669025	0.5317223216864626
+K06979	K07399	resB, ccs1; cytochrome c biogenesis protein	0.5403150917669025	0.5320216686917183
+K06979	K00412	CYTB, petB; ubiquinol-cytochrome c reductase cytochrome b subunit	0.5403150917669025	0.532206519326466
+K06979	K21600	csoR, ricR; CsoR family transcriptional regulator, copper-sensing transcriptional repressor	0.5403150917669025	0.5325657040253116
+K06979	K00413	CYC1, CYT1, petC; ubiquinol-cytochrome c reductase cytochrome c1 subunit	0.5403150917669025	0.5326956872374067
+K06979	K18480	linN; cholesterol transport system auxiliary component	0.5403150917669025	0.5332422385340586
+K06979	K18893	vcaM; ATP-binding cassette, subfamily B, multidrug efflux pump	0.5403150917669025	0.5336995007858731
+K06979	K00411	UQCRFS1, RIP1, petA; ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]	0.5403150917669025	0.5337394607145378
+K06979	K18981	udh; uronate dehydrogenase [EC:1.1.1.203]	0.5403150917669025	0.5337739384834088
+K06979	K01585	speA; arginine decarboxylase [EC:4.1.1.19]	0.5403150917669025	0.5338914424451412
+K06979	K17315	gtsA, glcE; glucose/mannose transport system substrate-binding protein	0.5403150917669025	0.5339977394288327
+K06979	K00023	phbB; acetoacetyl-CoA reductase [EC:1.1.1.36]	0.5403150917669025	0.5341029737557147
+K06979	K04757	rsbW; serine/threonine-protein kinase RsbW [EC:2.7.11.1]	0.5403150917669025	0.5341757781037518
+K06979	K01473	hyuA; N-methylhydantoinase A [EC:3.5.2.14]	0.5403150917669025	0.534472814636592
+K06979	K16785	ecfT; energy-coupling factor transport system permease protein	0.5403150917669025	0.5345448234173746
+K06979	K12251	aguB; N-carbamoylputrescine amidase [EC:3.5.1.53]	0.5403150917669025	0.5345778962096864
+K06979	K18476	tetR; TetR/AcrR family transcriptional regulator, tetracycline repressor protein	0.5403150917669025	0.5465878450009111

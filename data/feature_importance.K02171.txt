@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K02171	K06215	0.0058759264724774	pdxS, pdx1; pyridoxal 5-phosphate synthase pdxS subunit [EC:4.3.3.6]
+K02171	K02019	0.0057486111500788	modE; molybdate transport system regulatory protein
+K02171	K00453	0.0056725871456003	TDO2, kynA; tryptophan 2,3-dioxygenase [EC:1.13.11.11]
+K02171	K04074	0.0056619712841947	divIVA; cell division initiation protein
+K02171	K06314	0.0055257119734649	rsfA; prespore-specific regulator
+K02171	K09014	0.0054847859842622	sufB; Fe-S cluster assembly protein SufB
+K02171	K00259	0.0054791228975752	ald; alanine dehydrogenase [EC:1.4.1.1]
+K02171	K07284	0.0054614334360864	srtA; sortase A [EC:3.4.22.70]
+K02171	K00231	0.0054513677171256	PPOX, hemY; protoporphyrinogen/coproporphyrinogen III oxidase [EC:1.3.3.4 1.3.3.15]
+K02171	K09794	0.0054333471731674	K09794; uncharacterized protein
+K02171	K00769	0.0054099435178237	gpt; xanthine phosphoribosyltransferase [EC:2.4.2.22]
+K02171	K10947	0.0054088474069446	padR; PadR family transcriptional regulator, regulatory protein PadR
+K02171	K06940	0.0053436020378483	K06940; uncharacterized protein
+K02171	K04770	0.0053352409984693	lonH; Lon-like ATP-dependent protease [EC:3.4.21.-]
+K02171	K03634	0.0053099488329739	lolA; outer membrane lipoprotein carrier protein
+K02171	K10680	0.0052906355586338	nemA; N-ethylmaleimide reductase [EC:1.-.-.-]
+K02171	K03790	0.0052769484042829	rimJ; [ribosomal protein S5]-alanine N-acetyltransferase [EC:2.3.1.267]
+K02171	K08681	0.0052755629106404	pdxT, pdx2; 5-phosphate synthase pdxT subunit [EC:4.3.3.6]
+K02171	K03559	0.0052620809691342	exbD; biopolymer transport protein ExbD
+K02171	K01468	0.0052435599759997	hutI, AMDHD1; imidazolonepropionase [EC:3.5.2.7]
+K02171	K07979	0.0052301102555359	ytrA; GntR family transcriptional regulator
+K02171	K07400	0.0052040587303356	nfuA; Fe/S biogenesis protein NfuA
+K02171	K22135	0.0051768429283685	bshB2; N-acetylglucosamine malate deacetylase 2 [EC:3.5.1.-]
+K02171	K06142	0.0051670510336251	hlpA, ompH; outer membrane protein
+K02171	K03760	0.0051660478785009	eptA, pmrC; lipid A ethanolaminephosphotransferase [EC:2.7.8.43]
+K02171	K16264	0.0051175003424015	czcD, zitB; cobalt-zinc-cadmium efflux system protein
+K02171	K06409	0.0051110484498438	spoVB; stage V sporulation protein B
+K02171	K03435	0.0051045470246169	fruR1, fruR; LacI family transcriptional regulator, fructose operon transcriptional repressor
+K02171	K15461	0.005081349345953	mnmC; tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-]
+K02171	K09015	0.0050760274565965	sufD; Fe-S cluster assembly protein SufD
+K02171	mobileOG_000057598	0.0050726883206894	pcrA
+K02171	K07396	0.0050670529505301	K07396; putative protein-disulfide isomerase
+K02171	K03152	0.0050063042368507	thiJ; protein deglycase [EC:3.5.1.124]
+K02171	K18138	0.0050062661936186	acrB, mexB, adeJ, smeE, mtrD, cmeB; multidrug efflux pump
+K02171	K21567	0.0050048752899197	fnr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]
+K02171	K09159	0.0049963648782532	cptB; antitoxin CptB
+K02171	K00639	0.0049960127245123	kbl, GCAT; glycine C-acetyltransferase [EC:2.3.1.29]
+K02171	K06923	0.0049842080862293	K06923; uncharacterized protein
+K02171	K05685	0.0048952704997867	macB; macrolide transport system ATP-binding/permease protein [EC:3.6.3.-]
+K02171	K07507	0.0048949636323141	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K02171	K06405	0.0048603978660662	spoVAC; stage V sporulation protein AC
+K02171	K01879	0.0048430280228425	glyS; glycyl-tRNA synthetase beta chain [EC:6.1.1.14]
+K02171	K14761	0.0048288969692036	ybcJ; ribosome-associated protein
+K02171	K13643	0.0048285904148608	iscR; Rrf2 family transcriptional regulator, iron-sulfur cluster assembly transcription factor
+K02171	K10439	0.0048209582018976	rbsB; ribose transport system substrate-binding protein
+K02171	K05541	0.0048044620169135	dusC; tRNA-dihydrouridine synthase C [EC:1.-.-.-]
+K02171	K07722	0.0048023221218317	nikR; CopG family transcriptional regulator, nickel-responsive regulator
+K02171	K09772	0.0047637879167721	sepF; cell division inhibitor SepF
+K02171	K01286	0.0047567801566644	E3.4.16.4; D-alanyl-D-alanine carboxypeptidase [EC:3.4.16.4]
+K02171	K10917	0.0047567444928321	aphA; PadR family transcriptional regulator, regulatory protein AphA

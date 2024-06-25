@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19593	K02406	0.0084921965149513	fliC; flagellin
+K19593	K02401	0.008489977538481	flhB; flagellar biosynthetic protein FlhB
+K19593	K02421	0.0082883699682174	fliR; flagellar biosynthetic protein FliR
+K19593	K06872	0.0082724086230647	K06872; uncharacterized protein
+K19593	K00865	0.0082644369442743	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K19593	K01809	0.0082550278303277	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K19593	K03594	0.0079325486362938	bfr; bacterioferritin [EC:1.16.3.1]
+K19593	K00375	0.0079161947328425	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19593	K00325	0.0078627050894254	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K19593	K00845	0.0078298579457014	glk; glucokinase [EC:2.7.1.2]
+K19593	K01760	0.0077600019382935	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19593	K10439	0.0076625253371751	rbsB; ribose transport system substrate-binding protein
+K19593	K14393	0.0076447795800432	actP; cation/acetate symporter
+K19593	K01512	0.0076402583792004	acyP; acylphosphatase [EC:3.6.1.7]
+K19593	K07010	0.0075899634936098	K07010; putative glutamine amidotransferase
+K19593	K07646	0.0075681181364883	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K19593	K03767	0.0075532587119789	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19593	K01480	0.0074854115291752	speB; agmatinase [EC:3.5.3.11]
+K19593	K06145	0.0074778626041213	gntR; LacI family transcriptional regulator, gluconate utilization system Gnt-I transcriptional repressor
+K19593	K07124	0.007469412520569	K07124; uncharacterized protein
+K19593	K07160	0.0073748905765351	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K19593	K06132	0.0072235838822576	clsC; cardiolipin synthase C [EC:2.7.8.-]
+K19593	K09857	0.0071850205314987	K09857; uncharacterized protein
+K19593	K01912	0.0071581695825366	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K19593	K18981	0.007118592222661	udh; uronate dehydrogenase [EC:1.1.1.203]
+K19593	K07507	0.0070855481093814	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19593	K02011	0.0070637594985312	afuB, fbpB; iron(III) transport system permease protein
+K19593	K01058	0.0069678560900993	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]
+K19593	K05802	0.0068889279156327	mscK, kefA, aefA; potassium-dependent mechanosensitive channel
+K19593	K01821	0.0068379350199992	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K19593	mobileOG_000031464	0.0068312580338841	mutT
+K19593	K16165	0.0067669442387459	nagK; fumarylpyruvate hydrolase [EC:3.7.1.20]
+K19593	biofilm	0.0067478127982327	
+K19593	K02388	0.00671773537004	flgC; flagellar basal-body rod protein FlgC
+K19593	K15736	0.0067170831196724	lhgO; (S)-2-hydroxyglutarate dehydrogenase [EC:1.1.5.13]
+K19593	K09983	0.0067168087013823	K09983; uncharacterized protein
+K19593	mobileOG_000189051	0.0066922880264537	recO
+K19593	K07259	0.0066763050786127	dacB; serine-type D-Ala-D-Ala carboxypeptidase/endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]
+K19593	K02039	0.0066695271186485	phoU; phosphate transport system protein
+K19593	K06980	0.0066685673435439	ygfZ; tRNA-modifying protein YgfZ
+K19593	K10206	0.0066662243293436	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K19593	K07122	0.0066570307121595	mlaB; phospholipid transport system transporter-binding protein
+K19593	mobileOG_000176095	0.0066560403123692	recR
+K19593	K02575	0.0066541692714581	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K19593	K09765	0.0066444928781835	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K19593	K03667	0.0066397161672384	hslU; ATP-dependent HslUV protease ATP-binding subunit HslU
+K19593	K11354	0.0066150713412295	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]
+K19593	mobileOG_000187617	0.0066109849747085	dnaE
+K19593	K01919	0.0066024674758451	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K19593	K01886	0.0065947469255775	QARS, glnS; glutaminyl-tRNA synthetase [EC:6.1.1.18]

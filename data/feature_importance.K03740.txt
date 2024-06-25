@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K03740	K13628	0.0079955689691001	iscA; iron-sulfur cluster assembly protein
+K03740	K07010	0.0078902838907416	K07010; putative glutamine amidotransferase
+K03740	K02390	0.0077677888174806	flgE; flagellar hook protein FlgE
+K03740	K07054	0.007610968497237	K07054; uncharacterized protein
+K03740	K01512	0.0075318786212664	acyP; acylphosphatase [EC:3.6.1.7]
+K03740	K22479	0.0074873083016773	argA; N-acetyltransferase
+K03740	K01760	0.0074593260796382	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K03740	K00705	0.0074403518158869	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]
+K03740	K07095	0.0074229289350453	K07095; uncharacterized protein
+K03740	K03651	0.0073358452518323	cpdA; 3,5-cyclic-AMP phosphodiesterase [EC:3.1.4.53]
+K03740	K02575	0.0072908559651359	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K03740	K03640	0.0072890763483356	pal; peptidoglycan-associated lipoprotein
+K03740	K06975	0.0071764534287391	K06975; uncharacterized protein
+K03740	K05275	0.0071722127032891	E1.1.1.65; pyridoxine 4-dehydrogenase [EC:1.1.1.65]
+K03740	K10680	0.0071235856744836	nemA; N-ethylmaleimide reductase [EC:1.-.-.-]
+K03740	K02026	0.0070656775594686	ABC.MS.P1; multiple sugar transport system permease protein
+K03740	K07126	0.0070447008886237	K07126; uncharacterized protein
+K03740	K03313	0.0070239296038536	nhaA; Na+:H+ antiporter, NhaA family
+K03740	K07112	0.0069844852653029	K07112; uncharacterized protein
+K03740	K00138	0.0069601981151176	aldB; aldehyde dehydrogenase [EC:1.2.1.-]
+K03740	K00375	0.0069217699553975	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K03740	K02012	0.0069022513434137	afuA, fbpA; iron(III) transport system substrate-binding protein
+K03740	K10439	0.0068065273173092	rbsB; ribose transport system substrate-binding protein
+K03740	K00703	0.0067911972137623	glgA; starch synthase [EC:2.4.1.21]
+K03740	K07461	0.0067908192749025	K07461; putative endonuclease
+K03740	mobileOG_000031464	0.0066771409878668	mutT
+K03740	K07124	0.0066652148181004	K07124; uncharacterized protein
+K03740	K00108	0.0064590648198885	betA, CHDH; choline dehydrogenase [EC:1.1.99.1]
+K03740	K02010	0.0064559008832831	afuC, fbpC; iron(III) transport system ATP-binding protein [EC:7.2.2.7]
+K03740	K01451	0.006451105926046	hipO; hippurate hydrolase [EC:3.5.1.32]
+K03740	K08676	0.0063865394152398	tri; tricorn protease [EC:3.4.21.-]
+K03740	K07799	0.0063860333917601	mdtA; membrane fusion protein, multidrug efflux system
+K03740	K00363	0.0063827987337624	nirD; nitrite reductase (NADH) small subunit [EC:1.7.1.15]
+K03740	K03567	0.0063676870365113	gcvR; glycine cleavage system transcriptional repressor
+K03740	K06867	0.0063565800968952	K06867; uncharacterized protein
+K03740	K01992	0.006297151190848	ABC-2.P; ABC-2 type transport system permease protein
+K03740	K07178	0.0062957321260675	RIOK1; RIO kinase 1 [EC:2.7.11.1]
+K03740	K06976	0.0062855060893735	K06976; uncharacterized protein
+K03740	K18208	0.0062745643648211	RNLS; renalase [EC:1.6.3.5]
+K03740	K02291	0.0062432148938336	crtB; 15-cis-phytoene synthase [EC:2.5.1.32]
+K03740	K08482	0.0062400901731233	kaiC; circadian clock protein KaiC
+K03740	K07289	0.0062327797043342	asmA; AsmA protein
+K03740	K01878	0.0062250841248737	glyQ; glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]
+K03740	K18297	0.0062187136772094	mexT; LysR family transcriptional regulator, mexEF-oprN operon transcriptional activator
+K03740	mobileOG_000229749	0.0061945750052323	nfo
+K03740	K07507	0.0061945610767192	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K03740	K01537	0.0061891501518963	ATP2C; P-type Ca2+ transporter type 2C [EC:7.2.2.10]
+K03740	K04068	0.006185740306273	nrdG; anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4]
+K03740	K02234	0.0061794786090199	cobW; cobalamin biosynthesis protein CobW
+K03740	K00242	0.0061227742722063	sdhD, frdD; succinate dehydrogenase / fumarate reductase, membrane anchor subunit

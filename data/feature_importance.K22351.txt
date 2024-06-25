@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K22351	K02421	0.0088743233239897	fliR; flagellar biosynthetic protein FliR
+K22351	K01512	0.0088119188687315	acyP; acylphosphatase [EC:3.6.1.7]
+K22351	K02401	0.0086165115142156	flhB; flagellar biosynthetic protein FlhB
+K22351	K01809	0.0084925433009231	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K22351	K00375	0.0084474967841082	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K22351	K03641	0.0083876104425019	tolB; TolB protein
+K22351	K10439	0.0083696778869892	rbsB; ribose transport system substrate-binding protein
+K22351	K11070	0.008316113054447	potC; spermidine/putrescine transport system permease protein
+K22351	K06872	0.008237026358034	K06872; uncharacterized protein
+K22351	K07077	0.0080959745962857	K07077; uncharacterized protein
+K22351	K03767	0.0080677007035204	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K22351	K01760	0.0078826119491633	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K22351	K03594	0.0078572310064279	bfr; bacterioferritin [EC:1.16.3.1]
+K22351	K19267	0.0078036112397145	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K22351	K07010	0.0077301342868437	K07010; putative glutamine amidotransferase
+K22351	K22041	0.0077283275374623	comR; TetR/AcrR family transcriptional regulator, copper-responsive repressor
+K22351	mobileOG_000031464	0.0076632605347738	mutT
+K22351	K09972	0.0075963992897974	aapP, bztD; general L-amino acid transport system ATP-binding protein [EC:7.4.2.1]
+K22351	K18707	0.0075799787242528	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]
+K22351	K01821	0.0075409382860202	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K22351	K00830	0.0075283791370495	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+K22351	K15461	0.0075283791370494	mnmC; tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-]
+K22351	K07160	0.0075282649244915	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K22351	K23264	0.0075122542660485	purS; phosphoribosylformylglycinamidine synthase subunit PurS [EC:6.3.5.3]
+K22351	K13693	0.007489679446647	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]
+K22351	K10206	0.0074887662247168	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K22351	K00424	0.0074503462070385	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K22351	K01545	0.0074316299110432	kdpF; potassium-transporting ATPase KdpF subunit
+K22351	K06132	0.0074183270009438	clsC; cardiolipin synthase C [EC:2.7.8.-]
+K22351	K11074	0.0074147952518817	potI; putrescine transport system permease protein
+K22351	K06980	0.0073800303238399	ygfZ; tRNA-modifying protein YgfZ
+K22351	K09983	0.0073800303238399	K09983; uncharacterized protein
+K22351	K00479	0.0073284307366366	gbcA; glycine betaine catabolism A
+K22351	K02575	0.0073164763787347	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K22351	K03753	0.0073155308398358	mobB; molybdopterin-guanine dinucleotide biosynthesis adapter protein
+K22351	K16167	0.0073093344062361	bpsA, srsA, pks11, pks10; alkylresorcinol/alkylpyrone synthase
+K22351	K01664	0.0073053892932833	pabA; para-aminobenzoate synthetase component II [EC:2.6.1.85]
+K22351	K01179	0.0072929560204344	E3.2.1.4; endoglucanase [EC:3.2.1.4]
+K22351	K23393	0.0072929560204343	murT; lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13]
+K22351	K03192	0.0072929560204343	ureJ; urease accessory protein
+K22351	K02410	0.0072897310462343	fliG; flagellar motor switch protein FliG
+K22351	K09765	0.0072822099082505	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K22351	K09791	0.0072789169139475	K09791; uncharacterized protein
+K22351	K03520	0.007273134568194	coxL, cutL; aerobic carbon-monoxide dehydrogenase large subunit [EC:1.2.5.3]
+K22351	K06967	0.0072703812010329	trmK; tRNA (adenine22-N1)-methyltransferase [EC:2.1.1.217]
+K22351	K02426	0.0072639312526325	sufE; cysteine desulfuration protein SufE
+K22351	K09937	0.0072607062784324	K09937; uncharacterized protein
+K22351	K03771	0.0072607062784321	surA; peptidyl-prolyl cis-trans isomerase SurA [EC:5.2.1.8]
+K22351	K09767	0.0072604256098349	yajQ; cyclic-di-GMP-binding protein
+K22351	mobileOG_000221853	0.0072542563300319	parA

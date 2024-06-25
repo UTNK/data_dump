@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K08217	mobileOG_000199119	29	0.3800796043952054	0.3770125973346426
+K08217	K15986	ppaC; manganese-dependent inorganic pyrophosphatase [EC:3.6.1.1]	0.3800796043952054	0.3773438342861139
+K08217	K20534	gtrB, csbB; polyisoprenyl-phosphate glycosyltransferase [EC:2.4.-.-]	0.3800796043952054	0.3826652963713016
+K08217	K03652	MPG; DNA-3-methyladenine glycosylase [EC:3.2.2.21]	0.3800796043952054	0.3828528573960597
+K08217	K08998	K08998; uncharacterized protein	0.3800796043952054	0.3828774205677175
+K08217	K13485	PRHOXNB, URAD; 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase [EC:4.1.1.97]	0.3800796043952054	0.3830303074528938
+K08217	K16568	exoZ; exopolysaccharide production protein ExoZ	0.3800796043952054	0.3830601908670164
+K08217	K06988	fno; 8-hydroxy-5-deazaflavin:NADPH oxidoreductase [EC:1.5.1.40]	0.3800796043952054	0.3833518262245555
+K08217	K06024	scpB; segregation and condensation protein B	0.3800796043952054	0.3835304237545626
+K08217	K21405	acoR; sigma-54 dependent transcriptional regulator, acetoin dehydrogenase operon transcriptional activator AcoR	0.3800796043952054	0.3835658712523213
+K08217	K23535	nupB; general nucleoside transport system permease protein	0.3800796043952054	0.3839148704775898
+K08217	K18301	mexL; TetR/AcrR family transcriptional regulator, mexJK operon transcriptional repressor	0.3800796043952054	0.3839735084534031
+K08217	K13481	xdhA; xanthine dehydrogenase small subunit [EC:1.17.1.4]	0.3800796043952054	0.3840807405261148
+K08217	K23775	ohrR; MarR family transcriptional regulator, organic hydroperoxide resistance regulator	0.3800796043952054	0.3840885143917429
+K08217	K07335	bmpA, bmpB, tmpC; basic membrane protein A and related proteins	0.3800796043952054	0.3841257987000298
+K08217	K13482	xdhB; xanthine dehydrogenase large subunit [EC:1.17.1.4]	0.3800796043952054	0.3841869348389745
+K08217	K16841	hpxA; allantoin racemase [EC:5.1.99.3]	0.3800796043952054	0.3844212428085906
+K08217	K01607	pcaC; 4-carboxymuconolactone decarboxylase [EC:4.1.1.44]	0.3800796043952054	0.384508962922428
+K08217	K16842	hpxB; allantoinase [EC:3.5.2.5]	0.3800796043952054	0.3848119893500109
+K08217	K01457	atzF; allophanate hydrolase [EC:3.5.1.54]	0.3800796043952054	0.3851261212620967
+K08217	K00355	NQO1; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	0.3800796043952054	0.3851526384592927
+K08217	K01465	URA4, pyrC; dihydroorotase [EC:3.5.2.3]	0.3800796043952054	0.3852409735421325
+K08217	K01476	E3.5.3.1, rocF, arg; arginase [EC:3.5.3.1]	0.3800796043952054	0.3856296169739846
+K08217	K23537	nupA; general nucleoside transport system ATP-binding protein	0.3800796043952054	0.3860749013997838
+K08217	K22278	pgdA; peptidoglycan-N-acetylglucosamine deacetylase [EC:3.5.1.104]	0.3800796043952054	0.3896905913282324

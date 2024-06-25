@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K02545	K09684	pucR; PucR family transcriptional regulator, purine catabolism regulatory protein	0.0	9.999806381660472e-05
+K02545	mobileOG_000284240	pif	0.0	9.999806381660472e-05
+K02545	K00282	gcvPA; glycine dehydrogenase subunit 1 [EC:1.4.4.2]	0.0	9.999806381660472e-05
+K02545	K06967	trmK; tRNA (adenine22-N1)-methyltransferase [EC:2.1.1.217]	0.0	9.999903189893024e-05
+K02545	K22210	DGLUCY; D-glutamate cyclase [EC:4.2.1.48]	0.0	0.0001
+K02545	K00294	E1.2.1.88; 1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]	0.0	0.0001999748345632
+K02545	K13653	K13653; AraC family transcriptional regulator	0.0	0.0001999941916747
+K02545	K07516	fadN; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	0.0	0.000199996611672
+K02545	mobileOG_000098385	35	0.0	0.0001999970957155
+K02545	K21903	cadC, smtB; ArsR family transcriptional regulator, lead/cadmium/zinc/bismuth-responsive transcriptional repressor	0.0	0.0001999980638166
+K02545	K03698	cbf, cbf1; 3-5 exoribonuclease [EC:3.1.-.-]	0.0	0.0002998742852763
+K02545	mobileOG_000375139	nfuA	0.0	0.0002999342046831
+K02545	K08974	K08974; putative membrane protein	0.0	0.0002999845115074
+K02545	K07077	K07077; uncharacterized protein	0.0	0.0002999854801894
+K02545	K17752	rsbT; serine/threonine-protein kinase RsbT [EC:2.7.11.1]	0.0	0.0002999883833494
+K02545	K06976	K06976; uncharacterized protein	0.0	0.0002999922557162
+K02545	mobileOG_000333823	dnaN	0.0	0.0003998229239271
+K02545	K02277	coxD, ctaF; cytochrome c oxidase subunit IV [EC:7.1.1.9]	0.0	0.0003999767669987
+K02545	K01623	ALDO; fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	0.0	0.0004999274235385
+K02545	K00263	E1.4.1.9; leucine dehydrogenase [EC:1.4.1.9]	0.0	0.0004999670881807
+K02545	mobileOG_000300939	uvrA	0.0	0.0005998664813401
+K02545	mobileOG_000134996	mazF	0.0	0.0005999329043056
+K02545	K15975	K15975; glyoxalase family protein	0.0	0.0007998748470437
+K02545	K13013	wbqV; O-antigen biosynthesis protein WbqV	0.0	0.0007999825746493
+K02545	mobileOG_000026018	xerC	0.0	0.0009998823983182

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K00662	K01664	0.0076815652536126	pabA; para-aminobenzoate synthetase component II [EC:2.6.1.85]
+K00662	K00991	0.007630105528479	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]
+K00662	K05349	0.0075086701473299	bglX; beta-glucosidase [EC:3.2.1.21]
+K00662	K02421	0.0071953079268524	fliR; flagellar biosynthetic protein FliR
+K00662	K05520	0.0071486378307155	pfpI; protease I [EC:3.5.1.124]
+K00662	K02049	0.0069861897741997	ABC.SN.A; NitT/TauT family transport system ATP-binding protein
+K00662	K06996	0.0069729176134194	K06996; uncharacterized protein
+K00662	K01273	0.0066981639553317	DPEP; membrane dipeptidase [EC:3.4.13.19]
+K00662	microbial_mat	0.0066237407465298	
+K00662	K00652	0.0065563390779221	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K00662	K03770	0.0063934091237082	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K00662	K12976	0.0063698040162331	pagL; lipid A 3-O-deacylase [EC:3.1.1.-]
+K00662	mobileOG_000799952	0.0063639631253425	mutS
+K00662	K08365	0.0063515462633516	merR; MerR family transcriptional regulator, mercuric resistance operon regulatory protein
+K00662	K03928	0.0063386493704485	yvaK; carboxylesterase [EC:3.1.1.1]
+K00662	K07054	0.0063047121018555	K07054; uncharacterized protein
+K00662	K02452	0.0062607850017454	gspC; general secretion pathway protein C
+K00662	K05808	0.0062585133055539	yhbH; putative sigma-54 modulation protein
+K00662	K03594	0.0062168641883217	bfr; bacterioferritin [EC:1.16.3.1]
+K00662	K24012	0.0062122266954819	acdAB; acetate---CoA ligase (ADP-forming) [EC:6.2.1.13]
+K00662	K14393	0.006184266084438	actP; cation/acetate symporter
+K00662	K09791	0.0061723117619616	K09791; uncharacterized protein
+K00662	K02056	0.0061660929215208	ABC.SS.A; simple sugar transport system ATP-binding protein [EC:7.5.2.-]
+K00662	K01551	0.0061507164927935	arsA, ASNA1, GET3; arsenite/tail-anchored protein-transporting ATPase [EC:7.3.2.7 7.3.-.-]
+K00662	K07017	0.0061327685982194	K07017; uncharacterized protein
+K00662	K07736	0.0061312904393435	carD; CarD family transcriptional regulator
+K00662	K02535	0.0061290902226153	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]
+K00662	K02172	0.0061061805851188	blaR1; bla regulator protein blaR1
+K00662	K16301	0.0060947459802999	efeB; deferrochelatase/peroxidase EfeB [EC:1.11.1.-]
+K00662	K11069	0.0060943219500684	potD; spermidine/putrescine transport system substrate-binding protein
+K00662	K22132	0.0060939959818646	tcdA; tRNA threonylcarbamoyladenosine dehydratase
+K00662	K12543	0.0060867335374339	lapE; outer membrane protein, adhesin transport system
+K00662	K15539	0.0060705231501311	rodZ; cytoskeleton protein RodZ
+K00662	K18929	0.0060561081600387	lldF; L-lactate dehydrogenase complex protein LldF
+K00662	K00124	0.0060450734702474	fdoH, fdsB; formate dehydrogenase iron-sulfur subunit
+K00662	mobileOG_000777978	0.006043288856913	korSA
+K00662	K03270	0.0060423842337279	kdsC; 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (KDO 8-P phosphatase) [EC:3.1.3.45]
+K00662	mobileOG_000162433	0.0060365455558246	tnpA
+K00662	K06962	0.0059948591346562	K06962; uncharacterized protein
+K00662	mobileOG_000331053	0.0059878289627701	ligD
+K00662	K07112	0.0059819163625571	K07112; uncharacterized protein
+K00662	K01640	0.0059735330625967	E4.1.3.4, HMGCL, hmgL; hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4]
+K00662	K04565	0.0059691417686675	SOD1; superoxide dismutase, Cu-Zn family [EC:1.15.1.1]
+K00662	K02401	0.0059633015498699	flhB; flagellar biosynthetic protein FlhB
+K00662	K00548	0.0059599410741029	metH, MTR; 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]
+K00662	mobileOG_000801665	0.0059588437066746	dnaN
+K00662	K12262	0.0059554933948074	cybB; superoxide oxidase [EC:1.10.3.17]
+K00662	K11941	0.0059517352294575	mdoC; glucans biosynthesis protein C [EC:2.1.-.-]
+K00662	K08678	0.0059506414632638	UXS1, uxs; UDP-glucuronate decarboxylase [EC:4.1.1.35]
+K00662	K07646	0.0059233111193337	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]

@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K06880	K07114	yfbK; Ca-activated chloride channel homolog	0.3011401793769414	0.2902260218199998
+K06880	K07507	mgtC; putative Mg2+ transporter-C (MgtC) family protein	0.3011401793769414	0.2940286558506637
+K06880	K01692	paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]	0.3011401793769414	0.2943624433172198
+K06880	K00012	UGDH, ugd; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	0.3011401793769414	0.2948170863650062
+K06880	K00241	sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit	0.3011401793769414	0.2958583159111272
+K06880	K00971	manC, cpsB; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	0.3011401793769414	0.2961004386260887
+K06880	K04750	phnB; PhnB protein	0.3011401793769414	0.2962205482667947
+K06880	K01609	trpC; indole-3-glycerol phosphate synthase [EC:4.1.1.48]	0.3011401793769414	0.2971890938159983
+K06880	K10778	ada; AraC family transcriptional regulator, regulatory protein of adaptative response / methylated-DNA-[protein]-cysteine methyltransferase [EC:2.1.1.63]	0.3011401793769414	0.297292395656719
+K06880	K01903	sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]	0.3011401793769414	0.2974772122498439
+K06880	K07263	pqqL; zinc protease [EC:3.4.24.-]	0.3011401793769414	0.2975300522266493
+K06880	K00605	gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]	0.3011401793769414	0.2979167169435817
+K06880	K01902	sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	0.3011401793769414	0.2979696847393953
+K06880	K00239	sdhA, frdA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	0.3011401793769414	0.2980063412253331
+K06880	K02199	ccmG, dsbE; cytochrome c biogenesis protein CcmG, thiol:disulfide interchange protein DsbE	0.3011401793769414	0.2980158983662391
+K06880	K01669	phrB; deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]	0.3011401793769414	0.2982433692676788
+K06880	K00428	E1.11.1.5; cytochrome c peroxidase [EC:1.11.1.5]	0.3011401793769414	0.2983255012650684
+K06880	K00432	gpx, btuE, bsaA; glutathione peroxidase [EC:1.11.1.9]	0.3011401793769414	0.298411630441573
+K06880	K04068	nrdG; anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4]	0.3011401793769414	0.3037564246741872
+K06880	K04069	pflA, pflC, pflE; pyruvate formate lyase activating enzyme [EC:1.97.1.4]	0.3011401793769414	0.303992667816513
+K06880	K06890	K06890; uncharacterized protein	0.3011401793769414	0.3040933024423002
+K06880	K03311	TC.LIVCS; branched-chain amino acid:cation transporter, LIVCS family	0.3011401793769414	0.3042023241123918
+K06880	K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]	0.3011401793769414	0.3051914961252227
+K06880	K07150	K07150; uncharacterized protein	0.3011401793769414	0.3057634362171632
+K06880	mouse_gut		0.3011401793769414	0.3064048596981792

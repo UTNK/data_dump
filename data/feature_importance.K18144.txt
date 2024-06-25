@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18144	mobileOG_000006534	0.0086270244870967	groEL
+K18144	mobileOG_000021084	0.0085558353801665	priA
+K18144	K03406	0.0085116445102354	mcp; methyl-accepting chemotaxis protein
+K18144	K03684	0.0085024769924245	rnd; ribonuclease D [EC:3.1.13.5]
+K18144	K09800	0.0081570550096511	tamB; translocation and assembly module TamB
+K18144	K00140	0.0079950918975764	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]
+K18144	K06193	0.0078224803055965	phnA; protein PhnA
+K18144	K02171	0.0078178683858124	blaI; BlaI family transcriptional regulator, penicillinase repressor
+K18144	K00684	0.0077756081817661	aat; leucyl/phenylalanyl-tRNA---protein transferase [EC:2.3.2.6]
+K18144	K02011	0.007756306778653	afuB, fbpB; iron(III) transport system permease protein
+K18144	K00588	0.0077332790455489	E2.1.1.104; caffeoyl-CoA O-methyltransferase [EC:2.1.1.104]
+K18144	K01610	0.0077134371785426	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K18144	K14393	0.0076849991294977	actP; cation/acetate symporter
+K18144	K09806	0.0076760557161024	K09806; uncharacterized protein
+K18144	K06872	0.0076742597214622	K06872; uncharacterized protein
+K18144	K19221	0.0076411872136319	cobA, btuR; cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+K18144	K01880	0.0076173723723228	GARS, glyS1; glycyl-tRNA synthetase [EC:6.1.1.14]
+K18144	K02073	0.0075776270075506	metQ; D-methionine transport system substrate-binding protein
+K18144	K01920	0.0075661711719203	gshB; glutathione synthase [EC:6.3.2.3]
+K18144	mobileOG_000801665	0.0074691151047131	dnaN
+K18144	K16137	0.0074633620898463	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K18144	K03767	0.0074583402633848	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18144	mobileOG_000034793	0.0074479219016562	diaA
+K18144	K05786	0.0074423844677591	rarD; chloramphenicol-sensitive protein RarD
+K18144	activated_sludge	0.0074303704274525	
+K18144	K12262	0.0074064358080333	cybB; superoxide oxidase [EC:1.10.3.17]
+K18144	K01886	0.0073804986764109	QARS, glnS; glutaminyl-tRNA synthetase [EC:6.1.1.18]
+K18144	K09001	0.0073728763973704	anmK; anhydro-N-acetylmuramic acid kinase [EC:2.7.1.170]
+K18144	K07115	0.0073723565575437	rlmJ; 23S rRNA (adenine2030-N6)-methyltransferase [EC:2.1.1.266]
+K18144	K07124	0.0073651576632588	K07124; uncharacterized protein
+K18144	K02072	0.007349244755992	metI; D-methionine transport system permease protein
+K18144	mobileOG_000778060	0.0073392371030672	parC
+K18144	K00652	0.0073304155356419	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18144	K04564	0.0073169280003778	SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+K18144	K00703	0.0072699674420443	glgA; starch synthase [EC:2.4.1.21]
+K18144	mobileOG_000777978	0.0072587871267142	korSA
+K18144	K04760	0.0072158042923842	greB; transcription elongation factor GreB
+K18144	K06194	0.0072125877657712	nlpD; lipoprotein NlpD
+K18144	K00121	0.0071949200548248	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]
+K18144	K02026	0.0071749657465426	ABC.MS.P1; multiple sugar transport system permease protein
+K18144	K03562	0.0071544466939614	tolQ; biopolymer transport protein TolQ
+K18144	K01879	0.0071410299595368	glyS; glycyl-tRNA synthetase beta chain [EC:6.1.1.14]
+K18144	K01968	0.0071182330357461	E6.4.1.4A; 3-methylcrotonyl-CoA carboxylase alpha subunit [EC:6.4.1.4]
+K18144	mobileOG_000347861	0.0071155962616201	hflK
+K18144	K07646	0.0071014659833953	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18144	K03641	0.0070973255834121	tolB; TolB protein
+K18144	K06142	0.007096996510312	hlpA, ompH; outer membrane protein
+K18144	mobileOG_000237546	0.0070958626865504	recF
+K18144	mobileOG_000170347	0.0070933571697489	mutL
+K18144	K16011	0.007084651794208	algA, xanB, rfbA, wbpW, pslB; mannose-1-phosphate guanylyltransferase / mannose-6-phosphate isomerase [EC:2.7.7.13 5.3.1.8]

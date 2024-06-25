@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18898	mobileOG_000277133		0.0726427904027078	0.0579507257396542
+K18898	K16090	fiu; catecholate siderophore receptor	0.0726427904027078	0.0614469800915024
+K18898	K15736	lhgO; (S)-2-hydroxyglutarate dehydrogenase [EC:1.1.5.13]	0.0726427904027078	0.0620486287482009
+K18898	K05881	dhaM; phosphoenolpyruvate---glycerone phosphotransferase subunit DhaM [EC:2.7.1.121]	0.0726427904027078	0.062547379011613
+K18898	K04033	eutR; AraC family transcriptional regulator, ethanolamine operon transcriptional activator	0.0726427904027078	0.0635480091768538
+K18898	money		0.0726427904027078	0.0637483320767009
+K18898	K24206		0.0726427904027078	0.064649290206153
+K18898	K02481	K02481; two-component system, NtrC family, response regulator	0.0726427904027078	0.0648475223517795
+K18898	K16052	ynaI, mscMJ; MscS family membrane protein	0.0726427904027078	0.0656463582040529
+K18898	K09019	rutE; 3-hydroxypropanoate dehydrogenase [EC:1.1.1.-]	0.0726427904027078	0.0659462775032096
+K18898	K03830	yafP; putative acetyltransferase [EC:2.3.1.-]	0.0726427904027078	0.0664471119492122
+K18898	K03605	hyaD, hybD; hydrogenase maturation protease [EC:3.4.23.-]	0.0726427904027078	0.067446164921409
+K18898	K01788	nanE; N-acylglucosamine-6-phosphate 2-epimerase [EC:5.1.3.9]	0.0726427904027078	0.0676465837356774
+K18898	K02081	agaR; DeoR family transcriptional regulator, aga operon transcriptional repressor	0.0726427904027078	0.0676471063463915
+K18898	K11941	mdoC; glucans biosynthesis protein C [EC:2.1.-.-]	0.0726427904027078	0.0677464409663417
+K18898	K06143	creD; inner membrane protein	0.0726427904027078	0.0677466939291462
+K18898	K00675	nhoA; N-hydroxyarylamine O-acetyltransferase [EC:2.3.1.118]	0.0726427904027078	0.067847903998371
+K18898	K07150	K07150; uncharacterized protein	0.0726427904027078	0.0679468649304935
+K18898	K06132	clsC; cardiolipin synthase C [EC:2.7.8.-]	0.0726427904027078	0.0682459716864131
+K18898	K08225	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter	0.0726427904027078	0.0682466208189056
+K18898	K19776	dgoR; GntR family transcriptional regulator, galactonate operon transcriptional repressor	0.0726427904027078	0.0685461558186955
+K18898	K02099	araC; AraC family transcriptional regulator, arabinose operon regulatory protein	0.0726427904027078	0.068946217468674
+K18898	K01609	trpC; indole-3-glycerol phosphate synthase [EC:4.1.1.48]	0.0726427904027078	0.0762385338314333
+K18898	K02459	gspJ; general secretion pathway protein J	0.0726427904027078	0.076840476195851
+K18898	mobileOG_000021084	priA	0.0726427904027078	0.0793379117016701

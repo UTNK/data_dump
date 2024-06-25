@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K00663	K02073	0.0076234814323628	metQ; D-methionine transport system substrate-binding protein
+K00663	K01893	0.0075815356016259	NARS, asnS; asparaginyl-tRNA synthetase [EC:6.1.1.22]
+K00663	K02420	0.007293028833243	fliQ; flagellar biosynthetic protein FliQ
+K00663	K00324	0.0072394688068755	pntA; H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1]
+K00663	K01809	0.0070494515507487	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K00663	activated_sludge	0.0069926481818807	
+K00663	K02227	0.0069591625902684	cbiB, cobD; adenosylcobinamide-phosphate synthase [EC:6.3.1.10]
+K00663	K07507	0.0069038017908765	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K00663	K03310	0.0068936195588313	TC.AGCS; alanine or glycine:cation symporter, AGCS family
+K00663	mobileOG_000026121	0.0068732012358692	dinB
+K00663	K02071	0.006870612212219	metN; D-methionine transport system ATP-binding protein
+K00663	K02056	0.0068358413634226	ABC.SS.A; simple sugar transport system ATP-binding protein [EC:7.5.2.-]
+K00663	mobileOG_000024458	0.0067724126905608	dnaE
+K00663	K02072	0.0067273413905122	metI; D-methionine transport system permease protein
+K00663	K07068	0.0066397968026873	K07068; uncharacterized protein
+K00663	mobileOG_000001353	0.0066328864641972	oppB
+K00663	mobileOG_000353886	0.0065912038248301	ompA
+K00663	K04564	0.0065859446181972	SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]
+K00663	K00705	0.0065118275630822	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]
+K00663	K03782	0.0065034461658882	katG; catalase-peroxidase [EC:1.11.1.21]
+K00663	K21430	0.0064013175293501	yliI; aldose sugar dehydrogenase [EC:1.1.5.-]
+K00663	K20866	0.0063992524794802	yihX; glucose-1-phosphatase [EC:3.1.3.10]
+K00663	K23775	0.0063846553346075	ohrR; MarR family transcriptional regulator, organic hydroperoxide resistance regulator
+K00663	K08281	0.0063506558042368	pncA; nicotinamidase/pyrazinamidase [EC:3.5.1.19 3.5.1.-]
+K00663	K03767	0.0063308301565855	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K00663	mobileOG_000115691	0.0062499629803844	sigH
+K00663	K07150	0.006232050468936	K07150; uncharacterized protein
+K00663	K14652	0.006223396553317	ribBA; 3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II [EC:4.1.99.12 3.5.4.25]
+K00663	K01638	0.0062194927433218	aceB, glcB; malate synthase [EC:2.3.3.9]
+K00663	K03605	0.0062119653751546	hyaD, hybD; hydrogenase maturation protease [EC:3.4.23.-]
+K00663	K04750	0.006202568631615	phnB; PhnB protein
+K00663	mobileOG_000368530	0.0061955725343976	alkB
+K00663	K01681	0.0061876743543678	ACO, acnA; aconitate hydratase [EC:4.2.1.3]
+K00663	K06445	0.006144288938867	fadE; acyl-CoA dehydrogenase [EC:1.3.99.-]
+K00663	mobileOG_000308488	0.0061260241322558	sbcD
+K00663	K01796	0.0061212778684541	E5.1.99.4, AMACR, mcr; alpha-methylacyl-CoA racemase [EC:5.1.99.4]
+K00663	mobileOG_000193279	0.0061093657505529	rarA
+K00663	K02415	0.0061013431889186	fliL; flagellar FliL protein
+K00663	K01551	0.0060666147516903	arsA, ASNA1, GET3; arsenite/tail-anchored protein-transporting ATPase [EC:7.3.2.7 7.3.-.-]
+K00663	K08369	0.0060534975851006	ydjE; MFS transporter, putative metabolite:H+ symporter
+K00663	K01880	0.0060150208613098	GARS, glyS1; glycyl-tRNA synthetase [EC:6.1.1.14]
+K00663	K13789	0.0059488073604015	GGPS; geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]
+K00663	K00262	0.0059447907151827	E1.4.1.4, gdhA; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]
+K00663	K00652	0.0059446578348182	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K00663	K03594	0.0059262869889481	bfr; bacterioferritin [EC:1.16.3.1]
+K00663	K03431	0.0059224635863097	glmM; phosphoglucosamine mutase [EC:5.4.2.10]
+K00663	K08307	0.0059148817508145	mltD, dniR; membrane-bound lytic murein transglycosylase D [EC:4.2.2.-]
+K00663	K03568	0.0059093554874851	tldD; TldD protein
+K00663	K02274	0.0058751937737179	coxA, ctaD; cytochrome c oxidase subunit I [EC:7.1.1.9]
+K00663	K00480	0.0058713556199653	E1.14.13.1; salicylate hydroxylase [EC:1.14.13.1]

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18767	K01809	0.0092174139307935	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18767	K01512	0.0088949851391921	acyP; acylphosphatase [EC:3.6.1.7]
+K18767	K11070	0.008608023514667	potC; spermidine/putrescine transport system permease protein
+K18767	K10439	0.0085112948771866	rbsB; ribose transport system substrate-binding protein
+K18767	K02401	0.0083954709157947	flhB; flagellar biosynthetic protein FlhB
+K18767	K03767	0.0083513748732996	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18767	K01760	0.0082903033563765	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18767	K03594	0.0080743760121936	bfr; bacterioferritin [EC:1.16.3.1]
+K18767	K02421	0.0080168851710852	fliR; flagellar biosynthetic protein FliR
+K18767	K01480	0.0079728387952122	speB; agmatinase [EC:3.5.3.11]
+K18767	K06872	0.0079010954833393	K06872; uncharacterized protein
+K18767	mobileOG_000093088	0.0078374187027397	ftsZ
+K18767	K07160	0.0078166723592123	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18767	K00375	0.007692162292065	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18767	K10206	0.007466625592398	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K18767	K02406	0.0074362201002725	fliC; flagellin
+K18767	mobileOG_000034793	0.007429546281364	diaA
+K18767	K06996	0.0074218567629891	K06996; uncharacterized protein
+K18767	K09765	0.0073827941065818	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K18767	K13013	0.0072860654691015	wbqV; O-antigen biosynthesis protein WbqV
+K18767	K18981	0.007221579710781	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18767	K00830	0.0071667668162089	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+K18767	K01821	0.0071570939524607	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18767	K18218	0.0071441968007969	tet35; tetracycline resistance efflux pump
+K18767	K07010	0.0071347932872918	K07010; putative glutamine amidotransferase
+K18767	K02575	0.0071219413902695	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18767	K07646	0.007100684250067	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18767	K07077	0.0070937669993307	K07077; uncharacterized protein
+K18767	K16165	0.0070829353303926	nagK; fumarylpyruvate hydrolase [EC:3.7.1.20]
+K18767	mobileOG_000031464	0.0070668027524721	mutT
+K18767	K07507	0.0070568531061823	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18767	K02011	0.0070492623091116	afuB, fbpB; iron(III) transport system permease protein
+K18767	K03300	0.0070023281324922	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family
+K18767	K03568	0.0069636366775001	tldD; TldD protein
+K18767	K20938	0.006960412389584	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]
+K18767	K03520	0.0069378423741719	coxL, cutL; aerobic carbon-monoxide dehydrogenase large subunit [EC:1.2.5.3]
+K18767	K15975	0.0069346180862558	K15975; glyoxalase family protein
+K18767	K02072	0.0069055994950115	metI; D-methionine transport system permease protein
+K18767	K07124	0.0068967054310364	K07124; uncharacterized protein
+K18767	K13485	0.0068894780554317	PRHOXNB, URAD; 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase [EC:4.1.1.97]
+K18767	K03117	0.0068894780554317	tatB; sec-independent protein translocase protein TatB
+K18767	K19267	0.0068341304855927	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18767	K01912	0.0068313742718444	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18767	K03973	0.0068120951454474	pspC; phage shock protein C
+K18767	mobileOG_000134996	0.0068088708575312	mazF
+K18767	K03317	0.0068056465696152	TC.CNT; concentrative nucleoside transporter, CNT family
+K18767	K09791	0.0068050604401851	K09791; uncharacterized protein
+K18767	K01664	0.0068024222816993	pabA; para-aminobenzoate synthetase component II [EC:2.6.1.85]
+K18767	K23886	0.0067830765542031	CISD3; CDGSH iron-sulfur domain-containing protein 3
+K18767	K18707	0.0067814211647208	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]

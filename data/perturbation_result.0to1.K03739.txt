@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K03739	K15371	GDH2; glutamate dehydrogenase [EC:1.4.1.2]	0.726970723788432	0.6890304954039853
+K03739	K02663	pilN; type IV pilus assembly protein PilN	0.726970723788432	0.6891004580240436
+K03739	K10764	metZ; O-succinylhomoserine sulfhydrylase [EC:2.5.1.-]	0.726970723788432	0.6916723509940459
+K03739	K03724	lhr; ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	0.726970723788432	0.6922197548389406
+K03739	K01057	PGLS, pgl, devB; 6-phosphogluconolactonase [EC:3.1.1.31]	0.726970723788432	0.6931367676145541
+K03739	K00252	GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]	0.726970723788432	0.6966738605769848
+K03739	K08084	fimT; type IV fimbrial biogenesis protein FimT	0.726970723788432	0.6973042047024357
+K03739	K02230	cobN; cobaltochelatase CobN [EC:6.6.1.2]	0.726970723788432	0.7010198020848977
+K03739	K06876	K06876; deoxyribodipyrimidine photolyase-related protein	0.726970723788432	0.701538906749975
+K03739	K14998	SURF1, SHY1; surfeit locus 1 family protein	0.726970723788432	0.7017403682550744
+K03739	K09928	K09928; uncharacterized protein	0.726970723788432	0.7018606028387507
+K03739	K02666	pilQ; type IV pilus assembly protein PilQ	0.726970723788432	0.7024085382161389
+K03739	K02258	COX11, ctaG; cytochrome c oxidase assembly protein subunit 11	0.726970723788432	0.7025914952665554
+K03739	K13529	ada-alkA; AraC family transcriptional regulator, regulatory protein of adaptative response / DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	0.726970723788432	0.703039234641353
+K03739	K01724	PCBD, phhB; 4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]	0.726970723788432	0.7033470209594015
+K03739	K00728	POMT, pmt; dolichyl-phosphate-mannose-protein mannosyltransferase [EC:2.4.1.109]	0.726970723788432	0.704837817514592
+K03739	K02276	coxC, ctaE; cytochrome c oxidase subunit III [EC:7.1.1.9]	0.726970723788432	0.7056314070799274
+K03739	K01113	phoD; alkaline phosphatase D [EC:3.1.3.1]	0.726970723788432	0.7066056291083946
+K03739	K16171	faaH; fumarylacetoacetate (FAA) hydrolase [EC:3.7.1.2]	0.726970723788432	0.7066801577568171
+K03739	K18893	vcaM; ATP-binding cassette, subfamily B, multidrug efflux pump	0.726970723788432	0.7080743882791236
+K03739	K03560	tolR; biopolymer transport protein TolR	0.726970723788432	0.7092646120106948
+K03739	K18336	lra6; 2,4-didehydro-3-deoxy-L-rhamnonate hydrolase [EC:3.7.1.26]	0.726970723788432	0.7095001209876853
+K03739	K08744	CRLS; cardiolipin synthase (CMP-forming) [EC:2.7.8.41]	0.726970723788432	0.710198712034822
+K03739	K08973	hemJ; protoporphyrinogen IX oxidase [EC:1.3.99.-]	0.726970723788432	0.7108487407700732
+K03739	K12941	abgB; aminobenzoyl-glutamate utilization protein B	0.726970723788432	0.7445232868121059

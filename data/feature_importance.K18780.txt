@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18780	K02401	0.0087484419309382	flhB; flagellar biosynthetic protein FlhB
+K18780	K03594	0.0083354903229424	bfr; bacterioferritin [EC:1.16.3.1]
+K18780	mobileOG_000031464	0.0082113002070586	mutT
+K18780	K01809	0.0081980929648132	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18780	K02421	0.0079638589245381	fliR; flagellar biosynthetic protein FliR
+K18780	K01512	0.007912269844454	acyP; acylphosphatase [EC:3.6.1.7]
+K18780	K02406	0.0078093534743368	fliC; flagellin
+K18780	K11070	0.0077858965075392	potC; spermidine/putrescine transport system permease protein
+K18780	K03767	0.007765094756518	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18780	K01480	0.0076592555487505	speB; agmatinase [EC:3.5.3.11]
+K18780	K07010	0.007657210587503	K07010; putative glutamine amidotransferase
+K18780	K06872	0.0076148401374891	K06872; uncharacterized protein
+K18780	K10439	0.0075811054016015	rbsB; ribose transport system substrate-binding protein
+K18780	K07160	0.0074221553721519	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18780	K07124	0.0073321452785396	K07124; uncharacterized protein
+K18780	K01760	0.0072862645491537	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18780	K02575	0.0070831415082027	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18780	K06996	0.007067758272105	K06996; uncharacterized protein
+K18780	K00375	0.0070289269997239	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18780	K01432	0.0070035518631332	AFMID; arylformamidase [EC:3.5.1.9]
+K18780	K00424	0.0070033921160543	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K18780	K07646	0.0070017666257581	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18780	K02011	0.006987536155677	afuB, fbpB; iron(III) transport system permease protein
+K18780	mobileOG_000300939	0.006976011421285	uvrA
+K18780	K17723	0.0069377775610891	preA; dihydropyrimidine dehydrogenase (NAD+) subunit PreA [EC:1.3.1.1]
+K18780	K02039	0.0069008447479771	phoU; phosphate transport system protein
+K18780	K10228	0.0068937681874129	smoF, mtlF; sorbitol/mannitol transport system permease protein
+K18780	K08225	0.0068706487951897	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter
+K18780	K06956	0.0068705849842332	K06956; uncharacterized protein
+K18780	K15578	0.0068615219199846	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K18780	K08682	0.0068408938146934	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K18780	K20938	0.0068252868183148	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]
+K18780	mobileOG_000093088	0.0068150203308511	ftsZ
+K18780	K18981	0.0068043531819929	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18780	K02389	0.0067983195748334	flgD; flagellar basal-body rod modification protein FlgD
+K18780	K10229	0.0067657174310273	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K18780	K23535	0.0067650942201226	nupB; general nucleoside transport system permease protein
+K18780	K01912	0.0067606833511149	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18780	K13015	0.0067532378149504	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K18780	K01919	0.0067510058942921	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K18780	K01058	0.006750859043619	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]
+K18780	K02016	0.006746673253598	ABC.FEV.S; iron complex transport system substrate-binding protein
+K18780	K09765	0.0066937197221088	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K18780	K03773	0.0066931027973994	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K18780	K11354	0.006687763506463	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]
+K18780	K01469	0.0066672466659831	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+K18780	K15461	0.0066614117440138	mnmC; tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-]
+K18780	K03690	0.0066592776757847	ubiJ; ubiquinone biosynthesis protein UbiJ
+K18780	K02494	0.0066505452727499	lolB; outer membrane lipoprotein LolB
+K18780	K13626	0.0066466370182739	fliW; flagellar assembly factor FliW

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18589	K01610	0.008310529114152	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K18589	K07124	0.008234470728796	K07124; uncharacterized protein
+K18589	K00252	0.0082262248449586	GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]
+K18589	K00845	0.0081155114837461	glk; glucokinase [EC:2.7.1.2]
+K18589	K03767	0.0080452620070842	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18589	K02401	0.0079795811413491	flhB; flagellar biosynthetic protein FlhB
+K18589	K07160	0.0079622901629523	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18589	K01480	0.0079593342365649	speB; agmatinase [EC:3.5.3.11]
+K18589	mobileOG_000031464	0.0078814256095748	mutT
+K18589	K02421	0.0078629664813804	fliR; flagellar biosynthetic protein FliR
+K18589	K01512	0.0078474544128264	acyP; acylphosphatase [EC:3.6.1.7]
+K18589	K06872	0.0077899213379859	K06872; uncharacterized protein
+K18589	K07010	0.0077570327321371	K07010; putative glutamine amidotransferase
+K18589	K02406	0.0076296915784485	fliC; flagellin
+K18589	K01760	0.0075686227685318	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18589	K06996	0.0074673817819602	K06996; uncharacterized protein
+K18589	K03594	0.0074375356096553	bfr; bacterioferritin [EC:1.16.3.1]
+K18589	K00375	0.0074276584091506	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18589	K02011	0.0074096418224969	afuB, fbpB; iron(III) transport system permease protein
+K18589	K07646	0.0073734887710273	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18589	K14393	0.0073312919275301	actP; cation/acetate symporter
+K18589	K01809	0.0072586853875683	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18589	K19267	0.0072554197096492	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18589	K06145	0.0072368421468591	gntR; LacI family transcriptional regulator, gluconate utilization system Gnt-I transcriptional repressor
+K18589	K02575	0.007111235212972	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18589	K10439	0.0071073554434529	rbsB; ribose transport system substrate-binding protein
+K18589	K00865	0.0070847425473538	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18589	K03717	0.0070467192494836	nhaR; LysR family transcriptional regulator, transcriptional activator of nhaA
+K18589	K07507	0.0070363473014375	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18589	K01912	0.0069900536832993	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18589	K02016	0.0069701736576726	ABC.FEV.S; iron complex transport system substrate-binding protein
+K18589	K11263	0.0068970085248892	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]
+K18589	K06136	0.0068829899592188	pqqB; pyrroloquinoline quinone biosynthesis protein B
+K18589	K05973	0.0068802881185846	phaZ; poly(3-hydroxybutyrate) depolymerase [EC:3.1.1.75]
+K18589	K15460	0.0068587089458267	yfiC, trmX; tRNA1Val (adenine37-N6)-methyltransferase [EC:2.1.1.223]
+K18589	K04072	0.0068522685334336	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]
+K18589	K16167	0.006848731117121	bpsA, srsA, pks11, pks10; alkylresorcinol/alkylpyrone synthase
+K18589	K07077	0.0068481360945179	K07077; uncharacterized protein
+K18589	K20469	0.0067964117021478	K20469; putative heme transporter
+K18589	K06976	0.0067599206404198	K06976; uncharacterized protein
+K18589	K01545	0.0067399228868351	kdpF; potassium-transporting ATPase KdpF subunit
+K18589	K10229	0.0067356243435483	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K18589	K08482	0.0066932176407247	kaiC; circadian clock protein KaiC
+K18589	K01788	0.0066625549910049	nanE; N-acylglucosamine-6-phosphate 2-epimerase [EC:5.1.3.9]
+K18589	K04568	0.0066078136990913	epmA, poxA; elongation factor P--(R)-beta-lysine ligase [EC:6.3.1.-]
+K18589	K03981	0.0066048296753489	dsbC; thiol:disulfide interchange protein DsbC [EC:5.3.4.1]
+K18589	K02008	0.0065913511814617	cbiQ; cobalt/nickel transport system permease protein
+K18589	K00446	0.0065911792658409	dmpB, xylE; catechol 2,3-dioxygenase [EC:1.13.11.2]
+K18589	mobileOG_000134996	0.0065886565641968	mazF
+K18589	K03181	0.0065879905117528	ubiC; chorismate--pyruvate lyase [EC:4.1.3.40]

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18833	K01480	0.007846610945781	speB; agmatinase [EC:3.5.3.11]
+K18833	K11070	0.0077833920987363	potC; spermidine/putrescine transport system permease protein
+K18833	K03973	0.0077512881807798	pspC; phage shock protein C
+K18833	K07126	0.0076810859958268	K07126; uncharacterized protein
+K18833	K11071	0.0076139092916572	potB; spermidine/putrescine transport system permease protein
+K18833	mobileOG_000024458	0.0075443049195574	dnaE
+K18833	K00325	0.007421700637029	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K18833	activated_sludge	0.0074078948868966	
+K18833	K05786	0.0073608696641943	rarD; chloramphenicol-sensitive protein RarD
+K18833	K01512	0.0073128289359615	acyP; acylphosphatase [EC:3.6.1.7]
+K18833	K14393	0.0073044857347283	actP; cation/acetate symporter
+K18833	K01760	0.0071380176225563	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18833	K19267	0.0070972006179579	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18833	K02011	0.0070396921754757	afuB, fbpB; iron(III) transport system permease protein
+K18833	K02392	0.0070190029276014	flgG; flagellar basal-body rod protein FlgG
+K18833	K03767	0.0070035159131757	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18833	K00847	0.0069902981091021	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K18833	K01821	0.0069625093744928	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18833	mobileOG_000031464	0.0068987173446478	mutT
+K18833	K03803	0.0068982936922956	rseC; sigma-E factor negative regulatory protein RseC
+K18833	K07010	0.0068727763628585	K07010; putative glutamine amidotransferase
+K18833	K06949	0.006841267449036	rsgA, engC; ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100]
+K18833	K01451	0.0068273614176855	hipO; hippurate hydrolase [EC:3.5.1.32]
+K18833	K03407	0.0067200193156092	cheA; two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]
+K18833	K01912	0.0066870966080682	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18833	K06996	0.0066571436660823	K06996; uncharacterized protein
+K18833	K07112	0.0066232793737933	K07112; uncharacterized protein
+K18833	K06158	0.0066033236923708	ABCF3; ATP-binding cassette, subfamily F, member 3
+K18833	K07646	0.0065962958761996	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18833	K06872	0.0065757474747933	K06872; uncharacterized protein
+K18833	K12267	0.0065641027038518	msrAB; peptide methionine sulfoxide reductase msrA/msrB [EC:1.8.4.11 1.8.4.12]
+K18833	K08167	0.0065458897451161	smvA, qacA, lfrA; MFS transporter, DHA2 family, multidrug resistance protein
+K18833	K09121	0.0065227095460491	larC; pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel chelatase [EC:4.99.1.12]
+K18833	K06898	0.0065163059422652	larB; pyridinium-3,5-biscarboxylic acid mononucleotide synthase [EC:2.5.1.143]
+K18833	K09948	0.0065032541145354	K09948; uncharacterized protein
+K18833	mobileOG_000134996	0.0064799024730916	mazF
+K18833	K00349	0.0064234919017017	nqrD; Na+-transporting NADH:ubiquinone oxidoreductase subunit D [EC:7.2.1.1]
+K18833	K04477	0.0064163964171785	ycdX; putative hydrolase
+K18833	K00757	0.0064163683517405	udp, UPP; uridine phosphorylase [EC:2.4.2.3]
+K18833	K02416	0.0064085632568476	fliM; flagellar motor switch protein FliM
+K18833	K06864	0.0064024288952237	larE; pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase [EC:4.4.1.37]
+K18833	K02073	0.0063981412853897	metQ; D-methionine transport system substrate-binding protein
+K18833	K09164	0.0063946234850128	K09164; uncharacterized protein
+K18833	K00375	0.0063501177846636	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18833	mobileOG_000127353	0.0062928531757863	mutL
+K18833	K01479	0.0062823680619084	hutG; formiminoglutamase [EC:3.5.3.8]
+K18833	K13693	0.006278054757038	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]
+K18833	K00853	0.0062587556230622	araB; L-ribulokinase [EC:2.7.1.16]
+K18833	K01893	0.0062487263641143	NARS, asnS; asparaginyl-tRNA synthetase [EC:6.1.1.22]
+K18833	K11085	0.006224411522041	msbA; ATP-binding cassette, subfamily B, bacterial MsbA [EC:3.6.3.-]

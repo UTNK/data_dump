@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K17836	K11991	tadA; tRNA(adenine34) deaminase [EC:3.5.4.33]	0.5327965491673672	0.5098212153541956
+K17836	mobileOG_000269195	traR	0.5327965491673672	0.5140562838326098
+K17836	mobileOG_000342713	mutY	0.5327965491673672	0.51428341868647
+K17836	K03589	ftsQ; cell division protein FtsQ	0.5327965491673672	0.51480159421025
+K17836	mobileOG_000054979	recQ	0.5327965491673672	0.5161364886235789
+K17836	K02837	prfC; peptide chain release factor 3	0.5327965491673672	0.5164306853970837
+K17836	K03665	hflX; GTPase	0.5327965491673672	0.5173545035733655
+K17836	K03768	PPIB, ppiB; peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	0.5327965491673672	0.5211523907951511
+K17836	K07552	bcr, tcaB; MFS transporter, DHA1 family, multidrug resistance protein	0.5327965491673672	0.5219754551629723
+K17836	K11752	ribD; diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]	0.5327965491673672	0.5232512623301463
+K17836	K01754	E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]	0.5327965491673672	0.524333348205727
+K17836	K11717	sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	0.5327965491673672	0.524992120990265
+K17836	K04761	oxyR; LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator	0.5327965491673672	0.5252975392637452
+K17836	K01719	hemD, UROS; uroporphyrinogen-III synthase [EC:4.2.1.75]	0.5327965491673672	0.5253548678865072
+K17836	K06020	ettA; energy-dependent translational throttle protein EttA	0.5327965491673672	0.5255531989172412
+K17836	K02528	ksgA; 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	0.5327965491673672	0.5258602066540431
+K17836	K00241	sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit	0.5327965491673672	0.526216550710336
+K17836	K02013	ABC.FEV.A; iron complex transport system ATP-binding protein [EC:7.2.2.-]	0.5327965491673672	0.526579955671218
+K17836	K03719	lrp; Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	0.5327965491673672	0.5266338332696588
+K17836	K03564	BCP, PRXQ, DOT5; thioredoxin-dependent peroxiredoxin [EC:1.11.1.24]	0.5327965491673672	0.5276180507077982
+K17836	K02493	hemK, prmC, HEMK; release factor glutamine methyltransferase [EC:2.1.1.297]	0.5327965491673672	0.5276829856593548
+K17836	K01589	purK; 5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	0.5327965491673672	0.5282619958276459
+K17836	K01489	cdd, CDA; cytidine deaminase [EC:3.5.4.5]	0.5327965491673672	0.528401526857253
+K17836	K00287	DHFR, folA; dihydrofolate reductase [EC:1.5.1.3]	0.5327965491673672	0.5285916014988143
+K17836	crab		0.5327965491673672	0.536810595337897

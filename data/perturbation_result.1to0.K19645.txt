@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19645	K04033	eutR; AraC family transcriptional regulator, ethanolamine operon transcriptional activator	0.0031960276751368	0.0024966902148196
+K19645	K04653	hypC; hydrogenase expression/formation protein HypC	0.0031960276751368	0.0038955681858352
+K19645	K07224	efeO; iron uptake system component EfeO	0.0031960276751368	0.0038957789876258
+K19645	K09975	K09975; uncharacterized protein	0.0031960276751368	0.003995368429418
+K19645	K04651	hypA, hybF; hydrogenase nickel incorporation protein HypA/HybF	0.0031960276751368	0.003995546539109
+K19645	K06182	rluF; 23S rRNA pseudouridine2604 synthase [EC:5.4.99.21]	0.0031960276751368	0.0041950209769661
+K19645	K00768	E2.4.2.21, cobU, cobT; nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase [EC:2.4.2.21]	0.0031960276751368	0.0041952466520336
+K19645	K00971	manC, cpsB; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	0.0031960276751368	0.0041954497210816
+K19645	K16011	algA, xanB, rfbA, wbpW, pslB; mannose-1-phosphate guanylyltransferase / mannose-6-phosphate isomerase [EC:2.7.7.13 5.3.1.8]	0.0031960276751368	0.0042954126473542
+K19645	K06894	yfhM; alpha-2-macroglobulin	0.0031960276751368	0.0044945373299137
+K19645	K03676	grxC, GLRX, GLRX2; glutaredoxin 3	0.0031960276751368	0.0044949294425482
+K19645	K07112	K07112; uncharacterized protein	0.0031960276751368	0.0044952022427668
+K19645	K01480	speB; agmatinase [EC:3.5.3.11]	0.0031960276751368	0.004594862659113
+K19645	K05846	opuBD; osmoprotectant transport system permease protein	0.0031960276751368	0.0046948488228786
+K19645	K09781	K09781; uncharacterized protein	0.0031960276751368	0.00469501458622
+K19645	K07156	copC, pcoC; copper resistance protein C	0.0031960276751368	0.0047950119680747
+K19645	K05845	opuC; osmoprotectant transport system substrate-binding protein	0.0031960276751368	0.0048949290861548
+K19645	K03310	TC.AGCS; alanine or glycine:cation symporter, AGCS family	0.0031960276751368	0.0051947056530034
+K19645	K12972	ghrA; glyoxylate/hydroxypyruvate reductase [EC:1.1.1.79 1.1.1.81]	0.0031960276751368	0.0056941816779999
+K19645	K04758	feoA; ferrous iron transport protein A	0.0031960276751368	0.0059945461799443
+K19645	K06969	rlmI; 23S rRNA (cytosine1962-C5)-methyltransferase [EC:2.1.1.191]	0.0031960276751368	0.0072938358956499
+K19645	K03281	TC.CIC; chloride channel protein, CIC family	0.0031960276751368	0.0078941400130072
+K19645	K01620	ltaE; threonine aldolase [EC:4.1.2.48]	0.0031960276751368	0.0080930169076269
+K19645	K10680	nemA; N-ethylmaleimide reductase [EC:1.-.-.-]	0.0031960276751368	0.0080949957300295
+K19645	K03787	surE; 5-nucleotidase [EC:3.1.3.5]	0.0031960276751368	0.0094928472364184

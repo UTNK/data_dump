@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18350	mobileOG_000037882	nusG	0.0017257439778389	0.0027420103822206
+K18350	K03592	pmbA; PmbA protein	0.0017257439778389	0.0027585824188752
+K18350	K03801	lipB; lipoyl(octanoyl) transferase [EC:2.3.1.181]	0.0017257439778389	0.0027706163794349
+K18350	K01679	E4.2.1.2B, fumC, FH; fumarate hydratase, class II [EC:4.2.1.2]	0.0017257439778389	0.0029049893465256
+K18350	K00979	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]	0.0017257439778389	0.0029626585414543
+K18350	K03820	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.269]	0.0017257439778389	0.0029760706989945
+K18350	K00912	lpxK; tetraacyldisaccharide 4-kinase [EC:2.7.1.130]	0.0017257439778389	0.0029770993390764
+K18350	K04744	lptD, imp, ostA; LPS-assembly protein	0.0017257439778389	0.003041218534414
+K18350	K00324	pntA; H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1]	0.0017257439778389	0.0030553354052944
+K18350	K03637	moaC, CNX3; cyclic pyranopterin monophosphate synthase [EC:4.6.1.17]	0.0017257439778389	0.0031974649765418
+K18350	K09774	lptA; lipopolysaccharide export system protein LptA	0.0017257439778389	0.0033924548206745
+K18350	K04065	osmY; hyperosmotically inducible periplasmic protein	0.0017257439778389	0.0034036559378044
+K18350	K03585	acrA, mexA, adeI, smeD, mtrC, cmeA; membrane fusion protein, multidrug efflux system	0.0017257439778389	0.0034708611521136
+K18350	K10680	nemA; N-ethylmaleimide reductase [EC:1.-.-.-]	0.0017257439778389	0.0038228227317951
+K18350	K00677	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	0.0017257439778389	0.0039852214798961
+K18350	K00325	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]	0.0017257439778389	0.0040764795231313
+K18350	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]	0.0017257439778389	0.0041614103952785
+K18350	K01129	dgt; dGTPase [EC:3.1.5.1]	0.0017257439778389	0.0044207311575142
+K18350	K02065	mlaF, linL, mkl; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein	0.0017257439778389	0.0047888421445353
+K18350	K02067	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	0.0017257439778389	0.0050621613455289
+K18350	K00281	GLDC, gcvP; glycine dehydrogenase [EC:1.4.4.2]	0.0017257439778389	0.0051004253541087
+K18350	K02066	mlaE, linK; phospholipid/cholesterol/gamma-HCH transport system permease protein	0.0017257439778389	0.0051411999068321
+K18350	K03559	exbD; biopolymer transport protein ExbD	0.0017257439778389	0.0066385482029884
+K18350	K03561	exbB; biopolymer transport protein ExbB	0.0017257439778389	0.0068838768627442
+K18350	K01895	ACSS1_2, acs; acetyl-CoA synthetase [EC:6.2.1.1]	0.0017257439778389	0.0079366530929051

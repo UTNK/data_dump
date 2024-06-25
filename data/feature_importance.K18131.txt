@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18131	K02421	0.0085073472544467	fliR; flagellar biosynthetic protein FliR
+K18131	K02406	0.0083816705336424	fliC; flagellin
+K18131	K07160	0.0082849961330236	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18131	K07124	0.0082753286929618	K07124; uncharacterized protein
+K18131	K01512	0.0082366589327143	acyP; acylphosphatase [EC:3.6.1.7]
+K18131	K01809	0.0082173240525905	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18131	K06872	0.0079176334106725	K06872; uncharacterized protein
+K18131	K03594	0.0078209590100538	bfr; bacterioferritin [EC:1.16.3.1]
+K18131	K03767	0.0077629543696826	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18131	K11070	0.0077629543696826	potC; spermidine/putrescine transport system permease protein
+K18131	K01480	0.007733952049497	speB; agmatinase [EC:3.5.3.11]
+K18131	K01760	0.0077242846094351	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18131	K02401	0.0077049497293113	flhB; flagellar biosynthetic protein FlhB
+K18131	mobileOG_000031464	0.0075406032482595	mutT
+K18131	K02011	0.0074342614075789	afuB, fbpB; iron(III) transport system permease protein
+K18131	K02575	0.0073472544470221	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18131	mobileOG_000026018	0.0073279195668983	xerC
+K18131	K07010	0.0072989172467128	K07010; putative glutamine amidotransferase
+K18131	K07507	0.007202242846094	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18131	K10439	0.0070862335653516	rbsB; ribose transport system substrate-binding protein
+K18131	K06996	0.0070668986852279	K06996; uncharacterized protein
+K18131	K07646	0.0070185614849185	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18131	K01912	0.0070088940448566	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18131	K11074	0.0070088940448566	potI; putrescine transport system permease protein
+K18131	K00375	0.0069702242846091	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18131	biofilm	0.0069315545243616	
+K18131	K13015	0.0069122196442379	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K18131	K01821	0.0069122196442379	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18131	K01886	0.0068445475638048	QARS, glnS; glutaminyl-tRNA synthetase [EC:6.1.1.18]
+K18131	K23509	0.0068445475638048	ytfT, yjfF; galactofuranose transport system permease protein
+K18131	K19267	0.006834880123743	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18131	mobileOG_000093088	0.006834880123743	ftsZ
+K18131	K06976	0.0068155452436192	K06976; uncharacterized protein
+K18131	K09765	0.0068058778035573	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K18131	K13626	0.0067092034029386	fliW; flagellar assembly factor FliW
+K18131	K15578	0.0066608662026292	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K18131	K01857	0.0066608662026292	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2]
+K18131	K01167	0.0066511987625673	rnaSA; ribonuclease T1 [EC:4.6.1.24]
+K18131	K01631	0.0066221964423818	dgoA; 2-dehydro-3-deoxyphosphogalactonate aldolase [EC:4.1.2.21]
+K18131	K02074	0.0065931941221961	ABC.ZM.A; zinc/manganese transport system ATP-binding protein
+K18131	mobileOG_000176095	0.0065931941221961	recR
+K18131	K05845	0.0065738592420724	opuC; osmoprotectant transport system substrate-binding protein
+K18131	K11073	0.0065738592420724	potF; putrescine transport system substrate-binding protein
+K18131	K03605	0.0065641918020105	hyaD, hybD; hydrogenase maturation protease [EC:3.4.23.-]
+K18131	K18682	0.0065641918020105	rny; ribonucrease Y [EC:3.1.-.-]
+K18131	K05601	0.0065641918020105	hcp; hydroxylamine reductase [EC:1.7.99.1]
+K18131	K02054	0.0065448569218867	ABC.SP.P1; putative spermidine/putrescine transport system permease protein
+K18131	K07096	0.0065448569218867	K07096; uncharacterized protein
+K18131	K18118	0.0065351894818249	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]
+K18131	mobileOG_000327567	0.0065351894818249	mutM

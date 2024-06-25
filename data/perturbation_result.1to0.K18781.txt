@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18781	K08172	shiA; MFS transporter, MHS family, shikimate and dehydroshikimate transport protein	0.3123881631790375	0.2752918236181644
+K18781	K06975	K06975; uncharacterized protein	0.3123881631790375	0.2857004694160399
+K18781	K06183	rsuA; 16S rRNA pseudouridine516 synthase [EC:5.4.99.19]	0.3123881631790375	0.2858891754442603
+K18781	K00262	E1.4.1.4, gdhA; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]	0.3123881631790375	0.2871071962398824
+K18781	K16053	ybdG, mscM; miniconductance mechanosensitive channel	0.3123881631790375	0.2872997035541381
+K18781	K03762	proP; MFS transporter, MHS family, proline/betaine transporter	0.3123881631790375	0.2875955030868853
+K18781	K02168	betT, betS; choline/glycine/proline betaine transport protein	0.3123881631790375	0.2917381480859519
+K18781	K02455	gspF; general secretion pathway protein F	0.3123881631790375	0.2919084560156926
+K18781	K07223	yfeX; porphyrinogen peroxidase [EC:1.11.1.-]	0.3123881631790375	0.2921425770636134
+K18781	K02457	gspH; general secretion pathway protein H	0.3123881631790375	0.2933762178479492
+K18781	K02510	hpaI, hpcH; 4-hydroxy-2-oxoheptanedioate aldolase [EC:4.1.2.52]	0.3123881631790375	0.2933957916636716
+K18781	K14261	alaC; alanine-synthesizing transaminase [EC:2.6.1.-]	0.3123881631790375	0.2941303196965736
+K18781	K24217		0.3123881631790375	0.2941799391721363
+K18781	K11074	potI; putrescine transport system permease protein	0.3123881631790375	0.2949863476070963
+K18781	K11073	potF; putrescine transport system substrate-binding protein	0.3123881631790375	0.2951026002484832
+K18781	K00299	ssuE; FMN reductase [EC:1.5.1.38]	0.3123881631790375	0.2959815510642363
+K18781	mobileOG_000091056	epsF	0.3123881631790375	0.2965291136291051
+K18781	K02458	gspI; general secretion pathway protein I	0.3123881631790375	0.2969233494158455
+K18781	K00675	nhoA; N-hydroxyarylamine O-acetyltransferase [EC:2.3.1.118]	0.3123881631790375	0.2969998958502004
+K18781	K07793	tctA; putative tricarboxylic transport membrane protein	0.3123881631790375	0.2978175267717448
+K18781	K01297	ldcA; muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]	0.3123881631790375	0.2981391502295791
+K18781	K00868	pdxK, pdxY; pyridoxine kinase [EC:2.7.1.35]	0.3123881631790375	0.2982374711645018
+K18781	K09815	znuA; zinc transport system substrate-binding protein	0.3123881631790375	0.2987374600987739
+K18781	K02459	gspJ; general secretion pathway protein J	0.3123881631790375	0.2994720423625486
+K18781	K03181	ubiC; chorismate--pyruvate lyase [EC:4.1.3.40]	0.3123881631790375	0.2995444615521838

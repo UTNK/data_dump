@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18590	K00252	0.0092651194141075	GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]
+K18590	K01512	0.0083360717573275	acyP; acylphosphatase [EC:3.6.1.7]
+K18590	K02401	0.0083166630518688	flhB; flagellar biosynthetic protein FlhB
+K18590	K02421	0.0083122067603994	fliR; flagellar biosynthetic protein FliR
+K18590	mobileOG_000093088	0.0080203464879186	ftsZ
+K18590	K01809	0.0080113137456324	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18590	K01610	0.0079996853626423	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K18590	K00865	0.0079289897469626	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18590	K03594	0.0078541690399256	bfr; bacterioferritin [EC:1.16.3.1]
+K18590	K01480	0.0077213198821967	speB; agmatinase [EC:3.5.3.11]
+K18590	K03641	0.0076410268033012	tolB; TolB protein
+K18590	K10228	0.0076216301599986	smoF, mtlF; sorbitol/mannitol transport system permease protein
+K18590	K00362	0.0075921972603639	nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]
+K18590	K07160	0.0075516014467104	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18590	K10439	0.0075507918915173	rbsB; ribose transport system substrate-binding protein
+K18590	K20469	0.0075373486597881	K20469; putative heme transporter
+K18590	K07010	0.0075151852228153	K07010; putative glutamine amidotransferase
+K18590	K06872	0.0075074635443741	K06872; uncharacterized protein
+K18590	K02011	0.007424932546127	afuB, fbpB; iron(III) transport system permease protein
+K18590	K03767	0.0074003538295637	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18590	K06976	0.0073266449092612	K06976; uncharacterized protein
+K18590	K18981	0.0073266449092611	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18590	K03569	0.0073169201207753	mreB; rod shape-determining protein MreB and related proteins
+K18590	K01760	0.0072841305509804	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18590	mobileOG_000031464	0.007239335482833	mutT
+K18590	K01545	0.0072261554282408	kdpF; potassium-transporting ATPase KdpF subunit
+K18590	K02575	0.0071982539296415	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18590	K13485	0.0071678066973257	PRHOXNB, URAD; 2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase [EC:4.1.1.97]
+K18590	K23264	0.0071678066973256	purS; phosphoribosylformylglycinamidine synthase subunit PurS [EC:6.3.5.3]
+K18590	K01912	0.0071338391292046	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18590	K07096	0.0071256659472203	K07096; uncharacterized protein
+K18590	K00375	0.0071249991816899	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18590	K13893	0.0071224243510584	yejA; microcin C transport system substrate-binding protein
+K18590	K07232	0.0071113956111313	CHAC, chaC; glutathione-specific gamma-glutamylcyclotransferase [EC:4.3.2.7]
+K18590	K07124	0.0070963398648009	K07124; uncharacterized protein
+K18590	K03415	0.0070770420047912	cheV; two-component system, chemotaxis family, chemotaxis protein CheV
+K18590	K06975	0.0070675226857235	K06975; uncharacterized protein
+K18590	K00406	0.0070511092354954	ccoP; cytochrome c oxidase cbb3-type subunit III
+K18590	K07101	0.0070494695816963	K07101; uncharacterized protein
+K18590	K06996	0.0070458863429084	K06996; uncharacterized protein
+K18590	K01191	0.0070413844470096	MAN2C1; alpha-mannosidase [EC:3.2.1.24]
+K18590	K07507	0.0070319190453573	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18590	K09972	0.007029823200841	aapP, bztD; general L-amino acid transport system ATP-binding protein [EC:7.4.2.1]
+K18590	K08482	0.0070219348700378	kaiC; circadian clock protein KaiC
+K18590	K12658	0.0069991776088368	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]
+K18590	K24206	0.0069895189084184	
+K18590	K15460	0.0069700693314467	yfiC, trmX; tRNA1Val (adenine37-N6)-methyltransferase [EC:2.1.1.223]
+K18590	K15975	0.0069628306767473	K15975; glyoxalase family protein
+K18590	K08084	0.0069538613506369	fimT; type IV fimbrial biogenesis protein FimT
+K18590	K00333	0.0069344117736651	nuoD; NADH-quinone oxidoreductase subunit D [EC:7.1.1.2]

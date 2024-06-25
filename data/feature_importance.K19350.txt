@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19350	K01886	0.0077956539304033	QARS, glnS; glutaminyl-tRNA synthetase [EC:6.1.1.18]
+K19350	K07126	0.0077923723776017	K07126; uncharacterized protein
+K19350	K00108	0.0076109492093863	betA, CHDH; choline dehydrogenase [EC:1.1.99.1]
+K19350	K02406	0.0075321461608718	fliC; flagellin
+K19350	K00138	0.0074978927445019	aldB; aldehyde dehydrogenase [EC:1.2.1.-]
+K19350	K06975	0.0074616836480506	K06975; uncharacterized protein
+K19350	K06872	0.007340563364925	K06872; uncharacterized protein
+K19350	K02011	0.0073075126213449	afuB, fbpB; iron(III) transport system permease protein
+K19350	K01760	0.0071549584924817	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19350	K23269	0.0070438594092111	purL; phosphoribosylformylglycinamidine synthase subunit PurL [EC:6.3.5.3]
+K19350	K07112	0.0069813981285713	K07112; uncharacterized protein
+K19350	K06867	0.0069637282145688	K06867; uncharacterized protein
+K19350	K00548	0.0069389192168249	metH, MTR; 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]
+K19350	mobileOG_000301711	0.0069093651453794	fhuE
+K19350	K00027	0.0068775542899103	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K19350	K07010	0.0068755553013927	K07010; putative glutamine amidotransferase
+K19350	K05275	0.0068658513342652	E1.1.1.65; pyridoxine 4-dehydrogenase [EC:1.1.1.65]
+K19350	K10680	0.006844308547411	nemA; N-ethylmaleimide reductase [EC:1.-.-.-]
+K19350	K07124	0.0067501087416916	K07124; uncharacterized protein
+K19350	K09125	0.0067495706542941	yhhQ; queuosine precursor transporter
+K19350	mobileOG_000031464	0.0067342617778641	mutT
+K19350	K02012	0.0066762511788758	afuA, fbpA; iron(III) transport system substrate-binding protein
+K19350	K03651	0.006650659657448	cpdA; 3,5-cyclic-AMP phosphodiesterase [EC:3.1.4.53]
+K19350	K02362	0.0066278304473286	entD; enterobactin synthetase component D [EC:6.3.2.14 2.7.8.-]
+K19350	K07245	0.0065927222023471	pcoD; copper resistance protein D
+K19350	K13821	0.0065854660264792	putA; RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]
+K19350	K23778	0.0065601146329232	rcdA; TetR/AcrR family transcriptional regulator, regulator of biofilm formation and stress response
+K19350	K16091	0.0065423715972641	fecA; Fe(3+) dicitrate transport protein
+K19350	K02426	0.0065297231033725	sufE; cysteine desulfuration protein SufE
+K19350	K14998	0.006488881757057	SURF1, SHY1; surfeit locus 1 family protein
+K19350	K15986	0.0064872989541818	ppaC; manganese-dependent inorganic pyrophosphatase [EC:3.6.1.1]
+K19350	K00674	0.0064684786452201	dapD; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase [EC:2.3.1.117]
+K19350	K08086	0.0064207836429724	fimV; pilus assembly protein FimV
+K19350	K07305	0.0063495299536355	msrB; peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]
+K19350	K06962	0.0063481635785599	K06962; uncharacterized protein
+K19350	K07507	0.0063360359559078	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19350	K01821	0.0062983375643513	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K19350	mobileOG_000334867	0.0062976785446243	nfo
+K19350	mobileOG_000213194	0.006281337329305	mazG
+K19350	K11741	0.006280482103981	sugE; quaternary ammonium compound-resistance protein SugE
+K19350	mobileOG_000330401	0.0062769176273067	ruvA
+K19350	K09764	0.0062762129453889	K09764; uncharacterized protein
+K19350	K07649	0.0062624072038747	tctE; two-component system, OmpR family, sensor histidine kinase TctE [EC:2.7.13.3]
+K19350	K03641	0.006257216948213	tolB; TolB protein
+K19350	K05563	0.00625225560395	phaF; multicomponent K+:H+ antiporter subunit F
+K19350	K17317	0.0062216489796212	gtsC, glcG; glucose/mannose transport system permease protein
+K19350	K00635	0.0062182722905219	tgs, wax-dgat; diacylglycerol O-acyltransferase / wax synthase [EC:2.3.1.20 2.3.1.75]
+K19350	K08744	0.0062140696082856	CRLS; cardiolipin synthase (CMP-forming) [EC:2.7.8.41]
+K19350	mobileOG_000375139	0.0062123611365787	nfuA
+K19350	K03801	0.0062095390520526	lipB; lipoyl(octanoyl) transferase [EC:2.3.1.181]

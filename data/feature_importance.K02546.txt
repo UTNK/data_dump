@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K02546	K01512	0.0085143807020235	acyP; acylphosphatase [EC:3.6.1.7]
+K02546	K01760	0.0084274006494489	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K02546	K02406	0.008156796041439	fliC; flagellin
+K02546	K01809	0.0081471315911529	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K02546	K02401	0.0080504870882923	flhB; flagellar biosynthetic protein FlhB
+K02546	K02421	0.0080408226380062	fliR; flagellar biosynthetic protein FliR
+K02546	K03594	0.0080311581877201	bfr; bacterioferritin [EC:1.16.3.1]
+K02546	K01480	0.0079248492345734	speB; agmatinase [EC:3.5.3.11]
+K02546	K03767	0.0078765269831431	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K02546	K02575	0.007866862532857	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K02546	K07010	0.0077798824802823	K07010; putative glutamine amidotransferase
+K02546	K11070	0.0077508891294242	potC; spermidine/putrescine transport system permease protein
+K02546	K02011	0.0077315602288521	afuB, fbpB; iron(III) transport system permease protein
+K02546	K07124	0.0076445801762774	K07124; uncharacterized protein
+K02546	K07160	0.0075092778722725	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K02546	K10439	0.00744162672027	rbsB; ribose transport system substrate-binding protein
+K02546	K00375	0.0073256533168372	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K02546	K07646	0.007296659965979	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K02546	K07224	0.0071613576619741	efeO; iron uptake system component EfeO
+K02546	K01912	0.0071420287614019	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K02546	mobileOG_000031464	0.0071033709602577	mutT
+K02546	mobileOG_000093088	0.0070647131591133	ftsZ
+K02546	K06996	0.0070357198082552	K06996; uncharacterized protein
+K02546	K06872	0.0069873975568248	K06872; uncharacterized protein
+K02546	K15578	0.0069100819545363	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K02546	K01821	0.0068907530539641	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K02546	K00266	0.0068617597031059	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K02546	K12658	0.0068037730013895	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]
+K02546	K02039	0.0067844441008174	phoU; phosphate transport system protein
+K02546	K18218	0.0067554507499592	tet35; tetracycline resistance efflux pump
+K02546	mobileOG_000026018	0.0067457862996731	xerC
+K02546	K19267	0.006726457399101	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K02546	biofilm	0.0067071284985289	
+K02546	K03192	0.0066974640482427	ureJ; urease accessory protein
+K02546	K17752	0.0066781351476706	rsbT; serine/threonine-protein kinase RsbT [EC:2.7.11.1]
+K02546	K10206	0.0066298128962403	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K02546	K08225	0.0066201484459542	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter
+K02546	K03717	0.0066201484459542	nhaR; LysR family transcriptional regulator, transcriptional activator of nhaA
+K02546	K15736	0.0066008195453821	lhgO; (S)-2-hydroxyglutarate dehydrogenase [EC:1.1.5.13]
+K02546	K01421	0.0065718261945239	yhgE; putative membrane protein
+K02546	K03300	0.0065718261945239	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family
+K02546	K11263	0.0065718261945239	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]
+K02546	K07101	0.0065621617442378	K07101; uncharacterized protein
+K02546	K18981	0.0065428328436657	udh; uronate dehydrogenase [EC:1.1.1.203]
+K02546	K03773	0.0065235039430936	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K02546	K01969	0.0065138394928075	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K02546	K01266	0.0065138394928075	dmpA, dap; D-aminopeptidase [EC:3.4.11.19]
+K02546	K03269	0.0065138394928075	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]
+K02546	K09765	0.0065041750425214	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K02546	K15532	0.0064945105922353	yteR, yesR; unsaturated rhamnogalacturonyl hydrolase [EC:3.2.1.172]

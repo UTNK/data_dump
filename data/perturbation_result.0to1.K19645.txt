@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19645	K01712	hutU, UROC1; urocanate hydratase [EC:4.2.1.49]	0.0031960276751368	0.0022969608493016
+K19645	K05836	hutC; GntR family transcriptional regulator, histidine utilization repressor	0.0031960276751368	0.002496921603204
+K19645	K15576	nrtA, nasF, cynA; nitrate/nitrite transport system substrate-binding protein	0.0031960276751368	0.0036958742680139
+K19645	K01857	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2]	0.0031960276751368	0.0038954353522222
+K19645	K15532	yteR, yesR; unsaturated rhamnogalacturonyl hydrolase [EC:3.2.1.172]	0.0031960276751368	0.0039947190635719
+K19645	K15578	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]	0.0031960276751368	0.0039955077886287
+K19645	K03724	lhr; ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	0.0031960276751368	0.0041953819105743
+K19645	K03325	ACR3, arsB; arsenite transporter	0.0031960276751368	0.0042949131803688
+K19645	K00018	hprA; glycerate dehydrogenase [EC:1.1.1.29]	0.0031960276751368	0.0042951214142051
+K19645	K07002	K07002; uncharacterized protein	0.0031960276751368	0.0042953318271202
+K19645	K22522	LOG; cytokinin riboside 5-monophosphate phosphoribohydrolase [EC:3.2.2.-]	0.0031960276751368	0.0044953633044109
+K19645	K12251	aguB; N-carbamoylputrescine amidase [EC:3.5.1.53]	0.0031960276751368	0.0045945709966697
+K19645	K07395	K07395; putative proteasome-type protease	0.0031960276751368	0.004894739059816
+K19645	K01198	xynB; xylan 1,4-beta-xylosidase [EC:3.2.1.37]	0.0031960276751368	0.0048950701771684
+K19645	K03300	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family	0.0031960276751368	0.0050947635290969
+K19645	K09765	queH; epoxyqueuosine reductase [EC:1.17.99.6]	0.0031960276751368	0.0050949161842812
+K19645	K13693	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]	0.0031960276751368	0.0055945924127133
+K19645	K12511	tadC; tight adherence protein C	0.0031960276751368	0.005694221766617
+K19645	K02279	cpaB, rcpC; pilus assembly protein CpaB	0.0031960276751368	0.0056945573816711
+K19645	mobileOG_000363469	intS	0.0031960276751368	0.005794654161992
+K19645	K07017	K07017; uncharacterized protein	0.0031960276751368	0.0061937524634962
+K19645	K05989	ramA; alpha-L-rhamnosidase [EC:3.2.1.40]	0.0031960276751368	0.0063948783687101
+K19645	K02054	ABC.SP.P1; putative spermidine/putrescine transport system permease protein	0.0031960276751368	0.0071926072201427
+K19645	K01266	dmpA, dap; D-aminopeptidase [EC:3.4.11.19]	0.0031960276751368	0.0086925408221378
+K19645	K21900	cysL; LysR family transcriptional regulator, transcriptional activator of the cysJI operon	0.0031960276751368	0.0087933003020137

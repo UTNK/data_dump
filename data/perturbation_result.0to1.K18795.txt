@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18795	K09983	K09983; uncharacterized protein	0.4531845000736249	0.401627374514862
+K18795	K12132	prkC, stkP; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	0.4531845000736249	0.4131667315450771
+K18795	K13529	ada-alkA; AraC family transcriptional regulator, regulatory protein of adaptative response / DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	0.4531845000736249	0.4153779837680581
+K18795	K10227	smoE, mtlE; sorbitol/mannitol transport system substrate-binding protein	0.4531845000736249	0.4228040892415769
+K18795	K18981	udh; uronate dehydrogenase [EC:1.1.1.203]	0.4531845000736249	0.4234435916168148
+K18795	K10229	smoG, mtlG; sorbitol/mannitol transport system permease protein	0.4531845000736249	0.4284554364013225
+K18795	K01322	PREP; prolyl oligopeptidase [EC:3.4.21.26]	0.4531845000736249	0.4290995339283179
+K18795	K10228	smoF, mtlF; sorbitol/mannitol transport system permease protein	0.4531845000736249	0.4305178444768702
+K18795	K01266	dmpA, dap; D-aminopeptidase [EC:3.4.11.19]	0.4531845000736249	0.4333470329268342
+K18795	K11354	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]	0.4531845000736249	0.4339783944833046
+K18795	K07386	pepO; putative endopeptidase [EC:3.4.24.-]	0.4531845000736249	0.4347645772885214
+K18795	K06991	K06991; uncharacterized protein	0.4531845000736249	0.4376915666353195
+K18795	K03317	TC.CNT; concentrative nucleoside transporter, CNT family	0.4531845000736249	0.4401305796464902
+K18795	K01857	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2]	0.4531845000736249	0.4405480186296708
+K18795	K20938	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]	0.4531845000736249	0.4418040855401462
+K18795	K13013	wbqV; O-antigen biosynthesis protein WbqV	0.4531845000736249	0.4419206385595896
+K18795	K21405	acoR; sigma-54 dependent transcriptional regulator, acetoin dehydrogenase operon transcriptional activator AcoR	0.4531845000736249	0.4432965506433939
+K18795	K11942	icmF; isobutyryl-CoA mutase [EC:5.4.99.13]	0.4531845000736249	0.443741394631973
+K18795	mobileOG_000330062	recR	0.4531845000736249	0.4437641689035115
+K18795	K12658	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]	0.4531845000736249	0.4446538960194749
+K18795	K05710	hcaC; 3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	0.4531845000736249	0.4446571115710531
+K18795	K15986	ppaC; manganese-dependent inorganic pyrophosphatase [EC:3.6.1.1]	0.4531845000736249	0.4452207527874428
+K18795	K07002	K07002; uncharacterized protein	0.4531845000736249	0.4455556028788905
+K18795	K14986	fixL; two-component system, LuxR family, sensor kinase FixL [EC:2.7.13.3]	0.4531845000736249	0.4650902367636334
+K18795	K03192	ureJ; urease accessory protein	0.4531845000736249	0.4672740755004666

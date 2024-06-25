@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19274	K00865	0.0087376184176036	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K19274	K02401	0.0084675360085741	flhB; flagellar biosynthetic protein FlhB
+K19274	K01809	0.0084486332077663	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K19274	K03767	0.008360128435607	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19274	K03594	0.0082988266436587	bfr; bacterioferritin [EC:1.16.3.1]
+K19274	K01512	0.0081683237720523	acyP; acylphosphatase [EC:3.6.1.7]
+K19274	K01760	0.0080704844582323	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19274	K07160	0.0080439402455586	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K19274	K11070	0.0080229730760416	potC; spermidine/putrescine transport system permease protein
+K19274	K02421	0.0079808328798867	fliR; flagellar biosynthetic protein FliR
+K19274	K06872	0.0079600535828926	K06872; uncharacterized protein
+K19274	K00375	0.0079084310212522	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19274	K10439	0.0077721753630018	rbsB; ribose transport system substrate-binding protein
+K19274	K07507	0.0076954879544847	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19274	mobileOG_000093088	0.0075890164211011	ftsZ
+K19274	K06996	0.0075698553860934	K06996; uncharacterized protein
+K19274	K01480	0.0075019033483326	speB; agmatinase [EC:3.5.3.11]
+K19274	K07646	0.0074502807866922	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K19274	K07077	0.0074341487361794	K07077; uncharacterized protein
+K19274	mobileOG_000034793	0.0073147715623858	diaA
+K19274	K02011	0.0072986395118729	afuB, fbpB; iron(III) transport system permease protein
+K19274	K02575	0.0072534697704375	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K19274	K07010	0.0072184686139472	K07010; putative glutamine amidotransferase
+K19274	K19267	0.0072115264391044	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K19274	K13015	0.0070986020855157	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K19274	K07101	0.0070663379844904	K07101; uncharacterized protein
+K19274	K01912	0.0070566587541827	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K19274	K09972	0.0070525547626899	aapP, bztD; general L-amino acid transport system ATP-binding protein [EC:7.4.2.1]
+K19274	mobileOG_000031464	0.0070494036642347	mutT
+K19274	K00830	0.0069889041420294	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+K19274	mobileOG_000300939	0.0069792249117218	uvrA
+K19274	K13013	0.0069759985016194	wbqV; O-antigen biosynthesis protein WbqV
+K19274	K18218	0.0069663192713118	tet35; tetracycline resistance efflux pump
+K19274	K09702	0.0069405079904915	K09702; uncharacterized protein
+K19274	K18926	0.0069276023500812	lmrB; MFS transporter, DHA2 family, lincomycin resistance protein
+K19274	K18707	0.0068921118389535	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]
+K19274	K09791	0.006888885428851	K09791; uncharacterized protein
+K19274	K02039	0.0068437156874153	phoU; phosphate transport system protein
+K19274	K19221	0.0068437156874153	cobA, btuR; cob(I)alamin adenosyltransferase [EC:2.5.1.17]
+K19274	K07124	0.0068339075579982	K07124; uncharacterized protein
+K19274	K06980	0.0068275836369028	ygfZ; tRNA-modifying protein YgfZ
+K19274	K05606	0.006792093125775	MCEE, epi; methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1]
+K19274	K10206	0.0067842774667485	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K19274	K09765	0.0067483713270808	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K19274	K15461	0.0067404705641345	mnmC; tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-]
+K19274	K03520	0.0067404705641344	coxL, cutL; aerobic carbon-monoxide dehydrogenase large subunit [EC:1.2.5.3]
+K19274	K09767	0.0067361482839762	yajQ; cyclic-di-GMP-binding protein
+K19274	K03117	0.0067307913338268	tatB; sec-independent protein translocase protein TatB
+K19274	K03568	0.0067211121035192	tldD; TldD protein
+K19274	K04042	0.006721112103519	glmU; bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]

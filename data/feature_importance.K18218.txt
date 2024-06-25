@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18218	K23536	0.0072796076694217	nupC; general nucleoside transport system permease protein
+K18218	K15777	0.0069248473295838	DOPA; 4,5-DOPA dioxygenase extradiol [EC:1.13.11.-]
+K18218	K00666	0.0068223813471769	K00666; fatty-acyl-CoA synthase [EC:6.2.1.-]
+K18218	K22736	0.0067664569478315	VIT; vacuolar iron transporter family protein
+K18218	K01259	0.0067025493351465	pip; proline iminopeptidase [EC:3.4.11.5]
+K18218	K08744	0.0063595008705205	CRLS; cardiolipin synthase (CMP-forming) [EC:2.7.8.41]
+K18218	K06969	0.0062613613349548	rlmI; 23S rRNA (cytosine1962-C5)-methyltransferase [EC:2.1.1.191]
+K18218	sediment	0.0062316593948228	
+K18218	mobileOG_000085693	0.0061564504636004	priA
+K18218	K00138	0.0061516107741279	aldB; aldehyde dehydrogenase [EC:1.2.1.-]
+K18218	K00412	0.0061447885104819	CYTB, petB; ubiquinol-cytochrome c reductase cytochrome b subunit
+K18218	rice_paddy	0.0061433977863253	
+K18218	K01187	0.0061072678252948	malZ; alpha-glucosidase [EC:3.2.1.20]
+K18218	K01821	0.0060739410887569	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18218	K07403	0.0060428637698707	nfeD; membrane-bound serine protease (ClpP class)
+K18218	K05846	0.006017003610296	opuBD; osmoprotectant transport system permease protein
+K18218	K07160	0.0060076790570707	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18218	K01480	0.0060020828182649	speB; agmatinase [EC:3.5.3.11]
+K18218	K08323	0.0059801016060145	rspA, manD; mannonate dehydratase [EC:4.2.1.8]
+K18218	K08295	0.0059519242928376	abmG; 2-aminobenzoate-CoA ligase [EC:6.2.1.32]
+K18218	K01469	0.0059430991981417	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+K18218	K01711	0.0058979376402535	gmd, GMDS; GDPmannose 4,6-dehydratase [EC:4.2.1.47]
+K18218	K14682	0.0058869544745395	argAB; amino-acid N-acetyltransferase [EC:2.3.1.1]
+K18218	K06920	0.0058354611598504	queC; 7-cyano-7-deazaguanine synthase [EC:6.3.4.20]
+K18218	K19270	0.0058327731045809	yfbT, yniC; sugar-phosphatase [EC:3.1.3.23]
+K18218	K23535	0.0058305458159869	nupB; general nucleoside transport system permease protein
+K18218	K01255	0.0058285466083052	CARP, pepA; leucyl aminopeptidase [EC:3.4.11.1]
+K18218	K01297	0.0058012085878019	ldcA; muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]
+K18218	K19338	0.0057782177976724	nac; LysR family transcriptional regulator, nitrogen assimilation regulatory protein
+K18218	K03667	0.0057761436452653	hslU; ATP-dependent HslUV protease ATP-binding subunit HslU
+K18218	K01239	0.0057531704561019	iunH; purine nucleosidase [EC:3.2.2.1]
+K18218	K09009	0.0057378635944643	K09009; uncharacterized protein
+K18218	K03750	0.005734306188739	moeA; molybdopterin molybdotransferase [EC:2.10.1.1]
+K18218	K02420	0.0057326633437101	fliQ; flagellar biosynthetic protein FliQ
+K18218	K07507	0.0057299751507026	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18218	K07017	0.0057130405158646	K07017; uncharacterized protein
+K18218	K09005	0.0057064704193662	K09005; uncharacterized protein
+K18218	K06190	0.0056981759131414	ispZ; intracellular septation protein
+K18218	K02457	0.0056973742168123	gspH; general secretion pathway protein H
+K18218	K02257	0.0056948188654005	COX10, ctaB, cyoE; heme o synthase [EC:2.5.1.141]
+K18218	K01952	0.005684510500266	PFAS, purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]
+K18218	K01118	0.0056729466912918	acpD, azoR; FMN-dependent NADH-azoreductase [EC:1.7.1.17]
+K18218	K11103	0.0056681593684709	dctA; aerobic C4-dicarboxylate transport protein
+K18218	K01823	0.0056680313159106	idi, IDI; isopentenyl-diphosphate Delta-isomerase [EC:5.3.3.2]
+K18218	K18208	0.0056529833119551	RNLS; renalase [EC:1.6.3.5]
+K18218	K02481	0.0056491909742862	K02481; two-component system, NtrC family, response regulator
+K18218	K14445	0.0056482570255427	SLC13A2_3_5; solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2/3/5
+K18218	K07050	0.0056479317130726	AARSD1, ALAX; misacylated tRNA(Ala) deacylase [EC:3.1.1.-]
+K18218	K12510	0.0056382802249068	tadB; tight adherence protein B
+K18218	K01975	0.0056362718515702	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]

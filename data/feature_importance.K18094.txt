@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18094	K07010	0.0085935922344586	K07010; putative glutamine amidotransferase
+K18094	K14393	0.0082635814627637	actP; cation/acetate symporter
+K18094	K00865	0.0082228222938496	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18094	K03767	0.008140609255223	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18094	K11070	0.0080037348340538	potC; spermidine/putrescine transport system permease protein
+K18094	K03594	0.0079234770330157	bfr; bacterioferritin [EC:1.16.3.1]
+K18094	K00652	0.0077472386877518	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18094	K02401	0.0077140327053013	flhB; flagellar biosynthetic protein FlhB
+K18094	K00325	0.0077065460841375	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K18094	K06872	0.0076728118000186	K06872; uncharacterized protein
+K18094	K02575	0.0076716070105331	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18094	K10439	0.0076396503215322	rbsB; ribose transport system substrate-binding protein
+K18094	K02406	0.0075957667832718	fliC; flagellin
+K18094	K07124	0.0075956111504768	K07124; uncharacterized protein
+K18094	K07160	0.0075441190712034	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18094	K01480	0.0075420300350996	speB; agmatinase [EC:3.5.3.11]
+K18094	K01760	0.0075262793833706	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18094	K01512	0.0073994986897174	acyP; acylphosphatase [EC:3.6.1.7]
+K18094	K02011	0.0073414676303905	afuB, fbpB; iron(III) transport system permease protein
+K18094	K00375	0.0072587330560995	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18094	K19267	0.0071694736066917	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18094	K06996	0.0070638370090275	K06996; uncharacterized protein
+K18094	K16090	0.0069170113553058	fiu; catecholate siderophore receptor
+K18094	K07077	0.0068700787616489	K07077; uncharacterized protein
+K18094	K07507	0.0068450891937603	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18094	K18118	0.0068432049073285	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]
+K18094	K18218	0.0068288048486849	tet35; tetracycline resistance efflux pump
+K18094	K01631	0.0067938361684475	dgoA; 2-dehydro-3-deoxyphosphogalactonate aldolase [EC:4.1.2.21]
+K18094	K01857	0.0067874437848601	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2]
+K18094	K09007	0.006769353684187	folE2; GTP cyclohydrolase IB [EC:3.5.4.16]
+K18094	K10206	0.0067682442569462	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K18094	mobileOG_000031464	0.0067534673965707	mutT
+K18094	K17230	0.0067428221001002	fccA; cytochrome subunit of sulfide dehydrogenase
+K18094	K09800	0.0067406724861719	tamB; translocation and assembly module TamB
+K18094	K10228	0.0067403815649427	smoF, mtlF; sorbitol/mannitol transport system permease protein
+K18094	K03300	0.0067228107234033	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family
+K18094	mobileOG_000026018	0.0067226840617332	xerC
+K18094	K01912	0.0067205999466987	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18094	K09472	0.0067140535766212	puuC, aldH; 4-(gamma-glutamylamino)butanal dehydrogenase [EC:1.2.1.99]
+K18094	K09702	0.0067114981935649	K09702; uncharacterized protein
+K18094	K08191	0.00670871385992	exuT; MFS transporter, ACS family, hexuronate transporter
+K18094	K02415	0.0067048669941739	fliL; flagellar FliL protein
+K18094	K03192	0.006702833429957	ureJ; urease accessory protein
+K18094	K07642	0.0066521694275883	baeS, smeS; two-component system, OmpR family, sensor histidine kinase BaeS [EC:2.7.13.3]
+K18094	K02008	0.0066403711948905	cbiQ; cobalt/nickel transport system permease protein
+K18094	K00675	0.0066197528628296	nhoA; N-hydroxyarylamine O-acetyltransferase [EC:2.3.1.118]
+K18094	K20938	0.0066017698425129	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]
+K18094	K07224	0.0065844272224377	efeO; iron uptake system component EfeO
+K18094	K07017	0.0065815978080276	K07017; uncharacterized protein
+K18094	K09983	0.0065446042157542	K09983; uncharacterized protein

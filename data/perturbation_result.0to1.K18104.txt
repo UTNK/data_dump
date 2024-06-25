@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18104	K02075	ABC.ZM.P; zinc/manganese transport system permease protein	0.062759163636375	0.0526246864886073
+K18104	K02077	ABC.ZM.S; zinc/manganese transport system substrate-binding protein	0.062759163636375	0.0580062766399538
+K18104	K08167	smvA, qacA, lfrA; MFS transporter, DHA2 family, multidrug resistance protein	0.062759163636375	0.0592561998967761
+K18104	K08999	K08999; uncharacterized protein	0.062759163636375	0.0593406110039339
+K18104	K09932	K09932; uncharacterized protein	0.062759163636375	0.0594786962274229
+K18104	K02074	ABC.ZM.A; zinc/manganese transport system ATP-binding protein	0.062759163636375	0.0595513571788419
+K18104	K01236	treZ, glgZ; maltooligosyltrehalose trehalohydrolase [EC:3.2.1.141]	0.062759163636375	0.0596900186913077
+K18104	K00721	DPM1; dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	0.062759163636375	0.0597871754150196
+K18104	peat		0.062759163636375	0.0598620656730338
+K18104	K12541	lapB; ATP-binding cassette, subfamily C, bacterial LapB	0.062759163636375	0.0602317448334987
+K18104	K16554	exoP, vpsO; polysaccharide biosynthesis transport protein	0.062759163636375	0.0602651604616837
+K18104	K01040	gctB; glutaconate CoA-transferase, subunit B [EC:2.8.3.12]	0.062759163636375	0.0605050673568886
+K18104	K21401	menJ; menaquinone-9 beta-reductase [EC:1.3.99.38]	0.062759163636375	0.060544903452217
+K18104	K07693	desR; two-component system, NarL family, response regulator DesR	0.062759163636375	0.0647722285430168
+K18104	K16211	malY, malT; maltose/moltooligosaccharide transporter	0.062759163636375	0.0650207474205386
+K18104	K03829	yedL; putative acetyltransferase [EC:2.3.1.-]	0.062759163636375	0.065095159595872
+K18104	K07335	bmpA, bmpB, tmpC; basic membrane protein A and related proteins	0.062759163636375	0.0651098417310113
+K18104	K23536	nupC; general nucleoside transport system permease protein	0.062759163636375	0.0655931174436037
+K18104	K23535	nupB; general nucleoside transport system permease protein	0.062759163636375	0.0658429762766186
+K18104	K13282	cphB; cyanophycinase [EC:3.4.15.6]	0.062759163636375	0.066136897962458
+K18104	K03525	coaX; type III pantothenate kinase [EC:2.7.1.33]	0.062759163636375	0.0664039885593099
+K18104	K01200	pulA; pullulanase [EC:3.2.1.41]	0.062759163636375	0.0666662245863908
+K18104	K07215	pigA, hemO; heme oxygenase (biliverdin-IX-beta and delta-forming) [EC:1.14.99.58]	0.062759163636375	0.0667287598227565
+K18104	K02171	blaI; BlaI family transcriptional regulator, penicillinase repressor	0.062759163636375	0.0669157090057997
+K18104	K12132	prkC, stkP; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	0.062759163636375	0.0806507617264273

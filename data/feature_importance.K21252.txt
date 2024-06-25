@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K21252	K02523	0.0083467651676591	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K21252	K02406	0.0081804822713882	fliC; flagellin
+K21252	K01975	0.0081018123049653	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K21252	K02026	0.0079845153265716	ABC.MS.P1; multiple sugar transport system permease protein
+K21252	K01480	0.0077123047250192	speB; agmatinase [EC:3.5.3.11]
+K21252	K07124	0.0076757613155418	K07124; uncharacterized protein
+K21252	K02420	0.0075875262947028	fliQ; flagellar biosynthetic protein FliQ
+K21252	K02851	0.0075838094759295	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K21252	K10439	0.0075837410052803	rbsB; ribose transport system substrate-binding protein
+K21252	K01610	0.007571774813466	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K21252	K00324	0.0075461040563221	pntA; H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1]
+K21252	K07160	0.0075293827618182	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K21252	K01759	0.0075166706478202	GLO1, gloA; lactoylglutathione lyase [EC:4.4.1.5]
+K21252	K00705	0.0075072679590663	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]
+K21252	K00845	0.0074685715661846	glk; glucokinase [EC:2.7.1.2]
+K21252	K07507	0.0073905507926104	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K21252	K01969	0.0073383560842504	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K21252	K01512	0.0073309052207019	acyP; acylphosphatase [EC:3.6.1.7]
+K21252	activated_sludge	0.0072344113728141	
+K21252	K07010	0.0072264906526823	K07010; putative glutamine amidotransferase
+K21252	K00375	0.0072082782435153	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K21252	K01760	0.0071841882780225	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K21252	K02011	0.0071779044444885	afuB, fbpB; iron(III) transport system permease protein
+K21252	mobileOG_000031464	0.0071355299083238	mutT
+K21252	K00325	0.0071082697868709	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K21252	K06872	0.006842173304581	K06872; uncharacterized protein
+K21252	K01912	0.0068137626481553	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K21252	K09007	0.006810439682126	folE2; GTP cyclohydrolase IB [EC:3.5.4.16]
+K21252	K06996	0.0067850763293821	K06996; uncharacterized protein
+K21252	K18691	0.0067325894419888	mltF; membrane-bound lytic murein transglycosylase F [EC:4.2.2.-]
+K21252	K20938	0.006633267237895	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]
+K21252	K02575	0.0066007929099221	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K21252	K05881	0.0065942376002632	dhaM; phosphoenolpyruvate---glycerone phosphotransferase subunit DhaM [EC:2.7.1.121]
+K21252	K17752	0.0065838165402821	rsbT; serine/threonine-protein kinase RsbT [EC:2.7.11.1]
+K21252	K18218	0.0065375939362308	tet35; tetracycline resistance efflux pump
+K21252	mobileOG_000120504	0.0065262233720544	recO
+K21252	K15520	0.0065235211421073	mshD; mycothiol synthase [EC:2.3.1.189]
+K21252	K09970	0.0065076555807447	aapQ, bztB; general L-amino acid transport system permease protein
+K21252	K00457	0.0065017284313879	HPD, hppD; 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27]
+K21252	K23509	0.0064989706925455	ytfT, yjfF; galactofuranose transport system permease protein
+K21252	K02566	0.0064870414443325	nagD; NagD protein
+K21252	K07646	0.0064785818303393	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K21252	K01256	0.0064771972952579	pepN; aminopeptidase N [EC:3.4.11.2]
+K21252	K02008	0.0064724843189063	cbiQ; cobalt/nickel transport system permease protein
+K21252	K12658	0.0064664616384364	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]
+K21252	K01058	0.0064661981313074	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]
+K21252	K10206	0.0064600103057843	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K21252	K18893	0.0064404273373933	vcaM; ATP-binding cassette, subfamily B, multidrug efflux pump
+K21252	K03183	0.0064275254324014	ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]
+K21252	K01878	0.0064141195301543	glyQ; glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]

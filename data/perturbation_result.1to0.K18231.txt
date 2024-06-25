@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18231	K00262	E1.4.1.4, gdhA; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]	0.2781444443073114	0.2605776975365955
+K18231	K03311	TC.LIVCS; branched-chain amino acid:cation transporter, LIVCS family	0.2781444443073114	0.2632945584670771
+K18231	human		0.2781444443073114	0.2679577716475785
+K18231	K06958	rapZ; RNase adapter protein RapZ	0.2781444443073114	0.2691984181189281
+K18231	K01243	mtnN, mtn, pfs; adenosylhomocysteine nucleosidase [EC:3.2.2.9]	0.2781444443073114	0.2695757801671447
+K18231	K23242	mntP; manganese efflux pump family protein	0.2781444443073114	0.2697112124704712
+K18231	K00926	arcC; carbamate kinase [EC:2.7.2.2]	0.2781444443073114	0.2711900375678487
+K18231	K01895	ACSS1_2, acs; acetyl-CoA synthetase [EC:6.2.1.1]	0.2781444443073114	0.2713429505536369
+K18231	K07507	mgtC; putative Mg2+ transporter-C (MgtC) family protein	0.2781444443073114	0.2713995824686084
+K18231	K02168	betT, betS; choline/glycine/proline betaine transport protein	0.2781444443073114	0.271786759273421
+K18231	K07223	yfeX; porphyrinogen peroxidase [EC:1.11.1.-]	0.2781444443073114	0.2720317308240938
+K18231	K10679	nfnB, nfsB; nitroreductase / dihydropteridine reductase [EC:1.-.-.- 1.5.1.34]	0.2781444443073114	0.2720765512327162
+K18231	K11741	sugE; quaternary ammonium compound-resistance protein SugE	0.2781444443073114	0.2722786052196829
+K18231	K19416	yccA; modulator of FtsH protease	0.2781444443073114	0.2841912446543502
+K18231	K02194	ccmB; heme exporter protein B	0.2781444443073114	0.2843477101369984
+K18231	K00428	E1.11.1.5; cytochrome c peroxidase [EC:1.11.1.5]	0.2781444443073114	0.284784170114236
+K18231	K01061	E3.1.1.45; carboxymethylenebutenolidase [EC:3.1.1.45]	0.2781444443073114	0.2848574999551997
+K18231	K02195	ccmC; heme exporter protein C	0.2781444443073114	0.2849197473748415
+K18231	K02197	ccmE; cytochrome c-type biogenesis protein CcmE	0.2781444443073114	0.2849920457800673
+K18231	K13598	ntrY; two-component system, NtrC family, nitrogen regulation sensor histidine kinase NtrY [EC:2.7.13.3]	0.2781444443073114	0.285100787945698
+K18231	K02198	ccmF; cytochrome c-type biogenesis protein CcmF	0.2781444443073114	0.2854519662537407
+K18231	K02199	ccmG, dsbE; cytochrome c biogenesis protein CcmG, thiol:disulfide interchange protein DsbE	0.2781444443073114	0.2867173694813349
+K18231	K16011	algA, xanB, rfbA, wbpW, pslB; mannose-1-phosphate guanylyltransferase / mannose-6-phosphate isomerase [EC:2.7.7.13 5.3.1.8]	0.2781444443073114	0.2880751569556078
+K18231	K09131	K09131; uncharacterized protein	0.2781444443073114	0.2903919230244398
+K18231	K15034	yaeJ; ribosome-associated protein	0.2781444443073114	0.2946776502738892

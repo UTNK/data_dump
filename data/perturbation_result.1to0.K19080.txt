@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19080	K00991	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]	0.0	9.998839884761886e-05
+K19080	K00548	metH, MTR; 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	0.0	0.000199760560596
+K19080	K01079	serB, PSPH; phosphoserine phosphatase [EC:3.1.3.3]	0.0	0.0001998705876017
+K19080	K05515	mrdA; penicillin-binding protein 2 [EC:3.4.16.4]	0.0	0.000199893708525
+K19080	K01129	dgt; dGTPase [EC:3.1.5.1]	0.0	0.0001998946782833
+K19080	K00946	thiL; thiamine-monophosphate kinase [EC:2.7.4.16]	0.0	0.0001998975642236
+K19080	mobileOG_000332333	ruvC	0.0	0.0002998502241637
+K19080	K00297	metF, MTHFR; methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]	0.0	0.0002998656689488
+K19080	K01726	GAMMACA; gamma-carbonic anhydrase [EC:4.2.1.-]	0.0	0.0002998682463138
+K19080	K21029	moeB; molybdopterin-synthase adenylyltransferase [EC:2.7.7.80]	0.0	0.0002998975627249
+K19080	K08300	rne; ribonuclease E [EC:3.1.26.12]	0.0	0.0002999023858283
+K19080	K01207	nagZ; beta-N-acetylhexosaminidase [EC:3.2.1.52]	0.0	0.0003997411233064
+K19080	mobileOG_000160083	oppA	0.0	0.0003998469914195
+K19080	K10439	rbsB; ribose transport system substrate-binding protein	0.0	0.0003998994775352
+K19080	K05366	mrcA; penicillin-binding protein 1A [EC:2.4.1.129 3.4.16.4]	0.0	0.0005997101210675
+K19080	K00012	UGDH, ugd; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	0.0	0.0005997696688569
+K19080	mobileOG_000335965	rph	0.0	0.0006997307337004
+K19080	K02056	ABC.SS.A; simple sugar transport system ATP-binding protein [EC:7.5.2.-]	0.0	0.000899607688891
+K19080	K00821	argD; acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17]	0.0	0.0008997230161236
+K19080	K00147	proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]	0.0	0.0010992404704775
+K19080	K03569	mreB; rod shape-determining protein MreB and related proteins	0.0	0.0010994540504289
+K19080	mobileOG_000261240	groS	0.0	0.0011991929748771
+K19080	K09812	ftsE; cell division transport system ATP-binding protein	0.0	0.0011992717141088
+K19080	K01495	GCH1, folE; GTP cyclohydrolase IA [EC:3.5.4.16]	0.0	0.0015989879742851
+K19080	K01673	cynT, can; carbonic anhydrase [EC:4.2.1.1]	0.0	0.0015997132872416

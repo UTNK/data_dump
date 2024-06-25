@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19545	K02416	0.0083324361000142	fliM; flagellar motor switch protein FliM
+K19545	K02415	0.0082958890871841	fliL; flagellar FliL protein
+K19545	K01760	0.008256164684828	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19545	K07124	0.0081630159778246	K07124; uncharacterized protein
+K19545	K00847	0.0080394704080942	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K19545	K03426	0.0078166624388881	E3.6.1.22, NUDT12, nudC; NAD+ diphosphatase [EC:3.6.1.22]
+K19545	K01480	0.0076682582733204	speB; agmatinase [EC:3.5.3.11]
+K19545	K03594	0.0075601211116533	bfr; bacterioferritin [EC:1.16.3.1]
+K19545	K01512	0.0075489011671074	acyP; acylphosphatase [EC:3.6.1.7]
+K19545	K02851	0.0075443401861965	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K19545	K07010	0.0075277412155799	K07010; putative glutamine amidotransferase
+K19545	K00845	0.0075031320898534	glk; glucokinase [EC:2.7.1.2]
+K19545	K06980	0.0074990201236598	ygfZ; tRNA-modifying protein YgfZ
+K19545	K02012	0.0074783129276427	afuA, fbpA; iron(III) transport system substrate-binding protein
+K19545	K07112	0.0074266193181656	K07112; uncharacterized protein
+K19545	K02390	0.0074224141435188	flgE; flagellar hook protein FlgE
+K19545	K02392	0.0074008372888333	flgG; flagellar basal-body rod protein FlgG
+K19545	K07287	0.0073260773125274	bamC; outer membrane protein assembly factor BamC
+K19545	K02523	0.0073245626641202	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K19545	K02071	0.0073008907959564	metN; D-methionine transport system ATP-binding protein
+K19545	K04477	0.0072797111370392	ycdX; putative hydrolase
+K19545	K14987	0.0072627955738571	fixJ; two-component system, LuxR family, response regulator FixJ
+K19545	K06346	0.0072341025606526	jag; spoIIIJ-associated protein
+K19545	K14393	0.0072232763800311	actP; cation/acetate symporter
+K19545	K01920	0.0072041425664953	gshB; glutathione synthase [EC:6.3.2.3]
+K19545	K06996	0.0071802298318399	K06996; uncharacterized protein
+K19545	K05989	0.0071758735474136	ramA; alpha-L-rhamnosidase [EC:3.2.1.40]
+K19545	K08997	0.0071757541279449	SELENOO, selO; serine/tyrosine/threonine adenylyltransferase [EC:2.7.7.-]
+K19545	K03561	0.0071721580335761	exbB; biopolymer transport protein ExbB
+K19545	K02011	0.007168354362392	afuB, fbpB; iron(III) transport system permease protein
+K19545	K09001	0.0071681097204573	anmK; anhydro-N-acetylmuramic acid kinase [EC:2.7.1.170]
+K19545	K13626	0.0071602341511793	fliW; flagellar assembly factor FliW
+K19545	K02026	0.0071500437633703	ABC.MS.P1; multiple sugar transport system permease protein
+K19545	K00912	0.0071229862707173	lpxK; tetraacyldisaccharide 4-kinase [EC:2.7.1.130]
+K19545	K03642	0.0070961151999612	rlpA; rare lipoprotein A
+K19545	K00684	0.0070497612525556	aat; leucyl/phenylalanyl-tRNA---protein transferase [EC:2.3.2.6]
+K19545	K01975	0.0070318496784097	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K19545	K10126	0.0070187955920368	dctD; two-component system, NtrC family, C4-dicarboxylate transport response regulator DctD
+K19545	mobileOG_000021084	0.0070035953104372	priA
+K19545	mobileOG_000015288	0.0069982322712478	hflC
+K19545	K02575	0.006997169275607	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K19545	activated_sludge	0.0069945023162697	
+K19545	K01991	0.0069939976332171	wza, gfcE; polysaccharide biosynthesis/export protein
+K19545	K01627	0.0069899031106875	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]
+K19545	K18346	0.0069732190021865	vanW; vancomycin resistance protein VanW
+K19545	mobileOG_000006534	0.0069515957471062	groEL
+K19545	K04752	0.0069473640600162	glnK; nitrogen regulatory protein P-II 2
+K19545	K06879	0.0069350078409695	queF; 7-cyano-7-deazaguanine reductase [EC:1.7.1.13]
+K19545	K09810	0.0069335035200226	lolD; lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]
+K19545	K03690	0.0069286762599355	ubiJ; ubiquinone biosynthesis protein UbiJ

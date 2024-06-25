@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19883	K01627	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]	0.0001807788246674	0.0008342251075664
+K19883	K00912	lpxK; tetraacyldisaccharide 4-kinase [EC:2.7.1.130]	0.0001807788246674	0.0008394529512376
+K19883	K01902	sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	0.0001807788246674	0.0008429024555368
+K19883	K09774	lptA; lipopolysaccharide export system protein LptA	0.0001807788246674	0.0008449640299216
+K19883	K02536	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	0.0001807788246674	0.0008460820270425
+K19883	K00239	sdhA, frdA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	0.0001807788246674	0.0008507543194015
+K19883	K07091	lptF; lipopolysaccharide export system permease protein	0.0001807788246674	0.0009369358088933
+K19883	K01647	CS, gltA; citrate synthase [EC:2.3.3.1]	0.0001807788246674	0.0009442171181531
+K19883	K06041	kdsD, kpsF; arabinose-5-phosphate isomerase [EC:5.3.1.13]	0.0001807788246674	0.0010196676019861
+K19883	K07735	algH; putative transcriptional regulator	0.0001807788246674	0.0010410554482555
+K19883	K11720	lptG; lipopolysaccharide export system permease protein	0.0001807788246674	0.0011010127905633
+K19883	K00946	thiL; thiamine-monophosphate kinase [EC:2.7.4.16]	0.0001807788246674	0.0011969412572629
+K19883	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	0.0001807788246674	0.0012087045518828
+K19883	K01433	purU; formyltetrahydrofolate deformylase [EC:3.5.1.10]	0.0001807788246674	0.0012174929989308
+K19883	K03711	fur, zur, furB; Fur family transcriptional regulator, ferric uptake regulator	0.0001807788246674	0.0012482980009606
+K19883	K00979	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]	0.0001807788246674	0.0014049493040776
+K19883	K00677	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	0.0001807788246674	0.0014664904712537
+K19883	K03820	lnt; apolipoprotein N-acyltransferase [EC:2.3.1.269]	0.0001807788246674	0.0015728235718273
+K19883	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]	0.0001807788246674	0.0015955531942254
+K19883	K03559	exbD; biopolymer transport protein ExbD	0.0001807788246674	0.0016804877504599
+K19883	mobileOG_000270594	pilR	0.0001807788246674	0.0016903069655965
+K19883	K06911	PIR; quercetin 2,3-dioxygenase [EC:1.13.11.24]	0.0001807788246674	0.0019032263726956
+K19883	K02067	mlaD, linM; phospholipid/cholesterol/gamma-HCH transport system substrate-binding protein	0.0001807788246674	0.0019594499538097
+K19883	K03561	exbB; biopolymer transport protein ExbB	0.0001807788246674	0.0023345628996745
+K19883	K02066	mlaE, linK; phospholipid/cholesterol/gamma-HCH transport system permease protein	0.0001807788246674	0.0024175476446837

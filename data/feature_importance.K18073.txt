@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18073	K00845	0.0093613416508991	glk; glucokinase [EC:2.7.1.2]
+K18073	K07010	0.009134494236938	K07010; putative glutamine amidotransferase
+K18073	K00865	0.0089462958268623	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18073	K02420	0.0088417014074784	fliQ; flagellar biosynthetic protein FliQ
+K18073	K14393	0.0087505021738342	actP; cation/acetate symporter
+K18073	K02523	0.0087020768975596	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K18073	K01610	0.0086706668073883	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K18073	K00324	0.0085683274092235	pntA; H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1]
+K18073	K00375	0.0085437479099192	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18073	K02406	0.0085354946638284	fliC; flagellin
+K18073	K00325	0.0085129179879068	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K18073	K16137	0.0084378899061646	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K18073	activated_sludge	0.0083919456437197	
+K18073	K03412	0.0083553927762589	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K18073	K02851	0.0082864419000205	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K18073	K01969	0.0081536744331418	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K18073	K06949	0.0081038754453033	rsgA, engC; ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100]
+K18073	K07077	0.0080053194427387	K07077; uncharacterized protein
+K18073	K03767	0.008001127580415	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18073	K01512	0.0079674605211613	acyP; acylphosphatase [EC:3.6.1.7]
+K18073	K10439	0.0079580250172162	rbsB; ribose transport system substrate-binding protein
+K18073	K00652	0.0078208196434597	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18073	K01480	0.0077838797974862	speB; agmatinase [EC:3.5.3.11]
+K18073	K00163	0.0077796849391731	aceE; pyruvate dehydrogenase E1 component [EC:1.2.4.1]
+K18073	K10206	0.0077334611456376	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K18073	K02008	0.007730565165517	cbiQ; cobalt/nickel transport system permease protein
+K18073	K01419	0.00772729051394	hslV, clpQ; ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]
+K18073	mobileOG_000188203	0.0076683467855527	mutS2
+K18073	K07507	0.0076655713346897	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18073	mobileOG_000031464	0.0076551436622933	mutT
+K18073	K06881	0.0076290509666279	nrnA; bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]
+K18073	mobileOG_000365548	0.0075999987904814	mug
+K18073	K02011	0.0075960036192072	afuB, fbpB; iron(III) transport system permease protein
+K18073	K18218	0.007563000068703	tet35; tetracycline resistance efflux pump
+K18073	mobileOG_000332333	0.0075570086319322	ruvC
+K18073	K06920	0.0075229695392369	queC; 7-cyano-7-deazaguanine synthase [EC:6.3.4.20]
+K18073	K01886	0.0074915156003908	QARS, glnS; glutaminyl-tRNA synthetase [EC:6.1.1.18]
+K18073	K03414	0.0074849662972367	cheZ; chemotaxis protein CheZ
+K18073	K07160	0.0074786256771374	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18073	K00568	0.0074721627802356	ubiG; 2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1.222 2.1.1.64]
+K18073	K09702	0.007468565936654	K09702; uncharacterized protein
+K18073	K07646	0.0074622417360704	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18073	K16927	0.0074620437361971	cbrT; energy-coupling factor transport system substrate-specific component
+K18073	K01191	0.0074586817992233	MAN2C1; alpha-mannosidase [EC:3.2.1.24]
+K18073	K07101	0.0074490730016139	K07101; uncharacterized protein
+K18073	mobileOG_000025524	0.0074331271210758	holB
+K18073	K07096	0.0074325718720035	K07096; uncharacterized protein
+K18073	K03978	0.0074292972204264	engB; GTP-binding protein
+K18073	K02400	0.0074260225688493	flhA; flagellar biosynthesis protein FlhA
+K18073	K02415	0.0074194732656953	fliL; flagellar FliL protein

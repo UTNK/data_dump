@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18141	K02232	cobQ, cbiP; adenosylcobyric acid synthase [EC:6.3.5.10]	0.0472709311664568	0.0495698740289659
+K18141	K03317	TC.CNT; concentrative nucleoside transporter, CNT family	0.0472709311664568	0.0496697862332211
+K18141	K01826	hpaF, hpcD; 5-carboxymethyl-2-hydroxymuconate isomerase [EC:5.3.3.10]	0.0472709311664568	0.0497700852404018
+K18141	K08167	smvA, qacA, lfrA; MFS transporter, DHA2 family, multidrug resistance protein	0.0472709311664568	0.0500693138345989
+K18141	K18893	vcaM; ATP-binding cassette, subfamily B, multidrug efflux pump	0.0472709311664568	0.0502696505091409
+K18141	K15532	yteR, yesR; unsaturated rhamnogalacturonyl hydrolase [EC:3.2.1.172]	0.0472709311664568	0.050468606331378
+K18141	K24116	scmK; N-acetyl-S-(2-succino)cysteine monooxygenase [EC:1.14.-.-]	0.0472709311664568	0.0505693498119968
+K18141	K02280	cpaC, rcpA; pilus assembly protein CpaC	0.0472709311664568	0.0508686520510939
+K18141	K01561	dehH; haloacetate dehalogenase [EC:3.8.1.3]	0.0472709311664568	0.0508692183200807
+K18141	K07017	K07017; uncharacterized protein	0.0472709311664568	0.0509697735627282
+K18141	K01167	rnaSA; ribonuclease T1 [EC:4.6.1.24]	0.0472709311664568	0.0515690998674169
+K18141	K09765	queH; epoxyqueuosine reductase [EC:1.17.99.6]	0.0472709311664568	0.0516686694716164
+K18141	K05895	cobK-cbiJ; precorrin-6A/cobalt-precorrin-6A reductase [EC:1.3.1.54 1.3.1.106]	0.0472709311664568	0.0517685796005951
+K18141	K09472	puuC, aldH; 4-(gamma-glutamylamino)butanal dehydrogenase [EC:1.2.1.99]	0.0472709311664568	0.0521688263756784
+K18141	K13693	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]	0.0472709311664568	0.0527682620113533
+K18141	K01857	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2]	0.0472709311664568	0.053567163184481
+K18141	K06152	E1.1.99.3G; gluconate 2-dehydrogenase gamma chain [EC:1.1.99.3]	0.0472709311664568	0.053567629854213
+K18141	K03929	pnbA; para-nitrobenzyl esterase [EC:3.1.1.-]	0.0472709311664568	0.0536680632495763
+K18141	K12941	abgB; aminobenzoyl-glutamate utilization protein B	0.0472709311664568	0.0541677937781373
+K18141	K20938	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]	0.0472709311664568	0.0542673998375988
+K18141	K02074	ABC.ZM.A; zinc/manganese transport system ATP-binding protein	0.0472709311664568	0.0546672814039129
+K18141	K07217	K07217; Mn-containing catalase	0.0472709311664568	0.0553686294880698
+K18141	K09702	K09702; uncharacterized protein	0.0472709311664568	0.0554674750921029
+K18141	K03300	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family	0.0472709311664568	0.056466580020136
+K18141	K01545	kdpF; potassium-transporting ATPase KdpF subunit	0.0472709311664568	0.0565684007209701

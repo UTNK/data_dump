@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18796	K01512	0.0084549231809798	acyP; acylphosphatase [EC:3.6.1.7]
+K18796	K02406	0.0083099816407344	fliC; flagellin
+K18796	K01809	0.0082423422552865	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18796	K01760	0.0081843656391884	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18796	K02421	0.0080200985602435	fliR; flagellar biosynthetic protein FliR
+K18796	K11070	0.0078944825586975	potC; spermidine/putrescine transport system permease protein
+K18796	K02401	0.0078268431732496	flhB; flagellar biosynthetic protein FlhB
+K18796	K01480	0.0078171804039	speB; agmatinase [EC:3.5.3.11]
+K18796	K02011	0.0078171804039	afuB, fbpB; iron(III) transport system permease protein
+K18796	K07124	0.0077688665571514	K07124; uncharacterized protein
+K18796	K03594	0.0076722388636545	bfr; bacterioferritin [EC:1.16.3.1]
+K18796	K07160	0.0075756111701575	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18796	K07507	0.0074693207073108	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18796	K07010	0.0074403323992617	K07010; putative glutamine amidotransferase
+K18796	K00375	0.0074210068605624	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18796	K02575	0.0073920185525133	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18796	mobileOG_000031464	0.0072760653203169	mutT
+K18796	K19267	0.0071021354720225	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18796	K06996	0.0070731471639734	K06996; uncharacterized protein
+K18796	K03767	0.007053821625274	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18796	K08682	0.0069765194704763	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K18796	mobileOG_000093088	0.0069668567011267	ftsZ
+K18796	K07646	0.0069282056237279	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18796	biofilm	0.0069088800850285	
+K18796	K06872	0.0068992173156788	K06872; uncharacterized protein
+K18796	K02851	0.0068798917769794	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K18796	mobileOG_000802159	0.0068798917769794	rep
+K18796	K02039	0.0068702290076297	phoU; phosphate transport system protein
+K18796	K12658	0.0068605662382801	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]
+K18796	K01912	0.0068509034689303	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18796	K10439	0.0068122523915316	rbsB; ribose transport system substrate-binding protein
+K18796	K10206	0.0067252874673843	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K18796	K18297	0.0066866363899855	mexT; LysR family transcriptional regulator, mexEF-oprN operon transcriptional activator
+K18796	K02666	0.0066673108512861	pilQ; type IV pilus assembly protein PilQ
+K18796	mobileOG_000026018	0.0066576480819364	xerC
+K18796	K07077	0.0066479853125868	K07077; uncharacterized protein
+K18796	K01821	0.0066383225432371	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18796	K05601	0.0066286597738873	hcp; hydroxylamine reductase [EC:1.7.99.1]
+K18796	K00266	0.0066189970045377	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K18796	K06132	0.0065900086964886	clsC; cardiolipin synthase C [EC:2.7.8.-]
+K18796	K18218	0.0065900086964886	tet35; tetracycline resistance efflux pump
+K18796	K06136	0.0065610203884395	pqqB; pyrroloquinoline quinone biosynthesis protein B
+K18796	K06994	0.00654169484974	K06994; putative drug exporter of the RND superfamily
+K18796	K03522	0.0065320320803904	fixB, etfA; electron transfer flavoprotein alpha subunit
+K18796	K08300	0.0065320320803904	rne; ribonuclease E [EC:3.1.26.12]
+K18796	K11074	0.006512706541691	potI; putrescine transport system permease protein
+K18796	K03773	0.006512706541691	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K18796	mobileOG_000300939	0.0065030437723413	uvrA
+K18796	K07736	0.0065030437723413	carD; CarD family transcriptional regulator
+K18796	K18118	0.0064933810029916	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]

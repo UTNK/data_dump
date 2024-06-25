@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K08151	K00575	0.0069225949208936	cheR; chemotaxis protein methyltransferase CheR [EC:2.1.1.80]
+K08151	K01523	0.0062778030097527	hisE; phosphoribosyl-ATP pyrophosphohydrolase [EC:3.6.1.31]
+K08151	K05836	0.0062587293058384	hutC; GntR family transcriptional regulator, histidine utilization repressor
+K08151	K07335	0.0062205050356255	bmpA, bmpB, tmpC; basic membrane protein A and related proteins
+K08151	mobileOG_000320008	0.0062151600644358	fhuE
+K08151	K15923	0.0061477155424445	AXY8, FUC95A, afcA; alpha-L-fucosidase 2 [EC:3.2.1.51]
+K08151	K04744	0.0060412596273405	lptD, imp, ostA; LPS-assembly protein
+K08151	K07712	0.0060378894824515	glnG, ntrC; two-component system, NtrC family, nitrogen regulation response regulator GlnG
+K08151	K22132	0.0059514212934078	tcdA; tRNA threonylcarbamoyladenosine dehydratase
+K08151	K00847	0.0058505127463244	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K08151	K07568	0.0058279306598708	queA; S-adenosylmethionine:tRNA ribosyltransferase-isomerase [EC:2.4.99.17]
+K08151	K03801	0.0057896301673054	lipB; lipoyl(octanoyl) transferase [EC:2.3.1.181]
+K08151	K18900	0.0057823166023198	bpeT; LysR family transcriptional regulator, regulator for bpeEF and oprC
+K08151	K01419	0.005719973639205	hslV, clpQ; ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]
+K08151	K02673	0.0057108061873941	pilX; type IV pilus assembly protein PilX
+K08151	K02011	0.0057107365331253	afuB, fbpB; iron(III) transport system permease protein
+K08151	K06193	0.0056718866722389	phnA; protein PhnA
+K08151	K03523	0.0056607655342796	bioY; biotin transport system substrate-specific component
+K08151	K03773	0.0056599999166483	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K08151	K18930	0.0056574235265857	dld; D-lactate dehydrogenase
+K08151	K10778	0.005647761554645	ada; AraC family transcriptional regulator, regulatory protein of adaptative response / methylated-DNA-[protein]-cysteine methyltransferase [EC:2.1.1.63]
+K08151	K13787	0.0056413633619649	idsA; geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29]
+K08151	K06940	0.005616421052479	K06940; uncharacterized protein
+K08151	K13017	0.0056103455550962	wbpE, wlbC; UDP-2-acetamido-2-deoxy-ribo-hexuluronate aminotransferase [EC:2.6.1.98]
+K08151	K00249	0.0056102763651502	ACADM, acd; acyl-CoA dehydrogenase [EC:1.3.8.7]
+K08151	K01817	0.0056040836773637	trpF; phosphoribosylanthranilate isomerase [EC:5.3.1.24]
+K08151	K01920	0.0055776816841546	gshB; glutathione synthase [EC:6.3.2.3]
+K08151	K01512	0.0055735750246516	acyP; acylphosphatase [EC:3.6.1.7]
+K08151	K00138	0.0055721894120923	aldB; aldehyde dehydrogenase [EC:1.2.1.-]
+K08151	K01698	0.0055536769162021	hemB, ALAD; porphobilinogen synthase [EC:4.2.1.24]
+K08151	K02303	0.0055503933113822	cobA; uroporphyrin-III C-methyltransferase [EC:2.1.1.107]
+K08151	K07240	0.0055212422615452	chrA; chromate transporter
+K08151	K00024	0.0055172013747312	mdh; malate dehydrogenase [EC:1.1.1.37]
+K08151	K05989	0.0055161716018239	ramA; alpha-L-rhamnosidase [EC:3.2.1.40]
+K08151	mobileOG_000176095	0.0055068890476295	recR
+K08151	K18979	0.0054962331690626	queG; epoxyqueuosine reductase [EC:1.17.99.6]
+K08151	K22042	0.005490078654558	hlyU; ArsR family transcriptional regulator, virulence genes transcriptional regulator
+K08151	K02416	0.0054796026884388	fliM; flagellar motor switch protein FliM
+K08151	K00652	0.0054783252699603	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K08151	K00675	0.0054766540072154	nhoA; N-hydroxyarylamine O-acetyltransferase [EC:2.3.1.118]
+K08151	K09921	0.0054739437913303	K09921; uncharacterized protein
+K08151	K03446	0.0054736855115278	emrB; MFS transporter, DHA2 family, multidrug resistance protein
+K08151	K00850	0.00547230070949	pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]
+K08151	K01423	0.0054675875039965	bepA; beta-barrel assembly-enhancing protease [EC:3.4.-.-]
+K08151	K03179	0.0054605599489795	ubiA; 4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]
+K08151	K01968	0.0054591090875635	E6.4.1.4A; 3-methylcrotonyl-CoA carboxylase alpha subunit [EC:6.4.1.4]
+K08151	K09815	0.0054558085539039	znuA; zinc transport system substrate-binding protein
+K08151	K03690	0.0054515201332979	ubiJ; ubiquinone biosynthesis protein UbiJ
+K08151	K07146	0.0054378244500623	K07146; UPF0176 protein
+K08151	K00500	0.0054374510317523	phhA, PAH; phenylalanine-4-hydroxylase [EC:1.14.16.1]

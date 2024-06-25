@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18217	K18692	cshB; ATP-dependent RNA helicase CshB [EC:3.6.4.13]	0.0	0.0003815245767051
+K18217	mobileOG_000349914	recJ	0.0	0.0003909240069183
+K18217	K03713	glnR; MerR family transcriptional regulator, glutamine synthetase repressor	0.0	0.0003920036817136
+K18217	mobileOG_000261927	recD2	0.0	0.000395984535265
+K18217	K05362	murE; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase [EC:6.3.2.7]	0.0	0.0003968817679331
+K18217	K00938	E2.7.4.2, mvaK2; phosphomevalonate kinase [EC:2.7.4.2]	0.0	0.0004468162080025
+K18217	K16509	spxA; regulatory protein spx	0.0	0.000456976896741
+K18217	K17076	K17076, lysY; putative lysine transport system ATP-binding protein [EC:3.6.3.-]	0.0	0.0004795617134263
+K18217	mobileOG_000314344	umuC	0.0	0.0004818302619424
+K18217	K02244	comGB; competence protein ComGB	0.0	0.000486251485271
+K18217	K06286	ezrA; septation ring formation regulator	0.0	0.000550687461494
+K18217	K18888	efrB; ATP-binding cassette, subfamily B, multidrug efflux pump	0.0	0.000590088116605
+K18217	K21977	coaB; phosphopantothenate---cysteine ligase (CTP) [EC:6.3.2.5]	0.0	0.0005914561450408
+K18217	K20073	mapZ, locZ; mid-cell-anchored protein Z	0.0	0.0006985947738864
+K18217	K12556	pbp2X; penicillin-binding protein 2X	0.0	0.000796491029176
+K18217	K02245	comGC; competence protein ComGC	0.0	0.0008436034816006
+K18217	K07570	GSP13; general stress protein 13	0.0	0.0008519262182622
+K18217	K00687	pbp2B, penA; penicillin-binding protein 2B	0.0	0.0008960188483081
+K18217	K17074	lysX2; putative lysine transport system permease protein	0.0	0.0009947870288114
+K18217	K22457	E2.6.1.14; asparagine---oxo-acid transaminase [EC:2.6.1.14]	0.0	0.0011966573479088
+K18217	mobileOG_000360094	dinG	0.0	0.0013701059583429
+K18217	K17073	lysX1; putative lysine transport system substrate-binding protein	0.0	0.0015619597113498
+K18217	mobileOG_000021599	comGA	0.0	0.0017328601388056
+K18217	mobileOG_000278554	mecA	0.0	0.0026495687876051
+K18217	K18216	steA, tetA46; ATP-binding cassette, subfamily B, tetracycline resistant protein	0.0	0.0087897501845542

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18349	K09125	0.0076325350732727	yhhQ; queuosine precursor transporter
+K18349	K02419	0.007595597187883	fliP; flagellar biosynthetic protein FliP
+K18349	K02409	0.00753587077616	fliF; flagellar M-ring protein FliF
+K18349	mobileOG_000026121	0.0075174190331135	dinB
+K18349	K09796	0.0075124388845485	pccA; periplasmic copper chaperone A
+K18349	mobileOG_000777978	0.0074418014729876	korSA
+K18349	K02410	0.0073805030239172	fliG; flagellar motor switch protein FliG
+K18349	K02388	0.0073608931784714	flgC; flagellar basal-body rod protein FlgC
+K18349	K06872	0.0073532362539946	K06872; uncharacterized protein
+K18349	K01488	0.0073258171527649	add, ADA; adenosine deaminase [EC:3.5.4.4]
+K18349	K06076	0.0073168663447497	fadL; long-chain fatty acid transport protein
+K18349	K02389	0.0072478945068076	flgD; flagellar basal-body rod modification protein FlgD
+K18349	K02396	0.0071138915815508	flgK; flagellar hook-associated protein 1 FlgK
+K18349	K02387	0.0070917172987742	flgB; flagellar basal-body rod protein FlgB
+K18349	K03668	0.0070912332772981	hslJ; heat shock protein HslJ
+K18349	K15987	0.0070054635940387	hppA; K(+)-stimulated pyrophosphate-energized sodium pump
+K18349	K01760	0.0069261419878139	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18349	K01480	0.006906793505404	speB; agmatinase [EC:3.5.3.11]
+K18349	K03412	0.0068733071821441	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K18349	K07124	0.0068596941584541	K07124; uncharacterized protein
+K18349	K07010	0.0068449928392678	K07010; putative glutamine amidotransferase
+K18349	K02408	0.0067866579718213	fliE; flagellar hook-basal body complex protein FliE
+K18349	K11741	0.00676976229248	sugE; quaternary ammonium compound-resistance protein SugE
+K18349	K01273	0.0067426964830232	DPEP; membrane dipeptidase [EC:3.4.13.19]
+K18349	K00847	0.0067145871832423	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K18349	K00138	0.0067033701029383	aldB; aldehyde dehydrogenase [EC:1.2.1.-]
+K18349	K02027	0.0066911178459867	ABC.MS.S; multiple sugar transport system substrate-binding protein
+K18349	K00705	0.0066318830135656	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]
+K18349	K02417	0.0065788770519079	fliNY, fliN; flagellar motor switch protein FliN/FliY
+K18349	K02056	0.0065662770469567	ABC.SS.A; simple sugar transport system ATP-binding protein [EC:7.5.2.-]
+K18349	K02011	0.0065401955225403	afuB, fbpB; iron(III) transport system permease protein
+K18349	K09939	0.0065099073875212	K09939; uncharacterized protein
+K18349	K15777	0.0064757978764025	DOPA; 4,5-DOPA dioxygenase extradiol [EC:1.13.11.-]
+K18349	mobileOG_000031464	0.0064680548980459	mutT
+K18349	K01912	0.0064497724255295	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18349	K06867	0.0063749683492869	K06867; uncharacterized protein
+K18349	K05275	0.0063523892259228	E1.1.1.65; pyridoxine 4-dehydrogenase [EC:1.1.1.65]
+K18349	K06962	0.0063168269471174	K06962; uncharacterized protein
+K18349	mobileOG_000353886	0.0062916807143885	ompA
+K18349	K18997	0.0062533441541906	cbpM; chaperone modulatory protein CbpM
+K18349	K01989	0.0062448285689197	ABC.X4.S; putative ABC transport system substrate-binding protein
+K18349	K03311	0.0062112797830021	TC.LIVCS; branched-chain amino acid:cation transporter, LIVCS family
+K18349	K07112	0.0062081174586446	K07112; uncharacterized protein
+K18349	K03767	0.0061810630001141	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18349	K00305	0.006161914347358	soxG; sarcosine oxidase, subunit gamma [EC:1.5.3.1]
+K18349	K16514	0.0061535450354205	galD; 4-oxalomesaconate tautomerase [EC:5.3.2.8]
+K18349	K02673	0.0061231178188787	pilX; type IV pilus assembly protein PilX
+K18349	aquatic	0.0060942639164535	
+K18349	mobileOG_000328193	0.0060850373340367	recB
+K18349	K02535	0.0060592199242652	lpxC; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase [EC:3.5.1.108]

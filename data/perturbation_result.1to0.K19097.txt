@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19097	K06048	gshA, ybdK; glutamate---cysteine ligase / carboxylate-amine ligase [EC:6.3.2.2 6.3.-.-]	0.0003996699013186	9.995268032177382e-05
+K19097	K03152	thiJ; protein deglycase [EC:3.5.1.124]	0.0003996699013186	0.0001998118189448
+K19097	K07749	frc; formyl-CoA transferase [EC:2.8.3.16]	0.0003996699013186	0.0001998619432276
+K19097	K02099	araC; AraC family transcriptional regulator, arabinose operon regulatory protein	0.0003996699013186	0.0002997172209968
+K19097	K15523	FN3KRP; protein-ribulosamine 3-kinase [EC:2.7.1.172]	0.0003996699013186	0.0004996370624992
+K19097	K09946	K09946; uncharacterized protein	0.0003996699013186	0.0004996486502077
+K19097	K01631	dgoA; 2-dehydro-3-deoxyphosphogalactonate aldolase [EC:4.1.2.21]	0.0003996699013186	0.0005986551106525
+K19097	K19776	dgoR; GntR family transcriptional regulator, galactonate operon transcriptional repressor	0.0003996699013186	0.0005993184243398
+K19097	K04568	epmA, poxA; elongation factor P--(R)-beta-lysine ligase [EC:6.3.1.-]	0.0003996699013186	0.0005994393268795
+K19097	K01619	deoC, DERA; deoxyribose-phosphate aldolase [EC:4.1.2.4]	0.0003996699013186	0.0005994421889267
+K19097	K11069	potD; spermidine/putrescine transport system substrate-binding protein	0.0003996699013186	0.0005994566639136
+K19097	K19804	lapB; lipopolysaccharide assembly protein B	0.0003996699013186	0.0005995199171949
+K19097	K05845	opuC; osmoprotectant transport system substrate-binding protein	0.0003996699013186	0.0005995221874941
+K19097	K03312	gltS; glutamate:Na+ symporter, ESS family	0.0003996699013186	0.0005996286871839
+K19097	K04062	osmB; osmotically inducible lipoprotein OsmB	0.0003996699013186	0.0006991857517399
+K19097	K19267	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	0.0003996699013186	0.0006993066838179
+K19097	K08304	mltA; membrane-bound lytic murein transglycosylase A [EC:4.2.2.-]	0.0003996699013186	0.0006993948828381
+K19097	K11717	sufS; cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	0.0003996699013186	0.0006994334824042
+K19097	K04033	eutR; AraC family transcriptional regulator, ethanolamine operon transcriptional activator	0.0003996699013186	0.0006996074394809
+K19097	K00997	acpS; holo-[acyl-carrier protein] synthase [EC:2.7.8.7]	0.0003996699013186	0.0007983846412539
+K19097	K03717	nhaR; LysR family transcriptional regulator, transcriptional activator of nhaA	0.0003996699013186	0.0007992438184596
+K19097	K02056	ABC.SS.A; simple sugar transport system ATP-binding protein [EC:7.5.2.-]	0.0003996699013186	0.0007994113258056
+K19097	K00424	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]	0.0003996699013186	0.0007995182765496
+K19097	K10439	rbsB; ribose transport system substrate-binding protein	0.0003996699013186	0.0008993125423868
+K19097	freshwater_sediment		0.0003996699013186	0.0015985622040629

@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K10673	K07160	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]	0.8223736759237634	0.7755628920694632
+K10673	K03449	MFS.CP; MFS transporter, CP family, cyanate transporter	0.8223736759237634	0.7761881245529472
+K10673	mobileOG_000354199	cpxA	0.8223736759237634	0.7816574183189062
+K10673	K19337	hexR; RpiR family transcriptional regulator, carbohydrate utilization regulator	0.8223736759237634	0.7841906290956363
+K10673	plant		0.8223736759237634	0.7856268863854154
+K10673	K18446	ygiF; triphosphatase [EC:3.6.1.25]	0.8223736759237634	0.7883267054523732
+K10673	marine		0.8223736759237634	0.7895066308093348
+K10673	K23779	sutR; XRE family transcriptional regulator, regulator of sulfur utilization	0.8223736759237634	0.7915747703826083
+K10673	K00759	APRT, apt; adenine phosphoribosyltransferase [EC:2.4.2.7]	0.8223736759237634	0.7919901484377989
+K10673	K01079	serB, PSPH; phosphoserine phosphatase [EC:3.1.3.3]	0.8223736759237634	0.7921062566447439
+K10673	K13639	soxR; MerR family transcriptional regulator, redox-sensitive transcriptional activator SoxR	0.8223736759237634	0.7934177350195825
+K10673	K01256	pepN; aminopeptidase N [EC:3.4.11.2]	0.8223736759237634	0.7947096834216728
+K10673	K01011	TST, MPST, sseA; thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	0.8223736759237634	0.7958085673544826
+K10673	K02017	modC; molybdate transport system ATP-binding protein [EC:7.3.2.5]	0.8223736759237634	0.79663200957718
+K10673	K02010	afuC, fbpC; iron(III) transport system ATP-binding protein [EC:7.2.2.7]	0.8223736759237634	0.7966862789492547
+K10673	K00982	glnE; [glutamine synthetase] adenylyltransferase / [glutamine synthetase]-adenylyl-L-tyrosine phosphorylase [EC:2.7.7.42 2.7.7.89]	0.8223736759237634	0.7977566795172492
+K10673	K09791	K09791; uncharacterized protein	0.8223736759237634	0.798996958966806
+K10673	K06980	ygfZ; tRNA-modifying protein YgfZ	0.8223736759237634	0.799040365921885
+K10673	K02071	metN; D-methionine transport system ATP-binding protein	0.8223736759237634	0.8001324172477985
+K10673	K02056	ABC.SS.A; simple sugar transport system ATP-binding protein [EC:7.5.2.-]	0.8223736759237634	0.8002382111927815
+K10673	K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	0.8223736759237634	0.8002986153685523
+K10673	K08300	rne; ribonuclease E [EC:3.1.26.12]	0.8223736759237634	0.8005670928626211
+K10673	K00375	K00375; GntR family transcriptional regulator / MocR family aminotransferase	0.8223736759237634	0.8010665325047084
+K10673	K02072	metI; D-methionine transport system permease protein	0.8223736759237634	0.8011083378951924
+K10673	K01433	purU; formyltetrahydrofolate deformylase [EC:3.5.1.10]	0.8223736759237634	0.8013433123609538

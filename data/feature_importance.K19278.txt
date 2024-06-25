@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19278	K02406	0.0085060127760104	fliC; flagellin
+K19278	K00865	0.008336968110393	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K19278	K00845	0.0082702546726621	glk; glucokinase [EC:2.7.1.2]
+K19278	K03767	0.0082055164823799	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19278	K01760	0.0081935431430123	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19278	K00252	0.0080666882689107	GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]
+K19278	K14393	0.0080513161876534	actP; cation/acetate symporter
+K19278	K02401	0.0080007226208308	flhB; flagellar biosynthetic protein FlhB
+K19278	K01809	0.0079755256831012	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K19278	K00325	0.0079323908116748	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K19278	K03594	0.0079159089074787	bfr; bacterioferritin [EC:1.16.3.1]
+K19278	K07010	0.0078023901873949	K07010; putative glutamine amidotransferase
+K19278	K07124	0.0077819766071262	K07124; uncharacterized protein
+K19278	K07160	0.0076998115539261	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K19278	K00375	0.0076671842798484	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19278	K01912	0.0076665173464866	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K19278	K06872	0.0076616622194085	K06872; uncharacterized protein
+K19278	K02011	0.0075560676032445	afuB, fbpB; iron(III) transport system permease protein
+K19278	K02421	0.0075387968644404	fliR; flagellar biosynthetic protein FliR
+K19278	K01480	0.0075294901698966	speB; agmatinase [EC:3.5.3.11]
+K19278	K01512	0.007359706794614	acyP; acylphosphatase [EC:3.6.1.7]
+K19278	K02575	0.0072917105152593	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K19278	mobileOG_000031464	0.0072798621358379	mutT
+K19278	K00479	0.0071694813250652	gbcA; glycine betaine catabolism A
+K19278	K07507	0.0071349679577031	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19278	K06145	0.0071187196165583	gntR; LacI family transcriptional regulator, gluconate utilization system Gnt-I transcriptional repressor
+K19278	K01878	0.0071156003451186	glyQ; glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]
+K19278	K11073	0.0070285840708397	potF; putrescine transport system substrate-binding protein
+K19278	K07000	0.0069767045608648	K07000; uncharacterized protein
+K19278	K10439	0.0069561795807053	rbsB; ribose transport system substrate-binding protein
+K19278	K19267	0.0068940768660483	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K19278	K06996	0.0068828310688247	K06996; uncharacterized protein
+K19278	K02039	0.0068446651572264	phoU; phosphate transport system protein
+K19278	K09857	0.0067947461036228	K09857; uncharacterized protein
+K19278	K06864	0.0067906533440021	larE; pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase [EC:4.4.1.37]
+K19278	K08191	0.0067853594999732	exuT; MFS transporter, ACS family, hexuronate transporter
+K19278	K01821	0.0067799551738836	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K19278	K01770	0.0067602815459154	ispF; 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:4.6.1.12]
+K19278	K10206	0.0067486298130681	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K19278	K05802	0.0067358065088811	mscK, kefA, aefA; potassium-dependent mechanosensitive channel
+K19278	K03316	0.0067261428880091	TC.CPA1; monovalent cation:H+ antiporter, CPA1 family
+K19278	K00684	0.0067162357433047	aat; leucyl/phenylalanyl-tRNA---protein transferase [EC:2.3.2.6]
+K19278	K07101	0.0067069384409823	K07101; uncharacterized protein
+K19278	K07116	0.0067063287850126	pvdQ, quiP; acyl-homoserine-lactone acylase [EC:3.5.1.97]
+K19278	K07646	0.0066845519975445	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K19278	K09765	0.0066837860786782	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K19278	K16165	0.0066816572698857	nagK; fumarylpyruvate hydrolase [EC:3.7.1.20]
+K19278	mobileOG_000340884	0.006660300318208	comL
+K19278	K09791	0.006660239090224	K09791; uncharacterized protein
+K19278	biofilm	0.0066579503397544	

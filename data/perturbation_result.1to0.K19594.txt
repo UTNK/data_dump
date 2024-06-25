@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19594	K19591	cueR; MerR family transcriptional regulator, copper efflux regulator	0.738019110991437	0.6709852472206104
+K19594	K18138	acrB, mexB, adeJ, smeE, mtrD, cmeB; multidrug efflux pump	0.738019110991437	0.6777579721723109
+K19594	K07708	glnL, ntrB; two-component system, NtrC family, nitrogen regulation sensor histidine kinase GlnL [EC:2.7.13.3]	0.738019110991437	0.6857842409172489
+K19594	K03790	rimJ; [ribosomal protein S5]-alanine N-acetyltransferase [EC:2.3.1.267]	0.738019110991437	0.6920669759714985
+K19594	K03566	gcvA; LysR family transcriptional regulator, glycine cleavage system transcriptional activator	0.738019110991437	0.6966826321514602
+K19594	K03814	mtgA; monofunctional glycosyltransferase [EC:2.4.1.129]	0.738019110991437	0.699807593344275
+K19594	K00121	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	0.738019110991437	0.700268383943003
+K19594	K07712	glnG, ntrC; two-component system, NtrC family, nitrogen regulation response regulator GlnG	0.738019110991437	0.7043771940239979
+K19594	mobileOG_000116025	dut	0.738019110991437	0.7047701258462189
+K19594	mobileOG_000320008	fhuE	0.738019110991437	0.7051081850610981
+K19594	K11209	yghU, yfcG; GSH-dependent disulfide-bond oxidoreductase [EC:1.8.4.-]	0.738019110991437	0.7051577225803587
+K19594	K01669	phrB; deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]	0.738019110991437	0.7052981560074181
+K19594	K00425	cydA; cytochrome bd ubiquinol oxidase subunit I [EC:7.1.1.7]	0.738019110991437	0.707580429578635
+K19594	K06140	rnk; regulator of nucleoside diphosphate kinase	0.738019110991437	0.7078508234042998
+K19594	mobileOG_000778060	parC	0.738019110991437	0.7082071608062079
+K19594	K09773	ppsR; [pyruvate, water dikinase]-phosphate phosphotransferase / [pyruvate, water dikinase] kinase [EC:2.7.4.28 2.7.11.33]	0.738019110991437	0.7098676735600785
+K19594	K02427	rlmE, rrmJ, ftsJ; 23S rRNA (uridine2552-2-O)-methyltransferase [EC:2.1.1.166]	0.738019110991437	0.7113157376237966
+K19594	plant		0.738019110991437	0.7114923091127768
+K19594	K03787	surE; 5-nucleotidase [EC:3.1.3.5]	0.738019110991437	0.7123248238641304
+K19594	mobileOG_000351769	uvrC	0.738019110991437	0.7142534756421198
+K19594	K19304	mepM; murein DD-endopeptidase [EC:3.4.24.-]	0.738019110991437	0.7148701009691826
+K19594	K03269	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]	0.738019110991437	0.7152306939740559
+K19594	K06193	phnA; protein PhnA	0.738019110991437	0.7153341576671837
+K19594	K06179	rluC; 23S rRNA pseudouridine955/2504/2580 synthase [EC:5.4.99.24]	0.738019110991437	0.7157022593362399
+K19594	K07278	tamA; translocation and assembly module TamA	0.738019110991437	0.7159617588656765

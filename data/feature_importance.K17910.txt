@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K17910	K03767	0.0081928885008782	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K17910	K01480	0.008168733013471	speB; agmatinase [EC:3.5.3.11]
+K17910	K02071	0.0080548425085708	metN; D-methionine transport system ATP-binding protein
+K17910	K00652	0.0079234542783475	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K17910	K03412	0.0078799391620011	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K17910	K07010	0.0078246205534391	K07010; putative glutamine amidotransferase
+K17910	K02026	0.0077622868870835	ABC.MS.P1; multiple sugar transport system permease protein
+K17910	K01975	0.0076716133586102	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K17910	K02406	0.0076452956080672	fliC; flagellin
+K17910	K01809	0.0076294056264648	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K17910	K01512	0.007622794870184	acyP; acylphosphatase [EC:3.6.1.7]
+K17910	K02011	0.0076180581399846	afuB, fbpB; iron(III) transport system permease protein
+K17910	K02420	0.007590372488475	fliQ; flagellar biosynthetic protein FliQ
+K17910	K03594	0.0075558741573205	bfr; bacterioferritin [EC:1.16.3.1]
+K17910	K00027	0.0075121162223786	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K17910	K14393	0.0074316792474209	actP; cation/acetate symporter
+K17910	K01919	0.0073889488834558	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K17910	K07150	0.0073654444167959	K07150; uncharacterized protein
+K17910	K01610	0.0072739896226169	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K17910	K07124	0.007147854208598	K07124; uncharacterized protein
+K17910	mobileOG_000333823	0.0070909011807129	dnaN
+K17910	K00872	0.0069907931449674	thrB; homoserine kinase [EC:2.7.1.39]
+K17910	K00705	0.0069261081591551	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]
+K17910	K11689	0.0068709959979188	dctQ; C4-dicarboxylate transporter, DctQ subunit
+K17910	K00833	0.0068003527274571	bioA; adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62]
+K17910	K09808	0.0067847765168292	lolC_E; lipoprotein-releasing system permease protein
+K17910	K02558	0.0067693317960121	mpl; UDP-N-acetylmuramate: L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase [EC:6.3.2.45]
+K17910	K03269	0.0067649607614824	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]
+K17910	K09472	0.0067056332760372	puuC, aldH; 4-(gamma-glutamylamino)butanal dehydrogenase [EC:1.2.1.99]
+K17910	K21159	0.0067050365868118	sgcF, ncsF2, kedF; epoxide hydrolase
+K17910	K00754	0.0066902491368889	bshA; L-malate glycosyltransferase [EC:2.4.1.-]
+K17910	K02517	0.0066893401556933	lpxL, htrB; Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-]
+K17910	K19416	0.0066796155953888	yccA; modulator of FtsH protease
+K17910	K06973	0.0066665410337113	K06973; uncharacterized protein
+K17910	K18682	0.0066379690040402	rny; ribonucrease Y [EC:3.1.-.-]
+K17910	K00154	0.0066142635220489	E1.2.1.68; coniferyl-aldehyde dehydrogenase [EC:1.2.1.68]
+K17910	K01912	0.0066066343800409	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K17910	mobileOG_000031464	0.0065602494821012	mutT
+K17910	K00424	0.0065591484871754	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K17910	K19689	0.0065520938183993	ampS, pepS, ampT; aminopeptidase [EC:3.4.11.-]
+K17910	K01754	0.006545305476045	E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]
+K17910	K00606	0.0065449792701149	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]
+K17910	K00830	0.0065366015975413	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+K17910	mobileOG_000801665	0.0065292869645363	dnaN
+K17910	K12658	0.0065224551243227	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]
+K17910	mobileOG_000330401	0.0065183390487804	ruvA
+K17910	K21903	0.0065021203716882	cadC, smtB; ArsR family transcriptional regulator, lead/cadmium/zinc/bismuth-responsive transcriptional repressor
+K17910	K15532	0.0065012519988505	yteR, yesR; unsaturated rhamnogalacturonyl hydrolase [EC:3.2.1.172]
+K17910	K01474	0.0064927969533259	hyuB; N-methylhydantoinase B [EC:3.5.2.14]
+K17910	mobileOG_000006534	0.0064920121142618	groEL

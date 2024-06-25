@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K00897	K21147	moeZR, moeBR; sulfur-carrier protein adenylyltransferase/sulfurtransferase [EC:2.7.7.80 2.7.7.- 2.8.1.11 2.8.1.-]	0.0101951612398841	0.0119999669475797
+K00897	K06215	pdxS, pdx1; pyridoxal 5-phosphate synthase pdxS subunit [EC:4.3.3.6]	0.0101951612398841	0.012098102349447
+K00897	mobileOG_000331053	ligD	0.0101951612398841	0.0125599078544629
+K00897	K00162	PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]	0.0101951612398841	0.0125775325098907
+K00897	K00294	E1.2.1.88; 1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]	0.0101951612398841	0.012631372295248
+K00897	K07778	desK; two-component system, NarL family, sensor histidine kinase DesK [EC:2.7.13.3]	0.0101951612398841	0.0126598692906562
+K00897	K09684	pucR; PucR family transcriptional regulator, purine catabolism regulatory protein	0.0101951612398841	0.0127020127525618
+K00897	K07161	K07161; uncharacterized protein	0.0101951612398841	0.0127385639740645
+K00897	K05710	hcaC; 3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin component	0.0101951612398841	0.0127582390660006
+K00897	K07693	desR; two-component system, NarL family, response regulator DesR	0.0101951612398841	0.0128653476436784
+K00897	K12132	prkC, stkP; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	0.0101951612398841	0.0130706444053711
+K00897	K00332	nuoC; NADH-quinone oxidoreductase subunit C [EC:7.1.1.2]	0.0101951612398841	0.0130834194215636
+K00897	K01858	INO1, ISYNA1; myo-inositol-1-phosphate synthase [EC:5.5.1.4]	0.0101951612398841	0.0131486840657533
+K00897	K00038	E1.1.1.53; 3alpha(or 20beta)-hydroxysteroid dehydrogenase [EC:1.1.1.53]	0.0101951612398841	0.0131552162119947
+K00897	K07045	K07045; uncharacterized protein	0.0101951612398841	0.013163232488819
+K00897	mobileOG_000355086	mutM	0.0101951612398841	0.0131874674779373
+K00897	K00333	nuoD; NADH-quinone oxidoreductase subunit D [EC:7.1.1.2]	0.0101951612398841	0.0134434994106276
+K00897	K06994	K06994; putative drug exporter of the RND superfamily	0.0101951612398841	0.0136230056963323
+K00897	K18476	tetR; TetR/AcrR family transcriptional regulator, tetracycline repressor protein	0.0101951612398841	0.0136235802030259
+K00897	K08264	hdrD; heterodisulfide reductase subunit D [EC:1.8.98.1]	0.0101951612398841	0.0141772528135539
+K00897	mobileOG_000326260	ligD	0.0101951612398841	0.0143745775791457
+K00897	K14696	SLC30A9, ZNT9; solute carrier family 30 (zinc transporter), member 9	0.0101951612398841	0.0144055350542395
+K00897	K22476	K22476; N-acetylglutamate synthase [EC:2.3.1.1]	0.0101951612398841	0.015379135187751
+K00897	K06877	K06877; DEAD/DEAH box helicase domain-containing protein	0.0101951612398841	0.0155129686171017
+K00897	K06880	ereA_B; erythromycin esterase [EC:3.1.1.-]	0.0101951612398841	0.0181508456685397

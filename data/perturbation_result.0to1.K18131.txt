@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18131	K01596	E4.1.1.32, pckA, PCK; phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	0.0	0.0001998415822528
+K18131	K07335	bmpA, bmpB, tmpC; basic membrane protein A and related proteins	0.0	0.0001999449158546
+K18131	K23537	nupA; general nucleoside transport system ATP-binding protein	0.0	0.0001999458916286
+K18131	K00023	phbB; acetoacetyl-CoA reductase [EC:1.1.1.36]	0.0	0.0001999748687299
+K18131	mobileOG_000024458	dnaE	0.0	0.0002999487810742
+K18131	K18218	tet35; tetracycline resistance efflux pump	0.0	0.0003998627956859
+K18131	K09007	folE2; GTP cyclohydrolase IB [EC:3.5.4.16]	0.0	0.0003999207475092
+K18131	K00830	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]	0.0	0.0004999246132708
+K18131	K05555	actIV; cyclase [EC:4.-.-.-]	0.0	0.0004999374975952
+K18131	K13590	dgcB; diguanylate cyclase [EC:2.7.7.65]	0.0	0.0005998634058792
+K18131	K15012	regA, regR, actR; two-component system, response regulator RegA	0.0	0.0005999623007683
+K18131	K07386	pepO; putative endopeptidase [EC:3.4.24.-]	0.0	0.0006997742085015
+K18131	K06373	spmA; spore maturation protein A	0.0	0.0006999479617294
+K18131	K15726	czcA, cusA, cnrA; heavy metal efflux system protein	0.0	0.0006999623036831
+K18131	K15011	regB, regS, actS; two-component system, sensor histidine kinase RegB [EC:2.7.13.3]	0.0	0.0007998051204547
+K18131	K12976	pagL; lipid A 3-O-deacylase [EC:3.1.1.-]	0.0	0.0008997941649211
+K18131	K06374	spmB; spore maturation protein B	0.0	0.0010998543754133
+K18131	K16554	exoP, vpsO; polysaccharide biosynthesis transport protein	0.0	0.0011989613899599
+K18131	K09986	K09986; uncharacterized protein	0.0	0.0013998637479316
+K18131	K19342	nosL; copper chaperone NosL	0.0	0.0016995223931567
+K18131	K06902	UMF1; MFS transporter, UMF1 family	0.0	0.0019998811049134
+K18131	K16211	malY, malT; maltose/moltooligosaccharide transporter	0.0	0.0020995984981568
+K18131	K00619	argA; amino-acid N-acetyltransferase [EC:2.3.1.1]	0.0	0.0025997793098675
+K18131	K07116	pvdQ, quiP; acyl-homoserine-lactone acylase [EC:3.5.1.97]	0.0	0.0026997189503821
+K18131	K03816	xpt; xanthine phosphoribosyltransferase [EC:2.4.2.22]	0.0	0.0032999210527855

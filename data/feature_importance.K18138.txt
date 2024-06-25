@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18138	K03561	0.007093756028586	exbB; biopolymer transport protein ExbB
+K18138	K01005	0.0067102916359772	tagT_U_V; polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase [EC:2.7.8.-]
+K18138	K03559	0.0066833587453265	exbD; biopolymer transport protein ExbD
+K18138	mobileOG_000330401	0.006417700741537	ruvA
+K18138	K07030	0.0064061154362208	K07030; uncharacterized protein
+K18138	K12340	0.0063697664796386	tolC; outer membrane protein
+K18138	K09772	0.0063212617774758	sepF; cell division inhibitor SepF
+K18138	K06861	0.0062122251672218	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]
+K18138	K00748	0.0061538887293184	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]
+K18138	K02536	0.0061526449831812	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]
+K18138	K09808	0.0060732008617575	lolC_E; lipoprotein-releasing system permease protein
+K18138	K03640	0.0060513452007627	pal; peptidoglycan-associated lipoprotein
+K18138	K00912	0.0060335869752815	lpxK; tetraacyldisaccharide 4-kinase [EC:2.7.1.130]
+K18138	K00677	0.0059934780141083	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]
+K18138	K01627	0.0059354016478639	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]
+K18138	mobileOG_000270594	0.0059249610578872	pilR
+K18138	K11927	0.0058961878206523	rhlE; ATP-dependent RNA helicase RhlE [EC:3.6.4.13]
+K18138	K00097	0.0058799897920565	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase [EC:1.1.1.262]
+K18138	K03179	0.0058734268344214	ubiA; 4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]
+K18138	K02197	0.0058684812607964	ccmE; cytochrome c-type biogenesis protein CcmE
+K18138	K09762	0.0058232652157698	K09762; uncharacterized protein
+K18138	K07284	0.0057305123047574	srtA; sortase A [EC:3.4.22.70]
+K18138	mobileOG_000330441	0.0057291733443118	polA
+K18138	K04744	0.0056913289790407	lptD, imp, ostA; LPS-assembly protein
+K18138	K03474	0.0056875287595521	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]
+K18138	mobileOG_000057598	0.005680870657831	pcrA
+K18138	K11720	0.0056581603881091	lptG; lipopolysaccharide export system permease protein
+K18138	K01991	0.0055899299188473	wza, gfcE; polysaccharide biosynthesis/export protein
+K18138	K03772	0.0055749992609651	fkpA; FKBP-type peptidyl-prolyl cis-trans isomerase FkpA [EC:5.2.1.8]
+K18138	K02194	0.005574266474229	ccmB; heme exporter protein B
+K18138	K03634	0.0055614835379644	lolA; outer membrane lipoprotein carrier protein
+K18138	K06041	0.0055516144854361	kdsD, kpsF; arabinose-5-phosphate isomerase [EC:5.3.1.13]
+K18138	K06215	0.0055441758127328	pdxS, pdx1; pyridoxal 5-phosphate synthase pdxS subunit [EC:4.3.3.6]
+K18138	K00407	0.0055163436083807	ccoQ; cytochrome c oxidase cbb3-type subunit IV
+K18138	K07177	0.0054980600453933	K07177; Lon-like protease
+K18138	K21064	0.0054923044365865	ycsE, yitU, ywtE; 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+K18138	mobileOG_000006534	0.0054904668700147	groEL
+K18138	K04074	0.005486151269881	divIVA; cell division initiation protein
+K18138	K00979	0.0054481130728178	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]
+K18138	K02488	0.0054420340119836	pleD; two-component system, cell cycle response regulator [EC:2.7.7.65]
+K18138	mobileOG_000334867	0.0054047692305128	nfo
+K18138	K07718	0.0053793923007557	yesM; two-component system, sensor histidine kinase YesM [EC:2.7.13.3]
+K18138	mobileOG_000331108	0.0053679522794809	ssb
+K18138	K08679	0.005342836407983	E5.1.3.6; UDP-glucuronate 4-epimerase [EC:5.1.3.6]
+K18138	K23675	0.0053342161046228	fmnP, ribU; riboflavin transporter
+K18138	mobileOG_000362884	0.0053262594959094	helD
+K18138	K01421	0.0053179502377541	yhgE; putative membrane protein
+K18138	K05520	0.0053100848802501	pfpI; protease I [EC:3.5.1.124]
+K18138	K06960	0.0053093747165789	K06960; uncharacterized protein
+K18138	K03592	0.0053067643760866	pmbA; PmbA protein

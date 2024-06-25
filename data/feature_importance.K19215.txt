@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19215	K01512	0.0085816563467524	acyP; acylphosphatase [EC:3.6.1.7]
+K19215	K02406	0.0082140092879289	fliC; flagellin
+K19215	K01809	0.0081753095975264	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K19215	K01760	0.0080011609907152	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19215	K01480	0.0079237616099103	speB; agmatinase [EC:3.5.3.11]
+K19215	K11070	0.007856037151706	potC; spermidine/putrescine transport system permease protein
+K19215	K07010	0.0078270123839041	K07010; putative glutamine amidotransferase
+K19215	K07160	0.007778637770901	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K19215	K07124	0.0077592879256997	K07124; uncharacterized protein
+K19215	K02421	0.0077496130030991	fliR; flagellar biosynthetic protein FliR
+K19215	K02401	0.0077109133126966	flhB; flagellar biosynthetic protein FlhB
+K19215	K02011	0.007701238390096	afuB, fbpB; iron(III) transport system permease protein
+K19215	K03594	0.007701238390096	bfr; bacterioferritin [EC:1.16.3.1]
+K19215	K07507	0.0075464396284862	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19215	K02575	0.0075270897832849	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K19215	K00375	0.0073819659442756	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19215	mobileOG_000031464	0.0073819659442756	mutT
+K19215	K03767	0.0073142414860712	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19215	K06996	0.0071013931888577	K06996; uncharacterized protein
+K19215	K19267	0.0070820433436564	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K19215	K12658	0.0070530185758546	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]
+K19215	K01912	0.0069756191950496	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K19215	K02851	0.006965944272449	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K19215	K06872	0.0069562693498483	K06872; uncharacterized protein
+K19215	mobileOG_000093088	0.0069272445820465	ftsZ
+K19215	K02039	0.0068691950464427	phoU; phosphate transport system protein
+K19215	K07646	0.0068595201238421	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K19215	K08682	0.0068498452012415	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K19215	K18297	0.0068304953560403	mexT; LysR family transcriptional regulator, mexEF-oprN operon transcriptional activator
+K19215	K10439	0.0068208204334397	rbsB; ribose transport system substrate-binding protein
+K19215	biofilm	0.0067821207430373	
+K19215	mobileOG_000026018	0.0067240712074335	xerC
+K19215	K10206	0.0067143962848329	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K19215	K18981	0.006685371517031	udh; uronate dehydrogenase [EC:1.1.1.203]
+K19215	K04072	0.0066756965944304	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]
+K19215	K07077	0.0066273219814273	K07077; uncharacterized protein
+K19215	K02666	0.0066176470588267	pilQ; type IV pilus assembly protein PilQ
+K19215	K24206	0.0066079721362261	
+K19215	K06132	0.0065982972136254	clsC; cardiolipin synthase C [EC:2.7.8.-]
+K19215	K01297	0.0065692724458236	ldcA; muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]
+K19215	K01821	0.0065595975232229	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K19215	K06994	0.0065595975232229	K06994; putative drug exporter of the RND superfamily
+K19215	K03192	0.0065402476780217	ureJ; urease accessory protein
+K19215	K05601	0.0065402476780217	hcp; hydroxylamine reductase [EC:1.7.99.1]
+K19215	K15539	0.0065402476780217	rodZ; cytoskeleton protein RodZ
+K19215	mobileOG_000300939	0.0065305727554211	uvrA
+K19215	K11689	0.0064918730650186	dctQ; C4-dicarboxylate transporter, DctQ subunit
+K19215	K08300	0.0064918730650186	rne; ribonuclease E [EC:3.1.26.12]
+K19215	K03522	0.006482198142418	fixB, etfA; electron transfer flavoprotein alpha subunit
+K19215	K15975	0.006482198142418	K15975; glyoxalase family protein

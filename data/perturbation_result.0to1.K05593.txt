@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K05593	K01800	maiA, GSTZ1; maleylacetoacetate isomerase [EC:5.2.1.2]	0.2317354274959542	0.2148072804732939
+K05593	K20975	K20975; two-component system, sensor histidine kinase [EC:2.7.13.3]	0.2317354274959542	0.2229533522336595
+K05593	K14986	fixL; two-component system, LuxR family, sensor kinase FixL [EC:2.7.13.3]	0.2317354274959542	0.2235867094149848
+K05593	K03560	tolR; biopolymer transport protein TolR	0.2317354274959542	0.2236909832772657
+K05593	K00412	CYTB, petB; ubiquinol-cytochrome c reductase cytochrome b subunit	0.2317354274959542	0.224754422963922
+K05593	K21420	bpt; leucyl-tRNA---protein transferase [EC:2.3.2.29]	0.2317354274959542	0.224800925711785
+K05593	K01187	malZ; alpha-glucosidase [EC:3.2.1.20]	0.2317354274959542	0.2253325545904125
+K05593	K09667	OGT; protein O-GlcNAc transferase [EC:2.4.1.255]	0.2317354274959542	0.2257259550345212
+K05593	K01596	E4.1.1.32, pckA, PCK; phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	0.2317354274959542	0.2259166119765468
+K05593	K01029	E2.8.3.5B, scoB; 3-oxoacid CoA-transferase subunit B [EC:2.8.3.5]	0.2317354274959542	0.2259890679091226
+K05593	K00154	E1.2.1.68; coniferyl-aldehyde dehydrogenase [EC:1.2.1.68]	0.2317354274959542	0.2263332211853587
+K05593	K07234	K07234; uncharacterized protein involved in response to NO	0.2317354274959542	0.226534221095521
+K05593	K06954	K06954; uncharacterized protein	0.2317354274959542	0.2266854166465935
+K05593	K03862	vanA; vanillate monooxygenase [EC:1.14.13.82]	0.2317354274959542	0.2269856934380173
+K05593	K15012	regA, regR, actR; two-component system, response regulator RegA	0.2317354274959542	0.2271667033842185
+K05593	K09932	K09932; uncharacterized protein	0.2317354274959542	0.2272495733736364
+K05593	K00413	CYC1, CYT1, petC; ubiquinol-cytochrome c reductase cytochrome c1 subunit	0.2317354274959542	0.2274766568615649
+K05593	K00411	UQCRFS1, RIP1, petA; ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]	0.2317354274959542	0.227656626644256
+K05593	K12511	tadC; tight adherence protein C	0.2317354274959542	0.2284571767492999
+K05593	K07028	K07028; uncharacterized protein	0.2317354274959542	0.2285095373057317
+K05593	K00311	ETFDH; electron-transferring-flavoprotein dehydrogenase [EC:1.5.5.1]	0.2317354274959542	0.2285314398210692
+K05593	K08978	TC.BAT1; bacterial/archaeal transporter family protein	0.2317354274959542	0.2354063193148739
+K05593	K01304	pcp; pyroglutamyl-peptidase [EC:3.4.19.3]	0.2317354274959542	0.2358053162059557
+K05593	K02054	ABC.SP.P1; putative spermidine/putrescine transport system permease protein	0.2317354274959542	0.2363689482071655
+K05593	K03523	bioY; biotin transport system substrate-specific component	0.2317354274959542	0.2368475444068877

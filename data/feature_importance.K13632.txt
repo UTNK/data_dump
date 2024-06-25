@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K13632	K06980	0.0088986529745824	ygfZ; tRNA-modifying protein YgfZ
+K13632	K00252	0.0087847785097924	GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]
+K13632	K01610	0.0080842451077574	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K13632	K01512	0.0080583256300067	acyP; acylphosphatase [EC:3.6.1.7]
+K13632	K03767	0.0080329087520469	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K13632	K02406	0.0080188817425069	fliC; flagellin
+K13632	K01912	0.0079348019423404	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K13632	K02401	0.0079333814981902	flhB; flagellar biosynthetic protein FlhB
+K13632	K01809	0.0079287275977696	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K13632	K00652	0.0079113558990201	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K13632	K00325	0.0079063183528409	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K13632	K02575	0.0077631618828192	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K13632	K10439	0.007743640545998	rbsB; ribose transport system substrate-binding protein
+K13632	K00375	0.0077306263214507	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K13632	K14393	0.0077030005145398	actP; cation/acetate symporter
+K13632	K01760	0.0076651027219665	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K13632	K00845	0.0076519701548998	glk; glucokinase [EC:2.7.1.2]
+K13632	K07335	0.0075438527076867	bmpA, bmpB, tmpC; basic membrane protein A and related proteins
+K13632	mobileOG_000031464	0.0075126380602811	mutT
+K13632	K01480	0.0074996238357337	speB; agmatinase [EC:3.5.3.11]
+K13632	K06996	0.0074931167234602	K06996; uncharacterized protein
+K13632	K02011	0.0074512417843443	afuB, fbpB; iron(III) transport system permease protein
+K13632	K01975	0.0073397082493201	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K13632	K00865	0.0073385151945652	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K13632	K07124	0.0073207902492906	K07124; uncharacterized protein
+K13632	K02420	0.0073047839343423	fliQ; flagellar biosynthetic protein FliQ
+K13632	K07010	0.0072745973114834	K07010; putative glutamine amidotransferase
+K13632	K07507	0.0072263251202377	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K13632	K21159	0.0072165644518272	sgcF, ncsF2, kedF; epoxide hydrolase
+K13632	K02039	0.0072035502272796	phoU; phosphate transport system protein
+K13632	K16165	0.007177521778185	nagK; fumarylpyruvate hydrolase [EC:3.7.1.20]
+K13632	K07160	0.0071563699824832	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K13632	K09702	0.0070636473133948	K09702; uncharacterized protein
+K13632	K19267	0.0070278581958893	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K13632	K11689	0.0070115904152051	dctQ; C4-dicarboxylate transporter, DctQ subunit
+K13632	K07646	0.0069627870731523	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K13632	K01893	0.0068261377154043	NARS, asnS; asparaginyl-tRNA synthetase [EC:6.1.1.22]
+K13632	K09765	0.0068056091879852	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K13632	K06949	0.0067762238580018	rsgA, engC; ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100]
+K13632	K10227	0.0067673004745927	smoE, mtlE; sorbitol/mannitol transport system substrate-binding protein
+K13632	K12658	0.0067610665926669	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]
+K13632	K01466	0.0067545594803932	allB; allantoinase [EC:3.5.2.5]
+K13632	K16167	0.0067415452558459	bpsA, srsA, pks11, pks10; alkylresorcinol/alkylpyrone synthase
+K13632	K02388	0.0067008862736823	flgC; flagellar basal-body rod protein FlgC
+K13632	K01902	0.0066894883576562	sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]
+K13632	K01880	0.0066894883576562	GARS, glyS1; glycyl-tRNA synthetase [EC:6.1.1.14]
+K13632	K17315	0.0066757438551081	gtsA, glcE; glucose/mannose transport system substrate-binding protein
+K13632	K01754	0.0066699670208351	E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]
+K13632	mobileOG_000187617	0.0066439385717401	dnaE
+K13632	K00619	0.0066146565665086	argA; amino-acid N-acetyltransferase [EC:2.3.1.1]

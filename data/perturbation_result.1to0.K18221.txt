@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18221	K02408	fliE; flagellar hook-basal body complex protein FliE	0.0018977980064278	0.0038773688711948
+K18221	K02417	fliNY, fliN; flagellar motor switch protein FliN/FliY	0.0018977980064278	0.0039618104195928
+K18221	K02400	flhA; flagellar biosynthesis protein FlhA	0.0018977980064278	0.0039755064449159
+K18221	K02039	phoU; phosphate transport system protein	0.0018977980064278	0.0040019880375304
+K18221	K02409	fliF; flagellar M-ring protein FliF	0.0018977980064278	0.0040259234201348
+K18221	K02419	fliP; flagellar biosynthetic protein FliP	0.0018977980064278	0.004066789965015
+K18221	K02016	ABC.FEV.S; iron complex transport system substrate-binding protein	0.0018977980064278	0.0042537362066398
+K18221	K02028	ABC.PA.A; polar amino acid transport system ATP-binding protein [EC:7.4.2.1]	0.0018977980064278	0.0043097294936933
+K18221	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein	0.0018977980064278	0.0044162549203432
+K18221	K03621	plsX; phosphate acyltransferase [EC:2.3.1.274]	0.0018977980064278	0.0048431001728113
+K18221	K02114	ATPF1E, atpC; F-type H+-transporting ATPase subunit epsilon	0.0018977980064278	0.004878721621906
+K18221	K01626	E2.5.1.54, aroF, aroG, aroH; 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]	0.0018977980064278	0.0048890869345822
+K18221	K03667	hslU; ATP-dependent HslUV protease ATP-binding subunit HslU	0.0018977980064278	0.0053266363763756
+K18221	K02221	yggT; YggT family protein	0.0018977980064278	0.0053918493885078
+K18221	K00963	UGP2, galU, galF; UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]	0.0018977980064278	0.0054256851309164
+K18221	K00995	pgsA, PGS1; CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]	0.0018977980064278	0.0054803479042672
+K18221	K01419	hslV, clpQ; ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]	0.0018977980064278	0.0062933131556772
+K18221	K03980	murJ, mviN; putative peptidoglycan lipid II flippase	0.0018977980064278	0.00750617805041
+K18221	mobileOG_000335965	rph	0.0018977980064278	0.0077127635764309
+K18221	mobileOG_000332333	ruvC	0.0018977980064278	0.0078530348726804
+K18221	K04042	glmU; bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]	0.0018977980064278	0.0080832183542935
+K18221	K00147	proA; glutamate-5-semialdehyde dehydrogenase [EC:1.2.1.41]	0.0018977980064278	0.0081496810507145
+K18221	mobileOG_000331552	tmk	0.0018977980064278	0.0091299417551493
+K18221	K05808	yhbH; putative sigma-54 modulation protein	0.0018977980064278	0.009833136507457
+K18221	K03789	rimI; [ribosomal protein S18]-alanine N-acetyltransferase [EC:2.3.1.266]	0.0018977980064278	0.010578070062215

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18974	K00845	0.0089841228659311	glk; glucokinase [EC:2.7.1.2]
+K18974	K03594	0.0083488343868116	bfr; bacterioferritin [EC:1.16.3.1]
+K18974	K02401	0.0082310687339964	flhB; flagellar biosynthetic protein FlhB
+K18974	K00865	0.0081265979342587	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18974	K01512	0.0080922486139616	acyP; acylphosphatase [EC:3.6.1.7]
+K18974	K02011	0.0078961043088214	afuB, fbpB; iron(III) transport system permease protein
+K18974	K02421	0.007895671358812	fliR; flagellar biosynthetic protein FliR
+K18974	K14393	0.0077936523329977	actP; cation/acetate symporter
+K18974	K02406	0.007781408613338	fliC; flagellin
+K18974	K07010	0.0076952816340282	K07010; putative glutamine amidotransferase
+K18974	K03767	0.0076845066481251	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18974	K02575	0.0076651355524856	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18974	K01809	0.0076207019973976	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18974	K00325	0.0075404407866903	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K18974	K10206	0.0075380922910148	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K18974	K01760	0.0075119405721741	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18974	K07160	0.0074395549816151	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18974	K07124	0.0073961259754775	K07124; uncharacterized protein
+K18974	K00375	0.0073877006630558	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18974	K06996	0.0073109081129407	K06996; uncharacterized protein
+K18974	K01480	0.0072322398128796	speB; agmatinase [EC:3.5.3.11]
+K18974	K07507	0.0071822701709712	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18974	K01912	0.0071075905361086	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18974	K01179	0.0070977096879277	E3.2.1.4; endoglucanase [EC:3.2.1.4]
+K18974	K05802	0.0070427083138786	mscK, kefA, aefA; potassium-dependent mechanosensitive channel
+K18974	K18682	0.0070336486629065	rny; ribonucrease Y [EC:3.1.-.-]
+K18974	K10439	0.0070159214790957	rbsB; ribose transport system substrate-binding protein
+K18974	K07096	0.0070137182090761	K07096; uncharacterized protein
+K18974	K02039	0.0069858619959003	phoU; phosphate transport system protein
+K18974	K06872	0.0069620119711943	K06872; uncharacterized protein
+K18974	K06145	0.006954823240269	gntR; LacI family transcriptional regulator, gluconate utilization system Gnt-I transcriptional repressor
+K18974	K06143	0.0068971496110636	creD; inner membrane protein
+K18974	K04072	0.0068804117150317	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]
+K18974	K24206	0.0068386959040234	
+K18974	mobileOG_000031464	0.0068096220896196	mutT
+K18974	K18218	0.0068057558086731	tet35; tetracycline resistance efflux pump
+K18974	K08225	0.0068027595859537	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter
+K18974	K01664	0.0067878786328461	pabA; para-aminobenzoate synthetase component II [EC:2.6.1.85]
+K18974	K19267	0.0067874157935455	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18974	K13282	0.0067491039262754	cphB; cyanophycinase [EC:3.4.15.6]
+K18974	K06980	0.0067479008202985	ygfZ; tRNA-modifying protein YgfZ
+K18974	K08300	0.0067449414298048	rne; ribonuclease E [EC:3.1.26.12]
+K18974	K13015	0.0067207630556456	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K18974	K03749	0.0067106146477173	dedD; DedD protein
+K18974	K02392	0.0067078469383289	flgG; flagellar basal-body rod protein FlgG
+K18974	K20469	0.0067065008031891	K20469; putative heme transporter
+K18974	K15578	0.0066715148253844	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K18974	K03605	0.0066494895873395	hyaD, hybD; hydrogenase maturation protease [EC:3.4.23.-]
+K18974	K10227	0.0066486985330017	smoE, mtlE; sorbitol/mannitol transport system substrate-binding protein
+K18974	K02073	0.0066478849253509	metQ; D-methionine transport system substrate-binding protein

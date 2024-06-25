@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19062	K02401	0.0091692977288949	flhB; flagellar biosynthetic protein FlhB
+K19062	K01809	0.0086121533995293	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K19062	mobileOG_000031464	0.0085155387759399	mutT
+K19062	K01512	0.008322309528761	acyP; acylphosphatase [EC:3.6.1.7]
+K19062	K02421	0.0082482383173425	fliR; flagellar biosynthetic protein FliR
+K19062	K03594	0.0081370099881322	bfr; bacterioferritin [EC:1.16.3.1]
+K19062	K11070	0.0081194188192232	potC; spermidine/putrescine transport system permease protein
+K19062	K06872	0.0081033163819583	K06872; uncharacterized protein
+K19062	K03767	0.0080131427332749	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19062	K01480	0.0079455124967622	speB; agmatinase [EC:3.5.3.11]
+K19062	K07160	0.0078585593355319	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K19062	K07010	0.0078585593355318	K07010; putative glutamine amidotransferase
+K19062	K02406	0.0078149183123664	fliC; flagellin
+K19062	K01760	0.0077329603248657	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19062	K10439	0.0076231093111435	rbsB; ribose transport system substrate-binding protein
+K19062	K07124	0.0074849827909859	K07124; uncharacterized protein
+K19062	K06996	0.0074785418160799	K06996; uncharacterized protein
+K19062	K02011	0.0074527779164561	afuB, fbpB; iron(III) transport system permease protein
+K19062	K01432	0.0074109115795675	AFMID; arylformamidase [EC:3.5.1.9]
+K19062	K00375	0.0073819271924905	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19062	K02575	0.0073690452426786	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K19062	K17723	0.0073400608556016	preA; dihydropyrimidine dehydrogenase (NAD+) subunit PreA [EC:1.3.1.1]
+K19062	K08225	0.007311076468525	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter
+K19062	mobileOG_000300939	0.0072917535438072	uvrA
+K19062	K07646	0.0072820920814481	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K19062	K02039	0.0072692101316362	phoU; phosphate transport system protein
+K19062	K08682	0.0072692101316362	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K19062	K10228	0.0072209028198414	smoF, mtlF; sorbitol/mannitol transport system permease protein
+K19062	K02016	0.0071983594076706	ABC.FEV.S; iron complex transport system substrate-binding protein
+K19062	K15578	0.0071886979453116	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K19062	K02389	0.0071693750205938	flgD; flagellar basal-body rod modification protein FlgD
+K19062	K10229	0.0071403906335171	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K19062	K18981	0.0071307291711579	udh; uronate dehydrogenase [EC:1.1.1.203]
+K19062	K07507	0.0071242881962519	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19062	K13015	0.0071178472213461	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K19062	K19267	0.0070920833217223	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K19062	K01469	0.0070856423468164	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+K19062	K20938	0.0070373350350216	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]
+K19062	K06976	0.0070244530852096	K06976; uncharacterized protein
+K19062	mobileOG_000802159	0.0069954686981328	rep
+K19062	K13626	0.0069632638236032	fliW; flagellar assembly factor FliW
+K19062	K00424	0.00696004333615	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K19062	K19416	0.0069536023612439	yccA; modulator of FtsH protease
+K19062	K01919	0.0069439408988851	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K19062	K06136	0.0069407204114322	pqqB; pyrroloquinoline quinone biosynthesis protein B
+K19062	K07096	0.0069246179741674	K07096; uncharacterized protein
+K19062	K17758	0.0069213974867143	nnrD; ADP-dependent NAD(P)H-hydrate dehydratase [EC:4.2.1.136]
+K19062	K07116	0.0069149565118084	pvdQ, quiP; acyl-homoserine-lactone acylase [EC:3.5.1.97]
+K19062	K02008	0.0069020745619964	cbiQ; cobalt/nickel transport system permease protein
+K19062	mobileOG_000134996	0.0068891926121845	mazF

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18902	mobileOG_000005782	0.0079145008361695	rnhA
+K18902	K01880	0.0078553626484986	GARS, glyS1; glycyl-tRNA synthetase [EC:6.1.1.14]
+K18902	K01664	0.0077974457884893	pabA; para-aminobenzoate synthetase component II [EC:2.6.1.85]
+K18902	K21064	0.0076033905109363	ycsE, yitU, ywtE; 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.104]
+K18902	K02232	0.0075824206257385	cobQ, cbiP; adenosylcobyric acid synthase [EC:6.3.5.10]
+K18902	K02071	0.0075640475459128	metN; D-methionine transport system ATP-binding protein
+K18902	K03688	0.0075483268950139	ubiB, aarF; ubiquinone biosynthesis protein
+K18902	K02027	0.0075241108127354	ABC.MS.S; multiple sugar transport system substrate-binding protein
+K18902	K00208	0.0074755503319308	fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]
+K18902	K01239	0.0074658501064175	iunH; purine nucleosidase [EC:3.2.2.1]
+K18902	K04761	0.0073952645231162	oxyR; LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator
+K18902	K02564	0.007355098299849	nagB, GNPDA; glucosamine-6-phosphate deaminase [EC:3.5.99.6]
+K18902	K02026	0.0072472907689381	ABC.MS.P1; multiple sugar transport system permease protein
+K18902	K01480	0.0072053496875861	speB; agmatinase [EC:3.5.3.11]
+K18902	K01886	0.0071427878196236	QARS, glnS; glutaminyl-tRNA synthetase [EC:6.1.1.18]
+K18902	K00262	0.007115391987563	E1.4.1.4, gdhA; glutamate dehydrogenase (NADP+) [EC:1.4.1.4]
+K18902	K02073	0.0070181978076181	metQ; D-methionine transport system substrate-binding protein
+K18902	mobileOG_000091440	0.0070181833583825	cinA
+K18902	K02072	0.00700127992174	metI; D-methionine transport system permease protein
+K18902	K03566	0.0068275501404927	gcvA; LysR family transcriptional regulator, glycine cleavage system transcriptional activator
+K18902	K00104	0.0068266730874281	glcD; glycolate oxidase [EC:1.1.3.15]
+K18902	K00849	0.0068236952678198	galK; galactokinase [EC:2.7.1.6]
+K18902	K06872	0.0068067018419638	K06872; uncharacterized protein
+K18902	K03782	0.0067663344199284	katG; catalase-peroxidase [EC:1.11.1.21]
+K18902	K23163	0.0067590349823045	sbp; sulfate/thiosulfate transport system substrate-binding protein
+K18902	mobileOG_000330062	0.0067159506773786	recR
+K18902	K05520	0.0066650340922019	pfpI; protease I [EC:3.5.1.124]
+K18902	K01912	0.0066586465896388	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18902	K00652	0.0066513297938298	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18902	K19591	0.0066381462237812	cueR; MerR family transcriptional regulator, copper efflux regulator
+K18902	K01241	0.0066118614637938	amn; AMP nucleosidase [EC:3.2.2.4]
+K18902	mobileOG_000028612	0.0065632894831613	rpoE
+K18902	K02624	0.006528130621918	pcaR; IclR family transcriptional regulator, pca regulon regulatory protein
+K18902	K00847	0.0065271958834356	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K18902	K01698	0.0065176991283029	hemB, ALAD; porphobilinogen synthase [EC:4.2.1.24]
+K18902	K07124	0.0065159231780762	K07124; uncharacterized protein
+K18902	K18682	0.006505801917375	rny; ribonucrease Y [EC:3.1.-.-]
+K18902	K14261	0.0065022782318125	alaC; alanine-synthesizing transaminase [EC:2.6.1.-]
+K18902	K00253	0.0065009180688171	IVD, ivd; isovaleryl-CoA dehydrogenase [EC:1.3.8.4]
+K18902	K00074	0.006480441518519	paaH, hbd, fadB, mmgB; 3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]
+K18902	K07638	0.0064478437837206	envZ; two-component system, OmpR family, osmolarity sensor histidine kinase EnvZ [EC:2.7.13.3]
+K18902	K01792	0.0064394032823373	E5.1.3.15; glucose-6-phosphate 1-epimerase [EC:5.1.3.15]
+K18902	K21405	0.0064132192940624	acoR; sigma-54 dependent transcriptional regulator, acetoin dehydrogenase operon transcriptional activator AcoR
+K18902	mobileOG_000365465	0.0063993880615533	nfi
+K18902	K18290	0.0063761910131922	ich-Y; itaconyl-CoA hydratase [EC:4.2.1.56]
+K18902	K07091	0.0063644430296684	lptF; lipopolysaccharide export system permease protein
+K18902	K01627	0.0063613447562138	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]
+K18902	K00982	0.0063363624790528	glnE; [glutamine synthetase] adenylyltransferase / [glutamine synthetase]-adenylyl-L-tyrosine phosphorylase [EC:2.7.7.42 2.7.7.89]
+K18902	K09772	0.006319923555377	sepF; cell division inhibitor SepF
+K18902	K00955	0.0063114992724759	cysNC; bifunctional enzyme CysN/CysC [EC:2.7.7.4 2.7.1.25]

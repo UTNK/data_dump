@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K22333	K12658	lhpA; 4-hydroxyproline epimerase [EC:5.1.1.8]	0.0	0.0
+K22333	K10547	ABC.GGU.P, gguB; putative multiple sugar transport system permease protein	0.0	0.0
+K22333	K11689	dctQ; C4-dicarboxylate transporter, DctQ subunit	0.0	0.0
+K22333	K11942	icmF; isobutyryl-CoA mutase [EC:5.4.99.13]	0.0	0.0
+K22333	K12132	prkC, stkP; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]	0.0	0.0
+K22333	K12251	aguB; N-carbamoylputrescine amidase [EC:3.5.1.53]	0.0	0.0
+K22333	K12257	secDF; SecD/SecF fusion protein	0.0	0.0
+K22333	K12511	tadC; tight adherence protein C	0.0	0.0
+K22333	K12583	mgtA; phosphatidylinositol alpha 1,6-mannosyltransferase [EC:2.4.1.-]	0.0	0.0
+K22333	K11354	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]	0.0	0.0
+K22333	K11178	yagS; xanthine dehydrogenase YagS FAD-binding subunit [EC:1.17.1.4]	0.0	0.0
+K22333	K06013	STE24; STE24 endopeptidase [EC:3.4.24.84]	0.0	9.985521235521237e-05
+K22333	K01857	pcaB; 3-carboxy-cis,cis-muconate cycloisomerase [EC:5.5.1.2]	0.0	9.99207974346096e-05
+K22333	K16843	slcC; (S)-sulfolactate dehydrogenase [EC:1.1.1.310]	0.0	9.996521268577392e-05
+K22333	K00411	UQCRFS1, RIP1, petA; ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]	0.0	9.997680576763245e-05
+K22333	K07742	ylxR; uncharacterized protein	0.0	9.999130090180652e-05
+K22333	K23269	purL; phosphoribosylformylglycinamidine synthase subunit PurL [EC:6.3.5.3]	0.0	0.0001999033816425
+K22333	K23264	purS; phosphoribosylformylglycinamidine synthase subunit PurS [EC:6.3.5.3]	0.0	0.0001999111113336
+K22333	K06960	K06960; uncharacterized protein	0.0	0.0001999201500434
+K22333	K06346	jag; spoIIIJ-associated protein	0.0	0.0002996679953743
+K22333	K22391	E3.5.4.16; GTP cyclohydrolase I [EC:3.5.4.16]	0.0	0.0002998750859496
+K22333	K07164	K07164; uncharacterized protein	0.0	0.0003998705213145
+K22333	K13626	fliW; flagellar assembly factor FliW	0.0	0.0005998193891266
+K22333	K19710	E2.7.7.53; ATP adenylyltransferase [EC:2.7.7.53]	0.0	0.0014994310977616
+K22333	K13640	hspR; MerR family transcriptional regulator, heat shock protein HspR	0.0	0.0026991041290248

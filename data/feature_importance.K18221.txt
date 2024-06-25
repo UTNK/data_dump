@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18221	K02406	0.0086313885318735	fliC; flagellin
+K18221	K02401	0.0086162820867209	flhB; flagellar biosynthetic protein FlhB
+K18221	K02011	0.0084961662072284	afuB, fbpB; iron(III) transport system permease protein
+K18221	K02421	0.0083815697823653	fliR; flagellar biosynthetic protein FliR
+K18221	K01480	0.0082916961459025	speB; agmatinase [EC:3.5.3.11]
+K18221	K01760	0.0081815623511422	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18221	K01512	0.0080728165618666	acyP; acylphosphatase [EC:3.6.1.7]
+K18221	K01809	0.0079907772513314	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18221	K03594	0.0079592953889119	bfr; bacterioferritin [EC:1.16.3.1]
+K18221	K02575	0.0077720801854447	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18221	K11070	0.007681020414226	potC; spermidine/putrescine transport system permease protein
+K18221	K02039	0.007632345973795	phoU; phosphate transport system protein
+K18221	K07010	0.0076179211697137	K07010; putative glutamine amidotransferase
+K18221	mobileOG_000031464	0.0075535692516658	mutT
+K18221	K07160	0.0075380572535972	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18221	K06872	0.0075182721969	K06872; uncharacterized protein
+K18221	K00375	0.0074791879038447	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18221	K03767	0.0072476123784999	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18221	K07646	0.0072440730478913	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18221	K01821	0.0071949311481257	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18221	K07124	0.0071887200495542	K07124; uncharacterized protein
+K18221	K19267	0.0071703953478469	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18221	K10439	0.007132009156292	rbsB; ribose transport system substrate-binding protein
+K18221	K01912	0.0070947839205077	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18221	K07507	0.0070916339815503	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18221	K11074	0.0070465034392454	potI; putrescine transport system permease protein
+K18221	K08682	0.0070078259077428	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K18221	K18981	0.0069760693739469	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18221	K23265	0.0068908681532288	purQ; phosphoribosylformylglycinamidine synthase subunit PurQ / glutaminase [EC:6.3.5.3 3.5.1.2]
+K18221	K13626	0.0068387683575654	fliW; flagellar assembly factor FliW
+K18221	K03770	0.0068347792740081	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K18221	K03269	0.0068111176790233	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]
+K18221	K15539	0.0067964240308938	rodZ; cytoskeleton protein RodZ
+K18221	K06996	0.0067850691011754	K06996; uncharacterized protein
+K18221	K01297	0.0067792702333889	ldcA; muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]
+K18221	mobileOG_000335965	0.0067779395422783	rph
+K18221	K03585	0.0067774649270875	acrA, mexA, adeI, smeD, mtrC, cmeA; membrane fusion protein, multidrug efflux system
+K18221	K02435	0.0067593018297492	gatC, GATC; aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]
+K18221	K01919	0.0067590760545005	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K18221	K00266	0.0067580874384616	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K18221	mobileOG_000026018	0.006753109604445	xerC
+K18221	K08300	0.0067390616145501	rne; ribonuclease E [EC:3.1.26.12]
+K18221	K01952	0.0067076162403449	PFAS, purL; phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]
+K18221	K02279	0.0066975079447959	cpaB, rcpC; pilus assembly protein CpaB
+K18221	K07736	0.0066798642712234	carD; CarD family transcriptional regulator
+K18221	K07050	0.0066792870780457	AARSD1, ALAX; misacylated tRNA(Ala) deacylase [EC:3.1.1.-]
+K18221	K15975	0.0066777970368152	K15975; glyoxalase family protein
+K18221	K05601	0.0066770621261708	hcp; hydroxylamine reductase [EC:1.7.99.1]
+K18221	K02025	0.0066770517601553	ABC.MS.P; multiple sugar transport system permease protein
+K18221	K02851	0.0066736497425796	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]

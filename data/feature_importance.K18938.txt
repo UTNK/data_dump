@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18938	K01809	0.0085220684857383	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18938	K02401	0.0084157841848957	flhB; flagellar biosynthetic protein FlhB
+K18938	K02421	0.0083384865115557	fliR; flagellar biosynthetic protein FliR
+K18938	K01512	0.0081838911648757	acyP; acylphosphatase [EC:3.6.1.7]
+K18938	K11070	0.0081549045373731	potC; spermidine/putrescine transport system permease protein
+K18938	K01760	0.0080196336090281	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18938	K03594	0.0079326737265206	bfr; bacterioferritin [EC:1.16.3.1]
+K18938	K03767	0.0077394295431705	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18938	K10439	0.0077007807065004	rbsB; ribose transport system substrate-binding protein
+K18938	K02406	0.0075365231506528	fliC; flagellin
+K18938	K00375	0.0074882121048154	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18938	K06872	0.0074495632681453	K06872; uncharacterized protein
+K18938	K07160	0.0074399010589778	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18938	K07010	0.0073336167581352	K07010; putative glutamine amidotransferase
+K18938	K01480	0.0072563190847952	speB; agmatinase [EC:3.5.3.11]
+K18938	K06996	0.0072273324572927	K06996; uncharacterized protein
+K18938	K07077	0.0071693592022877	K07077; uncharacterized protein
+K18938	mobileOG_000031464	0.0071435933111742	mutT
+K18938	mobileOG_000093088	0.0071403725747852	ftsZ
+K18938	K19267	0.0070920615289477	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18938	K07507	0.0070630749014451	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18938	K07124	0.0070534126922776	K07124; uncharacterized protein
+K18938	K02054	0.0070244260647751	ABC.SP.P1; putative spermidine/putrescine transport system permease protein
+K18938	K01912	0.0069374661822676	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18938	K02011	0.0068988173455976	afuB, fbpB; iron(III) transport system permease protein
+K18938	K02575	0.0068698307180951	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18938	K00266	0.006831181881425	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K18938	K06152	0.0067925330447551	E1.1.99.3G; gluconate 2-dehydrogenase gamma chain [EC:1.1.99.3]
+K18938	K00830	0.0067828708355875	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+K18938	K03773	0.0067635464172526	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K18938	K11074	0.006715235371415	potI; putrescine transport system permease protein
+K18938	mobileOG_000300939	0.0067055731622475	uvrA
+K18938	mobileOG_000034793	0.0066862487439125	diaA
+K18938	K18707	0.0066669243255775	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]
+K18938	K10206	0.00665726211641	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K18938	K09765	0.00665726211641	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K18938	K18218	0.0066475999072425	tet35; tetracycline resistance efflux pump
+K18938	K18981	0.0066475999072425	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18938	mobileOG_000802159	0.006637937698075	rep
+K18938	K09767	0.006637937698075	yajQ; cyclic-di-GMP-binding protein
+K18938	K09702	0.0066282754889075	K09702; uncharacterized protein
+K18938	K01545	0.0066089510705724	kdpF; potassium-transporting ATPase KdpF subunit
+K18938	K03600	0.0065896266522375	sspB; stringent starvation protein B
+K18938	K00424	0.0065896266522375	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K18938	K05601	0.0065799644430699	hcp; hydroxylamine reductase [EC:1.7.99.1]
+K18938	K09810	0.0065799644430699	lolD; lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]
+K18938	K02274	0.0065703022339025	coxA, ctaD; cytochrome c oxidase subunit I [EC:7.1.1.9]
+K18938	K01469	0.0065509778155674	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+K18938	K21159	0.0065413156064	sgcF, ncsF2, kedF; epoxide hydrolase
+K18938	K09791	0.0065413156064	K09791; uncharacterized protein

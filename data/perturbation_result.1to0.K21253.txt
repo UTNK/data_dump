@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K21253	K07749	frc; formyl-CoA transferase [EC:2.8.3.16]	0.0005996015934954	0.0003996943020334
+K21253	K11472	glcE; glycolate oxidase FAD binding subunit	0.0005996015934954	0.0003997299988032
+K21253	K16090	fiu; catecholate siderophore receptor	0.0005996015934954	0.0003997435027382
+K21253	K01782	fadJ; 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3]	0.0005996015934954	0.000499641190571
+K21253	K03773	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]	0.0005996015934954	0.000499641190571
+K21253	K22041	comR; TetR/AcrR family transcriptional regulator, copper-responsive repressor	0.0005996015934954	0.000499641190571
+K21253	K22042	hlyU; ArsR family transcriptional regulator, virulence genes transcriptional regulator	0.0005996015934954	0.0006995716513514
+K21253	K00424	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]	0.0005996015934954	0.0006995871031219
+K21253	K07642	baeS, smeS; two-component system, OmpR family, sensor histidine kinase BaeS [EC:2.7.13.3]	0.0005996015934954	0.0006995948307985
+K21253	K03152	thiJ; protein deglycase [EC:3.5.1.124]	0.0005996015934954	0.0006995977289852
+K21253	K01911	menE; O-succinylbenzoic acid---CoA ligase [EC:6.2.1.26]	0.0005996015934954	0.0006995977289852
+K21253	K03973	pspC; phage shock protein C	0.0005996015934954	0.0006995986950847
+K21253	K03402	argR, ahrC; transcriptional regulator of arginine metabolism	0.0005996015934954	0.0006996015934954
+K21253	K01631	dgoA; 2-dehydro-3-deoxyphosphogalactonate aldolase [EC:4.1.2.21]	0.0005996015934954	0.0007992827909983
+K21253	K19267	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	0.0005996015934954	0.0007994376085358
+K21253	K03767	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]	0.0005996015934954	0.0007995558724949
+K21253	K00997	acpS; holo-[acyl-carrier protein] synthase [EC:2.7.8.7]	0.0005996015934954	0.0007995777642693
+K21253	K01619	deoC, DERA; deoxyribose-phosphate aldolase [EC:4.1.2.4]	0.0005996015934954	0.0007995784083005
+K21253	K19804	lapB; lipopolysaccharide assembly protein B	0.0005996015934954	0.0007995977289852
+K21253	K09807	K09807; uncharacterized protein	0.0005996015934954	0.0007995977289852
+K21253	freshwater_sediment		0.0005996015934954	0.0008994818543479
+K21253	K03313	nhaA; Na+:H+ antiporter, NhaA family	0.0005996015934954	0.0008995938645496
+K21253	K03782	katG; catalase-peroxidase [EC:1.11.1.21]	0.0005996015934954	0.0009995938645496
+K21253	K07301	yrbG; cation:H+ antiporter	0.0005996015934954	0.0012995557054156
+K21253	mobileOG_000306602	hflC	0.0005996015934954	0.0027995291439776

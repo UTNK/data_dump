@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18230	K03642	rlpA; rare lipoprotein A	0.0001874407851336	0.00121795020695
+K18230	K03585	acrA, mexA, adeI, smeD, mtrC, cmeA; membrane fusion protein, multidrug efflux system	0.0001874407851336	0.0012655574212704
+K18230	K05515	mrdA; penicillin-binding protein 2 [EC:3.4.16.4]	0.0001874407851336	0.0013332421843464
+K18230	K02527	kdtA, waaA; 3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]	0.0001874407851336	0.0014110585929138
+K18230	K01991	wza, gfcE; polysaccharide biosynthesis/export protein	0.0001874407851336	0.0014561852328534
+K18230	K02523	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]	0.0001874407851336	0.0016462888378574
+K18230	mobileOG_000330441	polA	0.0001874407851336	0.0017292670029865
+K18230	K00912	lpxK; tetraacyldisaccharide 4-kinase [EC:2.7.1.130]	0.0001874407851336	0.0017310624884324
+K18230	K02517	lpxL, htrB; Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-]	0.0001874407851336	0.0017417738475042
+K18230	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	0.0001874407851336	0.0019325938002916
+K18230	mobileOG_000037882	nusG	0.0001874407851336	0.0021925889814622
+K18230	K01627	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]	0.0001874407851336	0.0022183621598358
+K18230	K00677	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	0.0001874407851336	0.0022875680958588
+K18230	mobileOG_000331108	ssb	0.0001874407851336	0.0028382367296463
+K18230	K11720	lptG; lipopolysaccharide export system permease protein	0.0001874407851336	0.0031142689849527
+K18230	K03770	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]	0.0001874407851336	0.0032241196195926
+K18230	K09808	lolC_E; lipoprotein-releasing system permease protein	0.0001874407851336	0.0036070918337725
+K18230	K02536	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	0.0001874407851336	0.0037382764297272
+K18230	K03561	exbB; biopolymer transport protein ExbB	0.0001874407851336	0.0043317186944939
+K18230	K09774	lptA; lipopolysaccharide export system protein LptA	0.0001874407851336	0.0045409611218338
+K18230	K03474	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]	0.0001874407851336	0.0046107505257925
+K18230	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]	0.0001874407851336	0.0047349970083326
+K18230	K03634	lolA; outer membrane lipoprotein carrier protein	0.0001874407851336	0.0047450906313821
+K18230	K03559	exbD; biopolymer transport protein ExbD	0.0001874407851336	0.0050747187056082
+K18230	K07091	lptF; lipopolysaccharide export system permease protein	0.0001874407851336	0.0053476668753043

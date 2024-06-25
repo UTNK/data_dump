@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18866	K02406	0.0082336399329807	fliC; flagellin
+K18866	K02071	0.0081482108277686	metN; D-methionine transport system ATP-binding protein
+K18866	K03313	0.0079853347533022	nhaA; Na+:H+ antiporter, NhaA family
+K18866	K06975	0.0079597568283732	K06975; uncharacterized protein
+K18866	mobileOG_000031464	0.007896678926796	mutT
+K18866	K00703	0.0078646086298205	glgA; starch synthase [EC:2.4.1.21]
+K18866	K00362	0.0078056437709794	nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]
+K18866	K01886	0.0077966249551145	QARS, glnS; glutaminyl-tRNA synthetase [EC:6.1.1.18]
+K18866	K01809	0.007684501411032	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18866	K00865	0.007671562305287	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18866	K06872	0.0075596292685571	K06872; uncharacterized protein
+K18866	K03767	0.007541236420908	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18866	mobileOG_000000370	0.007518137782883	dnaE2
+K18866	K01912	0.0075044976259188	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18866	K02575	0.007441662123824	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18866	K01480	0.0073849613759067	speB; agmatinase [EC:3.5.3.11]
+K18866	K00027	0.0073699188040725	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K18866	K02011	0.007340276016914	afuB, fbpB; iron(III) transport system permease protein
+K18866	K21903	0.007281413500171	cadC, smtB; ArsR family transcriptional regulator, lead/cadmium/zinc/bismuth-responsive transcriptional repressor
+K18866	K06996	0.007259993614027	K06996; uncharacterized protein
+K18866	K00363	0.0072583216831002	nirD; nitrite reductase (NADH) small subunit [EC:1.7.1.15]
+K18866	K02420	0.0072539971512478	fliQ; flagellar biosynthetic protein FliQ
+K18866	K07010	0.0072278193352867	K07010; putative glutamine amidotransferase
+K18866	K07124	0.0071983149521422	K07124; uncharacterized protein
+K18866	K04758	0.0071795511331903	feoA; ferrous iron transport protein A
+K18866	K01760	0.0071705991072584	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18866	K02026	0.007140589317833	ABC.MS.P1; multiple sugar transport system permease protein
+K18866	K00457	0.0071048041956183	HPD, hppD; 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27]
+K18866	K07160	0.0070733601094969	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18866	K00756	0.0068754003624182	pdp; pyrimidine-nucleoside phosphorylase [EC:2.4.2.2]
+K18866	K01919	0.0067960697724522	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K18866	K07507	0.0067089414971718	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18866	K02074	0.0066901326123554	ABC.ZM.A; zinc/manganese transport system ATP-binding protein
+K18866	mobileOG_000127353	0.0066886421176298	mutL
+K18866	K13020	0.0066871901658082	wlbA, bplA; UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase [EC:1.1.1.335]
+K18866	K09915	0.0066649156913506	K09915; uncharacterized protein
+K18866	K01483	0.0066368830828719	allA; ureidoglycolate lyase [EC:4.3.2.3]
+K18866	K00252	0.0066198196241543	GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]
+K18866	K07675	0.0065836339926124	uhpB; two-component system, NarL family, sensor histidine kinase UhpB [EC:2.7.13.3]
+K18866	K03642	0.0065810599406027	rlpA; rare lipoprotein A
+K18866	K11263	0.0065745653714547	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]
+K18866	K18707	0.0065691165372159	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]
+K18866	K00568	0.0065610105962885	ubiG; 2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1.222 2.1.1.64]
+K18866	K15975	0.0064921981587545	K15975; glyoxalase family protein
+K18866	K13653	0.0064813385530362	K13653; AraC family transcriptional regulator
+K18866	K02039	0.0064736715230508	phoU; phosphate transport system protein
+K18866	K02517	0.0064696002804611	lpxL, htrB; Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-]
+K18866	K11720	0.0064624755774852	lptG; lipopolysaccharide export system permease protein
+K18866	K02016	0.0064602085023234	ABC.FEV.S; iron complex transport system substrate-binding protein
+K18866	K19267	0.0064494778017765	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]

@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18141	K16703	wcaL, amsK; colanic acid/amylovoran biosynthesis glycosyltransferase [EC:2.4.-.-]	0.0472709311664568	0.0394734145543315
+K18141	K01811	xylS, yicI; alpha-D-xyloside xylohydrolase [EC:3.2.1.177]	0.0472709311664568	0.0397740150571126
+K18141	K04033	eutR; AraC family transcriptional regulator, ethanolamine operon transcriptional activator	0.0472709311664568	0.0408728187247191
+K18141	K09019	rutE; 3-hydroxypropanoate dehydrogenase [EC:1.1.1.-]	0.0472709311664568	0.0408733098855755
+K18141	K00675	nhoA; N-hydroxyarylamine O-acetyltransferase [EC:2.3.1.118]	0.0472709311664568	0.0410740878820225
+K18141	K06143	creD; inner membrane protein	0.0472709311664568	0.0419731227660023
+K18141	K06132	clsC; cardiolipin synthase C [EC:2.7.8.-]	0.0472709311664568	0.0423731694848134
+K18141	K08369	ydjE; MFS transporter, putative metabolite:H+ symporter	0.0472709311664568	0.0428727514239929
+K18141	K11941	mdoC; glucans biosynthesis protein C [EC:2.1.-.-]	0.0472709311664568	0.0429734357010052
+K18141	K21993	fdhC; formate transporter	0.0472709311664568	0.0431731563722492
+K18141	K16052	ynaI, mscMJ; MscS family membrane protein	0.0472709311664568	0.0431733252205026
+K18141	K03312	gltS; glutamate:Na+ symporter, ESS family	0.0472709311664568	0.0432725283598927
+K18141	K01788	nanE; N-acylglucosamine-6-phosphate 2-epimerase [EC:5.1.3.9]	0.0472709311664568	0.0435726388173669
+K18141	K02099	araC; AraC family transcriptional regulator, arabinose operon regulatory protein	0.0472709311664568	0.0437739151167886
+K18141	K00113	glpC; glycerol-3-phosphate dehydrogenase subunit C	0.0472709311664568	0.0439721861262126
+K18141	K02452	gspC; general secretion pathway protein C	0.0472709311664568	0.0439731187777978
+K18141	K07224	efeO; iron uptake system component EfeO	0.0472709311664568	0.0439735084029904
+K18141	K02455	gspF; general secretion pathway protein F	0.0472709311664568	0.0441724087485952
+K18141	K07027	K07027; glycosyltransferase 2 family protein	0.0472709311664568	0.0442726900256135
+K18141	K02457	gspH; general secretion pathway protein H	0.0472709311664568	0.0445726093327194
+K18141	K07642	baeS, smeS; two-component system, OmpR family, sensor histidine kinase BaeS [EC:2.7.13.3]	0.0472709311664568	0.0445729982206402
+K18141	K02026	ABC.MS.P1; multiple sugar transport system permease protein	0.0472709311664568	0.0508696710015077
+K18141	K01609	trpC; indole-3-glycerol phosphate synthase [EC:4.1.1.48]	0.0472709311664568	0.0514684703020711
+K18141	K00971	manC, cpsB; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	0.0472709311664568	0.0514690278213669
+K18141	K01992	ABC-2.P; ABC-2 type transport system permease protein	0.0472709311664568	0.0576689277858012

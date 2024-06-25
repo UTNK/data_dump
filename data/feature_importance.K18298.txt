@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18298	K02400	0.0080965656707002	flhA; flagellar biosynthesis protein FlhA
+K18298	K02388	0.008048531852972	flgC; flagellar basal-body rod protein FlgC
+K18298	K01512	0.0079894319579618	acyP; acylphosphatase [EC:3.6.1.7]
+K18298	K02409	0.0078782203824984	fliF; flagellar M-ring protein FliF
+K18298	mobileOG_000021084	0.0078528605393545	priA
+K18298	mobileOG_000031464	0.00780102998558	mutT
+K18298	K02417	0.0077305299630523	fliNY, fliN; flagellar motor switch protein FliN/FliY
+K18298	K00865	0.0076733581329669	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18298	K03426	0.0076718067547882	E3.6.1.22, NUDT12, nudC; NAD+ diphosphatase [EC:3.6.1.22]
+K18298	K06920	0.0076543573095461	queC; 7-cyano-7-deazaguanine synthase [EC:6.3.4.20]
+K18298	K10806	0.0076173328417968	yciA; acyl-CoA thioesterase YciA [EC:3.1.2.-]
+K18298	K01975	0.0075795124792479	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K18298	K02408	0.0075451368049649	fliE; flagellar hook-basal body complex protein FliE
+K18298	K03568	0.0074603755708825	tldD; TldD protein
+K18298	K01640	0.0074487356246325	E4.1.3.4, HMGCL, hmgL; hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4]
+K18298	K07335	0.007415882538388	bmpA, bmpB, tmpC; basic membrane protein A and related proteins
+K18298	K03767	0.0073676469854981	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18298	K07010	0.0073632789395235	K07010; putative glutamine amidotransferase
+K18298	activated_sludge	0.0073407044747177	
+K18298	K01760	0.007281281434211	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18298	K10439	0.0072175180049461	rbsB; ribose transport system substrate-binding protein
+K18298	K06193	0.0071936614554436	phnA; protein PhnA
+K18298	K00703	0.0071634193246457	glgA; starch synthase [EC:2.4.1.21]
+K18298	K07124	0.0070489703619291	K07124; uncharacterized protein
+K18298	K06872	0.007008474461904	K06872; uncharacterized protein
+K18298	K01266	0.0069017556218253	dmpA, dap; D-aminopeptidase [EC:3.4.11.19]
+K18298	K06996	0.0068555480613563	K06996; uncharacterized protein
+K18298	K01480	0.0068276070912237	speB; agmatinase [EC:3.5.3.11]
+K18298	K02011	0.0067575647883304	afuB, fbpB; iron(III) transport system permease protein
+K18298	K03673	0.0067510570269405	dsbA; protein dithiol oxidoreductase (disulfide-forming) [EC:1.8.4.15]
+K18298	K16137	0.006715565846875	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K18298	K01912	0.0067051228068313	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18298	K07259	0.0066518715155894	dacB; serine-type D-Ala-D-Ala carboxypeptidase/endopeptidase (penicillin-binding protein 4) [EC:3.4.16.4 3.4.21.-]
+K18298	mobileOG_000188203	0.0066061902428412	mutS2
+K18298	K16554	0.006548881905627	exoP, vpsO; polysaccharide biosynthesis transport protein
+K18298	K00684	0.0065431131056463	aat; leucyl/phenylalanyl-tRNA---protein transferase [EC:2.3.2.6]
+K18298	K14274	0.0065152104082515	xylC; xylono-1,5-lactonase [EC:3.1.1.110]
+K18298	K04084	0.0065111726619355	dsbD, dipZ; thioredoxin:protein disulfide reductase [EC:1.8.4.16]
+K18298	K01664	0.0065007061161124	pabA; para-aminobenzoate synthetase component II [EC:2.6.1.85]
+K18298	K19304	0.0064812468226628	mepM; murein DD-endopeptidase [EC:3.4.24.-]
+K18298	K00263	0.0064726717321782	E1.4.1.9; leucine dehydrogenase [EC:1.4.1.9]
+K18298	K01432	0.0064726124214673	AFMID; arylformamidase [EC:3.5.1.9]
+K18298	K07646	0.0064552391065483	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18298	K02410	0.0064471852740036	fliG; flagellar motor switch protein FliG
+K18298	K02387	0.0064180727360092	flgB; flagellar basal-body rod protein FlgB
+K18298	K11893	0.006408850489901	impJ, vasE; type VI secretion system protein ImpJ
+K18298	mobileOG_000367792	0.0064022314619089	cca
+K18298	K01201	0.0063805801695006	GBA, srfJ; glucosylceramidase [EC:3.2.1.45]
+K18298	K18900	0.0063690046971053	bpeT; LysR family transcriptional regulator, regulator for bpeEF and oprC
+K18298	K04760	0.0063646485567442	greB; transcription elongation factor GreB

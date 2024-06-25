@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18782	K16053	ybdG, mscM; miniconductance mechanosensitive channel	0.4675478742901452	0.4175038366398685
+K18782	K06975	K06975; uncharacterized protein	0.4675478742901452	0.4219171833602186
+K18782	K01753	dsdA; D-serine dehydratase [EC:4.3.1.18]	0.4675478742901452	0.4333089434525706
+K18782	K08682	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]	0.4675478742901452	0.4384642183586628
+K18782	K06145	gntR; LacI family transcriptional regulator, gluconate utilization system Gnt-I transcriptional repressor	0.4675478742901452	0.4390210376969305
+K18782	K09771	TC.SMR3; small multidrug resistance family-3 protein	0.4675478742901452	0.4406056430562415
+K18782	K03613	rnfE; Na+-translocating ferredoxin:NAD+ oxidoreductase subunit E	0.4675478742901452	0.4426841625883977
+K18782	K06183	rsuA; 16S rRNA pseudouridine516 synthase [EC:5.4.99.19]	0.4675478742901452	0.4429127893207515
+K18782	K10778	ada; AraC family transcriptional regulator, regulatory protein of adaptative response / methylated-DNA-[protein]-cysteine methyltransferase [EC:2.1.1.63]	0.4675478742901452	0.4440263130026022
+K18782	mobileOG_000351464	fxsA	0.4675478742901452	0.4453329152253443
+K18782	K06894	yfhM; alpha-2-macroglobulin	0.4675478742901452	0.4453377954145315
+K18782	K05794	terC; tellurite resistance protein TerC	0.4675478742901452	0.4454571101918077
+K18782	K03615	rnfC; Na+-translocating ferredoxin:NAD+ oxidoreductase subunit C [EC:7.2.1.2]	0.4675478742901452	0.4458139868632793
+K18782	K03617	rnfA; Na+-translocating ferredoxin:NAD+ oxidoreductase subunit A	0.4675478742901452	0.4462139102403957
+K18782	K05800	ybaO; Lrp/AsnC family transcriptional regulator	0.4675478742901452	0.4463332790831628
+K18782	K01734	mgsA; methylglyoxal synthase [EC:4.2.3.3]	0.4675478742901452	0.4474060165402493
+K18782	K00322	sthA, udhA; NAD(P) transhydrogenase [EC:1.6.1.1]	0.4675478742901452	0.447787763675833
+K18782	K03773	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]	0.4675478742901452	0.447889346898272
+K18782	K16090	fiu; catecholate siderophore receptor	0.4675478742901452	0.4485342608402266
+K18782	K23163	sbp; sulfate/thiosulfate transport system substrate-binding protein	0.4675478742901452	0.449048159761642
+K18782	K06140	rnk; regulator of nucleoside diphosphate kinase	0.4675478742901452	0.4490747573416663
+K18782	K06132	clsC; cardiolipin synthase C [EC:2.7.8.-]	0.4675478742901452	0.4856485442625359
+K18782	K18929	lldF; L-lactate dehydrogenase complex protein LldF	0.4675478742901452	0.4864179430570071
+K18782	K24206		0.4675478742901452	0.4884624414304787
+K18782	K06872	K06872; uncharacterized protein	0.4675478742901452	0.4926201972579875

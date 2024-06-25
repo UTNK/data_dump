@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19318	K03749	dedD; DedD protein	0.0	0.000199934318555
+K19318	K02396	flgK; flagellar hook-associated protein 1 FlgK	0.0	0.0001999400993054
+K19318	K02405	fliA; RNA polymerase sigma factor for flagellar operon FliA	0.0	0.0001999401061749
+K19318	K09921	K09921; uncharacterized protein	0.0	0.0001999565238579
+K19318	K02410	fliG; flagellar motor switch protein FliG	0.0	0.0001999574850094
+K19318	mobileOG_000089681	dnaG	0.0	0.0001999729415003
+K19318	K19221	cobA, btuR; cob(I)alamin adenosyltransferase [EC:2.5.1.17]	0.0	0.000199989368759
+K19318	K02199	ccmG, dsbE; cytochrome c biogenesis protein CcmG, thiol:disulfide interchange protein DsbE	0.0	0.0001999990334709
+K19318	K02393	flgH; flagellar L-ring protein precursor FlgH	0.0	0.0002998840705867
+K19318	K22719	envC; murein hydrolase activator	0.0	0.0002999478192149
+K19318	K03568	tldD; TldD protein	0.0	0.0002999613461584
+K19318	mobileOG_000802159	rep	0.0	0.0003999429855237
+K19318	mobileOG_000005782	rnhA	0.0	0.0004999163397873
+K19318	K06980	ygfZ; tRNA-modifying protein YgfZ	0.0	0.0005999284920511
+K19318	K06999	K06999; phospholipase/carboxylesterase	0.0	0.0005999462068241
+K19318	K01419	hslV, clpQ; ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]	0.0	0.0005999629522545
+K19318	K03667	hslU; ATP-dependent HslUV protease ATP-binding subunit HslU	0.0	0.0006998377577297
+K19318	K09812	ftsE; cell division transport system ATP-binding protein	0.0	0.0007997798455908
+K19318	K09791	K09791; uncharacterized protein	0.0	0.0008997303232965
+K19318	K11927	rhlE; ATP-dependent RNA helicase RhlE [EC:3.6.4.13]	0.0	0.0008999629517024
+K19318	K00036	G6PD, zwf; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363]	0.0	0.0009998956300816
+K19318	K00759	APRT, apt; adenine phosphoribosyltransferase [EC:2.4.2.7]	0.0	0.0012997379347551
+K19318	K05808	yhbH; putative sigma-54 modulation protein	0.0	0.0015999104482306
+K19318	K00605	gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]	0.0	0.0016998965990374
+K19318	K00012	UGDH, ugd; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	0.0	0.0018995771506423

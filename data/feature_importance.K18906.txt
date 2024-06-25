@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18906	K01610	0.0085616673913671	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K18906	K00652	0.0082185142174501	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18906	K02011	0.0082011808445887	afuB, fbpB; iron(III) transport system permease protein
+K18906	K03767	0.0080272367977495	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18906	K11070	0.0080065656955553	potC; spermidine/putrescine transport system permease protein
+K18906	K01809	0.0078838630947937	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18906	K00375	0.0078589557617697	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18906	K01760	0.0077543825604049	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18906	K07010	0.0076802297538481	K07010; putative glutamine amidotransferase
+K18906	K03594	0.0076798204694351	bfr; bacterioferritin [EC:1.16.3.1]
+K18906	K03641	0.007553308007631	tolB; TolB protein
+K18906	K01480	0.0075462269690156	speB; agmatinase [EC:3.5.3.11]
+K18906	K06872	0.0075038588709811	K06872; uncharacterized protein
+K18906	K10439	0.0074958119178326	rbsB; ribose transport system substrate-binding protein
+K18906	K02421	0.0074954146955038	fliR; flagellar biosynthetic protein FliR
+K18906	mobileOG_000031464	0.0071816021904435	mutT
+K18906	K06996	0.0071703389029962	K06996; uncharacterized protein
+K18906	K02575	0.0071513211336305	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18906	K07160	0.0071476062871009	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18906	K07124	0.0069609499718521	K07124; uncharacterized protein
+K18906	K01912	0.0068878836886482	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18906	K15532	0.0068735837565485	yteR, yesR; unsaturated rhamnogalacturonyl hydrolase [EC:3.2.1.172]
+K18906	K10206	0.0068583279697403	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K18906	K01821	0.0068331599130565	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18906	K07646	0.0067875986731277	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18906	K01512	0.0067738444867105	acyP; acylphosphatase [EC:3.6.1.7]
+K18906	K01469	0.0066927095868448	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+K18906	K01631	0.0066760302345273	dgoA; 2-dehydro-3-deoxyphosphogalactonate aldolase [EC:4.1.2.21]
+K18906	mobileOG_000363469	0.0066525428056278	intS
+K18906	K23509	0.0066390956402194	ytfT, yjfF; galactofuranose transport system permease protein
+K18906	K09972	0.0066295702457892	aapP, bztD; general L-amino acid transport system ATP-binding protein [EC:7.4.2.1]
+K18906	K13693	0.0066210867705711	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]
+K18906	K06152	0.0066086322454715	E1.1.99.3G; gluconate 2-dehydrogenase gamma chain [EC:1.1.99.3]
+K18906	K03605	0.0065910383028308	hyaD, hybD; hydrogenase maturation protease [EC:3.4.23.-]
+K18906	K11263	0.0065860586232975	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]
+K18906	K06980	0.006582645829627	ygfZ; tRNA-modifying protein YgfZ
+K18906	K11689	0.0065781920514167	dctQ; C4-dicarboxylate transporter, DctQ subunit
+K18906	K03569	0.0065605507477145	mreB; rod shape-determining protein MreB and related proteins
+K18906	K13893	0.0065547615505705	yejA; microcin C transport system substrate-binding protein
+K18906	K15578	0.0065369314179652	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K18906	K12542	0.0065299650107298	lapC; membrane fusion protein, adhesin transport system
+K18906	K03698	0.0065279414752804	cbf, cbf1; 3-5 exoribonuclease [EC:3.1.-.-]
+K18906	K18981	0.0065148989350208	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18906	K02039	0.0065045005830345	phoU; phosphate transport system protein
+K18906	K06186	0.0064911093780414	bamE, smpA; outer membrane protein assembly factor BamE
+K18906	K24206	0.0064850105750603	
+K18906	K00252	0.0064849601085498	GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]
+K18906	K17752	0.0064825357084785	rsbT; serine/threonine-protein kinase RsbT [EC:2.7.11.1]
+K18906	K00990	0.0064616508294472	glnD; [protein-PII] uridylyltransferase [EC:2.7.7.59]
+K18906	K02258	0.0064407002909645	COX11, ctaG; cytochrome c oxidase assembly protein subunit 11

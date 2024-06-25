@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K22335	K01809	0.0085237156442088	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K22335	K02401	0.0083594263404089	flhB; flagellar biosynthetic protein FlhB
+K22335	K01760	0.0081854729599148	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K22335	K11070	0.0081274884997503	potC; spermidine/putrescine transport system permease protein
+K22335	K01512	0.0081178244230561	acyP; acylphosphatase [EC:3.6.1.7]
+K22335	K02421	0.0080501758861973	fliR; flagellar biosynthetic protein FliR
+K22335	K03767	0.0079535351192562	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K22335	K03594	0.0078472302756209	bfr; bacterioferritin [EC:1.16.3.1]
+K22335	K06996	0.0076152924349622	K06996; uncharacterized protein
+K22335	K06872	0.0075476438981034	K06872; uncharacterized protein
+K22335	K10439	0.0075379798214093	rbsB; ribose transport system substrate-binding protein
+K22335	K07160	0.0075186516680211	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K22335	K02406	0.0074606672078565	fliC; flagellin
+K22335	K07010	0.0074123468243859	K07010; putative glutamine amidotransferase
+K22335	K00375	0.0072287293671977	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K22335	mobileOG_000093088	0.0072287293671977	ftsZ
+K22335	K01480	0.0071417526769508	speB; agmatinase [EC:3.5.3.11]
+K22335	K02575	0.0070934322934802	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K22335	K09765	0.007074104140092	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K22335	K02011	0.0070547759867037	afuB, fbpB; iron(III) transport system permease protein
+K22335	K07507	0.0070064556032332	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K22335	K07077	0.0069581352197626	K07077; uncharacterized protein
+K22335	mobileOG_000031464	0.0068743798884134	mutT
+K22335	K07646	0.0068421662994332	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K22335	K11074	0.0068421662994332	potI; putrescine transport system permease protein
+K22335	mobileOG_000034793	0.0068325022227391	diaA
+K22335	K10206	0.006822838146045	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K22335	K02054	0.006822838146045	ABC.SP.P1; putative spermidine/putrescine transport system permease protein
+K22335	K01821	0.0067938459159627	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K22335	K07124	0.0067938459159627	K07124; uncharacterized protein
+K22335	K19267	0.0067745177625745	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K22335	K00830	0.0067648536858804	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+K22335	K01912	0.0067455255324921	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K22335	mobileOG_000802159	0.0067261973791039	rep
+K22335	K09767	0.0066778769956333	yajQ; cyclic-di-GMP-binding protein
+K22335	K22041	0.0066585488422451	comR; TetR/AcrR family transcriptional regulator, copper-responsive repressor
+K22335	K18707	0.0066585488422451	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]
+K22335	K06152	0.0066295566121628	E1.1.99.3G; gluconate 2-dehydrogenase gamma chain [EC:1.1.99.3]
+K22335	K05601	0.0066102284587745	hcp; hydroxylamine reductase [EC:1.7.99.1]
+K22335	mobileOG_000300939	0.0066102284587745	uvrA
+K22335	K09791	0.0066102284587745	K09791; uncharacterized protein
+K22335	K03192	0.0065812362286922	ureJ; urease accessory protein
+K22335	K07101	0.0065715721519981	K07101; uncharacterized protein
+K22335	K13015	0.0065425799219157	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K22335	K01058	0.0065425799219157	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]
+K22335	K02039	0.0065425799219157	phoU; phosphate transport system protein
+K22335	K00266	0.0065329158452216	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K22335	K18926	0.0065329158452216	lmrB; MFS transporter, DHA2 family, lincomycin resistance protein
+K22335	K13013	0.0065232517685275	wbqV; O-antigen biosynthesis protein WbqV
+K22335	K03600	0.0065232517685275	sspB; stringent starvation protein B

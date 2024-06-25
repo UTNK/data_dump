@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18902	K02482	K02482; two-component system, NtrC family, sensor kinase [EC:2.7.13.3]	0.0413726179313222	0.0379516138503744
+K18902	K00104	glcD; glycolate oxidase [EC:1.1.3.15]	0.0413726179313222	0.0382252395281849
+K18902	K18138	acrB, mexB, adeJ, smeE, mtrD, cmeB; multidrug efflux pump	0.0413726179313222	0.0385555323965963
+K18902	K19591	cueR; MerR family transcriptional regulator, copper efflux regulator	0.0413726179313222	0.0385915788636281
+K18902	K02231	cobP, cobU; adenosylcobinamide kinase / adenosylcobinamide-phosphate guanylyltransferase [EC:2.7.1.156 2.7.7.62]	0.0413726179313222	0.0385999007488837
+K18902	K01692	paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]	0.0413726179313222	0.0391456962973518
+K18902	K05601	hcp; hydroxylamine reductase [EC:1.7.99.1]	0.0413726179313222	0.0434082169060498
+K18902	K01893	NARS, asnS; asparaginyl-tRNA synthetase [EC:6.1.1.22]	0.0413726179313222	0.0434432378944934
+K18902	K03647	nrdI; protein involved in ribonucleotide reduction	0.0413726179313222	0.0435134056407604
+K18902	K02549	menC; O-succinylbenzoate synthase [EC:4.2.1.113]	0.0413726179313222	0.0436539006083551
+K18902	K23163	sbp; sulfate/thiosulfate transport system substrate-binding protein	0.0413726179313222	0.0436634247087904
+K18902	mobileOG_000026429	nei	0.0413726179313222	0.043730427613754
+K18902	K18890	mdlB, smdB; ATP-binding cassette, subfamily B, multidrug efflux pump	0.0413726179313222	0.0439854345128716
+K18902	K04068	nrdG; anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4]	0.0413726179313222	0.0439861673242968
+K18902	K03402	argR, ahrC; transcriptional regulator of arginine metabolism	0.0413726179313222	0.0446905105527859
+K18902	K02564	nagB, GNPDA; glucosamine-6-phosphate deaminase [EC:3.5.99.6]	0.0413726179313222	0.0447522252845077
+K18902	K03973	pspC; phage shock protein C	0.0413726179313222	0.0453425835472788
+K18902	K00965	galT, GALT; UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	0.0413726179313222	0.045513221639119
+K18902	K02446	glpX; fructose-1,6-bisphosphatase II [EC:3.1.3.11]	0.0413726179313222	0.0456407167153995
+K18902	mobileOG_000365465	nfi	0.0413726179313222	0.045700606652902
+K18902	K01809	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]	0.0413726179313222	0.0460499768944505
+K18902	K02851	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]	0.0413726179313222	0.0462692977939841
+K18902	mobileOG_000115691	sigH	0.0413726179313222	0.047152241902066
+K18902	K00850	pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]	0.0413726179313222	0.0472262208254219
+K18902	K16012	cydC; ATP-binding cassette, subfamily C, bacterial CydC	0.0413726179313222	0.0489114096464802

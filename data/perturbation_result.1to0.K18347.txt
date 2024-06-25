@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18347	K00912	lpxK; tetraacyldisaccharide 4-kinase [EC:2.7.1.130]	0.0012872558650794	0.0030550090903405
+K18347	K01627	kdsA; 2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) [EC:2.5.1.55]	0.0012872558650794	0.003178009849755
+K18347	K00677	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]	0.0012872558650794	0.0031829872755956
+K18347	K11720	lptG; lipopolysaccharide export system permease protein	0.0012872558650794	0.0032818205072217
+K18347	mobileOG_000331108	ssb	0.0012872558650794	0.0034348334390733
+K18347	K00979	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]	0.0012872558650794	0.0036764086359656
+K18347	K03269	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]	0.0012872558650794	0.0037173565911966
+K18347	K02523	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]	0.0012872558650794	0.0038267262677779
+K18347	K07091	lptF; lipopolysaccharide export system permease protein	0.0012872558650794	0.004738807684803
+K18347	K02536	lpxD; UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase [EC:2.3.1.191]	0.0012872558650794	0.0047720110464475
+K18347	K00748	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]	0.0012872558650794	0.0051234957282349
+K18347	K03585	acrA, mexA, adeI, smeD, mtrC, cmeA; membrane fusion protein, multidrug efflux system	0.0012872558650794	0.0051798170470893
+K18347	K01991	wza, gfcE; polysaccharide biosynthesis/export protein	0.0012872558650794	0.0052122101295763
+K18347	K03770	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]	0.0012872558650794	0.0052192880485256
+K18347	mobileOG_000270594	pilR	0.0012872558650794	0.0052743875807533
+K18347	K04773	sppA; protease IV [EC:3.4.21.-]	0.0012872558650794	0.0055950852501945
+K18347	K09774	lptA; lipopolysaccharide export system protein LptA	0.0012872558650794	0.0056195021786786
+K18347	K03634	lolA; outer membrane lipoprotein carrier protein	0.0012872558650794	0.0061045537749703
+K18347	K03561	exbB; biopolymer transport protein ExbB	0.0012872558650794	0.0063649795966803
+K18347	K04744	lptD, imp, ostA; LPS-assembly protein	0.0012872558650794	0.0077050204360398
+K18347	K03474	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]	0.0012872558650794	0.0078505358445962
+K18347	mobileOG_000037882	nusG	0.0012872558650794	0.0079451400839243
+K18347	K03559	exbD; biopolymer transport protein ExbD	0.0012872558650794	0.0081726484086986
+K18347	K06861	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]	0.0012872558650794	0.009097873278347
+K18347	K09808	lolC_E; lipoprotein-releasing system permease protein	0.0012872558650794	0.0112758788209622

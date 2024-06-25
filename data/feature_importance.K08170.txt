@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K08170	K00705	0.0084734487173931	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]
+K08170	K02421	0.0083493627273415	fliR; flagellar biosynthetic protein FliR
+K08170	K02071	0.0083325384971186	metN; D-methionine transport system ATP-binding protein
+K08170	K02072	0.0081353449020222	metI; D-methionine transport system permease protein
+K08170	K02401	0.0080606141753037	flhB; flagellar biosynthetic protein FlhB
+K08170	K14393	0.0079471475539149	actP; cation/acetate symporter
+K08170	K01610	0.0077960527607932	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K08170	K01512	0.0076345627979874	acyP; acylphosphatase [EC:3.6.1.7]
+K08170	K01760	0.0076112238359883	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K08170	K00652	0.0075405979758406	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K08170	K07124	0.007449569112242	K07124; uncharacterized protein
+K08170	K01480	0.0073516924602614	speB; agmatinase [EC:3.5.3.11]
+K08170	K03594	0.0073398291312177	bfr; bacterioferritin [EC:1.16.3.1]
+K08170	K02026	0.007305570042678	ABC.MS.P1; multiple sugar transport system permease protein
+K08170	K10439	0.0072941566005432	rbsB; ribose transport system substrate-binding protein
+K08170	K02406	0.0071314291207926	fliC; flagellin
+K08170	K06996	0.0070084489067503	K06996; uncharacterized protein
+K08170	K07010	0.0068705509335784	K07010; putative glutamine amidotransferase
+K08170	K02575	0.0068628628292364	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K08170	K01058	0.0068571345033877	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]
+K08170	K19267	0.0068156264953317	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K08170	K00375	0.0068132557675426	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K08170	mobileOG_000031464	0.0067950766235265	mutT
+K08170	K06872	0.0067540468502109	K06872; uncharacterized protein
+K08170	K07507	0.0067467830157594	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K08170	K00937	0.0067148813758226	ppk; polyphosphate kinase [EC:2.7.4.1]
+K08170	K01754	0.006661391991062	E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]
+K08170	mobileOG_000232929	0.0066553971272816	llaDCHIBM
+K08170	K14287	0.0066393075126683	ybdL; methionine transaminase [EC:2.6.1.88]
+K08170	K02011	0.0066301069373977	afuB, fbpB; iron(III) transport system permease protein
+K08170	K07096	0.0066246160363453	K07096; uncharacterized protein
+K08170	mobileOG_000365548	0.0065807948606829	mug
+K08170	K11076	0.0065773094627006	potG; putrescine transport system ATP-binding protein
+K08170	K01912	0.006508317823956	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K08170	mobileOG_000221853	0.0064958270149749	parA
+K08170	K22041	0.0064713274653058	comR; TetR/AcrR family transcriptional regulator, copper-responsive repressor
+K08170	K02039	0.0064526710848203	phoU; phosphate transport system protein
+K08170	K03316	0.0064478097181159	TC.CPA1; monovalent cation:H+ antiporter, CPA1 family
+K08170	K13282	0.0064451497753263	cphB; cyanophycinase [EC:3.4.15.6]
+K08170	K02008	0.0064423377745664	cbiQ; cobalt/nickel transport system permease protein
+K08170	K09121	0.0064195676535152	larC; pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel chelatase [EC:4.99.1.12]
+K08170	mobileOG_000351464	0.0064002273364223	fxsA
+K08170	K17315	0.0063840512032173	gtsA, glcE; glucose/mannose transport system substrate-binding protein
+K08170	K09857	0.006379948249	K09857; uncharacterized protein
+K08170	K06880	0.0063613947348585	ereA_B; erythromycin esterase [EC:3.1.1.-]
+K08170	K01991	0.0063504018419942	wza, gfcE; polysaccharide biosynthesis/export protein
+K08170	K08974	0.0063372347487545	K08974; putative membrane protein
+K08170	K00424	0.0063204941745415	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K08170	K02075	0.0063203167137291	ABC.ZM.P; zinc/manganese transport system permease protein
+K08170	K02391	0.006317846336117	flgF; flagellar basal-body rod protein FlgF

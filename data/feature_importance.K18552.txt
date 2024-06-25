@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18552	K00029	0.008560561914548	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+K18552	K00845	0.0082121843956546	glk; glucokinase [EC:2.7.1.2]
+K18552	K01610	0.0081739289802529	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K18552	K01512	0.0081408445154128	acyP; acylphosphatase [EC:3.6.1.7]
+K18552	K02851	0.0080558187893602	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K18552	K00324	0.0079487825558102	pntA; H+-translocating NAD(P) transhydrogenase subunit alpha [EC:1.6.1.2 7.1.1.1]
+K18552	K00375	0.0078432843425699	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18552	K01759	0.007829323889267	GLO1, gloA; lactoylglutathione lyase [EC:4.4.1.5]
+K18552	K01975	0.0078254435778546	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K18552	K02420	0.0078159592313497	fliQ; flagellar biosynthetic protein FliQ
+K18552	K07124	0.0076709080985157	K07124; uncharacterized protein
+K18552	K02298	0.00758566690219	cyoB; cytochrome o ubiquinol oxidase subunit I [EC:7.1.1.3]
+K18552	K02011	0.0075448280103718	afuB, fbpB; iron(III) transport system permease protein
+K18552	K07010	0.0075032088619528	K07010; putative glutamine amidotransferase
+K18552	K01480	0.0074833690748958	speB; agmatinase [EC:3.5.3.11]
+K18552	K06872	0.0074787205340532	K06872; uncharacterized protein
+K18552	K01919	0.0073654553461011	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K18552	K01912	0.0073503059115564	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18552	K01969	0.0073470099811991	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K18552	K16137	0.0073112874781928	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K18552	K03773	0.0072590235257	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K18552	K02388	0.0072479747458598	flgC; flagellar basal-body rod protein FlgC
+K18552	K03770	0.00724028309305	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K18552	K01878	0.0072125871391462	glyQ; glycyl-tRNA synthetase alpha chain [EC:6.1.1.14]
+K18552	K02523	0.0072059552718947	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K18552	K03412	0.0071904271952647	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K18552	mobileOG_000801665	0.0071569805432741	dnaN
+K18552	K07160	0.0071096557181233	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18552	K10439	0.0070841161108093	rbsB; ribose transport system substrate-binding protein
+K18552	K09800	0.0070665120634687	tamB; translocation and assembly module TamB
+K18552	K00528	0.0070558423058989	fpr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]
+K18552	K07390	0.0070268585553298	grxD, GLRX5; monothiol glutaredoxin
+K18552	K03642	0.007025670885192	rlpA; rare lipoprotein A
+K18552	K17230	0.007016858160592	fccA; cytochrome subunit of sulfide dehydrogenase
+K18552	activated_sludge	0.0070144234090706	
+K18552	K02494	0.0069838060861628	lolB; outer membrane lipoprotein LolB
+K18552	K01070	0.0069818291354686	frmB, ESD, fghA; S-formylglutathione hydrolase [EC:3.1.2.12]
+K18552	mobileOG_000331108	0.0069744822881213	ssb
+K18552	K16927	0.0069700912825469	cbrT; energy-coupling factor transport system substrate-specific component
+K18552	K01058	0.0069675428244404	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]
+K18552	K02575	0.0069449376633388	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18552	K00783	0.0069428312037181	rlmH; 23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177]
+K18552	K13821	0.0069327971446576	putA; RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]
+K18552	K00847	0.0069294377944879	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K18552	mobileOG_000037882	0.0069280545429006	nusG
+K18552	K07646	0.0069242307164477	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18552	K09806	0.0069217766863672	K09806; uncharacterized protein
+K18552	K06881	0.0069111759086817	nrnA; bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]
+K18552	mobileOG_000038959	0.0069071307925251	clpS
+K18552	K03640	0.0068717680217017	pal; peptidoglycan-associated lipoprotein

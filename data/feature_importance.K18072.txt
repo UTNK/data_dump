@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18072	K00325	0.0088743941550321	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K18072	K00865	0.0087121847196594	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18072	K01969	0.0086172906737697	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K18072	K02406	0.0082659399525614	fliC; flagellin
+K18072	K14393	0.0082495536365561	actP; cation/acetate symporter
+K18072	K00845	0.0079890266458121	glk; glucokinase [EC:2.7.1.2]
+K18072	K01610	0.007987952626388	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K18072	activated_sludge	0.0079726656034174	
+K18072	K02851	0.0079285485545131	wecA, tagO, rfe; UDP-GlcNAc:undecaprenyl-phosphate/decaprenyl-phosphate GlcNAc-1-phosphate transferase [EC:2.7.8.33 2.7.8.35]
+K18072	K00375	0.0078493390292957	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18072	K00822	0.0078090551794701	E2.6.1.18; beta-alanine--pyruvate transaminase [EC:2.6.1.18]
+K18072	K02420	0.0077436110098911	fliQ; flagellar biosynthetic protein FliQ
+K18072	K01760	0.0076945278827069	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18072	K16137	0.0076847112572701	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K18072	K03767	0.0076761899684898	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18072	K07646	0.0076127226707333	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18072	K07010	0.0075688615328505	K07010; putative glutamine amidotransferase
+K18072	K00652	0.0074916509570122	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K18072	K01480	0.0074544060081703	speB; agmatinase [EC:3.5.3.11]
+K18072	K02011	0.0073936285250773	afuB, fbpB; iron(III) transport system permease protein
+K18072	K10439	0.0073645749512605	rbsB; ribose transport system substrate-binding protein
+K18072	K06996	0.0073420514728592	K06996; uncharacterized protein
+K18072	mobileOG_000031464	0.0072920462397966	mutT
+K18072	K02523	0.0072756851974018	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K18072	K13282	0.0072266020702176	cphB; cyanophycinase [EC:3.4.15.6]
+K18072	K01512	0.0072224380693969	acyP; acylphosphatase [EC:3.6.1.7]
+K18072	K01912	0.0071853890852214	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18072	K16927	0.0071611579006387	cbrT; energy-coupling factor transport system substrate-specific component
+K18072	K01167	0.0071375511234286	rnaSA; ribonuclease T1 [EC:4.6.1.24]
+K18072	K00830	0.0070924415225808	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+K18072	mobileOG_000034793	0.0070373487176009	diaA
+K18072	K03412	0.0070348329546711	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K18072	K00266	0.0070139085190861	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K18072	K07096	0.0070106363106071	K07096; uncharacterized protein
+K18072	mobileOG_000134996	0.0069975474766913	mazF
+K18072	K02099	0.0069582809749439	araC; AraC family transcriptional regulator, arabinose operon regulatory protein
+K18072	K07507	0.006935814952893	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18072	K06872	0.006933909387372	K06872; uncharacterized protein
+K18072	K01826	0.0069091978477596	hpaF, hpcD; 5-carboxymethyl-2-hydroxymuconate isomerase [EC:5.3.3.10]
+K18072	K09702	0.006905925639281	K09702; uncharacterized protein
+K18072	K07124	0.0068961193079234	K07124; uncharacterized protein
+K18072	K01419	0.0068797479714493	hslV, clpQ; ATP-dependent HslUV protease, peptidase subunit HslV [EC:3.4.25.2]
+K18072	K01754	0.0068757025008124	E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]
+K18072	K09937	0.0068502980951388	K09937; uncharacterized protein
+K18072	K06949	0.0068429184195846	rsgA, engC; ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100]
+K18072	mobileOG_000232929	0.0068199868348137	llaDCHIBM
+K18072	K02415	0.0068143038018704	fliL; flagellar FliL protein
+K18072	K07638	0.0068044871764335	envZ; two-component system, OmpR family, osmolarity sensor histidine kinase EnvZ [EC:2.7.13.3]
+K18072	K01466	0.0067848539255599	allB; allantoinase [EC:3.5.2.5]
+K18072	root	0.0067815817170809	

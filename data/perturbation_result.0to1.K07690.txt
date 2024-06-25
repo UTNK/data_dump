@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K07690	K07284	srtA; sortase A [EC:3.4.22.70]	0.2802137256813041	0.2678567237211469
+K07690	K01473	hyuA; N-methylhydantoinase A [EC:3.5.2.14]	0.2802137256813041	0.2679630728980315
+K07690	K24160	NHA1, SOD2; sodium/hydrogen antiporter	0.2802137256813041	0.2697941554029446
+K07690	K02474	wbpO; UDP-N-acetyl-D-galactosamine dehydrogenase [EC:1.1.1.-]	0.2802137256813041	0.2698416701171269
+K07690	K02280	cpaC, rcpA; pilus assembly protein CpaC	0.2802137256813041	0.269879994484329
+K07690	K01474	hyuB; N-methylhydantoinase B [EC:3.5.2.14]	0.2802137256813041	0.2698865159822638
+K07690	K11354	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]	0.2802137256813041	0.2699891044503562
+K07690	K19342	nosL; copper chaperone NosL	0.2802137256813041	0.2717223423809685
+K07690	K18707	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]	0.2802137256813041	0.2717682276802058
+K07690	K00078	DHDH; dihydrodiol dehydrogenase / D-xylose 1-dehydrogenase (NADP) [EC:1.3.1.20 1.1.1.179]	0.2802137256813041	0.2724373667402915
+K07690	K02282	cpaE, tadZ; pilus assembly protein CpaE	0.2802137256813041	0.2743086692016441
+K07690	K08602	pepF, pepB; oligoendopeptidase F [EC:3.4.24.-]	0.2802137256813041	0.2748324325513564
+K07690	K07028	K07028; uncharacterized protein	0.2802137256813041	0.2749811918994085
+K07690	K12267	msrAB; peptide methionine sulfoxide reductase msrA/msrB [EC:1.8.4.11 1.8.4.12]	0.2802137256813041	0.2752878775098676
+K07690	K13599	ntrX; two-component system, NtrC family, nitrogen regulation response regulator NtrX	0.2802137256813041	0.2754141650248586
+K07690	K05825	LYSN; 2-aminoadipate transaminase [EC:2.6.1.-]	0.2802137256813041	0.287366546248434
+K07690	K02012	afuA, fbpA; iron(III) transport system substrate-binding protein	0.2802137256813041	0.2879267449227705
+K07690	K13633	ftrA; AraC family transcriptional regulator, transcriptional activator FtrA	0.2802137256813041	0.2891888788926059
+K07690	K11206	NIT1, ybeM; deaminated glutathione amidase [EC:3.5.1.128]	0.2802137256813041	0.2896675315847617
+K07690	K13985	NAPEPLD; N-acyl-phosphatidylethanolamine-hydrolysing phospholipase D [EC:3.1.4.54]	0.2802137256813041	0.2913198057357321
+K07690	K11963	urtE; urea transport system ATP-binding protein	0.2802137256813041	0.2959378106294087
+K07690	K11960	urtB; urea transport system permease protein	0.2802137256813041	0.2961225606413194
+K07690	K16842	hpxB; allantoinase [EC:3.5.2.5]	0.2802137256813041	0.2976985270002998
+K07690	K11959	urtA; urea transport system substrate-binding protein	0.2802137256813041	0.2995627360436921
+K07690	K06996	K06996; uncharacterized protein	0.2802137256813041	0.3161519378400502

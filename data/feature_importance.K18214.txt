@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18214	K04758	0.0081821903361282	feoA; ferrous iron transport protein A
+K18214	K03594	0.0080181604437268	bfr; bacterioferritin [EC:1.16.3.1]
+K18214	K02406	0.0079904152158148	fliC; flagellin
+K18214	K07124	0.0079474963451943	K07124; uncharacterized protein
+K18214	K02401	0.0079120774572339	flhB; flagellar biosynthetic protein FlhB
+K18214	K00865	0.0078467099648836	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18214	K07160	0.0076159097171388	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18214	K00362	0.0076074221925837	nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]
+K18214	K01610	0.0076066729741611	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K18214	K01480	0.0075872662876459	speB; agmatinase [EC:3.5.3.11]
+K18214	K03767	0.0075844684313313	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18214	K06975	0.0075468211410603	K06975; uncharacterized protein
+K18214	K06872	0.0074661832077155	K06872; uncharacterized protein
+K18214	K02011	0.0073775890202613	afuB, fbpB; iron(III) transport system permease protein
+K18214	mobileOG_000031464	0.0073172329142345	mutT
+K18214	K01809	0.0072816381552301	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18214	K07010	0.0072783844984248	K07010; putative glutamine amidotransferase
+K18214	K01512	0.0072213650065985	acyP; acylphosphatase [EC:3.6.1.7]
+K18214	K02026	0.0071904144764599	ABC.MS.P1; multiple sugar transport system permease protein
+K18214	K00375	0.0071419643596174	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18214	K06996	0.0071381727494891	K06996; uncharacterized protein
+K18214	K10227	0.0071226565510966	smoE, mtlE; sorbitol/mannitol transport system substrate-binding protein
+K18214	K07646	0.0069593211931584	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18214	K01089	0.0069297692077253	hisB; imidazoleglycerol-phosphate dehydratase / histidinol-phosphatase [EC:4.2.1.19 3.1.3.15]
+K18214	K02039	0.0069132633690077	phoU; phosphate transport system protein
+K18214	K10439	0.0069093843715553	rbsB; ribose transport system substrate-binding protein
+K18214	K02575	0.0067734745328676	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18214	K07507	0.0067460827623179	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18214	K03770	0.0067030109246344	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K18214	K08482	0.0066993855027901	kaiC; circadian clock protein KaiC
+K18214	K15921	0.0066961254555613	xynD; arabinoxylan arabinofuranohydrolase [EC:3.2.1.55]
+K18214	K07675	0.006636366669476	uhpB; two-component system, NarL family, sensor histidine kinase UhpB [EC:2.7.13.3]
+K18214	K02390	0.0066179066416303	flgE; flagellar hook protein FlgE
+K18214	K06980	0.0065690169763448	ygfZ; tRNA-modifying protein YgfZ
+K18214	K11689	0.0065675978570645	dctQ; C4-dicarboxylate transporter, DctQ subunit
+K18214	K06136	0.0065543774296616	pqqB; pyrroloquinoline quinone biosynthesis protein B
+K18214	K18981	0.0065422324239146	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18214	K11263	0.0065363715969267	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]
+K18214	mobileOG_000130713	0.006520348651441	dnaG
+K18214	K09915	0.0065164409209718	K09915; uncharacterized protein
+K18214	biofilm	0.0065144051037983	
+K18214	K01969	0.0064961568672889	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K18214	K01788	0.0064830238040817	nanE; N-acylglucosamine-6-phosphate 2-epimerase [EC:5.1.3.9]
+K18214	K15578	0.0064703038057097	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K18214	K22041	0.0064654590261574	comR; TetR/AcrR family transcriptional regulator, copper-responsive repressor
+K18214	K23509	0.0064491476247623	ytfT, yjfF; galactofuranose transport system permease protein
+K18214	K06949	0.0064452323703177	rsgA, engC; ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100]
+K18214	K03605	0.0064435755275257	hyaD, hybD; hydrogenase maturation protease [EC:3.4.23.-]
+K18214	K01912	0.0064245672499547	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18214	K03773	0.0064203476450308	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]

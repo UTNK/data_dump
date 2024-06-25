@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19301	K11354	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]	0.716815431906713	0.6659333138856405
+K19301	K11942	icmF; isobutyryl-CoA mutase [EC:5.4.99.13]	0.716815431906713	0.6784369337078358
+K19301	K13693	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]	0.716815431906713	0.6814939986708397
+K19301	K13013	wbqV; O-antigen biosynthesis protein WbqV	0.716815431906713	0.6855317451276822
+K19301	K03294	TC.APA; basic amino acid/polyamine antiporter, APA family	0.716815431906713	0.6856967644531718
+K19301	K00446	dmpB, xylE; catechol 2,3-dioxygenase [EC:1.13.11.2]	0.716815431906713	0.685884775377944
+K19301	K10117	msmE; raffinose/stachyose/melibiose transport system substrate-binding protein	0.716815431906713	0.6879065147336642
+K19301	K09702	K09702; uncharacterized protein	0.716815431906713	0.6971253011137765
+K19301	K07979	ytrA; GntR family transcriptional regulator	0.716815431906713	0.6983210923472125
+K19301	K07215	pigA, hemO; heme oxygenase (biliverdin-IX-beta and delta-forming) [EC:1.14.99.58]	0.716815431906713	0.6986245198326897
+K19301	K11527	K11527; two-component system, sensor histidine kinase and response regulator [EC:2.7.13.3]	0.716815431906713	0.699116930581366
+K19301	K00588	E2.1.1.104; caffeoyl-CoA O-methyltransferase [EC:2.1.1.104]	0.716815431906713	0.7011306898501746
+K19301	K01950	E6.3.5.1, NADSYN1, QNS1, nadE; NAD+ synthase (glutamine-hydrolysing) [EC:6.3.5.1]	0.716815431906713	0.7020175924242289
+K19301	K01006	ppdK; pyruvate, orthophosphate dikinase [EC:2.7.9.1]	0.716815431906713	0.7023689254996364
+K19301	K18707	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]	0.716815431906713	0.7026241658985406
+K19301	mobileOG_000326446	dnaX	0.716815431906713	0.7031499752266865
+K19301	K01273	DPEP; membrane dipeptidase [EC:3.4.13.19]	0.716815431906713	0.7040767267903764
+K19301	K17752	rsbT; serine/threonine-protein kinase RsbT [EC:2.7.11.1]	0.716815431906713	0.7042126148174862
+K19301	K05606	MCEE, epi; methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1]	0.716815431906713	0.705133516940051
+K19301	mobileOG_000330062	recR	0.716815431906713	0.7053891242246686
+K19301	K07386	pepO; putative endopeptidase [EC:3.4.24.-]	0.716815431906713	0.7054736852963912
+K19301	K00078	DHDH; dihydrodiol dehydrogenase / D-xylose 1-dehydrogenase (NADP) [EC:1.3.1.20 1.1.1.179]	0.716815431906713	0.7064130834773134
+K19301	K18218	tet35; tetracycline resistance efflux pump	0.716815431906713	0.7066225992548432
+K19301	K12542	lapC; membrane fusion protein, adhesin transport system	0.716815431906713	0.7437090656050059
+K19301	K12541	lapB; ATP-binding cassette, subfamily C, bacterial LapB	0.716815431906713	0.7452107764954318

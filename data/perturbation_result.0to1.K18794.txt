@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18794	K02204	thrB2; homoserine kinase type II [EC:2.7.1.39]	0.0	9.99054054054054e-05
+K18794	K01969	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]	0.0	9.9911191767863e-05
+K18794	K01432	AFMID; arylformamidase [EC:3.5.1.9]	0.0	9.99131207043015e-05
+K18794	K04517	tyrA2; prephenate dehydrogenase [EC:1.3.1.12]	0.0	9.996008112545471e-05
+K18794	K00252	GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]	0.0	9.996136833362308e-05
+K18794	K24158	prx; thioredoxin-dependent peroxiredoxin [EC:1.11.1.24]	0.0	9.997392035081958e-05
+K18794	K01556	KYNU, kynU; kynureninase [EC:3.7.1.3]	0.0	9.997681741784671e-05
+K18794	K01505	E3.5.99.7; 1-aminocyclopropane-1-carboxylate deaminase [EC:3.5.99.7]	0.0	9.997874888914648e-05
+K18794	mobileOG_000057598	pcrA	0.0	9.99806804350766e-05
+K18794	K02666	pilQ; type IV pilus assembly protein PilQ	0.0	9.99942033466012e-05
+K18794	K00666	K00666; fatty-acyl-CoA synthase [EC:6.2.1.-]	0.0	9.999613548973008e-05
+K18794	K09986	K09986; uncharacterized protein	0.0	0.0001997982830268
+K18794	K01968	E6.4.1.4A; 3-methylcrotonyl-CoA carboxylase alpha subunit [EC:6.4.1.4]	0.0	0.000199841737045
+K18794	K02663	pilN; type IV pilus assembly protein PilN	0.0	0.0001999478416157
+K18794	K03300	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family	0.0	0.0002996209192063
+K18794	K18118	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]	0.0	0.0002996728787875
+K18794	K06134	COQ7; 3-demethoxyubiquinol 3-hydroxylase [EC:1.14.99.60]	0.0	0.0002998561299483
+K18794	K09924	K09924; uncharacterized protein	0.0	0.0003998458024773
+K18794	K03296	TC.HAE1; hydrophobic/amphiphilic exporter-1 (mainly G- bacteria), HAE1 family	0.0	0.0003998706011799
+K18794	K04090	E1.2.7.8; indolepyruvate ferredoxin oxidoreductase [EC:1.2.7.8]	0.0	0.0005997305885609
+K18794	K03816	xpt; xanthine phosphoribosyltransferase [EC:2.4.2.22]	0.0	0.0005999700527239
+K18794	mobileOG_000221853	parA	0.0	0.0006997469900718
+K18794	K03298	TC.DME; drug/metabolite transporter, DME family	0.0	0.000799551408759
+K18794	termite_gut		0.0	0.0011996842850072
+K18794	mobileOG_000130713	dnaG	0.0	0.0037995957309173

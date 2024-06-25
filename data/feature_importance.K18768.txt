@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18768	K02401	0.0088403302160195	flhB; flagellar biosynthetic protein FlhB
+K18768	K01809	0.0083085592416001	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18768	K03594	0.0082911113403139	bfr; bacterioferritin [EC:1.16.3.1]
+K18768	mobileOG_000031464	0.008199789829321	mutT
+K18768	K01512	0.0080032599568082	acyP; acylphosphatase [EC:3.6.1.7]
+K18768	K06872	0.0078863710796016	K06872; uncharacterized protein
+K18768	K02406	0.0078753471154138	fliC; flagellin
+K18768	K02421	0.0078577280693296	fliR; flagellar biosynthetic protein FliR
+K18768	K11070	0.0078257131558712	potC; spermidine/putrescine transport system permease protein
+K18768	K10439	0.0077010476250629	rbsB; ribose transport system substrate-binding protein
+K18768	K03767	0.0076916950447187	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18768	K01480	0.0076405968381728	speB; agmatinase [EC:3.5.3.11]
+K18768	K07160	0.0075539108709538	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18768	K07010	0.0074827957208893	K07010; putative glutamine amidotransferase
+K18768	K01760	0.0074408940453295	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18768	K02011	0.0072833304476538	afuB, fbpB; iron(III) transport system permease protein
+K18768	K07124	0.0072784033054367	K07124; uncharacterized protein
+K18768	K08225	0.0071810736943515	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter
+K18768	K06996	0.0071426586149736	K06996; uncharacterized protein
+K18768	K00375	0.0070750292999671	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18768	K02575	0.0070694544099707	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18768	K01432	0.0070614427242687	AFMID; arylformamidase [EC:3.5.1.9]
+K18768	K07646	0.0070045596068697	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18768	K08682	0.0069552594710815	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K18768	K17723	0.0069380109151335	preA; dihydropyrimidine dehydrogenase (NAD+) subunit PreA [EC:1.3.1.1]
+K18768	K02039	0.0068932410529619	phoU; phosphate transport system protein
+K18768	mobileOG_000300939	0.0068841263371438	uvrA
+K18768	K10228	0.0068667242837118	smoF, mtlF; sorbitol/mannitol transport system permease protein
+K18768	K02016	0.0068501836184603	ABC.FEV.S; iron complex transport system substrate-binding protein
+K18768	K19267	0.0068501333392737	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18768	K15578	0.0068197732975789	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K18768	K02389	0.0068015749017926	flgD; flagellar basal-body rod modification protein FlgD
+K18768	K07507	0.0067608046891113	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18768	K01912	0.0067577044668727	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18768	K10229	0.0067340850241031	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K18768	K01469	0.006716713820406	OPLAH, OXP1, oplAH; 5-oxoprolinase (ATP-hydrolysing) [EC:3.5.2.9]
+K18768	K00424	0.0067065963768877	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K18768	mobileOG_000802159	0.0066912148154191	rep
+K18768	K09765	0.0066759483292461	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K18768	K18981	0.0066627749628921	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18768	K13015	0.006660777159173	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K18768	K23535	0.0066316372658973	nupB; general nucleoside transport system permease protein
+K18768	K19416	0.0066292008703588	yccA; modulator of FtsH protease
+K18768	K01919	0.0066290384797635	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K18768	K20938	0.0066222639962701	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]
+K18768	K01297	0.006596346588955	ldcA; muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]
+K18768	K06976	0.006592990460556	K06976; uncharacterized protein
+K18768	K11354	0.0065887017129359	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]
+K18768	mobileOG_000093088	0.0065836837841439	ftsZ
+K18768	K13626	0.0065757555017799	fliW; flagellar assembly factor FliW

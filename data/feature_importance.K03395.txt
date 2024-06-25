@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K03395	K00845	0.0081594369244627	glk; glucokinase [EC:2.7.1.2]
+K03395	K02401	0.0081317857626993	flhB; flagellar biosynthetic protein FlhB
+K03395	K01640	0.0075958330337854	E4.1.3.4, HMGCL, hmgL; hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4]
+K03395	K07010	0.0075233596344356	K07010; putative glutamine amidotransferase
+K03395	K10806	0.0074983776109972	yciA; acyl-CoA thioesterase YciA [EC:3.1.2.-]
+K03395	K08303	0.0074823970568383	K08303; putative protease [EC:3.4.-.-]
+K03395	K01239	0.0074105957160358	iunH; purine nucleosidase [EC:3.2.2.1]
+K03395	K01480	0.0074063416087412	speB; agmatinase [EC:3.5.3.11]
+K03395	K01912	0.0073545301600698	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K03395	K01975	0.007327180768137	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K03395	K02421	0.0073216886461688	fliR; flagellar biosynthetic protein FliR
+K03395	K01048	0.0073130291222335	pldB; lysophospholipase [EC:3.1.1.5]
+K03395	K14393	0.0072793762765727	actP; cation/acetate symporter
+K03395	K06872	0.0070746515467586	K06872; uncharacterized protein
+K03395	K03412	0.0070601762723121	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K03395	K16137	0.0070060266194862	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K03395	K00375	0.007004704008181	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K03395	K01039	0.0069064025905183	gctA; glutaconate CoA-transferase, subunit A [EC:2.8.3.12]
+K03395	K03782	0.0069030023871765	katG; catalase-peroxidase [EC:1.11.1.21]
+K03395	K17758	0.0068805492742175	nnrD; ADP-dependent NAD(P)H-hydrate dehydratase [EC:4.2.1.136]
+K03395	K07160	0.0068781183643664	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K03395	activated_sludge	0.0068317346691171	
+K03395	K01760	0.0068293466743196	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K03395	K03773	0.0068041346282241	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K03395	K11070	0.0067992578930677	potC; spermidine/putrescine transport system permease protein
+K03395	K01809	0.0067846012577101	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K03395	K10439	0.0067664340194315	rbsB; ribose transport system substrate-binding protein
+K03395	K00652	0.0067645864192659	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K03395	K03325	0.0067391870744297	ACR3, arsB; arsenite transporter
+K03395	K00029	0.0067277463659077	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]
+K03395	mobileOG_000031464	0.0066602010880921	mutT
+K03395	K01070	0.0065992615427448	frmB, ESD, fghA; S-formylglutathione hydrolase [EC:3.1.2.12]
+K03395	K08191	0.0064663810328912	exuT; MFS transporter, ACS family, hexuronate transporter
+K03395	K02011	0.0064549595114793	afuB, fbpB; iron(III) transport system permease protein
+K03395	K00951	0.0064327308059809	relA; GTP pyrophosphokinase [EC:2.7.6.5]
+K03395	K11145	0.0064162071373939	K11145; ribonuclease III family protein [EC:3.1.26.-]
+K03395	K01610	0.0064148004970395	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K03395	K07646	0.0064094868544245	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K03395	K03806	0.0064033134957889	ampD; N-acetyl-anhydromuramoyl-L-alanine amidase [EC:3.5.1.28]
+K03395	mobileOG_000019670	0.0064021643915659	nusB
+K03395	K07507	0.006389638191796	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K03395	K09915	0.0063812737799959	K09915; uncharacterized protein
+K03395	K18682	0.0063589833297037	rny; ribonucrease Y [EC:3.1.-.-]
+K03395	K03317	0.0063450586551233	TC.CNT; concentrative nucleoside transporter, CNT family
+K03395	K02523	0.0063361029146896	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K03395	K07124	0.0063337736013403	K07124; uncharacterized protein
+K03395	K09121	0.0063185776025068	larC; pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel chelatase [EC:4.99.1.12]
+K03395	K01191	0.0063145332351277	MAN2C1; alpha-mannosidase [EC:3.2.1.24]
+K03395	K03564	0.0063118519306138	BCP, PRXQ, DOT5; thioredoxin-dependent peroxiredoxin [EC:1.11.1.24]
+K03395	K09971	0.0062963874195774	aapM, bztC; general L-amino acid transport system permease protein

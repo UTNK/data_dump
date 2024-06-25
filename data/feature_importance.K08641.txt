@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K08641	K03797	0.0062012177344263	E3.4.21.102, prc, ctpA; carboxyl-terminal processing protease [EC:3.4.21.102]
+K08641	K03412	0.0059079023358639	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K08641	K00867	0.0058703753098132	coaA; type I pantothenate kinase [EC:2.7.1.33]
+K08641	K03597	0.0058008449132591	rseA; sigma-E factor negative regulatory protein RseA
+K08641	K02419	0.0057996629893659	fliP; flagellar biosynthetic protein FliP
+K08641	K01243	0.0057938415156846	mtnN, mtn, pfs; adenosylhomocysteine nucleosidase [EC:3.2.2.9]
+K08641	K02413	0.0057769003046828	fliJ; flagellar FliJ protein
+K08641	K09471	0.0057519292767296	puuB, ordL; gamma-glutamylputrescine oxidase [EC:1.4.3.-]
+K08641	K01208	0.0057130201224384	cd, ma, nplT; cyclomaltodextrinase / maltogenic alpha-amylase / neopullulanase [EC:3.2.1.54 3.2.1.133 3.2.1.135]
+K08641	K07693	0.0056980661346353	desR; two-component system, NarL family, response regulator DesR
+K08641	K16092	0.0056956728967398	btuB; vitamin B12 transporter
+K08641	K01042	0.0056825224419363	selA; L-seryl-tRNA(Ser) seleniumtransferase [EC:2.9.1.1]
+K08641	K01738	0.0056351702993893	cysK; cysteine synthase [EC:2.5.1.47]
+K08641	K01716	0.0055855719491213	fabA; 3-hydroxyacyl-[acyl-carrier protein] dehydratase / trans-2-decenoyl-[acyl-carrier protein] isomerase [EC:4.2.1.59 5.3.3.14]
+K08641	K09012	0.0055785678153457	sufR; DeoR family transcriptional regulator, suf operon transcriptional repressor
+K08641	K09800	0.0055735457837629	tamB; translocation and assembly module TamB
+K08641	K03644	0.0055313232613669	lipA, LIAS, LIP1, LIP5; lipoyl synthase [EC:2.8.1.8]
+K08641	K05367	0.0055198022077678	pbpC; penicillin-binding protein 1C [EC:2.4.1.129]
+K08641	K01338	0.005512762206052	lon; ATP-dependent Lon protease [EC:3.4.21.53]
+K08641	K07181	0.0054923650453364	cdgJ; c-di-GMP phosphodiesterase [EC:3.1.4.52]
+K08641	K03325	0.0054896863176205	ACR3, arsB; arsenite transporter
+K08641	K00883	0.0054839682669687	dgoK; 2-dehydro-3-deoxygalactonokinase [EC:2.7.1.58]
+K08641	K00865	0.0054750039319289	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K08641	K02411	0.0054707160681641	fliH; flagellar assembly protein FliH
+K08641	K00027	0.0054516500824912	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K08641	K02458	0.0054332002518868	gspI; general secretion pathway protein I
+K08641	K01953	0.0054187949654525	asnB, ASNS; asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]
+K08641	mobileOG_000045027	0.0053912851985784	dinB
+K08641	K03811	0.0053871617537695	pnuC; nicotinamide mononucleotide transporter
+K08641	K03559	0.005383717199108	exbD; biopolymer transport protein ExbD
+K08641	K00980	0.0053739713511602	tagD; glycerol-3-phosphate cytidylyltransferase [EC:2.7.7.39]
+K08641	K03307	0.0053665229267894	TC.SSS; solute:Na+ symporter, SSS family
+K08641	K09165	0.0053538486411881	K09165; dodecin
+K08641	K03592	0.0053480116701634	pmbA; PmbA protein
+K08641	K09808	0.0053288360903216	lolC_E; lipoprotein-releasing system permease protein
+K08641	K14155	0.0053246316965465	patB, malY; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K08641	mobileOG_000321827	0.0052992601838657	imuB
+K08641	K00135	0.0052816462023912	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]
+K08641	K11938	0.0052737830803764	cof; HMP-PP phosphatase [EC:3.6.1.-]
+K08641	K02168	0.005269514472699	betT, betS; choline/glycine/proline betaine transport protein
+K08641	K00425	0.0052637619473734	cydA; cytochrome bd ubiquinol oxidase subunit I [EC:7.1.1.7]
+K08641	K08968	0.0052598757036339	msrC; L-methionine (R)-S-oxide reductase [EC:1.8.4.14]
+K08641	K09975	0.0052441093000477	K09975; uncharacterized protein
+K08641	K02647	0.0052395398231801	cdaR; carbohydrate diacid regulator
+K08641	K00847	0.0052268795091603	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K08641	K00782	0.0052216817252179	lldG; L-lactate dehydrogenase complex protein LldG
+K08641	K02416	0.0052139598166569	fliM; flagellar motor switch protein FliM
+K08641	K24131	0.0052091677991148	prsW; protease PrsW [EC:3.4.-.-]
+K08641	K03885	0.0051955031377741	ndh; NADH dehydrogenase [EC:1.6.99.3]
+K08641	K05801	0.0051919493936298	djlA; DnaJ like chaperone protein

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K10673	K00652	0.0083679596284208	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K10673	K00325	0.0082120079048844	pntB; H+-translocating NAD(P) transhydrogenase subunit beta [EC:1.6.1.2 7.1.1.1]
+K10673	K17758	0.0082044423663942	nnrD; ADP-dependent NAD(P)H-hydrate dehydratase [EC:4.2.1.136]
+K10673	K01480	0.0081802027545523	speB; agmatinase [EC:3.5.3.11]
+K10673	K01975	0.0080424835500005	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K10673	K01809	0.0079714313790776	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K10673	K06872	0.007961003918068	K06872; uncharacterized protein
+K10673	K03641	0.00785231738877	tolB; TolB protein
+K10673	mobileOG_000031464	0.0078467655947013	mutT
+K10673	K00865	0.0077961016063965	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K10673	K14393	0.0077893183740735	actP; cation/acetate symporter
+K10673	K07010	0.0077340255900193	K07010; putative glutamine amidotransferase
+K10673	K02421	0.0077310605814583	fliR; flagellar biosynthetic protein FliR
+K10673	K01512	0.0077174449432723	acyP; acylphosphatase [EC:3.6.1.7]
+K10673	K02026	0.0077120935044723	ABC.MS.P1; multiple sugar transport system permease protein
+K10673	K16137	0.0076676967201982	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon
+K10673	K00375	0.0075632273253868	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K10673	K02011	0.0075611105584567	afuB, fbpB; iron(III) transport system permease protein
+K10673	K00847	0.0074837165472058	E2.7.1.4, scrK; fructokinase [EC:2.7.1.4]
+K10673	K01760	0.0074665321602422	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K10673	K01912	0.0073132580697438	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K10673	K07646	0.0070800575156961	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K10673	activated_sludge	0.0070774646332606	
+K10673	K01754	0.0070712344061156	E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]
+K10673	K10439	0.0070641896268786	rbsB; ribose transport system substrate-binding protein
+K10673	K01631	0.0070321765848685	dgoA; 2-dehydro-3-deoxyphosphogalactonate aldolase [EC:4.1.2.21]
+K10673	K07124	0.0070260154465873	K07124; uncharacterized protein
+K10673	K03767	0.0070173924957879	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K10673	K07116	0.0068997050627481	pvdQ, quiP; acyl-homoserine-lactone acylase [EC:3.5.1.97]
+K10673	K03773	0.0068221152166625	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K10673	K11075	0.0067911804091735	potH; putrescine transport system permease protein
+K10673	plant	0.0067849125035088	
+K10673	K00606	0.0067733640039954	panB; 3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]
+K10673	K09937	0.0067572509197041	K09937; uncharacterized protein
+K10673	K01640	0.0067489009450922	E4.1.3.4, HMGCL, hmgL; hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4]
+K10673	K02008	0.0067382154668896	cbiQ; cobalt/nickel transport system permease protein
+K10673	K09791	0.0067343870605901	K09791; uncharacterized protein
+K10673	K07507	0.0067098951356839	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K10673	K09472	0.0066932901841778	puuC, aldH; 4-(gamma-glutamylamino)butanal dehydrogenase [EC:1.2.1.99]
+K10673	mobileOG_000134996	0.0066871701344615	mazF
+K10673	K09915	0.0066543097179412	K09915; uncharacterized protein
+K10673	K01638	0.0066301707415949	aceB, glcB; malate synthase [EC:2.3.3.9]
+K10673	K06980	0.0066279057744015	ygfZ; tRNA-modifying protein YgfZ
+K10673	K06881	0.0065918460290601	nrnA; bifunctional oligoribonuclease and PAP phosphatase NrnA [EC:3.1.3.7 3.1.13.3]
+K10673	K02426	0.0065835473389677	sufE; cysteine desulfuration protein SufE
+K10673	K15460	0.0065764918180994	yfiC, trmX; tRNA1Val (adenine37-N6)-methyltransferase [EC:2.1.1.223]
+K10673	K11074	0.0065726460603611	potI; putrescine transport system permease protein
+K10673	K13640	0.0065509125013774	hspR; MerR family transcriptional regulator, heat shock protein HspR
+K10673	K03300	0.0065439959800328	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family
+K10673	K00164	0.0065236714752644	OGDH, sucA; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]

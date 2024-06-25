@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19271	K01644	0.0079805055589911	citE; citrate lyase subunit beta / citryl-CoA lyase [EC:4.1.3.34]
+K19271	K07461	0.0071344346252041	K07461; putative endonuclease
+K19271	K23537	0.0070976536613678	nupA; general nucleoside transport system ATP-binding protein
+K19271	K00457	0.0070540945550139	HPD, hppD; 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27]
+K19271	K05846	0.0068892780623854	opuBD; osmoprotectant transport system permease protein
+K19271	K06929	0.0066257816303364	K06929; uncharacterized protein
+K19271	K01966	0.0064726745823276	PCCB, pccB; propionyl-CoA carboxylase beta chain [EC:6.4.1.3 2.1.3.15]
+K19271	K00375	0.0064707411779387	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19271	K03767	0.0064464121772835	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19271	K01969	0.0064183258671564	E6.4.1.4B; 3-methylcrotonyl-CoA carboxylase beta subunit [EC:6.4.1.4]
+K19271	K07175	0.0062838420242588	phoH2; PhoH-like ATPase
+K19271	K01912	0.0062786059626418	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K19271	K00304	0.0062541900963372	soxD; sarcosine oxidase, subunit delta [EC:1.5.3.1]
+K19271	mobileOG_000785584	0.0062075924462619	dprA
+K19271	K07390	0.0062003327968155	grxD, GLRX5; monothiol glutaredoxin
+K19271	K05275	0.006165181515081	E1.1.1.65; pyridoxine 4-dehydrogenase [EC:1.1.1.65]
+K19271	K07093	0.0061628513437219	K07093; uncharacterized protein
+K19271	K07645	0.0061309598886527	qseC; two-component system, OmpR family, sensor histidine kinase QseC [EC:2.7.13.3]
+K19271	K03307	0.0061053651914492	TC.SSS; solute:Na+ symporter, SSS family
+K19271	K07124	0.0060857807100084	K07124; uncharacterized protein
+K19271	K01239	0.0060811012320534	iunH; purine nucleosidase [EC:3.2.2.1]
+K19271	mobileOG_000098385	0.0060667703899893	35
+K19271	K22105	0.006063483342817	fabR; TetR/AcrR family transcriptional regulator, fatty acid biosynthesis regulator
+K19271	K10680	0.0060467213369055	nemA; N-ethylmaleimide reductase [EC:1.-.-.-]
+K19271	K00027	0.0060288210651974	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K19271	K01480	0.005994378249617	speB; agmatinase [EC:3.5.3.11]
+K19271	K07126	0.0059873053647577	K07126; uncharacterized protein
+K19271	K09166	0.0059870538609452	K09166; uncharacterized protein
+K19271	K03317	0.0059844816692973	TC.CNT; concentrative nucleoside transporter, CNT family
+K19271	K01839	0.0059765838408586	deoB; phosphopentomutase [EC:5.4.2.7]
+K19271	K23779	0.0059606273323582	sutR; XRE family transcriptional regulator, regulator of sulfur utilization
+K19271	K11897	0.0059524190724629	impF; type VI secretion system protein ImpF
+K19271	K03313	0.0059251447395444	nhaA; Na+:H+ antiporter, NhaA family
+K19271	K00570	0.0059242730488634	pmtA; phosphatidylethanolamine/phosphatidyl-N-methylethanolamine N-methyltransferase [EC:2.1.1.17 2.1.1.71]
+K19271	mobileOG_000170347	0.005915235550854	mutL
+K19271	K00266	0.0058585580086304	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K19271	K00865	0.0058450882158104	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K19271	K01421	0.0058421517460077	yhgE; putative membrane protein
+K19271	mobileOG_000030652	0.0058208525848365	intA
+K19271	K05516	0.0057973276771459	cbpA; curved DNA-binding protein
+K19271	K07267	0.0057961637889186	oprB; porin
+K19271	K08974	0.0057929643575797	K08974; putative membrane protein
+K19271	mobileOG_000354990	0.0057887377710722	tnpM
+K19271	K07736	0.0057855444973563	carD; CarD family transcriptional regulator
+K19271	K11070	0.0057837317997947	potC; spermidine/putrescine transport system permease protein
+K19271	K08683	0.0057351632305823	HSD17B10; 3-hydroxyacyl-CoA dehydrogenase / 3-hydroxy-2-methylbutyryl-CoA dehydrogenase [EC:1.1.1.35 1.1.1.178]
+K19271	K02574	0.0057291786107228	napH; ferredoxin-type protein NapH
+K19271	K01619	0.0057218972938331	deoC, DERA; deoxyribose-phosphate aldolase [EC:4.1.2.4]
+K19271	K07096	0.0057110455293544	K07096; uncharacterized protein
+K19271	sediment	0.0057063403776049	

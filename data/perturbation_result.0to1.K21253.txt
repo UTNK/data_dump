@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K21253	K03405	chlI, bchI; magnesium chelatase subunit I [EC:6.6.1.1]	0.0005996015934954	0.0009995127462569
+K21253	K15778	pmm-pgm; phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2]	0.0005996015934954	0.0009995417081809
+K21253	K02204	thrB2; homoserine kinase type II [EC:2.7.1.39]	0.0005996015934954	0.0009995504101277
+K21253	K01266	dmpA, dap; D-aminopeptidase [EC:3.4.11.19]	0.0005996015934954	0.0009995581245768
+K21253	K10227	smoE, mtlE; sorbitol/mannitol transport system substrate-binding protein	0.0005996015934954	0.0009995809841594
+K21253	K17315	gtsA, glcE; glucose/mannose transport system substrate-binding protein	0.0005996015934954	0.0010991385237271
+K21253	K21900	cysL; LysR family transcriptional regulator, transcriptional activator of the cysJI operon	0.0005996015934954	0.0010995436344517
+K21253	K03300	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family	0.0005996015934954	0.0011990856962174
+K21253	K00263	E1.4.1.9; leucine dehydrogenase [EC:1.4.1.9]	0.0005996015934954	0.0011994123203342
+K21253	K07215	pigA, hemO; heme oxygenase (biliverdin-IX-beta and delta-forming) [EC:1.14.99.58]	0.0005996015934954	0.0011995529731051
+K21253	K03816	xpt; xanthine phosphoribosyltransferase [EC:2.4.2.22]	0.0005996015934954	0.0011995603749064
+K21253	K00479	gbcA; glycine betaine catabolism A	0.0005996015934954	0.0012993732518397
+K21253	K03316	TC.CPA1; monovalent cation:H+ antiporter, CPA1 family	0.0005996015934954	0.0012994539078617
+K21253	K18118	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]	0.0005996015934954	0.0012995348882851
+K21253	K10229	smoG, mtlG; sorbitol/mannitol transport system permease protein	0.0005996015934954	0.001299577924539
+K21253	mobileOG_000331053	ligD	0.0005996015934954	0.0012995813054232
+K21253	K05832	ABC.X4.P; putative ABC transport system permease protein	0.0005996015934954	0.0013995388073437
+K21253	K18346	vanW; vancomycin resistance protein VanW	0.0005996015934954	0.0015995742202305
+K21253	mobileOG_000221853	parA	0.0005996015934954	0.0017992839546135
+K21253	K11354	cph1; two-component system, chemotaxis family, sensor kinase Cph1 [EC:2.7.13.3]	0.0005996015934954	0.0018993261309025
+K21253	mobileOG_000349657	xth	0.0005996015934954	0.0019994625406847
+K21253	K23886	CISD3; CDGSH iron-sulfur domain-containing protein 3	0.0005996015934954	0.0020993340640944
+K21253	K19342	nosL; copper chaperone NosL	0.0005996015934954	0.0020994267690524
+K21253	K04748	norQ; nitric oxide reductase NorQ protein	0.0005996015934954	0.0021990327596954
+K21253	K09684	pucR; PucR family transcriptional regulator, purine catabolism regulatory protein	0.0005996015934954	0.0021993974740479

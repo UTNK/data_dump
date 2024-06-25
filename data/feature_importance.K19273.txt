@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19273	K03767	0.0082240930526984	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19273	K01610	0.0079749729005172	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K19273	K03594	0.0079173744913454	bfr; bacterioferritin [EC:1.16.3.1]
+K19273	K14393	0.0079031539785204	actP; cation/acetate symporter
+K19273	K03412	0.0078229258355253	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K19273	K00705	0.0077579355577381	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]
+K19273	K02071	0.0077235402621422	metN; D-methionine transport system ATP-binding protein
+K19273	K06975	0.0077068540151833	K06975; uncharacterized protein
+K19273	K00865	0.0076984575669133	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K19273	mobileOG_000031464	0.0076863204686753	mutT
+K19273	K01919	0.0076243907172371	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K19273	K02420	0.0074777186230065	fliQ; flagellar biosynthetic protein FliQ
+K19273	K01480	0.0074595911079616	speB; agmatinase [EC:3.5.3.11]
+K19273	K01975	0.0074357644355659	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K19273	K01809	0.0074318929402824	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K19273	K02026	0.0074028369595032	ABC.MS.P1; multiple sugar transport system permease protein
+K19273	K01912	0.0073744803235805	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K19273	K00652	0.0073435276352479	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K19273	K07124	0.0072396812107229	K07124; uncharacterized protein
+K19273	K01512	0.0072176286210797	acyP; acylphosphatase [EC:3.6.1.7]
+K19273	K02011	0.0071366429490749	afuB, fbpB; iron(III) transport system permease protein
+K19273	K10439	0.0071317629630126	rbsB; ribose transport system substrate-binding protein
+K19273	K06872	0.0070256871679507	K06872; uncharacterized protein
+K19273	K06996	0.0069739237404652	K06996; uncharacterized protein
+K19273	mobileOG_000333823	0.006945576389331	dnaN
+K19273	K07646	0.0069261104259827	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K19273	K07507	0.006859189524067	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K19273	K00424	0.0067514903090315	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K19273	K01545	0.0067467664202844	kdpF; potassium-transporting ATPase KdpF subunit
+K19273	K04771	0.0066609197129816	degP, htrA; serine protease Do [EC:3.4.21.107]
+K19273	K10228	0.0066606022864879	smoF, mtlF; sorbitol/mannitol transport system permease protein
+K19273	K01537	0.0066306607546385	ATP2C; P-type Ca2+ transporter type 2C [EC:7.2.2.10]
+K19273	K05838	0.0066266596846656	ybbN; putative thioredoxin
+K19273	K21159	0.0066086687678501	sgcF, ncsF2, kedF; epoxide hydrolase
+K19273	K19267	0.0066057256068661	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K19273	K22041	0.0065880957179097	comR; TetR/AcrR family transcriptional regulator, copper-responsive repressor
+K19273	K18297	0.0065852220716068	mexT; LysR family transcriptional regulator, mexEF-oprN operon transcriptional activator
+K19273	K11263	0.0065591497741249	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]
+K19273	mobileOG_000351464	0.0065590982024479	fxsA
+K19273	K20938	0.0065554497801452	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]
+K19273	K01048	0.0065418206453624	pldB; lysophospholipase [EC:3.1.1.5]
+K19273	K00252	0.0065384275320488	GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]
+K19273	K18707	0.0065253085536202	mtaB; threonylcarbamoyladenosine tRNA methylthiotransferase MtaB [EC:2.8.4.5]
+K19273	K00990	0.0065232152894618	glnD; [protein-PII] uridylyltransferase [EC:2.7.7.59]
+K19273	K00619	0.0065221482034752	argA; amino-acid N-acetyltransferase [EC:2.3.1.1]
+K19273	K04761	0.0065067394188609	oxyR; LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator
+K19273	K02426	0.0064994240858958	sufE; cysteine desulfuration protein SufE
+K19273	K06213	0.0064888904996068	mgtE; magnesium transporter
+K19273	mobileOG_000093088	0.0064875602578574	ftsZ
+K19273	K18981	0.0064798409960057	udh; uronate dehydrogenase [EC:1.1.1.203]

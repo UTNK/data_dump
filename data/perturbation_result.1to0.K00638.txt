@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K00638	K01726	GAMMACA; gamma-carbonic anhydrase [EC:4.2.1.-]	0.743760010444187	0.7056860534747631
+K00638	K00537	arsC; arsenate reductase (glutaredoxin) [EC:1.20.4.1]	0.743760010444187	0.7125498144683177
+K00638	K06193	phnA; protein PhnA	0.743760010444187	0.7156953062385559
+K00638	K00632	fadA, fadI; acetyl-CoA acyltransferase [EC:2.3.1.16]	0.743760010444187	0.7194007325312232
+K00638	K02687	prmA; ribosomal protein L11 methyltransferase [EC:2.1.1.-]	0.743760010444187	0.7223399795538549
+K00638	K00627	DLAT, aceF, pdhC; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]	0.743760010444187	0.7224204367425973
+K00638	K00645	fabD, MCAT, MCT1; [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]	0.743760010444187	0.7236662842930753
+K00638	K13628	iscA; iron-sulfur cluster assembly protein	0.743760010444187	0.7244417883471993
+K00638	K11751	ushA; 5-nucleotidase / UDP-sugar diphosphatase [EC:3.1.3.5 3.6.1.45]	0.743760010444187	0.7246404704508538
+K00638	K07001	K07001; NTE family protein	0.743760010444187	0.7252681991847318
+K00638	K03590	ftsA; cell division protein FtsA	0.743760010444187	0.7259020247042047
+K00638	K01673	cynT, can; carbonic anhydrase [EC:4.2.1.1]	0.743760010444187	0.7267805600877424
+K00638	K07305	msrB; peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	0.743760010444187	0.7274127521237899
+K00638	K01992	ABC-2.P; ABC-2 type transport system permease protein	0.743760010444187	0.7277632310870774
+K00638	mobileOG_000054979	recQ	0.743760010444187	0.7295792234726609
+K00638	K11927	rhlE; ATP-dependent RNA helicase RhlE [EC:3.6.4.13]	0.743760010444187	0.7302046917907091
+K00638	K00526	E1.17.4.1B, nrdB, nrdF; ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]	0.743760010444187	0.7302924649209125
+K00638	K02372	fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]	0.743760010444187	0.730348377405736
+K00638	K18979	queG; epoxyqueuosine reductase [EC:1.17.99.6]	0.743760010444187	0.7307188899875738
+K00638	K00029	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]	0.743760010444187	0.7311017249100776
+K00638	K02970	RP-S21, MRPS21, rpsU; small subunit ribosomal protein S21	0.743760010444187	0.7316910408913504
+K00638	K00783	rlmH; 23S rRNA (pseudouridine1915-N3)-methyltransferase [EC:2.1.1.177]	0.743760010444187	0.7317730786329728
+K00638	K10778	ada; AraC family transcriptional regulator, regulatory protein of adaptative response / methylated-DNA-[protein]-cysteine methyltransferase [EC:2.1.1.63]	0.743760010444187	0.7321701652540431
+K00638	K00971	manC, cpsB; mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	0.743760010444187	0.7322068127703611
+K00638	K04063	osmC, ohr; lipoyl-dependent peroxiredoxin [EC:1.11.1.28]	0.743760010444187	0.7322977863190953

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18766	K01760	0.0081511742724963	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18766	K03594	0.0080156440589395	bfr; bacterioferritin [EC:1.16.3.1]
+K18766	K00865	0.0079962825998599	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18766	K02401	0.0079091560340018	flhB; flagellar biosynthetic protein FlhB
+K18766	K00252	0.0079091560340018	GCDH, gcdH; glutaryl-CoA dehydrogenase [EC:1.3.8.6]
+K18766	K07124	0.007860752386303	K07124; uncharacterized protein
+K18766	K07160	0.0078413909272234	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18766	K02421	0.0077252221727461	fliR; flagellar biosynthetic protein FliR
+K18766	K03641	0.0075606497705699	tolB; TolB protein
+K18766	mobileOG_000031464	0.0075509690410301	mutT
+K18766	K01480	0.0075412883114903	speB; agmatinase [EC:3.5.3.11]
+K18766	K06872	0.0074832039342517	K06872; uncharacterized protein
+K18766	K01512	0.0074348002865528	acyP; acylphosphatase [EC:3.6.1.7]
+K18766	K07010	0.0074057580979334	K07010; putative glutamine amidotransferase
+K18766	K01912	0.0073476737206947	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18766	K03767	0.0073283122616152	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18766	K06996	0.0073186315320754	K06996; uncharacterized protein
+K18766	K16167	0.0072218242366777	bpsA, srsA, pks11, pks10; alkylresorcinol/alkylpyrone synthase
+K18766	K07646	0.0071734205889787	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18766	K01809	0.0071637398594389	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18766	K02011	0.0070282096458821	afuB, fbpB; iron(III) transport system permease protein
+K18766	K10439	0.0070185289163423	rbsB; ribose transport system substrate-binding protein
+K18766	K01821	0.0069991674572628	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18766	K19267	0.0069798059981832	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K18766	K00375	0.0069701252686434	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18766	K02039	0.0069604445391037	phoU; phosphate transport system protein
+K18766	K15578	0.0069217216209445	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K18766	K07507	0.0068249143255467	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18766	K09765	0.0068055528664672	queH; epoxyqueuosine reductase [EC:1.17.99.6]
+K18766	biofilm	0.0067571492187683	
+K18766	K06976	0.0067087455710694	K06976; uncharacterized protein
+K18766	K15975	0.0066990648415297	K15975; glyoxalase family protein
+K18766	K00479	0.0066700226529102	gbcA; glycine betaine catabolism A
+K18766	K13693	0.0066409804642909	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]
+K18766	K05601	0.0066409804642909	hcp; hydroxylamine reductase [EC:1.7.99.1]
+K18766	K01058	0.0066312997347511	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]
+K18766	K01847	0.0066216190052114	MUT; methylmalonyl-CoA mutase [EC:5.4.99.2]
+K18766	K10229	0.006592576816592	smoG, mtlG; sorbitol/mannitol transport system permease protein
+K18766	K15736	0.006592576816592	lhgO; (S)-2-hydroxyglutarate dehydrogenase [EC:1.1.5.13]
+K18766	K18981	0.0065732153575125	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18766	K13821	0.0065635346279727	putA; RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]
+K18766	K11689	0.0065441731688932	dctQ; C4-dicarboxylate transporter, DctQ subunit
+K18766	K11074	0.0065441731688932	potI; putrescine transport system permease protein
+K18766	K02575	0.0065441731688932	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18766	K07224	0.0065344924393534	efeO; iron uptake system component EfeO
+K18766	K02074	0.0065248117098136	ABC.ZM.A; zinc/manganese transport system ATP-binding protein
+K18766	K03698	0.0064957695211943	cbf, cbf1; 3-5 exoribonuclease [EC:3.1.-.-]
+K18766	K01167	0.0064764080621148	rnaSA; ribonuclease T1 [EC:4.6.1.24]
+K18766	K22041	0.006466727332575	comR; TetR/AcrR family transcriptional regulator, copper-responsive repressor
+K18766	K01466	0.006466727332575	allB; allantoinase [EC:3.5.2.5]

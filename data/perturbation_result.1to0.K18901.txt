@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18901	K07263	pqqL; zinc protease [EC:3.4.24.-]	0.0207220849490335	0.0188950924496429
+K18901	K03522	fixB, etfA; electron transfer flavoprotein alpha subunit	0.0207220849490335	0.0189352691663646
+K18901	K09794	K09794; uncharacterized protein	0.0207220849490335	0.0191484988882296
+K18901	K03969	pspA; phage shock protein A	0.0207220849490335	0.0223335874625871
+K18901	K00965	galT, GALT; UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	0.0207220849490335	0.0223698174413062
+K18901	K23163	sbp; sulfate/thiosulfate transport system substrate-binding protein	0.0207220849490335	0.0224565773599996
+K18901	K02564	nagB, GNPDA; glucosamine-6-phosphate deaminase [EC:3.5.99.6]	0.0207220849490335	0.0224966574809105
+K18901	K07712	glnG, ntrC; two-component system, NtrC family, nitrogen regulation response regulator GlnG	0.0207220849490335	0.0225473073941696
+K18901	K05601	hcp; hydroxylamine reductase [EC:1.7.99.1]	0.0207220849490335	0.022853210180257
+K18901	K07637	phoQ; two-component system, OmpR family, sensor histidine kinase PhoQ [EC:2.7.13.3]	0.0207220849490335	0.0229086904179847
+K18901	K07642	baeS, smeS; two-component system, OmpR family, sensor histidine kinase BaeS [EC:2.7.13.3]	0.0207220849490335	0.0230472058370023
+K18901	K19334	tabA; biofilm protein TabA	0.0207220849490335	0.0230634454837382
+K18901	K04656	hypF; hydrogenase maturation protein HypF	0.0207220849490335	0.0230986189975145
+K18901	K14761	ybcJ; ribosome-associated protein	0.0207220849490335	0.0233630029661028
+K18901	K04477	ycdX; putative hydrolase	0.0207220849490335	0.0235088366438078
+K18901	K02549	menC; O-succinylbenzoate synthase [EC:4.2.1.113]	0.0207220849490335	0.0235541773654596
+K18901	K01911	menE; O-succinylbenzoic acid---CoA ligase [EC:6.2.1.26]	0.0207220849490335	0.0236241518878293
+K18901	K00850	pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]	0.0207220849490335	0.0248356187294978
+K18901	K08483	ptsI; phosphoenolpyruvate-protein phosphotransferase (PTS system enzyme I) [EC:2.7.3.9]	0.0207220849490335	0.024873163777617
+K18901	K01809	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]	0.0207220849490335	0.0257040229934263
+K18901	K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase [EC:1.2.1.10 1.1.1.1]	0.0207220849490335	0.0258533269138404
+K18901	mobileOG_000229749	nfo	0.0207220849490335	0.0261742886538732
+K18901	K02217	ftnA, ftn; ferritin [EC:1.16.3.2]	0.0207220849490335	0.0262568721636789
+K18901	K04068	nrdG; anaerobic ribonucleoside-triphosphate reductase activating protein [EC:1.97.1.4]	0.0207220849490335	0.0271790283907288
+K18901	K03784	deoD; purine-nucleoside phosphorylase [EC:2.4.2.1]	0.0207220849490335	0.0282334481227044

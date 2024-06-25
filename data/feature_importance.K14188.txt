@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K14188	K02012	0.0075273307682827	afuA, fbpA; iron(III) transport system substrate-binding protein
+K14188	K07112	0.0074788299915266	K07112; uncharacterized protein
+K14188	K00375	0.007246694622735	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K14188	K02415	0.0071656147071322	fliL; flagellar FliL protein
+K14188	K01512	0.0071080012561951	acyP; acylphosphatase [EC:3.6.1.7]
+K14188	K10439	0.0070990868693862	rbsB; ribose transport system substrate-binding protein
+K14188	K19222	0.0070605989420794	menI, DHNAT; 1,4-dihydroxy-2-naphthoyl-CoA hydrolase [EC:3.1.2.28]
+K14188	K02390	0.0070472867757804	flgE; flagellar hook protein FlgE
+K14188	mobileOG_000031464	0.0070388082245792	mutT
+K14188	K03651	0.0070029172746673	cpdA; 3,5-cyclic-AMP phosphodiesterase [EC:3.1.4.53]
+K14188	K01066	0.0070016225712865	aes; acetyl esterase [EC:3.1.1.-]
+K14188	K09807	0.0069372715919042	K09807; uncharacterized protein
+K14188	K07010	0.0068605364857144	K07010; putative glutamine amidotransferase
+K14188	K00138	0.0068520309934048	aldB; aldehyde dehydrogenase [EC:1.2.1.-]
+K14188	K08225	0.0068273796600266	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter
+K14188	K05559	0.006824587364143	phaA; multicomponent K+:H+ antiporter subunit A
+K14188	K22479	0.0068173789975842	argA; N-acetyltransferase
+K14188	K03978	0.006750794223487	engB; GTP-binding protein
+K14188	K02291	0.006703954314821	crtB; 15-cis-phytoene synthase [EC:2.5.1.32]
+K14188	K03809	0.0066766972666311	wrbA; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K14188	K01912	0.0066229185541865	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K14188	K02064	0.0066176866050462	thiB, tbpA; thiamine transport system substrate-binding protein
+K14188	K08676	0.0066171165533939	tri; tricorn protease [EC:3.4.21.-]
+K14188	K07126	0.0066133969648389	K07126; uncharacterized protein
+K14188	K05275	0.0065583438586216	E1.1.1.65; pyridoxine 4-dehydrogenase [EC:1.1.1.65]
+K14188	K02416	0.0065425531031396	fliM; flagellar motor switch protein FliM
+K14188	K12132	0.0065349766798983	prkC, stkP; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]
+K14188	K07507	0.0065329044237537	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K14188	K00363	0.0065134429333456	nirD; nitrite reductase (NADH) small subunit [EC:1.7.1.15]
+K14188	K03684	0.0064070817478886	rnd; ribonuclease D [EC:3.1.13.5]
+K14188	K01893	0.0063994562038318	NARS, asnS; asparaginyl-tRNA synthetase [EC:6.1.1.22]
+K14188	K05838	0.006394623064763	ybbN; putative thioredoxin
+K14188	mobileOG_000077438	0.0063325085117278	polX
+K14188	K12942	0.0063287423906979	abgT; aminobenzoyl-glutamate transport protein
+K14188	K16091	0.0063092504919257	fecA; Fe(3+) dicitrate transport protein
+K14188	K00528	0.006308749639198	fpr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]
+K14188	K00703	0.0062787974084881	glgA; starch synthase [EC:2.4.1.21]
+K14188	K18890	0.0062740523380633	mdlB, smdB; ATP-binding cassette, subfamily B, multidrug efflux pump
+K14188	K17316	0.006240942296715	gtsB, glcF; glucose/mannose transport system permease protein
+K14188	K01455	0.0062347545519624	E3.5.1.49; formamidase [EC:3.5.1.49]
+K14188	K01256	0.0062331636853841	pepN; aminopeptidase N [EC:3.4.11.2]
+K14188	K02257	0.0062200098874211	COX10, ctaB, cyoE; heme o synthase [EC:2.5.1.141]
+K14188	K07642	0.0062193666702076	baeS, smeS; two-component system, OmpR family, sensor histidine kinase BaeS [EC:2.7.13.3]
+K14188	K00242	0.0061971403651222	sdhD, frdD; succinate dehydrogenase / fumarate reductase, membrane anchor subunit
+K14188	K14987	0.0061962710095336	fixJ; two-component system, LuxR family, response regulator FixJ
+K14188	K05561	0.0061911444552972	phaD; multicomponent K+:H+ antiporter subunit D
+K14188	K10009	0.0061886690640483	tcyB, yecS; L-cystine transport system permease protein
+K14188	K01191	0.0061804940093911	MAN2C1; alpha-mannosidase [EC:3.2.1.24]
+K14188	K19113	0.0061788287437234	ttr; acetyltransferase [EC:2.3.1.-]
+K14188	K02412	0.0061742345059957	fliI; flagellum-specific ATP synthase [EC:7.4.2.8]

@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19274	K06167	phnP; phosphoribosyl 1,2-cyclic phosphate phosphodiesterase [EC:3.1.4.55]	0.0325214222355973	0.027836030593738
+K19274	K07322	ytfE, scdA; regulator of cell morphogenesis and NO signaling	0.0325214222355973	0.0284360593408684
+K19274	K10679	nfnB, nfsB; nitroreductase / dihydropteridine reductase [EC:1.-.-.- 1.5.1.34]	0.0325214222355973	0.0285392890593199
+K19274	K03830	yafP; putative acetyltransferase [EC:2.3.1.-]	0.0325214222355973	0.029140418564346
+K19274	K22044	ybiO; moderate conductance mechanosensitive channel	0.0325214222355973	0.0354033817965085
+K19274	K09913	ppnP; purine/pyrimidine-nucleoside phosphorylase [EC:2.4.2.1 2.4.2.2]	0.0325214222355973	0.0354176748587272
+K19274	K07689	uvrY, gacA, varA; two-component system, NarL family, invasion response regulator UvrY	0.0325214222355973	0.0354177293091722
+K19274	K15034	yaeJ; ribosome-associated protein	0.0325214222355973	0.035616136675176
+K19274	K01809	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]	0.0325214222355973	0.0357120820686814
+K19274	mobileOG_000267561	dpiA	0.0325214222355973	0.0358116537743934
+K19274	K02025	ABC.MS.P; multiple sugar transport system permease protein	0.0325214222355973	0.0359088778031053
+K19274	K05845	opuC; osmoprotectant transport system substrate-binding protein	0.0325214222355973	0.0360069313326987
+K19274	K03761	kgtP; MFS transporter, MHS family, alpha-ketoglutarate permease	0.0325214222355973	0.0361091392285998
+K19274	K07147	msrP; methionine sulfoxide reductase catalytic subunit [EC:1.8.-.-]	0.0325214222355973	0.0361189461972317
+K19274	K03322	mntH; manganese transport protein	0.0325214222355973	0.0363068865848042
+K19274	K00883	dgoK; 2-dehydro-3-deoxygalactonokinase [EC:2.7.1.58]	0.0325214222355973	0.0369979942606613
+K19274	K16137	nemR; TetR/AcrR family transcriptional regulator, transcriptional repressor for nem operon	0.0325214222355973	0.0371162902449429
+K19274	K22041	comR; TetR/AcrR family transcriptional regulator, copper-responsive repressor	0.0325214222355973	0.0374019057094161
+K19274	K01531	mgtA, mgtB; P-type Mg2+ transporter [EC:7.2.2.14]	0.0325214222355973	0.0377048476625722
+K19274	K01631	dgoA; 2-dehydro-3-deoxyphosphogalactonate aldolase [EC:4.1.2.21]	0.0325214222355973	0.037795233318928
+K19274	K05846	opuBD; osmoprotectant transport system permease protein	0.0325214222355973	0.0384968701889267
+K19274	K19267	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	0.0325214222355973	0.0389949220924768
+K19274	K00797	speE, SRM, SPE3; spermidine synthase [EC:2.5.1.16]	0.0325214222355973	0.0401907683309332
+K19274	K01512	acyP; acylphosphatase [EC:3.6.1.7]	0.0325214222355973	0.0420954124357154
+K19274	K01975	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]	0.0325214222355973	0.0441853714488599

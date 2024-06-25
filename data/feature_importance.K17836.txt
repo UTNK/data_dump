@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K17836	mobileOG_000280184	0.0078294886519367	tnpR
+K17836	K02612	0.0067860621464261	paaD; ring-1,2-phenylacetyl-CoA epoxidase subunit PaaD
+K17836	K00228	0.0067261493545052	CPOX, hemF; coproporphyrinogen III oxidase [EC:1.3.3.3]
+K17836	K14347	0.0065373277534448	SLC10A7, P7; solute carrier family 10 (sodium/bile acid cotransporter), member 7
+K17836	mobileOG_000367431	0.0064678576411481	pilT
+K17836	mobileOG_000777207	0.0061238546057558	XF_a0003
+K17836	K00627	0.006080931852149	DLAT, aceF, pdhC; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]
+K17836	K04063	0.0060525592691205	osmC, ohr; lipoyl-dependent peroxiredoxin [EC:1.11.1.28]
+K17836	K22024	0.0058912334520841	pdxA2; 4-phospho-D-threonate 3-dehydrogenase / 4-phospho-D-erythronate 3-dehydrogenase [EC:1.1.1.408 1.1.1.409]
+K17836	K09810	0.0058183665240092	lolD; lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]
+K17836	K23537	0.005719774454203	nupA; general nucleoside transport system ATP-binding protein
+K17836	wastewater	0.00567616926226	
+K17836	K11068	0.0056226727698069	hlyIII; hemolysin III
+K17836	K05350	0.0056210173140169	bglB; beta-glucosidase [EC:3.2.1.21]
+K17836	K02000	0.0055654982780126	proV; glycine betaine/proline transport system ATP-binding protein [EC:7.6.2.9]
+K17836	K00259	0.0055244402302732	ald; alanine dehydrogenase [EC:1.4.1.1]
+K17836	K06885	0.0054972575837222	K06885; uncharacterized protein
+K17836	K00995	0.0054664092340204	pgsA, PGS1; CDP-diacylglycerol---glycerol-3-phosphate 3-phosphatidyltransferase [EC:2.7.8.5]
+K17836	mobileOG_000085353	0.0054647128203457	cca
+K17836	K16012	0.0054586876315552	cydC; ATP-binding cassette, subfamily C, bacterial CydC
+K17836	K11105	0.0054551328519714	cvrA, nhaP2; potassium/hydrogen antiporter
+K17836	K13747	0.0054405042157155	nspC; carboxynorspermidine decarboxylase [EC:4.1.1.96]
+K17836	K04084	0.0054206860907399	dsbD, dipZ; thioredoxin:protein disulfide reductase [EC:1.8.4.16]
+K17836	K00857	0.0053893436044731	tdk, TK; thymidine kinase [EC:2.7.1.21]
+K17836	freshwater	0.0053772929478996	
+K17836	K03665	0.005352708314529	hflX; GTPase
+K17836	K01661	0.0053504140197837	menB; naphthoate synthase [EC:4.1.3.36]
+K17836	K01907	0.0053375225516316	AACS, acsA; acetoacetyl-CoA synthetase [EC:6.2.1.16]
+K17836	K13888	0.0053225408241299	macA; membrane fusion protein, macrolide-specific efflux system
+K17836	K07173	0.0053015521907482	luxS; S-ribosylhomocysteine lyase [EC:4.4.1.21]
+K17836	K00123	0.0052438749862264	fdoG, fdhF, fdwA; formate dehydrogenase major subunit [EC:1.17.1.9]
+K17836	K01058	0.0052058161288861	pldA; phospholipase A1/A2 [EC:3.1.1.32 3.1.1.4]
+K17836	K00351	0.0051394717558299	nqrF; Na+-transporting NADH:ubiquinone oxidoreductase subunit F [EC:7.2.1.1]
+K17836	K15461	0.0051236111286452	mnmC; tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein [EC:2.1.1.61 1.5.-.-]
+K17836	mobileOG_000024559	0.0051163705342154	tag
+K17836	K03646	0.0051046033242501	tolA; colicin import membrane protein
+K17836	K00287	0.0050757468684778	DHFR, folA; dihydrofolate reductase [EC:1.5.1.3]
+K17836	K02613	0.0050730923219026	paaE; ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE
+K17836	K02426	0.0050659913081045	sufE; cysteine desulfuration protein SufE
+K17836	K21645	0.0050644554771552	hypT, qseD; LysR family transcriptional regulator, hypochlorite-specific transcription factor HypT
+K17836	mobileOG_000267561	0.0050386559536212	dpiA
+K17836	K19222	0.005035170913584	menI, DHNAT; 1,4-dihydroxy-2-naphthoyl-CoA hydrolase [EC:3.1.2.28]
+K17836	K00574	0.0050337553683519	cfa; cyclopropane-fatty-acyl-phospholipid synthase [EC:2.1.1.79]
+K17836	K19294	0.005033557496898	algI; alginate O-acetyltransferase complex protein AlgI
+K17836	K01066	0.0050243903615008	aes; acetyl esterase [EC:3.1.1.-]
+K17836	K01834	0.0050132359707733	PGAM, gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]
+K17836	K02017	0.0049939846633302	modC; molybdate transport system ATP-binding protein [EC:7.3.2.5]
+K17836	K14261	0.0049933611628985	alaC; alanine-synthesizing transaminase [EC:2.6.1.-]
+K17836	K02195	0.0049733975276093	ccmC; heme exporter protein C
+K17836	K00275	0.0049651565685722	pdxH, PNPO; pyridoxamine 5-phosphate oxidase [EC:1.4.3.5]

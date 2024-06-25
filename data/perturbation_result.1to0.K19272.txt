@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K19272	K00526	E1.17.4.1B, nrdB, nrdF; ribonucleoside-diphosphate reductase beta chain [EC:1.17.4.1]	0.7088735306862438	0.6730973455609452
+K19272	K02297	cyoA; cytochrome o ubiquinol oxidase subunit II [EC:7.1.1.3]	0.7088735306862438	0.6769560622111852
+K19272	K02298	cyoB; cytochrome o ubiquinol oxidase subunit I [EC:7.1.1.3]	0.7088735306862438	0.677583055388621
+K19272	K02300	cyoD; cytochrome o ubiquinol oxidase subunit IV	0.7088735306862438	0.6779822427134689
+K19272	K03387	ahpF; NADH-dependent peroxiredoxin subunit F [EC:1.8.1.-]	0.7088735306862438	0.6786979984311293
+K19272	K03426	E3.6.1.22, NUDT12, nudC; NAD+ diphosphatase [EC:3.6.1.22]	0.7088735306862438	0.6798357221016175
+K19272	K04762	hslR; ribosome-associated heat shock protein Hsp15	0.7088735306862438	0.6814156794166505
+K19272	K04761	oxyR; LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator	0.7088735306862438	0.6817756153408091
+K19272	K24119	ahpC; NADH-dependent peroxiredoxin subunit C [EC:1.11.1.26]	0.7088735306862438	0.6829319535248664
+K19272	K01126	E3.1.4.46, glpQ, ugpQ; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]	0.7088735306862438	0.6846250712451182
+K19272	K03185	ubiH; 2-octaprenyl-6-methoxyphenol hydroxylase [EC:1.14.13.-]	0.7088735306862438	0.6856119305352998
+K19272	K13821	putA; RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]	0.7088735306862438	0.6865335067091072
+K19272	K00956	cysN; sulfate adenylyltransferase subunit 1 [EC:2.7.7.4]	0.7088735306862438	0.6867343261269391
+K19272	K11939	rhtA; inner membrane transporter RhtA	0.7088735306862438	0.6873340599436205
+K19272	K07275	ompW; outer membrane protein	0.7088735306862438	0.6886541508551839
+K19272	K01070	frmB, ESD, fghA; S-formylglutathione hydrolase [EC:3.1.2.12]	0.7088735306862438	0.688976223332811
+K19272	K00528	fpr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]	0.7088735306862438	0.6898580177090335
+K19272	K01637	E4.1.3.1, aceA; isocitrate lyase [EC:4.1.3.1]	0.7088735306862438	0.6908429449059539
+K19272	K04046	yegD; hypothetical chaperone protein	0.7088735306862438	0.6908435482620149
+K19272	K03566	gcvA; LysR family transcriptional regulator, glycine cleavage system transcriptional activator	0.7088735306862438	0.6917469842272918
+K19272	K13051	ASRGL1, iaaA; L-asparaginase / beta-aspartyl-peptidase [EC:3.5.1.1 3.4.19.5]	0.7088735306862438	0.6919377542850543
+K19272	K01066	aes; acetyl esterase [EC:3.1.1.-]	0.7088735306862438	0.6923928238367683
+K19272	K02072	metI; D-methionine transport system permease protein	0.7088735306862438	0.6925888636689549
+K19272	K01439	dapE; succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]	0.7088735306862438	0.6936813078344324
+K19272	K21993	fdhC; formate transporter	0.7088735306862438	0.7457817310565514

@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18139	K03634	0.0086800234747921	lolA; outer membrane lipoprotein carrier protein
+K18139	mobileOG_000037882	0.0086491588507864	nusG
+K18139	K09772	0.0085979508532068	sepF; cell division inhibitor SepF
+K18139	K03770	0.0085332536113	ppiD; peptidyl-prolyl cis-trans isomerase D [EC:5.2.1.8]
+K18139	K03585	0.0085226409881773	acrA, mexA, adeI, smeD, mtrC, cmeA; membrane fusion protein, multidrug efflux system
+K18139	K01005	0.0085034850144225	tagT_U_V; polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase [EC:2.7.8.-]
+K18139	K03561	0.0083793013568724	exbB; biopolymer transport protein ExbB
+K18139	K03092	0.0081738560281526	rpoN; RNA polymerase sigma-54 factor
+K18139	K03269	0.0081203370844643	lpxH; UDP-2,3-diacylglucosamine hydrolase [EC:3.6.1.54]
+K18139	K01423	0.0079805210631545	bepA; beta-barrel assembly-enhancing protease [EC:3.4.-.-]
+K18139	K09762	0.0079442474961365	K09762; uncharacterized protein
+K18139	K09808	0.0078584394496306	lolC_E; lipoprotein-releasing system permease protein
+K18139	K01690	0.0078173591362108	edd; phosphogluconate dehydratase [EC:4.2.1.12]
+K18139	K00573	0.0077291135452598	E2.1.1.77, pcm; protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]
+K18139	K00912	0.0076839503829673	lpxK; tetraacyldisaccharide 4-kinase [EC:2.7.1.130]
+K18139	K00677	0.0075946520464107	lpxA; UDP-N-acetylglucosamine acyltransferase [EC:2.3.1.129]
+K18139	K04744	0.0075807850935232	lptD, imp, ostA; LPS-assembly protein
+K18139	K03559	0.007576228260252	exbD; biopolymer transport protein ExbD
+K18139	mobileOG_000331108	0.0075729280670404	ssb
+K18139	mobileOG_000301711	0.0075699740050174	fhuE
+K18139	K02527	0.0075607485172052	kdtA, waaA; 3-deoxy-D-manno-octulosonic-acid transferase [EC:2.4.99.12 2.4.99.13 2.4.99.14 2.4.99.15]
+K18139	K03641	0.0075400780141	tolB; TolB protein
+K18139	K02523	0.0074798343651578	ispB; octaprenyl-diphosphate synthase [EC:2.5.1.90]
+K18139	K00979	0.0074725161070905	kdsB; 3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) [EC:2.7.7.38]
+K18139	K07030	0.007393088901679	K07030; uncharacterized protein
+K18139	K09774	0.0073708117118203	lptA; lipopolysaccharide export system protein LptA
+K18139	K16785	0.0073474954854921	ecfT; energy-coupling factor transport system permease protein
+K18139	mobileOG_000330441	0.0073405020934989	polA
+K18139	K06861	0.0072997795770767	lptB; lipopolysaccharide export system ATP-binding protein [EC:3.6.3.-]
+K18139	K02065	0.007275153370798	mlaF, linL, mkl; phospholipid/cholesterol/gamma-HCH transport system ATP-binding protein
+K18139	mobileOG_000288240	0.0071385639477278	bamA
+K18139	K00097	0.0071292314599326	pdxA; 4-hydroxythreonine-4-phosphate dehydrogenase [EC:1.1.1.262]
+K18139	K08307	0.0070647707357539	mltD, dniR; membrane-bound lytic murein transglycosylase D [EC:4.2.2.-]
+K18139	K02394	0.0070411050748073	flgI; flagellar P-ring protein precursor FlgI
+K18139	K00647	0.0070257744627095	fabB; 3-oxoacyl-[acyl-carrier-protein] synthase I [EC:2.3.1.41]
+K18139	K00748	0.0069825958381133	lpxB; lipid-A-disaccharide synthase [EC:2.4.1.182]
+K18139	K16787	0.0069753003641347	ecfA2; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]
+K18139	K00407	0.00697008269876	ccoQ; cytochrome c oxidase cbb3-type subunit IV
+K18139	K06041	0.0069674494978368	kdsD, kpsF; arabinose-5-phosphate isomerase [EC:5.3.1.13]
+K18139	K03071	0.0069279741049933	secB; preprotein translocase subunit SecB
+K18139	K06960	0.0069165241865251	K06960; uncharacterized protein
+K18139	K03978	0.0069154393230865	engB; GTP-binding protein
+K18139	K02517	0.0069152634330381	lpxL, htrB; Kdo2-lipid IVA lauroyltransferase/acyltransferase [EC:2.3.1.241 2.3.1.-]
+K18139	mobileOG_000161370	0.0068962878137058	ratA
+K18139	K06195	0.0068741031112712	apaG; ApaG protein
+K18139	K09810	0.0068685042324073	lolD; lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]
+K18139	K00411	0.0068637181985895	UQCRFS1, RIP1, petA; ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:7.1.1.8]
+K18139	mobileOG_000778060	0.0068548100513343	parC
+K18139	K06346	0.0068473574666907	jag; spoIIIJ-associated protein
+K18139	K03474	0.0068387385306331	pdxJ; pyridoxine 5-phosphate synthase [EC:2.6.99.2]

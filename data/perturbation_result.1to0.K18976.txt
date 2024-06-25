@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18976	K00362	nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]	9.997263070448568e-05	0.0005993767945067
+K18976	K00337	nuoH; NADH-quinone oxidoreductase subunit H [EC:7.1.1.2]	9.997263070448568e-05	0.0005995355814157
+K18976	K01681	ACO, acnA; aconitate hydratase [EC:4.2.1.3]	9.997263070448568e-05	0.0006995929468368
+K18976	K03274	gmhD, rfaD; ADP-L-glycero-D-manno-heptose 6-epimerase [EC:5.1.3.20]	9.997263070448568e-05	0.0006996017065005
+K18976	K08483	ptsI; phosphoenolpyruvate-protein phosphotransferase (PTS system enzyme I) [EC:2.7.3.9]	9.997263070448568e-05	0.0006996058544117
+K18976	K03809	wrbA; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	9.997263070448568e-05	0.0007994744577491
+K18976	K07160	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]	9.997263070448568e-05	0.000799553297866
+K18976	K02071	metN; D-methionine transport system ATP-binding protein	9.997263070448568e-05	0.0007995731406425
+K18976	K00882	fruK; 1-phosphofructokinase [EC:2.7.1.56]	9.997263070448568e-05	0.0007997103165449
+K18976	K08304	mltA; membrane-bound lytic murein transglycosylase A [EC:4.2.2.-]	9.997263070448568e-05	0.0008992059541287
+K18976	K11896	impG, vasA; type VI secretion system protein ImpG	9.997263070448568e-05	0.0008993269419959
+K18976	K00340	nuoK; NADH-quinone oxidoreductase subunit K [EC:7.1.1.2]	9.997263070448568e-05	0.0008994680793916
+K18976	K00528	fpr; ferredoxin/flavodoxin---NADP+ reductase [EC:1.18.1.2 1.19.1.1]	9.997263070448568e-05	0.0008997985087671
+K18976	K01997	livH; branched-chain amino acid transport system permease protein	9.997263070448568e-05	0.0009992841814825
+K18976	K01679	E4.2.1.2B, fumC, FH; fumarate hydratase, class II [EC:4.2.1.2]	9.997263070448568e-05	0.0009993403596565
+K18976	K00334	nuoE; NADH-quinone oxidoreductase subunit E [EC:7.1.1.2]	9.997263070448568e-05	0.0010993097066906
+K18976	K00330	nuoA; NADH-quinone oxidoreductase subunit A [EC:7.1.1.2]	9.997263070448568e-05	0.0011988670961583
+K18976	K00341	nuoL; NADH-quinone oxidoreductase subunit L [EC:7.1.1.2]	9.997263070448568e-05	0.0011992833030742
+K18976	K00285	dadA; D-amino-acid dehydrogenase [EC:1.4.5.1]	9.997263070448568e-05	0.0011994749039279
+K18976	K02072	metI; D-methionine transport system permease protein	9.997263070448568e-05	0.0012993587295849
+K18976	K02073	metQ; D-methionine transport system substrate-binding protein	9.997263070448568e-05	0.0012993808737063
+K18976	K19745	acuI; acrylyl-CoA reductase (NADPH) [EC:1.3.1.-]	9.997263070448568e-05	0.0012996852766048
+K18976	K02564	nagB, GNPDA; glucosamine-6-phosphate deaminase [EC:3.5.99.6]	9.997263070448568e-05	0.0013989306640344
+K18976	K01962	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2 2.1.3.15]	9.997263070448568e-05	0.0048984866759515
+K18976	K01963	accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2 2.1.3.15]	9.997263070448568e-05	0.0061976716871853

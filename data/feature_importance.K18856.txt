@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18856	mobileOG_000000370	0.008673398099544	dnaE2
+K18856	K08997	0.0082257025017862	SELENOO, selO; serine/tyrosine/threonine adenylyltransferase [EC:2.7.7.-]
+K18856	K07160	0.0081485390117339	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18856	K02026	0.0081058908341139	ABC.MS.P1; multiple sugar transport system permease protein
+K18856	K00568	0.0080524458655431	ubiG; 2-polyprenyl-6-hydroxyphenyl methylase / 3-demethylubiquinone-9 3-methyltransferase [EC:2.1.1.222 2.1.1.64]
+K18856	K03767	0.0079806905986674	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18856	K00703	0.0078636306766058	glgA; starch synthase [EC:2.4.1.21]
+K18856	K03313	0.0078490649531179	nhaA; Na+:H+ antiporter, NhaA family
+K18856	K01886	0.007838400054743	QARS, glnS; glutaminyl-tRNA synthetase [EC:6.1.1.18]
+K18856	K00362	0.0077460505724608	nirB; nitrite reductase (NADH) large subunit [EC:1.7.1.15]
+K18856	K06872	0.0077276439857401	K06872; uncharacterized protein
+K18856	K02406	0.0077224533223498	fliC; flagellin
+K18856	K00865	0.007703946816438	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K18856	K02071	0.0076901920399927	metN; D-methionine transport system ATP-binding protein
+K18856	K02575	0.0076642112116217	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18856	K02401	0.0076500161319539	flhB; flagellar biosynthetic protein FlhB
+K18856	K00457	0.0076422331778349	HPD, hppD; 4-hydroxyphenylpyruvate dioxygenase [EC:1.13.11.27]
+K18856	K04758	0.0076418301025643	feoA; ferrous iron transport protein A
+K18856	K03724	0.0076111238064464	lhr; ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]
+K18856	K00027	0.0075469352026958	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]
+K18856	K07124	0.0074813798431786	K07124; uncharacterized protein
+K18856	K01809	0.0074718845238985	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18856	K22479	0.0074213994459968	argA; N-acetyltransferase
+K18856	K01480	0.0073923362642186	speB; agmatinase [EC:3.5.3.11]
+K18856	K06975	0.0073480305768424	K06975; uncharacterized protein
+K18856	K03651	0.0072396768609122	cpdA; 3,5-cyclic-AMP phosphodiesterase [EC:3.1.4.53]
+K18856	K00363	0.0072274885738017	nirD; nitrite reductase (NADH) small subunit [EC:1.7.1.15]
+K18856	K07010	0.0071982008228752	K07010; putative glutamine amidotransferase
+K18856	K02420	0.0071768687098158	fliQ; flagellar biosynthetic protein FliQ
+K18856	K11069	0.0071672941471515	potD; spermidine/putrescine transport system substrate-binding protein
+K18856	mobileOG_000031464	0.0071361556304135	mutT
+K18856	K01912	0.0070441247606547	paaK; phenylacetate-CoA ligase [EC:6.2.1.30]
+K18856	K11263	0.0070053174313285	bccA, pccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]
+K18856	K07507	0.0069613619106349	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18856	K01821	0.0068754873745144	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18856	K09768	0.0068619881350249	K09768; uncharacterized protein
+K18856	K15460	0.0067893218414053	yfiC, trmX; tRNA1Val (adenine37-N6)-methyltransferase [EC:2.1.1.223]
+K18856	K06143	0.0067536250730568	creD; inner membrane protein
+K18856	K13015	0.0065966966165903	wbpA; UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]
+K18856	mobileOG_000327567	0.0065618736141526	mutM
+K18856	K13653	0.0065606612802561	K13653; AraC family transcriptional regulator
+K18856	K14987	0.0065299887757829	fixJ; two-component system, LuxR family, response regulator FixJ
+K18856	insect	0.006524889474348	
+K18856	K00154	0.0065149726352614	E1.2.1.68; coniferyl-aldehyde dehydrogenase [EC:1.2.1.68]
+K18856	K08676	0.0064934241249714	tri; tricorn protease [EC:3.4.21.-]
+K18856	K20509	0.0064890413276434	madB, oadB, gcdB, mmdB; carboxybiotin decarboxylase [EC:7.2.4.1]
+K18856	K17317	0.0064822123570906	gtsC, glcG; glucose/mannose transport system permease protein
+K18856	mobileOG_000354553	0.0064799557241477	xerC
+K18856	K01466	0.0064798392046444	allB; allantoinase [EC:3.5.2.5]
+K18856	K07095	0.0064782927829303	K07095; uncharacterized protein

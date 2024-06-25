@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18552	K11209	yghU, yfcG; GSH-dependent disulfide-bond oxidoreductase [EC:1.8.4.-]	0.7862907183053092	0.7299258825111387
+K18552	K00425	cydA; cytochrome bd ubiquinol oxidase subunit I [EC:7.1.1.7]	0.7862907183053092	0.7361420989841762
+K18552	K07278	tamA; translocation and assembly module TamA	0.7862907183053092	0.7388763053416408
+K18552	K09800	tamB; translocation and assembly module TamB	0.7862907183053092	0.7404771586053224
+K18552	K07552	bcr, tcaB; MFS transporter, DHA1 family, multidrug resistance protein	0.7862907183053092	0.743749873902363
+K18552	K13821	putA; RHH-type transcriptional regulator, proline utilization regulon repressor / proline dehydrogenase / delta 1-pyrroline-5-carboxylate dehydrogenase [EC:1.5.5.2 1.2.1.88]	0.7862907183053092	0.7451348988432421
+K18552	K06916	zapE; cell division protein ZapE	0.7862907183053092	0.7475903349340167
+K18552	K00121	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	0.7862907183053092	0.7515383628469138
+K18552	K01070	frmB, ESD, fghA; S-formylglutathione hydrolase [EC:3.1.2.12]	0.7862907183053092	0.7537324411901796
+K18552	K09159	cptB; antitoxin CptB	0.7862907183053092	0.7578995825604876
+K18552	mobileOG_000778060	parC	0.7862907183053092	0.7607245551602574
+K18552	K02427	rlmE, rrmJ, ftsJ; 23S rRNA (uridine2552-2-O)-methyltransferase [EC:2.1.1.166]	0.7862907183053092	0.761188025754939
+K18552	K03566	gcvA; LysR family transcriptional regulator, glycine cleavage system transcriptional activator	0.7862907183053092	0.7616831061509342
+K18552	K03562	tolQ; biopolymer transport protein TolQ	0.7862907183053092	0.7621064800229697
+K18552	K03640	pal; peptidoglycan-associated lipoprotein	0.7862907183053092	0.7633285676181617
+K18552	K16087	TC.FEV.OM3, tbpA, hemR, lbpA, hpuB, bhuR, hugA, hmbR; hemoglobin/transferrin/lactoferrin receptor protein	0.7862907183053092	0.7641119422165138
+K18552	mobileOG_000351769	uvrC	0.7862907183053092	0.7643362371721807
+K18552	mobileOG_000116025	dut	0.7862907183053092	0.7646270430580144
+K18552	mobileOG_000021898	clpA	0.7862907183053092	0.7651195751167013
+K18552	K06194	nlpD; lipoprotein NlpD	0.7862907183053092	0.7657721611035541
+K18552	K00626	ACAT, atoB; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	0.7862907183053092	0.765824557575513
+K18552	K12262	cybB; superoxide oxidase [EC:1.10.3.17]	0.7862907183053092	0.7658406396215918
+K18552	mobileOG_000327567	mutM	0.7862907183053092	0.7663964780397108
+K18552	K06179	rluC; 23S rRNA pseudouridine955/2504/2580 synthase [EC:5.4.99.24]	0.7862907183053092	0.7667669306865862
+K18552	K03071	secB; preprotein translocase subunit SecB	0.7862907183053092	0.7673951253415485

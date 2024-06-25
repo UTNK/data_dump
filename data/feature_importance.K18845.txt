@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K18845	K01760	0.0087673585619456	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K18845	K01512	0.0084454169570695	acyP; acylphosphatase [EC:3.6.1.7]
+K18845	K02401	0.0082497598755649	flhB; flagellar biosynthetic protein FlhB
+K18845	K02011	0.0080947757729945	afuB, fbpB; iron(III) transport system permease protein
+K18845	K03594	0.0079932187571308	bfr; bacterioferritin [EC:1.16.3.1]
+K18845	K03767	0.0079841408820297	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K18845	K02421	0.0079326669112697	fliR; flagellar biosynthetic protein FliR
+K18845	K07124	0.007909788504106	K07124; uncharacterized protein
+K18845	K01480	0.0078674516490886	speB; agmatinase [EC:3.5.3.11]
+K18845	K01809	0.0078099177848597	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K18845	K11070	0.0077320679612052	potC; spermidine/putrescine transport system permease protein
+K18845	K00375	0.0076935566848546	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K18845	K07160	0.0075317632118835	pxpA; 5-oxoprolinase (ATP-hydrolysing) subunit A [EC:3.5.2.9]
+K18845	K10439	0.0074325498588431	rbsB; ribose transport system substrate-binding protein
+K18845	K06996	0.0073863488653185	K06996; uncharacterized protein
+K18845	K02575	0.0072989343836039	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K18845	mobileOG_000031464	0.0072419315837866	mutT
+K18845	K07507	0.0072342819135698	mgtC; putative Mg2+ transporter-C (MgtC) family protein
+K18845	K06872	0.0072241591415079	K06872; uncharacterized protein
+K18845	K08997	0.0071007726080853	SELENOO, selO; serine/tyrosine/threonine adenylyltransferase [EC:2.7.7.-]
+K18845	K07232	0.0070983823944742	CHAC, chaC; glutathione-specific gamma-glutamylcyclotransferase [EC:4.3.2.7]
+K18845	K05973	0.0070382602474203	phaZ; poly(3-hydroxybutyrate) depolymerase [EC:3.1.1.75]
+K18845	K23886	0.0070262903394635	CISD3; CDGSH iron-sulfur domain-containing protein 3
+K18845	K18981	0.0070063069851007	udh; uronate dehydrogenase [EC:1.1.1.203]
+K18845	K03192	0.0068656744689907	ureJ; urease accessory protein
+K18845	biofilm	0.0068595679200759	
+K18845	K15578	0.0068503072571115	nrtC, nasD; nitrate/nitrite transport system ATP-binding protein [EC:3.6.3.-]
+K18845	K01821	0.0067939724639312	praC, xylH; 4-oxalocrotonate tautomerase [EC:5.3.2.6]
+K18845	K02666	0.0067695062509414	pilQ; type IV pilus assembly protein PilQ
+K18845	K00424	0.0067314577884056	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K18845	K08225	0.0067033341514554	entS; MFS transporter, ENTS family, enterobactin (siderophore) exporter
+K18845	K07116	0.0066680204261919	pvdQ, quiP; acyl-homoserine-lactone acylase [EC:3.5.1.97]
+K18845	K07646	0.0066654771353455	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]
+K18845	K10227	0.0066501286941993	smoE, mtlE; sorbitol/mannitol transport system substrate-binding protein
+K18845	K07101	0.0066495862272124	K07101; uncharacterized protein
+K18845	K09001	0.0066410551603229	anmK; anhydro-N-acetylmuramic acid kinase [EC:2.7.1.170]
+K18845	K15532	0.0066205597886298	yteR, yesR; unsaturated rhamnogalacturonyl hydrolase [EC:3.2.1.172]
+K18845	K00266	0.0066142236513824	gltD; glutamate synthase (NADPH) small chain [EC:1.4.1.13]
+K18845	K21401	0.0066095399426145	menJ; menaquinone-9 beta-reductase [EC:1.3.99.38]
+K18845	K18218	0.0065923445019997	tet35; tetracycline resistance efflux pump
+K18845	K11689	0.006589461226768	dctQ; C4-dicarboxylate transporter, DctQ subunit
+K18845	K11075	0.0065836790321597	potH; putrescine transport system permease protein
+K18845	K10206	0.006571006732616	E2.6.1.83; LL-diaminopimelate aminotransferase [EC:2.6.1.83]
+K18845	K07010	0.0065605170573985	K07010; putative glutamine amidotransferase
+K18845	K07077	0.0065303134567618	K07077; uncharacterized protein
+K18845	mobileOG_000025524	0.0065144675972419	holB
+K18845	K03325	0.0065126018575667	ACR3, arsB; arsenite transporter
+K18845	K13693	0.0065086432104394	gpgS; glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]
+K18845	mobileOG_000134996	0.0064976123493545	mazF
+K18845	K06134	0.0064849009339229	COQ7; 3-demethoxyubiquinol 3-hydroxylase [EC:1.14.99.60]

@@ -1,0 +1,26 @@
+KO	feature	name	probability_default	probability
+K18304	K06878	K06878; tRNA-binding protein	0.3991731092033974	0.3704306441975329
+K18304	K18218	tet35; tetracycline resistance efflux pump	0.3991731092033974	0.3779668333765913
+K18304	mobileOG_000326260	ligD	0.3991731092033974	0.3783380823306625
+K18304	K03315	nhaC; Na+:H+ antiporter, NhaC family	0.3991731092033974	0.3812441921555086
+K18304	mobileOG_000324845	rnr	0.3991731092033974	0.3920762087237322
+K18304	K00174	korA, oorA, oforA; 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3 1.2.7.11]	0.3991731092033974	0.3928556422929197
+K18304	K06877	K06877; DEAD/DEAH box helicase domain-containing protein	0.3991731092033974	0.3932504847028742
+K18304	mobileOG_000308488	sbcD	0.3991731092033974	0.3934296201813742
+K18304	K13020	wlbA, bplA; UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase [EC:1.1.1.335]	0.3991731092033974	0.3940459225251426
+K18304	biofilm		0.3991731092033974	0.3944276091616414
+K18304	K03520	coxL, cutL; aerobic carbon-monoxide dehydrogenase large subunit [EC:1.2.5.3]	0.3991731092033974	0.394702906779847
+K18304	K07010	K07010; putative glutamine amidotransferase	0.3991731092033974	0.4042130797991601
+K18304	K03306	TC.PIT; inorganic phosphate transporter, PiT family	0.3991731092033974	0.4044694902607471
+K18304	K06137	pqqC; pyrroloquinoline-quinone synthase [EC:1.3.3.11]	0.3991731092033974	0.4044832251179113
+K18304	K07302	iorA; isoquinoline 1-oxidoreductase subunit alpha [EC:1.3.99.16]	0.3991731092033974	0.4052351131087359
+K18304	K21405	acoR; sigma-54 dependent transcriptional regulator, acetoin dehydrogenase operon transcriptional activator AcoR	0.3991731092033974	0.4073353735917356
+K18304	K15576	nrtA, nasF, cynA; nitrate/nitrite transport system substrate-binding protein	0.3991731092033974	0.4084405082066469
+K18304	K11959	urtA; urea transport system substrate-binding protein	0.3991731092033974	0.4158145080879074
+K18304	K11960	urtB; urea transport system permease protein	0.3991731092033974	0.4174677263197569
+K18304	K11961	urtC; urea transport system permease protein	0.3991731092033974	0.4193614539389781
+K18304	K11962	urtD; urea transport system ATP-binding protein	0.3991731092033974	0.4196748771727189
+K18304	K13481	xdhA; xanthine dehydrogenase small subunit [EC:1.17.1.4]	0.3991731092033974	0.4274242206656491
+K18304	K13482	xdhB; xanthine dehydrogenase large subunit [EC:1.17.1.4]	0.3991731092033974	0.4291437008905385
+K18304	K11963	urtE; urea transport system ATP-binding protein	0.3991731092033974	0.4435049487486642
+K18304	K09919	K09919; uncharacterized protein	0.3991731092033974	0.4454502981026941

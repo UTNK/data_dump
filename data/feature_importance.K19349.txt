@@ -1,0 +1,51 @@
+KO	feature	MI	name
+K19349	K01760	0.0089566375736731	metC; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]
+K19349	K02406	0.0082533894465858	fliC; flagellin
+K19349	K01975	0.0080438905763305	thpR; RNA 2,3-cyclic 3-phosphodiesterase [EC:3.1.4.58]
+K19349	K01512	0.0080435541885526	acyP; acylphosphatase [EC:3.6.1.7]
+K19349	K00375	0.0079736540378255	K00375; GntR family transcriptional regulator / MocR family aminotransferase
+K19349	K02071	0.0078848896382672	metN; D-methionine transport system ATP-binding protein
+K19349	K02026	0.0078441610347713	ABC.MS.P1; multiple sugar transport system permease protein
+K19349	K03594	0.0078343565534475	bfr; bacterioferritin [EC:1.16.3.1]
+K19349	K03767	0.0078093201012418	PPIA; peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]
+K19349	K01809	0.0077943252573039	manA, MPI; mannose-6-phosphate isomerase [EC:5.3.1.8]
+K19349	K01919	0.0076469868515054	gshA; glutamate--cysteine ligase [EC:6.3.2.2]
+K19349	K00865	0.0075974391781957	glxK, garK; glycerate 2-kinase [EC:2.7.1.165]
+K19349	K00652	0.0075531302051476	bioF; 8-amino-7-oxononanoate synthase [EC:2.3.1.47]
+K19349	K01610	0.0075262017039541	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]
+K19349	K14393	0.007476842185271	actP; cation/acetate symporter
+K19349	K07124	0.0074670908589339	K07124; uncharacterized protein
+K19349	K00705	0.0074535436757855	malQ; 4-alpha-glucanotransferase [EC:2.4.1.25]
+K19349	K10439	0.0074509303515385	rbsB; ribose transport system substrate-binding protein
+K19349	K02420	0.0073066290004607	fliQ; flagellar biosynthetic protein FliQ
+K19349	K02039	0.0072898394041922	phoU; phosphate transport system protein
+K19349	K01480	0.0072662251337184	speB; agmatinase [EC:3.5.3.11]
+K19349	K07010	0.0072413839694325	K07010; putative glutamine amidotransferase
+K19349	K06996	0.0071918638150284	K06996; uncharacterized protein
+K19349	K03412	0.0071501355987335	cheB; two-component system, chemotaxis family, protein-glutamate methylesterase/glutaminase [EC:3.1.1.61 3.5.1.44]
+K19349	K11689	0.0070892976125981	dctQ; C4-dicarboxylate transporter, DctQ subunit
+K19349	K20938	0.0070235462055178	ladA; long-chain alkane monooxygenase [EC:1.14.14.28]
+K19349	K11076	0.0069840953612697	potG; putrescine transport system ATP-binding protein
+K19349	K02073	0.0069775202205617	metQ; D-methionine transport system substrate-binding protein
+K19349	K19267	0.0069385431158208	qorB; NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]
+K19349	K06949	0.0069380693763136	rsgA, engC; ribosome biogenesis GTPase / thiamine phosphate phosphatase [EC:3.6.1.- 3.1.3.100]
+K19349	K17230	0.0069282066652517	fccA; cytochrome subunit of sulfide dehydrogenase
+K19349	K06136	0.0069150563838358	pqqB; pyrroloquinoline quinone biosynthesis protein B
+K19349	K09915	0.0069013754275144	K09915; uncharacterized protein
+K19349	K03325	0.0068854682506496	ACR3, arsB; arsenite transporter
+K19349	K02197	0.0068525925471094	ccmE; cytochrome c-type biogenesis protein CcmE
+K19349	K03773	0.0068098541325075	fklB; FKBP-type peptidyl-prolyl cis-trans isomerase FklB [EC:5.2.1.8]
+K19349	K03783	0.0067999914214456	punA, PNP; purine-nucleoside phosphorylase [EC:2.4.2.1]
+K19349	K02011	0.0067917234345208	afuB, fbpB; iron(III) transport system permease protein
+K19349	K07708	0.0067901287103833	glnL, ntrB; two-component system, NtrC family, nitrogen regulation sensor histidine kinase GlnL [EC:2.7.13.3]
+K19349	K02300	0.0067769784289674	cyoD; cytochrome o ubiquinol oxidase subunit IV
+K19349	K00937	0.0067746398842243	ppk; polyphosphate kinase [EC:2.7.4.1]
+K19349	K11895	0.0067704032882593	impH, vasB; type VI secretion system protein ImpH
+K19349	K02575	0.0067593663820617	NRT, narK, nrtP, nasA; MFS transporter, NNP family, nitrate/nitrite transporter
+K19349	K00424	0.0067309524440114	cydX; cytochrome bd-I ubiquinol oxidase subunit X [EC:7.1.1.7]
+K19349	K12506	0.0067276648736573	ispDF; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase / 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase [EC:2.7.7.60 4.6.1.12]
+K19349	K09972	0.0067234931468438	aapP, bztD; general L-amino acid transport system ATP-binding protein [EC:7.4.2.1]
+K19349	K08682	0.0067145145922412	acpH; acyl carrier protein phosphodiesterase [EC:3.1.4.14]
+K19349	K07742	0.0067112270218874	ylxR; uncharacterized protein
+K19349	K02225	0.0067112270218874	cobC1, cobC; cobalamin biosynthetic protein CobC
+K19349	K00121	0.0067112270218874	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]
